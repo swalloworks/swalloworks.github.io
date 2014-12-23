@@ -12,97 +12,96 @@
 	<!-- Optional theme -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css">
 	<style>
-.big-btn{
-padding: 10px 0px 11px 0px;
-width: 215px;
-margin-top:5px;
-}
+		.vcenter {
+		    display: inline-block;
+		    vertical-align: middle;
+		    float: none;
+		}
+		.big-btn{
+			padding: 10px 0px 11px 0px;
+			width: 215px;
+			margin-top:5px;
+		}
 
-.big-btn i{
-font-size: 40px;
-margin-right: 0px !important;
-}
-.big-btn strong{
-font-size: 25px;
-text-shadow: 1px 2px 0px #34659B;
-color: #fff;
-line-height: 24px;
-}
-.big-btn .btn-text{
-margin-top:6px;
-}
+		.big-btn i{
+			font-size: 40px;
+			margin-right: -20px !important;
+		}
+		.big-btn strong{
+			font-size: 25px;
+			text-shadow: 1px 2px 0px #34659B;
+			color: #fff;
+			line-height: 24px;
+		}
+		.big-btn .btn-text{
+			margin-top:8px;
+		}
 
-.big-btn small{font-size: 75%;}
+		.big-btn small{font-size: 75%;}
 
-.android-btn{
+		/* Sticky footer styles
+		-------------------------------------------------- */
+		html {
+		  position: relative;
+		  min-height: 100%;
+		}
+		body {
+		  /* Margin bottom by footer height */
+		  margin-bottom: 60px;
+		  margin-top:20px;
+		}
+		.footer {
+		  position: absolute;
+		  bottom: 0;
+		  width: 100%;
+		  /* Set the fixed height of the footer here */
+		  height: 60px;
+		  background-color: #f5f5f5;
+		}
 
-width: 240px;
-padding: 13px 17px 13px 0px;
-background-color: #000;
-border-color: #000;
 
-}
-.android-btn:hover{
-background-color: #272727;
-}
+		/* Custom page CSS
+		-------------------------------------------------- */
+		/* Not required for template or sticky footer method. */
 
-.android-btn i{
-font-size: 55px;
-}
-
-.android-btn .btn-text{
-margin-top: 0px;
-}
-
-.android-btn strong{
-font-size: 25px;
-text-shadow: none;
-color: #fff;
-line-height: 24px;
-}
-
-.windows-btn{
-background-color:#008A00;
-width: 235px;
-padding: 13px 5px 13px 10px;
-border-color: #055805;
-}
-
-.windows-btn:hover{
-background-color: #008A00;
-}
-.windows-btn .btn-text{
-text-shadow: none;
-font-size: 26px;
-line-height: 25px;
-}
-
+		.container {
+		  width: auto;
+		  max-width: 680px;
+		  padding: 0 15px;
+		}
+		.container .text-muted {
+		  margin: 20px 0;
+		}		
 	</style>
   </head>
   <body>
-
-
     <div class="container">
-		<div class="media" style="margin-top:30px;">
-		    <span class="media-left">
-		        <img src="Icon-72.png" alt="...">
-		    </span>
-		    <div class="media-body" style="height:72px;">
-		        <h3 class="media-heading">天天记帐,让记账成为习惯</h3>
-		        <p>Copyright (c) 2014 Swallowoks Studio. All rights reserved.</p>
+
+		<div class="row">
+			<div class="col-xs-10">
+			<div class="pull-left">
+		        <img src="Icon-72.png" height="72px" width="72px">
 		    </div>
+
+		    <div style="position:relative;margin-top:15px;font-size:16px;">&nbsp;天天记帐<br>&nbsp;让记账成为习惯</div>
+		    </div>
+
 		</div>
 
 		<div class="row" style="margin-top:30px;">
-			<div class="col-md-8">
-			   <!-- apple store button -->
-			        <a class="btn btn-lg btn-primary big-btn" href="itms-apps://itunes.apple.com/app/id552035781">
-						<i class="glyphicon glyphicon-phone pull-left"></i>
-						<div class="btn-text">App Store下载</div>
-					</a>
+			<div class="col-xs-11">
+	        <a class="btn btn-lg btn-primary big-btn" href="itms-apps://itunes.apple.com/app/id552035781">
+				<i class="glyphicon glyphicon-phone pull-left"></i>
+				<div class="btn-text">App Store下载</div>
+			</a>
 			</div>
 		</div>
 	</div>
 
+    <footer class="footer">
+      <div class="container">
+        <p class="text-muted">Copyright (c) 2014 Swallowoks Studio.</p>
+      </div>
+    </footer>
   </body>
 </html>
