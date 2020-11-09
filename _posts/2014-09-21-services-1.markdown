@@ -1,8 +1,8 @@
 ---
 layout: default
-img: simple.png
+img: calendar.png
 category: Services
-title: シンプルな画面構成<br>簡単に使える
+title: シンプルな画面構成<br>使いやすい
 description: |
 ---
-  デザインと使いやすさを徹底的に追及し、誰でも直感で使えるように心がけております。	
+  デザインと使いやすさを徹底的に追及し、誰でも直感的な操作で使えるように心がけております。	
