@@ -1,8 +1,0 @@
----
-layout: default
-img: account.png
-category: Services
-title: 資産の一元管理
-description: |
----
-各口座の残高、お金の流れを明白に

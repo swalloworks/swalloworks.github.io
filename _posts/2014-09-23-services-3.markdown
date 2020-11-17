@@ -1,8 +1,0 @@
----
-layout: default
-img: budget.png
-category: Services
-title: 費目別予算管理
-description: |
----
-お金の無駄遣いを減らす。
