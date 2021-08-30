@@ -86,12 +86,23 @@
 <h3 id="-faq">■ FAQ</h3>
 
 <ol>
-  <li>Q: <strong>同期はいつされますか？同期されない場合はどうすればよいですか？</strong><br />
-A: 同期は基本的にリアルタイムで行われますが、アプリが長時間使われていなかったりする場合、同期に遅れが生じる可能性があります。この場合は、手動で同期することができます。
+  <li>
+    <h4 id="q-固定収支と固定振替が同期されないのはなぜですか">Q: <strong>固定収支と固定振替が同期されないのはなぜですか？</strong></h4>
+    <p>A: 固定収支は同期対象から除外しております。<br />
+ 同期対象に入れますと、各端末で1回ずつ生成されるため、重複してしまいます。</p>
+  </li>
+  <li>
+    <h4 id="q-クレジットカードの自動支払が同期されないのはなぜですか">Q: <strong>クレジットカードの自動支払が同期されないのはなぜですか？</strong></h4>
+    <p>A: クレジットカードの自動支払は同期対象から除外しております。<br />
+ 各端末で自動支払がONになっていると、支払のレコードは各端末で1回ずつ生成されるため、重複してしまいます。</p>
+  </li>
+  <li>
+    <h4 id="q-同期はいつされますか同期されない場合はどうすればよいですか">Q: <strong>同期はいつされますか？同期されない場合はどうすればよいですか？</strong></h4>
+    <p>A: 同期は基本的にリアルタイムで行われますが、アプリが長時間使われていなかったりする場合、同期に遅れが生じる可能性があります。この場合は、手動で同期することができます。</p>
     <ol>
       <li>
         <p>手動同期方法1<br />
- カレンダー画面で下に画面を引っ張ると、クラウドから当該帳簿の最新を取得できます。<br />
+ カレンダー画面を下へスクロールすると、クラウドから当該帳簿の最新を取得できます。<br />
  <img src="https://kakeibo-helper.oss-cn-hongkong.aliyuncs.com/cloudbook/jp-cloudbook6.PNG" alt="list" width="330" /></p>
       </li>
       <li>
@@ -105,9 +116,28 @@ A: 同期は基本的にリアルタイムで行われますが、アプリが�
       </li>
     </ol>
   </li>
-  <li>Q: <strong>クラウドにアップロードされていないレコードがローカルにあるかどうかを確認するにはどうすればいいですか？</strong>  <br />
-A: カレンダー画面から、「ローカルの未同期レコード」リストを開くことができます。 アップロードされていないレコードがある場合は、右上の「同期」ボタンをタップして、レコードをアップロードしてください。 <br />
-<img src="https://kakeibo-helper.oss-cn-hongkong.aliyuncs.com/cloudbook/jp-cloudbook8.PNG" alt="list" width="320" /></li>
+  <li>
+    <h4 id="q-クラウドにアップロードされていないレコードがローカルにあるかどうかを確認するにはどうすればいいですか">Q: <strong>クラウドにアップロードされていないレコードがローカルにあるかどうかを確認するにはどうすればいいですか？</strong></h4>
+    <p>A: カレンダー画面から、「ローカルの未同期レコード」リストを開くことができます。 アップロードされていないレコードがある場合は、右上の「同期」ボタンをタップして、レコードをアップロードしてください。 <br />
+<img src="https://kakeibo-helper.oss-cn-hongkong.aliyuncs.com/cloudbook/jp-cloudbook8.PNG" alt="list" width="320" /></p>
+  </li>
+  <li>
+    <h4 id="q-icloudクラウド帳簿は全く機能していません-どうすればいいですか">Q: <strong>iCloudクラウド帳簿は全く機能していません。 どうすればいいですか？</strong></h4>
+    <p>A: iCloud帳簿機能はお使いの端末の設定に依存します。<br />
+以下の設定をご確認ください。</p>
+    <ol>
+      <li><strong>iCloud管理画面に移動し、iCloud Driveと毎日家計簿がオンになっていることを確認します。</strong><br />
+ ※設定 &gt; [ユーザ名] &gt; iCloud<br />
+ <img src="https://kakeibo-helper.oss-cn-hongkong.aliyuncs.com/cloudbook/jp-cloudbook-drive-on.png" alt="list" width="320" /></li>
+      <li><strong>同じ画面で、iCloudのストレージ容量が十分かを確認します。</strong> <br />
+<img src="https://kakeibo-helper.oss-cn-hongkong.aliyuncs.com/cloudbook/jp-cloudbook-storage.png" alt="list" width="320" /></li>
+      <li><strong>１と２が特に問題なければ、iCloud(Apple ID)を一旦サインアウトして再ログインしてみてください。</strong> <br />
+ ※「設定」&gt;「[ユーザ名]」&gt;　下にスクロールして「サインアウト」をタップします。<br />
+ <img src="https://kakeibo-helper.oss-cn-hongkong.aliyuncs.com/cloudbook/jp-cloudbook-signout.png" alt="list" width="320" /></li>
+      <li><strong>再ログインしてもダメでしたら、 iPhoneを１回再起動してみてください。</strong></li>
+      <li><strong>再起動してもダメでしたら、 swalloworks@gmail.comまでご連絡ください。</strong></li>
+    </ol>
+  </li>
 </ol>
 
 
