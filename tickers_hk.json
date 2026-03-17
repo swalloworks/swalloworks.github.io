@@ -1,0 +1,12246 @@
+[
+  {
+    "ticker": "0001.HK",
+    "name": "CKH HOLDINGS"
+  },
+  {
+    "ticker": "0002.HK",
+    "name": "CLP HOLDINGS"
+  },
+  {
+    "ticker": "0003.HK",
+    "name": "HK & CHINA GAS"
+  },
+  {
+    "ticker": "0004.HK",
+    "name": "WHARF HOLDINGS"
+  },
+  {
+    "ticker": "0005.HK",
+    "name": "HSBC HOLDINGS"
+  },
+  {
+    "ticker": "0006.HK",
+    "name": "POWER ASSETS"
+  },
+  {
+    "ticker": "0007.HK",
+    "name": "WISDOM WEALTH"
+  },
+  {
+    "ticker": "0008.HK",
+    "name": "PCCW"
+  },
+  {
+    "ticker": "0010.HK",
+    "name": "HANG LUNG GROUP"
+  },
+  {
+    "ticker": "0012.HK",
+    "name": "HENDERSON LAND"
+  },
+  {
+    "ticker": "0013.HK",
+    "name": "HUTCHMED"
+  },
+  {
+    "ticker": "0014.HK",
+    "name": "HYSAN DEV"
+  },
+  {
+    "ticker": "0016.HK",
+    "name": "SHK PPT"
+  },
+  {
+    "ticker": "0017.HK",
+    "name": "NEW WORLD DEV"
+  },
+  {
+    "ticker": "0018.HK",
+    "name": "ORIENTAL M G"
+  },
+  {
+    "ticker": "0019.HK",
+    "name": "SWIRE PACIFIC A"
+  },
+  {
+    "ticker": "0020.HK",
+    "name": "SENSETIME-W"
+  },
+  {
+    "ticker": "0021.HK",
+    "name": "GREAT CHI HLDGS"
+  },
+  {
+    "ticker": "0022.HK",
+    "name": "MEXAN"
+  },
+  {
+    "ticker": "0023.HK",
+    "name": "BANK OF E ASIA"
+  },
+  {
+    "ticker": "0025.HK",
+    "name": "CHEVALIER INT'L"
+  },
+  {
+    "ticker": "0026.HK",
+    "name": "CHINA MOTOR BUS"
+  },
+  {
+    "ticker": "0027.HK",
+    "name": "GALAXY ENT"
+  },
+  {
+    "ticker": "0028.HK",
+    "name": "TIAN AN"
+  },
+  {
+    "ticker": "0029.HK",
+    "name": "DYNAMIC HOLD"
+  },
+  {
+    "ticker": "0030.HK",
+    "name": "YNBY INTL"
+  },
+  {
+    "ticker": "0031.HK",
+    "name": "CHINA AEROSPACE"
+  },
+  {
+    "ticker": "0032.HK",
+    "name": "CROSS-HAR(HOLD)"
+  },
+  {
+    "ticker": "0033.HK",
+    "name": "INTL GENIUS"
+  },
+  {
+    "ticker": "0034.HK",
+    "name": "KOWLOON DEV"
+  },
+  {
+    "ticker": "0035.HK",
+    "name": "FE CONSORT INTL"
+  },
+  {
+    "ticker": "0036.HK",
+    "name": "FE HLDGS INTL"
+  },
+  {
+    "ticker": "0037.HK",
+    "name": "FE HOTELS"
+  },
+  {
+    "ticker": "0038.HK",
+    "name": "FIRST TRACTOR"
+  },
+  {
+    "ticker": "0039.HK",
+    "name": "CH BEIDAHUANG"
+  },
+  {
+    "ticker": "0040.HK",
+    "name": "GOLD PEAK"
+  },
+  {
+    "ticker": "0041.HK",
+    "name": "GREAT EAGLE H"
+  },
+  {
+    "ticker": "0042.HK",
+    "name": "NE ELECTRIC"
+  },
+  {
+    "ticker": "0045.HK",
+    "name": "HK&S HOTELS"
+  },
+  {
+    "ticker": "0046.HK",
+    "name": "COMPUTER & TECH"
+  },
+  {
+    "ticker": "0048.HK",
+    "name": "C AUTO INT DECO"
+  },
+  {
+    "ticker": "0050.HK",
+    "name": "HK FERRY (HOLD)"
+  },
+  {
+    "ticker": "0051.HK",
+    "name": "HARBOUR CENTRE"
+  },
+  {
+    "ticker": "0052.HK",
+    "name": "FAIRWOOD HOLD"
+  },
+  {
+    "ticker": "0053.HK",
+    "name": "GUOCO GROUP"
+  },
+  {
+    "ticker": "0055.HK",
+    "name": "NEWAY GROUP"
+  },
+  {
+    "ticker": "0057.HK",
+    "name": "CHEN HSONG HOLD"
+  },
+  {
+    "ticker": "0058.HK",
+    "name": "SUNWAY INT'L"
+  },
+  {
+    "ticker": "0059.HK",
+    "name": "SKYFAME REALTY"
+  },
+  {
+    "ticker": "0060.HK",
+    "name": "HK FOOD INV"
+  },
+  {
+    "ticker": "0061.HK",
+    "name": "GREEN LEADER"
+  },
+  {
+    "ticker": "0062.HK",
+    "name": "TRANSPORT INT'L"
+  },
+  {
+    "ticker": "0063.HK",
+    "name": "CHI ASIA VALLEY"
+  },
+  {
+    "ticker": "0064.HK",
+    "name": "GET NICE"
+  },
+  {
+    "ticker": "0065.HK",
+    "name": "GRAND OCEAN AR"
+  },
+  {
+    "ticker": "0066.HK",
+    "name": "MTR CORPORATION"
+  },
+  {
+    "ticker": "0069.HK",
+    "name": "SHANGRI-LA ASIA"
+  },
+  {
+    "ticker": "0070.HK",
+    "name": "RICH GOLDMAN"
+  },
+  {
+    "ticker": "0071.HK",
+    "name": "MIRAMAR HOTEL"
+  },
+  {
+    "ticker": "0072.HK",
+    "name": "META MEDIA"
+  },
+  {
+    "ticker": "0073.HK",
+    "name": "ASIAN CITRUS"
+  },
+  {
+    "ticker": "0075.HK",
+    "name": "Y.T. REALTY"
+  },
+  {
+    "ticker": "0076.HK",
+    "name": "ELATE HOLDINGS"
+  },
+  {
+    "ticker": "0077.HK",
+    "name": "AMS TRANSPORT"
+  },
+  {
+    "ticker": "0078.HK",
+    "name": "REGAL INT'L"
+  },
+  {
+    "ticker": "0079.HK",
+    "name": "CENTURY LEGEND"
+  },
+  {
+    "ticker": "0080.HK",
+    "name": "CAI CORP"
+  },
+  {
+    "ticker": "0081.HK",
+    "name": "CH OVS G OCEANS"
+  },
+  {
+    "ticker": "0082.HK",
+    "name": "CRAZY SPORTS"
+  },
+  {
+    "ticker": "0083.HK",
+    "name": "SINO LAND"
+  },
+  {
+    "ticker": "0084.HK",
+    "name": "STELUX HOLDINGS"
+  },
+  {
+    "ticker": "0085.HK",
+    "name": "CE HUADA TECH"
+  },
+  {
+    "ticker": "0086.HK",
+    "name": "SUN HUNG KAI CO"
+  },
+  {
+    "ticker": "0087.HK",
+    "name": "SWIRE PACIFIC B"
+  },
+  {
+    "ticker": "0088.HK",
+    "name": "TAI CHEUNG HOLD"
+  },
+  {
+    "ticker": "0089.HK",
+    "name": "TAI SANG LAND"
+  },
+  {
+    "ticker": "0090.HK",
+    "name": "PUXING ENERGY"
+  },
+  {
+    "ticker": "0092.HK",
+    "name": "CHAMPION TECH"
+  },
+  {
+    "ticker": "0093.HK",
+    "name": "ZERO FINTECH"
+  },
+  {
+    "ticker": "0094.HK",
+    "name": "GREENHEART GP"
+  },
+  {
+    "ticker": "0095.HK",
+    "name": "LVGEM CHINA"
+  },
+  {
+    "ticker": "0096.HK",
+    "name": "YUSEI"
+  },
+  {
+    "ticker": "0097.HK",
+    "name": "HENDERSON INV"
+  },
+  {
+    "ticker": "0098.HK",
+    "name": "XINGFA ALUM"
+  },
+  {
+    "ticker": "0099.HK",
+    "name": "WONG'S INT'L"
+  },
+  {
+    "ticker": "0100.HK",
+    "name": "MINIMAX-WP"
+  },
+  {
+    "ticker": "0101.HK",
+    "name": "HANG LUNG PPT"
+  },
+  {
+    "ticker": "0103.HK",
+    "name": "SHOUGANG CENT"
+  },
+  {
+    "ticker": "0104.HK",
+    "name": "ASIA COMM HOLD"
+  },
+  {
+    "ticker": "0105.HK",
+    "name": "ASSO INT HOTELS"
+  },
+  {
+    "ticker": "0106.HK",
+    "name": "LANDSEA MGMT"
+  },
+  {
+    "ticker": "0107.HK",
+    "name": "SICHUAN EXPRESS"
+  },
+  {
+    "ticker": "0108.HK",
+    "name": "GR LIFE STYLE"
+  },
+  {
+    "ticker": "0110.HK",
+    "name": "CHINA FORTUNE"
+  },
+  {
+    "ticker": "0111.HK",
+    "name": "CINDA INTL HLDG"
+  },
+  {
+    "ticker": "0113.HK",
+    "name": "DICKSON CONCEPT"
+  },
+  {
+    "ticker": "0114.HK",
+    "name": "HERALD HOLD"
+  },
+  {
+    "ticker": "0115.HK",
+    "name": "GRAND FIELD GP"
+  },
+  {
+    "ticker": "0116.HK",
+    "name": "CHOW SANG SANG"
+  },
+  {
+    "ticker": "0117.HK",
+    "name": "TIANLI HOLDINGS"
+  },
+  {
+    "ticker": "0118.HK",
+    "name": "COSMOS MACH"
+  },
+  {
+    "ticker": "0119.HK",
+    "name": "POLY PROPERTY"
+  },
+  {
+    "ticker": "0120.HK",
+    "name": "COSMOPOL INT'L"
+  },
+  {
+    "ticker": "0122.HK",
+    "name": "CROCODILE"
+  },
+  {
+    "ticker": "0123.HK",
+    "name": "YUEXIU PROPERTY"
+  },
+  {
+    "ticker": "0124.HK",
+    "name": "GD LAND"
+  },
+  {
+    "ticker": "0125.HK",
+    "name": "SUN HING VISION"
+  },
+  {
+    "ticker": "0126.HK",
+    "name": "CARRIANNA"
+  },
+  {
+    "ticker": "0127.HK",
+    "name": "CHINESE EST H"
+  },
+  {
+    "ticker": "0128.HK",
+    "name": "ENM HOLDINGS"
+  },
+  {
+    "ticker": "0129.HK",
+    "name": "ASIA STANDARD"
+  },
+  {
+    "ticker": "0130.HK",
+    "name": "MOISELLE INT'L"
+  },
+  {
+    "ticker": "0131.HK",
+    "name": "CHEUK NANG HOLD"
+  },
+  {
+    "ticker": "0132.HK",
+    "name": "HING YIP HLDGS"
+  },
+  {
+    "ticker": "0133.HK",
+    "name": "CHINA MERCHANTS"
+  },
+  {
+    "ticker": "0135.HK",
+    "name": "KUNLUN ENERGY"
+  },
+  {
+    "ticker": "0136.HK",
+    "name": "CHINA RUYI"
+  },
+  {
+    "ticker": "0137.HK",
+    "name": "JINHUI HOLDINGS"
+  },
+  {
+    "ticker": "0138.HK",
+    "name": "CCT FORTIS-NEW"
+  },
+  {
+    "ticker": "0139.HK",
+    "name": "SMART FISH"
+  },
+  {
+    "ticker": "0142.HK",
+    "name": "FIRST PACIFIC"
+  },
+  {
+    "ticker": "0144.HK",
+    "name": "CHINA MER PORT"
+  },
+  {
+    "ticker": "0145.HK",
+    "name": "CCIAM FUTURE EN"
+  },
+  {
+    "ticker": "0146.HK",
+    "name": "TAI PING CARPET"
+  },
+  {
+    "ticker": "0147.HK",
+    "name": "IB SETTLEMENT"
+  },
+  {
+    "ticker": "0148.HK",
+    "name": "KINGBOARD HLDG"
+  },
+  {
+    "ticker": "0149.HK",
+    "name": "CH AGRI-PROD EX"
+  },
+  {
+    "ticker": "0150.HK",
+    "name": "HYPEBEAST"
+  },
+  {
+    "ticker": "0151.HK",
+    "name": "WANT WANT CHINA"
+  },
+  {
+    "ticker": "0152.HK",
+    "name": "SHENZHEN INT'L"
+  },
+  {
+    "ticker": "0154.HK",
+    "name": "BE ENVIRONMENT"
+  },
+  {
+    "ticker": "0156.HK",
+    "name": "LIPPO CHINA RES"
+  },
+  {
+    "ticker": "0157.HK",
+    "name": "NATURAL BEAUTY"
+  },
+  {
+    "ticker": "0158.HK",
+    "name": "MELBOURNE ENT"
+  },
+  {
+    "ticker": "0159.HK",
+    "name": "BROCKMAN MINING"
+  },
+  {
+    "ticker": "0160.HK",
+    "name": "HON KWOK LAND"
+  },
+  {
+    "ticker": "0162.HK",
+    "name": "CENTURY GINWA"
+  },
+  {
+    "ticker": "0163.HK",
+    "name": "EMPEROR INT'L"
+  },
+  {
+    "ticker": "0164.HK",
+    "name": "CHINA BAOLI TEC"
+  },
+  {
+    "ticker": "0165.HK",
+    "name": "CHINA EB LTD"
+  },
+  {
+    "ticker": "0166.HK",
+    "name": "NEW TIMES CORP"
+  },
+  {
+    "ticker": "0167.HK",
+    "name": "IDT INT'L"
+  },
+  {
+    "ticker": "0168.HK",
+    "name": "TSINGTAO BREW"
+  },
+  {
+    "ticker": "0169.HK",
+    "name": "WANDA HOTEL DEV"
+  },
+  {
+    "ticker": "0171.HK",
+    "name": "SILVER GRANT"
+  },
+  {
+    "ticker": "0173.HK",
+    "name": "K. WAH INT'L"
+  },
+  {
+    "ticker": "0174.HK",
+    "name": "GEMINI INV"
+  },
+  {
+    "ticker": "0175.HK",
+    "name": "GEELY AUTO"
+  },
+  {
+    "ticker": "0176.HK",
+    "name": "SUPERACTIVE GP"
+  },
+  {
+    "ticker": "0177.HK",
+    "name": "JIANGSU EXPRESS"
+  },
+  {
+    "ticker": "0178.HK",
+    "name": "SA SA INT'L"
+  },
+  {
+    "ticker": "0179.HK",
+    "name": "JOHNSON ELEC H"
+  },
+  {
+    "ticker": "0180.HK",
+    "name": "KADER HOLDINGS"
+  },
+  {
+    "ticker": "0181.HK",
+    "name": "FUJIAN HOLDINGS"
+  },
+  {
+    "ticker": "0182.HK",
+    "name": "CONCORD NE"
+  },
+  {
+    "ticker": "0183.HK",
+    "name": "WINFULL GP"
+  },
+  {
+    "ticker": "0184.HK",
+    "name": "KECK SENG INV"
+  },
+  {
+    "ticker": "0185.HK",
+    "name": "ZENSUN ENT"
+  },
+  {
+    "ticker": "0186.HK",
+    "name": "NIMBLE HOLDINGS"
+  },
+  {
+    "ticker": "0187.HK",
+    "name": "JINGCHENG MAC"
+  },
+  {
+    "ticker": "0188.HK",
+    "name": "SUNWAH KINGSWAY"
+  },
+  {
+    "ticker": "0189.HK",
+    "name": "DONGYUE GROUP"
+  },
+  {
+    "ticker": "0191.HK",
+    "name": "LAI SUN INT'L"
+  },
+  {
+    "ticker": "0193.HK",
+    "name": "CAPITAL ESTATE"
+  },
+  {
+    "ticker": "0194.HK",
+    "name": "LIU CHONG HING"
+  },
+  {
+    "ticker": "0195.HK",
+    "name": "GREENTECH INTL"
+  },
+  {
+    "ticker": "0196.HK",
+    "name": "HONGHUA GROUP"
+  },
+  {
+    "ticker": "0197.HK",
+    "name": "HENG TAI"
+  },
+  {
+    "ticker": "0199.HK",
+    "name": "ITC PROPERTIES"
+  },
+  {
+    "ticker": "0200.HK",
+    "name": "MELCO INT'L DEV"
+  },
+  {
+    "ticker": "0201.HK",
+    "name": "MAGNIFICENT"
+  },
+  {
+    "ticker": "0202.HK",
+    "name": "EVERCHINA INT'L"
+  },
+  {
+    "ticker": "0204.HK",
+    "name": "CAPITAL REALM"
+  },
+  {
+    "ticker": "0205.HK",
+    "name": "BFB HEALTH"
+  },
+  {
+    "ticker": "0206.HK",
+    "name": "CM-ENERGY"
+  },
+  {
+    "ticker": "0209.HK",
+    "name": "WINSHINE SCI"
+  },
+  {
+    "ticker": "0210.HK",
+    "name": "DAPHNE INT'L"
+  },
+  {
+    "ticker": "0211.HK",
+    "name": "STYLAND HOLD"
+  },
+  {
+    "ticker": "0212.HK",
+    "name": "NANYANG HOLD"
+  },
+  {
+    "ticker": "0213.HK",
+    "name": "NATIONAL ELEC H"
+  },
+  {
+    "ticker": "0214.HK",
+    "name": "ASIA ORIENT"
+  },
+  {
+    "ticker": "0215.HK",
+    "name": "HUTCHTEL HK"
+  },
+  {
+    "ticker": "0216.HK",
+    "name": "CHINNEY INV"
+  },
+  {
+    "ticker": "0217.HK",
+    "name": "CHINA CHENGTONG"
+  },
+  {
+    "ticker": "0218.HK",
+    "name": "SWHYHK"
+  },
+  {
+    "ticker": "0219.HK",
+    "name": "SHUNHO PROPERTY"
+  },
+  {
+    "ticker": "0220.HK",
+    "name": "U-PRESID CHINA"
+  },
+  {
+    "ticker": "0222.HK",
+    "name": "MIN XIN HOLD"
+  },
+  {
+    "ticker": "0223.HK",
+    "name": "ELIFE HLDGS"
+  },
+  {
+    "ticker": "0224.HK",
+    "name": "PIONEER GLOBAL"
+  },
+  {
+    "ticker": "0225.HK",
+    "name": "POKFULAM"
+  },
+  {
+    "ticker": "0227.HK",
+    "name": "FIRST SHANGHAI"
+  },
+  {
+    "ticker": "0228.HK",
+    "name": "CHINA ENERGY"
+  },
+  {
+    "ticker": "0229.HK",
+    "name": "RAYMOND IND"
+  },
+  {
+    "ticker": "0232.HK",
+    "name": "CON AERO TECH"
+  },
+  {
+    "ticker": "0234.HK",
+    "name": "NEW CENTURY GP"
+  },
+  {
+    "ticker": "0235.HK",
+    "name": "CSC HOLDINGS"
+  },
+  {
+    "ticker": "0236.HK",
+    "name": "SAN MIGUEL HK"
+  },
+  {
+    "ticker": "0237.HK",
+    "name": "SAFETY GODOWN"
+  },
+  {
+    "ticker": "0239.HK",
+    "name": "PAK FAH YEOW"
+  },
+  {
+    "ticker": "0240.HK",
+    "name": "BUILD KING HOLD"
+  },
+  {
+    "ticker": "0241.HK",
+    "name": "ALI HEALTH"
+  },
+  {
+    "ticker": "0242.HK",
+    "name": "SHUN TAK HOLD"
+  },
+  {
+    "ticker": "0243.HK",
+    "name": "QPL INT'L"
+  },
+  {
+    "ticker": "0244.HK",
+    "name": "SINCERE"
+  },
+  {
+    "ticker": "0245.HK",
+    "name": "CHINA VERED FIN"
+  },
+  {
+    "ticker": "0247.HK",
+    "name": "TST PROPERTIES"
+  },
+  {
+    "ticker": "0248.HK",
+    "name": "HKC INT'L HOLD"
+  },
+  {
+    "ticker": "0251.HK",
+    "name": "SEA HOLDINGS"
+  },
+  {
+    "ticker": "0252.HK",
+    "name": "SE ASIA PPT"
+  },
+  {
+    "ticker": "0253.HK",
+    "name": "SHUNHO HOLDINGS"
+  },
+  {
+    "ticker": "0254.HK",
+    "name": "NUR HOLDINGS"
+  },
+  {
+    "ticker": "0255.HK",
+    "name": "LUNG KEE"
+  },
+  {
+    "ticker": "0256.HK",
+    "name": "CITYCHAMP"
+  },
+  {
+    "ticker": "0257.HK",
+    "name": "EB ENVIRONMENT"
+  },
+  {
+    "ticker": "0258.HK",
+    "name": "TOMSON GROUP"
+  },
+  {
+    "ticker": "0259.HK",
+    "name": "YEEBO (INT'L H)"
+  },
+  {
+    "ticker": "0261.HK",
+    "name": "GBA HOLDINGS"
+  },
+  {
+    "ticker": "0262.HK",
+    "name": "DESON DEV INT'L"
+  },
+  {
+    "ticker": "0264.HK",
+    "name": "CN INT DEV CORP"
+  },
+  {
+    "ticker": "0265.HK",
+    "name": "GANGYU SERVICES"
+  },
+  {
+    "ticker": "0266.HK",
+    "name": "TIAN TECK LAND"
+  },
+  {
+    "ticker": "0267.HK",
+    "name": "CITIC"
+  },
+  {
+    "ticker": "0268.HK",
+    "name": "KINGDEE INT'L"
+  },
+  {
+    "ticker": "0269.HK",
+    "name": "CRTG"
+  },
+  {
+    "ticker": "0270.HK",
+    "name": "GUANGDONG INV"
+  },
+  {
+    "ticker": "0271.HK",
+    "name": "ASIASEC PPT"
+  },
+  {
+    "ticker": "0272.HK",
+    "name": "SHUI ON LAND"
+  },
+  {
+    "ticker": "0274.HK",
+    "name": "RA SILK ROAD"
+  },
+  {
+    "ticker": "0276.HK",
+    "name": "MONGOLIA ENERGY"
+  },
+  {
+    "ticker": "0277.HK",
+    "name": "TERN PROPERTIES"
+  },
+  {
+    "ticker": "0279.HK",
+    "name": "ARTA TECHFIN"
+  },
+  {
+    "ticker": "0280.HK",
+    "name": "KING FOOK HOLD"
+  },
+  {
+    "ticker": "0285.HK",
+    "name": "BYD ELECTRONIC"
+  },
+  {
+    "ticker": "0286.HK",
+    "name": "AIDIGONG"
+  },
+  {
+    "ticker": "0287.HK",
+    "name": "WINFAIR INV"
+  },
+  {
+    "ticker": "0288.HK",
+    "name": "WH GROUP"
+  },
+  {
+    "ticker": "0289.HK",
+    "name": "WING ON CO"
+  },
+  {
+    "ticker": "0290.HK",
+    "name": "GOFINTECH QUANT"
+  },
+  {
+    "ticker": "0291.HK",
+    "name": "CHINA RES BEER"
+  },
+  {
+    "ticker": "0293.HK",
+    "name": "CATHAY PAC AIR"
+  },
+  {
+    "ticker": "0294.HK",
+    "name": "YANGTZEKIANG"
+  },
+  {
+    "ticker": "0295.HK",
+    "name": "KONG SUN HOLD"
+  },
+  {
+    "ticker": "0296.HK",
+    "name": "EMPEROR E HOTEL"
+  },
+  {
+    "ticker": "0297.HK",
+    "name": "SINOFERT"
+  },
+  {
+    "ticker": "0298.HK",
+    "name": "CHUANG'S CHINA"
+  },
+  {
+    "ticker": "0299.HK",
+    "name": "GLORY SUN LAND"
+  },
+  {
+    "ticker": "0300.HK",
+    "name": "MIDEA GROUP"
+  },
+  {
+    "ticker": "0301.HK",
+    "name": "SANVO CHEMICALS"
+  },
+  {
+    "ticker": "0302.HK",
+    "name": "CMGE"
+  },
+  {
+    "ticker": "0303.HK",
+    "name": "VTECH HOLDINGS"
+  },
+  {
+    "ticker": "0305.HK",
+    "name": "WULING MOTORS"
+  },
+  {
+    "ticker": "0306.HK",
+    "name": "KWOON CHUNG BUS"
+  },
+  {
+    "ticker": "0308.HK",
+    "name": "CHINA TRAVEL HK"
+  },
+  {
+    "ticker": "0309.HK",
+    "name": "XH NEWS MEDIA"
+  },
+  {
+    "ticker": "0310.HK",
+    "name": "PROSP INV HOLD"
+  },
+  {
+    "ticker": "0311.HK",
+    "name": "LUEN THAI"
+  },
+  {
+    "ticker": "0312.HK",
+    "name": "SHIRBLE STORE"
+  },
+  {
+    "ticker": "0313.HK",
+    "name": "RICHLY FIELD"
+  },
+  {
+    "ticker": "0314.HK",
+    "name": "SIPAI HEALTH"
+  },
+  {
+    "ticker": "0315.HK",
+    "name": "SMARTONE TELE"
+  },
+  {
+    "ticker": "0316.HK",
+    "name": "OOIL"
+  },
+  {
+    "ticker": "0317.HK",
+    "name": "COMEC"
+  },
+  {
+    "ticker": "0318.HK",
+    "name": "VONGROUP"
+  },
+  {
+    "ticker": "0320.HK",
+    "name": "COMPUTIME"
+  },
+  {
+    "ticker": "0321.HK",
+    "name": "TEXWINCA HOLD"
+  },
+  {
+    "ticker": "0322.HK",
+    "name": "TINGYI"
+  },
+  {
+    "ticker": "0323.HK",
+    "name": "MAANSHAN IRON"
+  },
+  {
+    "ticker": "0325.HK",
+    "name": "BLOKS"
+  },
+  {
+    "ticker": "0326.HK",
+    "name": "CHINA STAR ENT"
+  },
+  {
+    "ticker": "0327.HK",
+    "name": "PAX GLOBAL"
+  },
+  {
+    "ticker": "0328.HK",
+    "name": "ALCO HOLDINGS"
+  },
+  {
+    "ticker": "0329.HK",
+    "name": "OCI INTL"
+  },
+  {
+    "ticker": "0330.HK",
+    "name": "ESPRIT HOLDINGS"
+  },
+  {
+    "ticker": "0331.HK",
+    "name": "FSE LIFESTYLE"
+  },
+  {
+    "ticker": "0332.HK",
+    "name": "YUANHENG GAS"
+  },
+  {
+    "ticker": "0333.HK",
+    "name": "TOP FORM INT'L"
+  },
+  {
+    "ticker": "0334.HK",
+    "name": "CH DISPLAY OPT"
+  },
+  {
+    "ticker": "0335.HK",
+    "name": "UPBEST GROUP"
+  },
+  {
+    "ticker": "0336.HK",
+    "name": "HUABAO INTL"
+  },
+  {
+    "ticker": "0337.HK",
+    "name": "GREENLAND HK"
+  },
+  {
+    "ticker": "0338.HK",
+    "name": "SHANGHAI PECHEM"
+  },
+  {
+    "ticker": "0339.HK",
+    "name": "CN SCI-TECH IND"
+  },
+  {
+    "ticker": "0340.HK",
+    "name": "TONGGUAN GOLD"
+  },
+  {
+    "ticker": "0341.HK",
+    "name": "CAFE DE CORAL H"
+  },
+  {
+    "ticker": "0343.HK",
+    "name": "CULTURECOM HOLD"
+  },
+  {
+    "ticker": "0345.HK",
+    "name": "VITASOY INT'L"
+  },
+  {
+    "ticker": "0346.HK",
+    "name": "YANCHANG PETRO"
+  },
+  {
+    "ticker": "0347.HK",
+    "name": "ANGANG STEEL"
+  },
+  {
+    "ticker": "0348.HK",
+    "name": "CHINAHEALTHWISE"
+  },
+  {
+    "ticker": "0351.HK",
+    "name": "ASIA ENERGY LOG"
+  },
+  {
+    "ticker": "0352.HK",
+    "name": "FORTUNE SUN"
+  },
+  {
+    "ticker": "0353.HK",
+    "name": "ENERGY INTINV"
+  },
+  {
+    "ticker": "0354.HK",
+    "name": "CHINASOFT INT'L"
+  },
+  {
+    "ticker": "0355.HK",
+    "name": "CENTURY C INT'L"
+  },
+  {
+    "ticker": "0356.HK",
+    "name": "DT CAPITAL"
+  },
+  {
+    "ticker": "0357.HK",
+    "name": "MEILAN AIRPORT"
+  },
+  {
+    "ticker": "0358.HK",
+    "name": "JIANGXI COPPER"
+  },
+  {
+    "ticker": "0360.HK",
+    "name": "NEW FOCUS AUTO"
+  },
+  {
+    "ticker": "0361.HK",
+    "name": "HANFORT DEV H"
+  },
+  {
+    "ticker": "0362.HK",
+    "name": "C ZENITH CHEM"
+  },
+  {
+    "ticker": "0363.HK",
+    "name": "SHANGHAI IND H"
+  },
+  {
+    "ticker": "0365.HK",
+    "name": "SINO ICT"
+  },
+  {
+    "ticker": "0366.HK",
+    "name": "LUKS GROUP (VN)"
+  },
+  {
+    "ticker": "0367.HK",
+    "name": "CHUANG'S INT'L"
+  },
+  {
+    "ticker": "0368.HK",
+    "name": "SUPERLAND GROUP"
+  },
+  {
+    "ticker": "0369.HK",
+    "name": "WING TAI PPT"
+  },
+  {
+    "ticker": "0370.HK",
+    "name": "HK ROBOTICS"
+  },
+  {
+    "ticker": "0371.HK",
+    "name": "BJ ENT WATER"
+  },
+  {
+    "ticker": "0372.HK",
+    "name": "PT INTL DEV"
+  },
+  {
+    "ticker": "0373.HK",
+    "name": "ALLIED GROUP"
+  },
+  {
+    "ticker": "0374.HK",
+    "name": "FOUR SEAS MER"
+  },
+  {
+    "ticker": "0375.HK",
+    "name": "YGM TRADING"
+  },
+  {
+    "ticker": "0376.HK",
+    "name": "YUNFENG FIN"
+  },
+  {
+    "ticker": "0377.HK",
+    "name": "CHINA HUAJUN GP"
+  },
+  {
+    "ticker": "0379.HK",
+    "name": "EG LEASING"
+  },
+  {
+    "ticker": "0380.HK",
+    "name": "CHINA PIPE"
+  },
+  {
+    "ticker": "0381.HK",
+    "name": "AOM INT'L"
+  },
+  {
+    "ticker": "0382.HK",
+    "name": "EDVANTAGE GROUP"
+  },
+  {
+    "ticker": "0383.HK",
+    "name": "TIANAN MEDICARE"
+  },
+  {
+    "ticker": "0384.HK",
+    "name": "CHINA GAS HOLD"
+  },
+  {
+    "ticker": "0385.HK",
+    "name": "CHINNEY ALLI"
+  },
+  {
+    "ticker": "0386.HK",
+    "name": "SINOPEC CORP"
+  },
+  {
+    "ticker": "0387.HK",
+    "name": "LEEPORT(HOLD)"
+  },
+  {
+    "ticker": "0388.HK",
+    "name": "HKEX"
+  },
+  {
+    "ticker": "0389.HK",
+    "name": "TONTINE WINES"
+  },
+  {
+    "ticker": "0390.HK",
+    "name": "CHINA RAILWAY"
+  },
+  {
+    "ticker": "0391.HK",
+    "name": "MEI AH ENTER"
+  },
+  {
+    "ticker": "0392.HK",
+    "name": "BEIJING ENT"
+  },
+  {
+    "ticker": "0393.HK",
+    "name": "GLORIOUS SUN"
+  },
+  {
+    "ticker": "0396.HK",
+    "name": "HING LEE (HK)"
+  },
+  {
+    "ticker": "0397.HK",
+    "name": "MINERVA GROUP"
+  },
+  {
+    "ticker": "0398.HK",
+    "name": "ORIENTAL WATCH"
+  },
+  {
+    "ticker": "0399.HK",
+    "name": "STARCOIN GROUP"
+  },
+  {
+    "ticker": "0400.HK",
+    "name": "INGDAN"
+  },
+  {
+    "ticker": "0401.HK",
+    "name": "WANJIA GROUP"
+  },
+  {
+    "ticker": "0403.HK",
+    "name": "STARLITE HOLD"
+  },
+  {
+    "ticker": "0405.HK",
+    "name": "YUEXIU REIT"
+  },
+  {
+    "ticker": "0406.HK",
+    "name": "YAU LEE HOLD"
+  },
+  {
+    "ticker": "0408.HK",
+    "name": "YIP'S CHEMICAL"
+  },
+  {
+    "ticker": "0410.HK",
+    "name": "SOHO CHINA"
+  },
+  {
+    "ticker": "0411.HK",
+    "name": "LAM SOON (HK)"
+  },
+  {
+    "ticker": "0412.HK",
+    "name": "SDHG"
+  },
+  {
+    "ticker": "0413.HK",
+    "name": "SC HOLDINGS"
+  },
+  {
+    "ticker": "0417.HK",
+    "name": "TSE SUI LUEN"
+  },
+  {
+    "ticker": "0418.HK",
+    "name": "FOUNDER HOLD"
+  },
+  {
+    "ticker": "0419.HK",
+    "name": "HONY MEDIA"
+  },
+  {
+    "ticker": "0420.HK",
+    "name": "FOUNTAIN SET"
+  },
+  {
+    "ticker": "0422.HK",
+    "name": "VMEP HOLDINGS"
+  },
+  {
+    "ticker": "0423.HK",
+    "name": "HKET HOLDINGS"
+  },
+  {
+    "ticker": "0425.HK",
+    "name": "MINTH GROUP-100"
+  },
+  {
+    "ticker": "0426.HK",
+    "name": "ONE MEDIA GROUP"
+  },
+  {
+    "ticker": "0428.HK",
+    "name": "COCOON HOLDINGS"
+  },
+  {
+    "ticker": "0430.HK",
+    "name": "ORIENTAL EXPL"
+  },
+  {
+    "ticker": "0431.HK",
+    "name": "G CHINA FIN"
+  },
+  {
+    "ticker": "0432.HK",
+    "name": "PCPD"
+  },
+  {
+    "ticker": "0433.HK",
+    "name": "NORTH MINING"
+  },
+  {
+    "ticker": "0434.HK",
+    "name": "BOYAA"
+  },
+  {
+    "ticker": "0435.HK",
+    "name": "SUNLIGHT REIT"
+  },
+  {
+    "ticker": "0436.HK",
+    "name": "NU ENVIRO"
+  },
+  {
+    "ticker": "0438.HK",
+    "name": "IRICO NEWENERGY"
+  },
+  {
+    "ticker": "0439.HK",
+    "name": "GENESIS SCALE"
+  },
+  {
+    "ticker": "0440.HK",
+    "name": "DAH SING"
+  },
+  {
+    "ticker": "0442.HK",
+    "name": "DOMAINE POWER"
+  },
+  {
+    "ticker": "0444.HK",
+    "name": "SINCEREWATCH HK"
+  },
+  {
+    "ticker": "0450.HK",
+    "name": "HUNG HING PRINT"
+  },
+  {
+    "ticker": "0451.HK",
+    "name": "GCL NEWENERGY"
+  },
+  {
+    "ticker": "0455.HK",
+    "name": "TIANDA PHARMA"
+  },
+  {
+    "ticker": "0456.HK",
+    "name": "NEW CITY DEV"
+  },
+  {
+    "ticker": "0458.HK",
+    "name": "TRISTATE HOLD"
+  },
+  {
+    "ticker": "0459.HK",
+    "name": "LEGEND UPSTAR"
+  },
+  {
+    "ticker": "0460.HK",
+    "name": "SIHUAN PHARM"
+  },
+  {
+    "ticker": "0464.HK",
+    "name": "CHINA IN-TECH"
+  },
+  {
+    "ticker": "0465.HK",
+    "name": "FUTONG TECH"
+  },
+  {
+    "ticker": "0467.HK",
+    "name": "UNITEDENERGY GP"
+  },
+  {
+    "ticker": "0468.HK",
+    "name": "GAPACK"
+  },
+  {
+    "ticker": "0470.HK",
+    "name": "WUXI LEAD"
+  },
+  {
+    "ticker": "0471.HK",
+    "name": "SILKWAVE INC"
+  },
+  {
+    "ticker": "0472.HK",
+    "name": "NEW SILKROAD"
+  },
+  {
+    "ticker": "0474.HK",
+    "name": "ACESO LIFE SCI"
+  },
+  {
+    "ticker": "0475.HK",
+    "name": "CENTRAL DEV H"
+  },
+  {
+    "ticker": "0476.HK",
+    "name": "EV DYNAMICS"
+  },
+  {
+    "ticker": "0480.HK",
+    "name": "HKR INT'L"
+  },
+  {
+    "ticker": "0482.HK",
+    "name": "SANDMARTIN INTL"
+  },
+  {
+    "ticker": "0483.HK",
+    "name": "BAUHAUS INT'L"
+  },
+  {
+    "ticker": "0484.HK",
+    "name": "FORGAME"
+  },
+  {
+    "ticker": "0485.HK",
+    "name": "CHINASINOSTAR"
+  },
+  {
+    "ticker": "0486.HK",
+    "name": "RUSAL"
+  },
+  {
+    "ticker": "0487.HK",
+    "name": "SUCCESSUNIVERSE"
+  },
+  {
+    "ticker": "0488.HK",
+    "name": "LAI SUN DEV"
+  },
+  {
+    "ticker": "0489.HK",
+    "name": "DONGFENG GROUP"
+  },
+  {
+    "ticker": "0491.HK",
+    "name": "EMPEROR CULTURE"
+  },
+  {
+    "ticker": "0493.HK",
+    "name": "GOME RETAIL"
+  },
+  {
+    "ticker": "0495.HK",
+    "name": "PALADIN"
+  },
+  {
+    "ticker": "0496.HK",
+    "name": "KASEN"
+  },
+  {
+    "ticker": "0497.HK",
+    "name": "CSI PROPERTIES"
+  },
+  {
+    "ticker": "0498.HK",
+    "name": "BLUE RIVER HLDG"
+  },
+  {
+    "ticker": "0499.HK",
+    "name": "QINGDAO HLDGS"
+  },
+  {
+    "ticker": "0500.HK",
+    "name": "FRONTIER SER"
+  },
+  {
+    "ticker": "0501.HK",
+    "name": "OMNIVISION"
+  },
+  {
+    "ticker": "0505.HK",
+    "name": "XINGYE ALLOY"
+  },
+  {
+    "ticker": "0506.HK",
+    "name": "CHINA FOODS"
+  },
+  {
+    "ticker": "0508.HK",
+    "name": "DINGYI GP INV"
+  },
+  {
+    "ticker": "0509.HK",
+    "name": "SUNSHINE"
+  },
+  {
+    "ticker": "0510.HK",
+    "name": "CASH FIN SER GP"
+  },
+  {
+    "ticker": "0511.HK",
+    "name": "TVB"
+  },
+  {
+    "ticker": "0512.HK",
+    "name": "GRAND PHARMA"
+  },
+  {
+    "ticker": "0513.HK",
+    "name": "CONTINENTAL H"
+  },
+  {
+    "ticker": "0515.HK",
+    "name": "CHINASILVER TEC"
+  },
+  {
+    "ticker": "0517.HK",
+    "name": "COSCO SHIP INTL"
+  },
+  {
+    "ticker": "0518.HK",
+    "name": "TUNGTEX (HOLD)"
+  },
+  {
+    "ticker": "0519.HK",
+    "name": "NOVAUTEK"
+  },
+  {
+    "ticker": "0520.HK",
+    "name": "XIABUXIABU"
+  },
+  {
+    "ticker": "0521.HK",
+    "name": "CWT INT'L"
+  },
+  {
+    "ticker": "0522.HK",
+    "name": "ASMPT"
+  },
+  {
+    "ticker": "0524.HK",
+    "name": "GW TERROIR"
+  },
+  {
+    "ticker": "0525.HK",
+    "name": "GUANGSHEN RAIL"
+  },
+  {
+    "ticker": "0526.HK",
+    "name": "LISI GP HOLD"
+  },
+  {
+    "ticker": "0527.HK",
+    "name": "RUIFENG RENEW"
+  },
+  {
+    "ticker": "0528.HK",
+    "name": "KINGDOM HOLDING"
+  },
+  {
+    "ticker": "0529.HK",
+    "name": "SIS INT'L"
+  },
+  {
+    "ticker": "0532.HK",
+    "name": "WKK INTL (HOLD)"
+  },
+  {
+    "ticker": "0533.HK",
+    "name": "GOLDLION HOLD"
+  },
+  {
+    "ticker": "0535.HK",
+    "name": "GEMDALE PPT"
+  },
+  {
+    "ticker": "0536.HK",
+    "name": "TRADELINK"
+  },
+  {
+    "ticker": "0538.HK",
+    "name": "AJISEN (CHINA)"
+  },
+  {
+    "ticker": "0540.HK",
+    "name": "SPEEDY GLOBAL"
+  },
+  {
+    "ticker": "0542.HK",
+    "name": "CN CULTURAL T&A"
+  },
+  {
+    "ticker": "0543.HK",
+    "name": "PACIFIC ONLINE"
+  },
+  {
+    "ticker": "0544.HK",
+    "name": "DAIDO GROUP"
+  },
+  {
+    "ticker": "0546.HK",
+    "name": "FUFENG GROUP"
+  },
+  {
+    "ticker": "0547.HK",
+    "name": "DIGITAL DOMAIN"
+  },
+  {
+    "ticker": "0548.HK",
+    "name": "SHENZHENEXPRESS"
+  },
+  {
+    "ticker": "0550.HK",
+    "name": "ALLEGRO CULTURE"
+  },
+  {
+    "ticker": "0551.HK",
+    "name": "YUE YUEN IND"
+  },
+  {
+    "ticker": "0552.HK",
+    "name": "CHINACOMSERVICE"
+  },
+  {
+    "ticker": "0553.HK",
+    "name": "NANJING PANDA"
+  },
+  {
+    "ticker": "0554.HK",
+    "name": "HANS GP HLDGS"
+  },
+  {
+    "ticker": "0556.HK",
+    "name": "PAN ASIA ENVIRO"
+  },
+  {
+    "ticker": "0557.HK",
+    "name": "TIANYUAN HEALTH"
+  },
+  {
+    "ticker": "0558.HK",
+    "name": "LK TECH"
+  },
+  {
+    "ticker": "0559.HK",
+    "name": "DETAI NEWENERGY"
+  },
+  {
+    "ticker": "0560.HK",
+    "name": "CHU KONG SHIP"
+  },
+  {
+    "ticker": "0563.HK",
+    "name": "SH IND URBAN"
+  },
+  {
+    "ticker": "0564.HK",
+    "name": "ZCZL"
+  },
+  {
+    "ticker": "0565.HK",
+    "name": "ART GROUP HOLD"
+  },
+  {
+    "ticker": "0567.HK",
+    "name": "DAISHOMICROLINE"
+  },
+  {
+    "ticker": "0568.HK",
+    "name": "SHANDONG MOLONG"
+  },
+  {
+    "ticker": "0570.HK",
+    "name": "TRAD CHI MED"
+  },
+  {
+    "ticker": "0571.HK",
+    "name": "ESUN HOLDINGS"
+  },
+  {
+    "ticker": "0572.HK",
+    "name": "FW HOLDINGS"
+  },
+  {
+    "ticker": "0573.HK",
+    "name": "TAO HEUNG HLDGS"
+  },
+  {
+    "ticker": "0574.HK",
+    "name": "PASHUN INT'L"
+  },
+  {
+    "ticker": "0575.HK",
+    "name": "REGENT PACIFIC"
+  },
+  {
+    "ticker": "0576.HK",
+    "name": "ZHEJIANGEXPRESS"
+  },
+  {
+    "ticker": "0579.HK",
+    "name": "JNCEC"
+  },
+  {
+    "ticker": "0580.HK",
+    "name": "SUN.KING TECH"
+  },
+  {
+    "ticker": "0581.HK",
+    "name": "CHINA ORIENTAL"
+  },
+  {
+    "ticker": "0582.HK",
+    "name": "SHIN HWA WORLD"
+  },
+  {
+    "ticker": "0583.HK",
+    "name": "GWPA HOLDINGS"
+  },
+  {
+    "ticker": "0585.HK",
+    "name": "IMAGI INT'L"
+  },
+  {
+    "ticker": "0586.HK",
+    "name": "CONCH VENTURE"
+  },
+  {
+    "ticker": "0587.HK",
+    "name": "CONCH ENVIRO"
+  },
+  {
+    "ticker": "0588.HK",
+    "name": "BEIJING N STAR"
+  },
+  {
+    "ticker": "0590.HK",
+    "name": "LUK FOOK HOLD"
+  },
+  {
+    "ticker": "0591.HK",
+    "name": "C HIGHPRECISION"
+  },
+  {
+    "ticker": "0595.HK",
+    "name": "AV CONCEPT HOLD"
+  },
+  {
+    "ticker": "0596.HK",
+    "name": "INSPUR DIGI ENT"
+  },
+  {
+    "ticker": "0598.HK",
+    "name": "SINOTRANS"
+  },
+  {
+    "ticker": "0599.HK",
+    "name": "E. BON HOLDINGS"
+  },
+  {
+    "ticker": "0600.HK",
+    "name": "AXERA"
+  },
+  {
+    "ticker": "0601.HK",
+    "name": "REMT"
+  },
+  {
+    "ticker": "0602.HK",
+    "name": "JIAHUA STORES H"
+  },
+  {
+    "ticker": "0603.HK",
+    "name": "CHINA OIL & GAS"
+  },
+  {
+    "ticker": "0604.HK",
+    "name": "SHENZHEN INVEST"
+  },
+  {
+    "ticker": "0605.HK",
+    "name": "C FIN SERVICES"
+  },
+  {
+    "ticker": "0606.HK",
+    "name": "SCE CM"
+  },
+  {
+    "ticker": "0607.HK",
+    "name": "FULLSHARE"
+  },
+  {
+    "ticker": "0608.HK",
+    "name": "HIGH FASHION"
+  },
+  {
+    "ticker": "0609.HK",
+    "name": "TIANDE CHEMICAL"
+  },
+  {
+    "ticker": "0610.HK",
+    "name": "WAI KEE HOLD"
+  },
+  {
+    "ticker": "0611.HK",
+    "name": "CNE TECH CORP"
+  },
+  {
+    "ticker": "0612.HK",
+    "name": "CARMEN CENTURY"
+  },
+  {
+    "ticker": "0613.HK",
+    "name": "PLANETREE INT'L"
+  },
+  {
+    "ticker": "0616.HK",
+    "name": "ASSET CHAIN"
+  },
+  {
+    "ticker": "0617.HK",
+    "name": "PALIBURG HOLD"
+  },
+  {
+    "ticker": "0618.HK",
+    "name": "PKU RESOURCES"
+  },
+  {
+    "ticker": "0619.HK",
+    "name": "SOUTH CHINA FIN"
+  },
+  {
+    "ticker": "0620.HK",
+    "name": "DTXS SILK ROAD"
+  },
+  {
+    "ticker": "0621.HK",
+    "name": "TAUNG GOLD"
+  },
+  {
+    "ticker": "0622.HK",
+    "name": "OSHIDORI"
+  },
+  {
+    "ticker": "0623.HK",
+    "name": "SINOMEDIA"
+  },
+  {
+    "ticker": "0626.HK",
+    "name": "PUBLIC FIN HOLD"
+  },
+  {
+    "ticker": "0627.HK",
+    "name": "VISION SYNERGY"
+  },
+  {
+    "ticker": "0628.HK",
+    "name": "TONGTONG AI SOC"
+  },
+  {
+    "ticker": "0629.HK",
+    "name": "YUE DA INTL"
+  },
+  {
+    "ticker": "0630.HK",
+    "name": "AMCO UNITED"
+  },
+  {
+    "ticker": "0631.HK",
+    "name": "SANY INT'L"
+  },
+  {
+    "ticker": "0632.HK",
+    "name": "CHK OIL"
+  },
+  {
+    "ticker": "0635.HK",
+    "name": "PLAYMATES"
+  },
+  {
+    "ticker": "0636.HK",
+    "name": "KLN"
+  },
+  {
+    "ticker": "0637.HK",
+    "name": "LEE KEE"
+  },
+  {
+    "ticker": "0638.HK",
+    "name": "FIBOCOM"
+  },
+  {
+    "ticker": "0639.HK",
+    "name": "SHOUGANG RES"
+  },
+  {
+    "ticker": "0640.HK",
+    "name": "INFINITY DEV"
+  },
+  {
+    "ticker": "0641.HK",
+    "name": "CHTC FONG'S INT"
+  },
+  {
+    "ticker": "0643.HK",
+    "name": "CARRY WEALTH"
+  },
+  {
+    "ticker": "0645.HK",
+    "name": "ARES ASIA"
+  },
+  {
+    "ticker": "0646.HK",
+    "name": "CHINA ENV TEC"
+  },
+  {
+    "ticker": "0648.HK",
+    "name": "SOFTMEDX"
+  },
+  {
+    "ticker": "0650.HK",
+    "name": "PRODUCTIVE TECH"
+  },
+  {
+    "ticker": "0653.HK",
+    "name": "BONJOUR HOLD"
+  },
+  {
+    "ticker": "0655.HK",
+    "name": "HK CHINESE LTD"
+  },
+  {
+    "ticker": "0656.HK",
+    "name": "FOSUN INTL"
+  },
+  {
+    "ticker": "0657.HK",
+    "name": "G-VISION INT'L"
+  },
+  {
+    "ticker": "0658.HK",
+    "name": "C TRANSMISSION"
+  },
+  {
+    "ticker": "0659.HK",
+    "name": "CTF SERVICES"
+  },
+  {
+    "ticker": "0660.HK",
+    "name": "WAI CHUN BIOTEC"
+  },
+  {
+    "ticker": "0661.HK",
+    "name": "CDAYENONFER"
+  },
+  {
+    "ticker": "0662.HK",
+    "name": "ASIA FINANCIAL"
+  },
+  {
+    "ticker": "0663.HK",
+    "name": "KING STONE ENGY"
+  },
+  {
+    "ticker": "0666.HK",
+    "name": "REPT BATTERO"
+  },
+  {
+    "ticker": "0667.HK",
+    "name": "CHINA EAST EDU"
+  },
+  {
+    "ticker": "0669.HK",
+    "name": "TECHTRONIC IND"
+  },
+  {
+    "ticker": "0670.HK",
+    "name": "CHINA EAST AIR"
+  },
+  {
+    "ticker": "0672.HK",
+    "name": "ZHONGAN GROUP"
+  },
+  {
+    "ticker": "0673.HK",
+    "name": "CHINA HEALTH"
+  },
+  {
+    "ticker": "0674.HK",
+    "name": "CHINA TANGSHANG"
+  },
+  {
+    "ticker": "0675.HK",
+    "name": "K & P INT'L"
+  },
+  {
+    "ticker": "0676.HK",
+    "name": "PEGASUS INT'L"
+  },
+  {
+    "ticker": "0677.HK",
+    "name": "GOLDEN RES DEV"
+  },
+  {
+    "ticker": "0679.HK",
+    "name": "ASIA TELE-NET"
+  },
+  {
+    "ticker": "0681.HK",
+    "name": "CHI PEOPLE HOLD"
+  },
+  {
+    "ticker": "0682.HK",
+    "name": "CHAODA MODERN"
+  },
+  {
+    "ticker": "0683.HK",
+    "name": "KERRY PPT"
+  },
+  {
+    "ticker": "0684.HK",
+    "name": "ALLAN INT'L"
+  },
+  {
+    "ticker": "0685.HK",
+    "name": "MEDIA CHINESE"
+  },
+  {
+    "ticker": "0686.HK",
+    "name": "BJ ENERGY INTL"
+  },
+  {
+    "ticker": "0687.HK",
+    "name": "TYSAN HOLDINGS"
+  },
+  {
+    "ticker": "0688.HK",
+    "name": "CHINA OVERSEAS"
+  },
+  {
+    "ticker": "0689.HK",
+    "name": "EPI (HOLDINGS)"
+  },
+  {
+    "ticker": "0690.HK",
+    "name": "UNI-BIO GROUP"
+  },
+  {
+    "ticker": "0691.HK",
+    "name": "SHANSHUI CEMENT"
+  },
+  {
+    "ticker": "0693.HK",
+    "name": "TAN CHONG INT'L"
+  },
+  {
+    "ticker": "0694.HK",
+    "name": "BEIJING AIRPORT"
+  },
+  {
+    "ticker": "0695.HK",
+    "name": "DONGWU CEMENT"
+  },
+  {
+    "ticker": "0696.HK",
+    "name": "TRAVELSKY TECH"
+  },
+  {
+    "ticker": "0697.HK",
+    "name": "SHOUCHENG"
+  },
+  {
+    "ticker": "0698.HK",
+    "name": "TONGDA GROUP"
+  },
+  {
+    "ticker": "0699.HK",
+    "name": "JOYSON ELEC"
+  },
+  {
+    "ticker": "0700.HK",
+    "name": "TENCENT"
+  },
+  {
+    "ticker": "0701.HK",
+    "name": "CNT GROUP"
+  },
+  {
+    "ticker": "0702.HK",
+    "name": "SINO OIL & GAS"
+  },
+  {
+    "ticker": "0703.HK",
+    "name": "FUTURE BRIGHT"
+  },
+  {
+    "ticker": "0704.HK",
+    "name": "HUSCOKE HLDGS"
+  },
+  {
+    "ticker": "0707.HK",
+    "name": "ATV HOLDINGS"
+  },
+  {
+    "ticker": "0708.HK",
+    "name": "EVERG VEHICLE"
+  },
+  {
+    "ticker": "0709.HK",
+    "name": "GIORDANO INT'L"
+  },
+  {
+    "ticker": "0710.HK",
+    "name": "BOE VARITRONIX"
+  },
+  {
+    "ticker": "0711.HK",
+    "name": "ASIA ALLIED INF"
+  },
+  {
+    "ticker": "0712.HK",
+    "name": "COMTEC SOLAR"
+  },
+  {
+    "ticker": "0713.HK",
+    "name": "WORLD HOUSEWARE"
+  },
+  {
+    "ticker": "0716.HK",
+    "name": "SINGAMAS CONT"
+  },
+  {
+    "ticker": "0717.HK",
+    "name": "EMPEROR CAPITAL"
+  },
+  {
+    "ticker": "0718.HK",
+    "name": "TAI UNITED HOLD"
+  },
+  {
+    "ticker": "0719.HK",
+    "name": "SHANDONG XINHUA"
+  },
+  {
+    "ticker": "0720.HK",
+    "name": "AUTO ITALIA"
+  },
+  {
+    "ticker": "0721.HK",
+    "name": "C FIN INT INV"
+  },
+  {
+    "ticker": "0722.HK",
+    "name": "UMP"
+  },
+  {
+    "ticker": "0723.HK",
+    "name": "RELIANCE GLO HL"
+  },
+  {
+    "ticker": "0724.HK",
+    "name": "RUIXIN INT'L"
+  },
+  {
+    "ticker": "0725.HK",
+    "name": "PERENNIAL INT'L"
+  },
+  {
+    "ticker": "0726.HK",
+    "name": "DIT GROUP"
+  },
+  {
+    "ticker": "0727.HK",
+    "name": "CROWNICORP"
+  },
+  {
+    "ticker": "0728.HK",
+    "name": "CHINA TELECOM"
+  },
+  {
+    "ticker": "0730.HK",
+    "name": "CAPITAL IND FIN"
+  },
+  {
+    "ticker": "0731.HK",
+    "name": "C&D NEWIN"
+  },
+  {
+    "ticker": "0732.HK",
+    "name": "TRULY INT'L"
+  },
+  {
+    "ticker": "0733.HK",
+    "name": "HOPEFLUENT"
+  },
+  {
+    "ticker": "0736.HK",
+    "name": "CHINA PPT INV"
+  },
+  {
+    "ticker": "0737.HK",
+    "name": "BAY AREA DEV"
+  },
+  {
+    "ticker": "0738.HK",
+    "name": "LE SAUNDA"
+  },
+  {
+    "ticker": "0743.HK",
+    "name": "ASIA CEMENT CH"
+  },
+  {
+    "ticker": "0745.HK",
+    "name": "CN CULTURE GP"
+  },
+  {
+    "ticker": "0746.HK",
+    "name": "L & M CHEMICAL"
+  },
+  {
+    "ticker": "0747.HK",
+    "name": "SHENYANG PUBLIC"
+  },
+  {
+    "ticker": "0750.HK",
+    "name": "SFSY ENERGY"
+  },
+  {
+    "ticker": "0751.HK",
+    "name": "SKYWORTH GROUP"
+  },
+  {
+    "ticker": "0752.HK",
+    "name": "PICO FAR EAST"
+  },
+  {
+    "ticker": "0753.HK",
+    "name": "AIR CHINA"
+  },
+  {
+    "ticker": "0754.HK",
+    "name": "HOPSON DEV HOLD"
+  },
+  {
+    "ticker": "0755.HK",
+    "name": "DEVGREAT"
+  },
+  {
+    "ticker": "0756.HK",
+    "name": "SUMMI"
+  },
+  {
+    "ticker": "0757.HK",
+    "name": "SOLARGIGA"
+  },
+  {
+    "ticker": "0759.HK",
+    "name": "CEC INT'L HOLD"
+  },
+  {
+    "ticker": "0760.HK",
+    "name": "TALENT PPT GP"
+  },
+  {
+    "ticker": "0762.HK",
+    "name": "CHINA UNICOM"
+  },
+  {
+    "ticker": "0763.HK",
+    "name": "ZTE"
+  },
+  {
+    "ticker": "0764.HK",
+    "name": "ETERNITY INV"
+  },
+  {
+    "ticker": "0765.HK",
+    "name": "PERFECTECH INTL"
+  },
+  {
+    "ticker": "0767.HK",
+    "name": "ZHONG JI LS"
+  },
+  {
+    "ticker": "0768.HK",
+    "name": "UBA INVESTMENTS"
+  },
+  {
+    "ticker": "0769.HK",
+    "name": "CHINA RAREEARTH"
+  },
+  {
+    "ticker": "0770.HK",
+    "name": "SHANGHAI GROWTH"
+  },
+  {
+    "ticker": "0771.HK",
+    "name": "AUTOMATED SYS"
+  },
+  {
+    "ticker": "0772.HK",
+    "name": "CHINA LIT"
+  },
+  {
+    "ticker": "0775.HK",
+    "name": "CKLIFE SCIENCES"
+  },
+  {
+    "ticker": "0776.HK",
+    "name": "IMPERIUM TEC GP"
+  },
+  {
+    "ticker": "0777.HK",
+    "name": "NETDRAGON"
+  },
+  {
+    "ticker": "0778.HK",
+    "name": "FORTUNE REIT"
+  },
+  {
+    "ticker": "0780.HK",
+    "name": "TONGCHENGTRAVEL"
+  },
+  {
+    "ticker": "0784.HK",
+    "name": "LING YUI"
+  },
+  {
+    "ticker": "0788.HK",
+    "name": "CHINA TOWER"
+  },
+  {
+    "ticker": "0789.HK",
+    "name": "ARTINI HLDG"
+  },
+  {
+    "ticker": "0794.HK",
+    "name": "COME SURE GROUP"
+  },
+  {
+    "ticker": "0797.HK",
+    "name": "7ROAD"
+  },
+  {
+    "ticker": "0798.HK",
+    "name": "CEOVU"
+  },
+  {
+    "ticker": "0799.HK",
+    "name": "IGG"
+  },
+  {
+    "ticker": "0800.HK",
+    "name": "WERIDE-W"
+  },
+  {
+    "ticker": "0804.HK",
+    "name": "PINESTONE"
+  },
+  {
+    "ticker": "0805.HK",
+    "name": "NEW GONOW RV"
+  },
+  {
+    "ticker": "0806.HK",
+    "name": "VALUE PARTNERS"
+  },
+  {
+    "ticker": "0807.HK",
+    "name": "SIICENVIRONMENT"
+  },
+  {
+    "ticker": "0808.HK",
+    "name": "PROSPERITY REIT"
+  },
+  {
+    "ticker": "0809.HK",
+    "name": "GLOBAL BIO-CHEM"
+  },
+  {
+    "ticker": "0810.HK",
+    "name": "CH CASTSON 81"
+  },
+  {
+    "ticker": "0811.HK",
+    "name": "XINHUA WINSHARE"
+  },
+  {
+    "ticker": "0813.HK",
+    "name": "SHIMAO GROUP"
+  },
+  {
+    "ticker": "0814.HK",
+    "name": "JINGKELONG"
+  },
+  {
+    "ticker": "0815.HK",
+    "name": "CHI SILVER GP"
+  },
+  {
+    "ticker": "0816.HK",
+    "name": "JINMAO SERVICES"
+  },
+  {
+    "ticker": "0817.HK",
+    "name": "CHINA JINMAO"
+  },
+  {
+    "ticker": "0818.HK",
+    "name": "HI SUN TECH"
+  },
+  {
+    "ticker": "0819.HK",
+    "name": "TIANNENG POWER"
+  },
+  {
+    "ticker": "0821.HK",
+    "name": "VC HOLDINGS"
+  },
+  {
+    "ticker": "0822.HK",
+    "name": "KA SHUI INT'L"
+  },
+  {
+    "ticker": "0823.HK",
+    "name": "LINK REIT"
+  },
+  {
+    "ticker": "0825.HK",
+    "name": "NWDS CHINA"
+  },
+  {
+    "ticker": "0826.HK",
+    "name": "TIANGONG INT'L"
+  },
+  {
+    "ticker": "0827.HK",
+    "name": "KO YO GROUP"
+  },
+  {
+    "ticker": "0828.HK",
+    "name": "DYNASTY WINES"
+  },
+  {
+    "ticker": "0829.HK",
+    "name": "SHENGUAN HLDGS"
+  },
+  {
+    "ticker": "0830.HK",
+    "name": "CSC DEVELOPMENT"
+  },
+  {
+    "ticker": "0831.HK",
+    "name": "CR ASIA"
+  },
+  {
+    "ticker": "0832.HK",
+    "name": "CENTRAL CHINA"
+  },
+  {
+    "ticker": "0833.HK",
+    "name": "ALLTRONICS"
+  },
+  {
+    "ticker": "0834.HK",
+    "name": "KANGDA FOOD"
+  },
+  {
+    "ticker": "0836.HK",
+    "name": "CHINA RES POWER"
+  },
+  {
+    "ticker": "0837.HK",
+    "name": "CARPENTER TAN"
+  },
+  {
+    "ticker": "0838.HK",
+    "name": "EVA HOLDINGS"
+  },
+  {
+    "ticker": "0839.HK",
+    "name": "CHINA EDU GROUP"
+  },
+  {
+    "ticker": "0840.HK",
+    "name": "TIANYE WATER"
+  },
+  {
+    "ticker": "0841.HK",
+    "name": "CASSAVA RES"
+  },
+  {
+    "ticker": "0842.HK",
+    "name": "LEOCH INT'L"
+  },
+  {
+    "ticker": "0844.HK",
+    "name": "GREATIME INTL"
+  },
+  {
+    "ticker": "0845.HK",
+    "name": "GLORIOUS PPT H"
+  },
+  {
+    "ticker": "0846.HK",
+    "name": "MINGFA GROUP"
+  },
+  {
+    "ticker": "0848.HK",
+    "name": "MAOYE INT'L"
+  },
+  {
+    "ticker": "0851.HK",
+    "name": "SHENG YUAN HLDG"
+  },
+  {
+    "ticker": "0852.HK",
+    "name": "STRONG PETRO"
+  },
+  {
+    "ticker": "0853.HK",
+    "name": "MICROPORT"
+  },
+  {
+    "ticker": "0854.HK",
+    "name": "WILLAS-ARRAY"
+  },
+  {
+    "ticker": "0855.HK",
+    "name": "CHINA WATER"
+  },
+  {
+    "ticker": "0856.HK",
+    "name": "VSTECS"
+  },
+  {
+    "ticker": "0857.HK",
+    "name": "PETROCHINA"
+  },
+  {
+    "ticker": "0858.HK",
+    "name": "EXTRAWELL PHAR"
+  },
+  {
+    "ticker": "0859.HK",
+    "name": "ZHONGCHANG INTL"
+  },
+  {
+    "ticker": "0860.HK",
+    "name": "APOLLO FMG"
+  },
+  {
+    "ticker": "0861.HK",
+    "name": "DC HOLDINGS"
+  },
+  {
+    "ticker": "0862.HK",
+    "name": "VISION VALUES"
+  },
+  {
+    "ticker": "0863.HK",
+    "name": "OSL GROUP"
+  },
+  {
+    "ticker": "0864.HK",
+    "name": "WING LEE PPT"
+  },
+  {
+    "ticker": "0865.HK",
+    "name": "JIANDE INT'L"
+  },
+  {
+    "ticker": "0866.HK",
+    "name": "CHINA QINFA"
+  },
+  {
+    "ticker": "0867.HK",
+    "name": "CMS"
+  },
+  {
+    "ticker": "0868.HK",
+    "name": "XINYI GLASS"
+  },
+  {
+    "ticker": "0869.HK",
+    "name": "PLAYMATES TOYS"
+  },
+  {
+    "ticker": "0871.HK",
+    "name": "CH DREDG ENV"
+  },
+  {
+    "ticker": "0873.HK",
+    "name": "SHIMAO SERVICES"
+  },
+  {
+    "ticker": "0874.HK",
+    "name": "BAIYUNSHAN PH"
+  },
+  {
+    "ticker": "0875.HK",
+    "name": "CONGYU INTE AGR"
+  },
+  {
+    "ticker": "0876.HK",
+    "name": "KAISA HEALTH"
+  },
+  {
+    "ticker": "0878.HK",
+    "name": "SOUNDWILL HOLD"
+  },
+  {
+    "ticker": "0880.HK",
+    "name": "SJM HOLDINGS"
+  },
+  {
+    "ticker": "0881.HK",
+    "name": "ZHONGSHENG HLDG"
+  },
+  {
+    "ticker": "0882.HK",
+    "name": "TIANJIN DEV"
+  },
+  {
+    "ticker": "0883.HK",
+    "name": "CNOOC"
+  },
+  {
+    "ticker": "0884.HK",
+    "name": "CIFI HOLD GP"
+  },
+  {
+    "ticker": "0887.HK",
+    "name": "EMPEROR WATCH&J"
+  },
+  {
+    "ticker": "0888.HK",
+    "name": "BLOCKFIN HLDG"
+  },
+  {
+    "ticker": "0889.HK",
+    "name": "DATRONIX HOLD"
+  },
+  {
+    "ticker": "0893.HK",
+    "name": "CHINAVTM MINING"
+  },
+  {
+    "ticker": "0894.HK",
+    "name": "MAN YUE TECH"
+  },
+  {
+    "ticker": "0895.HK",
+    "name": "DONGJIANG ENV"
+  },
+  {
+    "ticker": "0896.HK",
+    "name": "HANISON"
+  },
+  {
+    "ticker": "0897.HK",
+    "name": "WAI YUEN TONG"
+  },
+  {
+    "ticker": "0898.HK",
+    "name": "MULTIFIELD INTL"
+  },
+  {
+    "ticker": "0899.HK",
+    "name": "ZHONG JIA GX"
+  },
+  {
+    "ticker": "0900.HK",
+    "name": "AEON CREDIT"
+  },
+  {
+    "ticker": "0902.HK",
+    "name": "HUANENG POWER"
+  },
+  {
+    "ticker": "0905.HK",
+    "name": "WALNUT CAP"
+  },
+  {
+    "ticker": "0907.HK",
+    "name": "ELEGANCEOPTICAL"
+  },
+  {
+    "ticker": "0909.HK",
+    "name": "MING YUAN CLOUD"
+  },
+  {
+    "ticker": "0910.HK",
+    "name": "CHINA SANDI"
+  },
+  {
+    "ticker": "0911.HK",
+    "name": "QIANHAI HEALTH"
+  },
+  {
+    "ticker": "0912.HK",
+    "name": "SUGA INT'L"
+  },
+  {
+    "ticker": "0913.HK",
+    "name": "HARBOUR DIGITAL"
+  },
+  {
+    "ticker": "0914.HK",
+    "name": "CONCH CEMENT"
+  },
+  {
+    "ticker": "0915.HK",
+    "name": "DAOHE GLOBAL"
+  },
+  {
+    "ticker": "0916.HK",
+    "name": "CHINA LONGYUAN"
+  },
+  {
+    "ticker": "0917.HK",
+    "name": "QUNABOX GROUP"
+  },
+  {
+    "ticker": "0918.HK",
+    "name": "MAJESTIC DRAGON"
+  },
+  {
+    "ticker": "0919.HK",
+    "name": "MODERNHEALTHTEC"
+  },
+  {
+    "ticker": "0921.HK",
+    "name": "HISENSE HA"
+  },
+  {
+    "ticker": "0922.HK",
+    "name": "ANXIANYUAN CH"
+  },
+  {
+    "ticker": "0923.HK",
+    "name": "IWS"
+  },
+  {
+    "ticker": "0924.HK",
+    "name": "KHOON GROUP"
+  },
+  {
+    "ticker": "0926.HK",
+    "name": "BESUNYEN"
+  },
+  {
+    "ticker": "0927.HK",
+    "name": "FUJIKON IND"
+  },
+  {
+    "ticker": "0928.HK",
+    "name": "KING INTL INV"
+  },
+  {
+    "ticker": "0929.HK",
+    "name": "IPE GROUP"
+  },
+  {
+    "ticker": "0931.HK",
+    "name": "CHINA HK POWER"
+  },
+  {
+    "ticker": "0932.HK",
+    "name": "SHUNTEN INTL"
+  },
+  {
+    "ticker": "0933.HK",
+    "name": "VIVA GOODS"
+  },
+  {
+    "ticker": "0934.HK",
+    "name": "SINOPEC KANTONS"
+  },
+  {
+    "ticker": "0936.HK",
+    "name": "KAISA CAPITAL"
+  },
+  {
+    "ticker": "0938.HK",
+    "name": "MAN SANG INT'L"
+  },
+  {
+    "ticker": "0939.HK",
+    "name": "CCB"
+  },
+  {
+    "ticker": "0941.HK",
+    "name": "CHINA MOBILE"
+  },
+  {
+    "ticker": "0943.HK",
+    "name": "ZHONGZHENG INTL"
+  },
+  {
+    "ticker": "0945.HK",
+    "name": "MANULIFE-S"
+  },
+  {
+    "ticker": "0947.HK",
+    "name": "MOBI DEV"
+  },
+  {
+    "ticker": "0948.HK",
+    "name": "ALPHA PRO HLDGS"
+  },
+  {
+    "ticker": "0950.HK",
+    "name": "LEE'S PHARM"
+  },
+  {
+    "ticker": "0951.HK",
+    "name": "CHAOWEI POWER"
+  },
+  {
+    "ticker": "0952.HK",
+    "name": "QUAM PLUS FIN"
+  },
+  {
+    "ticker": "0953.HK",
+    "name": "SHAW BROTHERS"
+  },
+  {
+    "ticker": "0954.HK",
+    "name": "CHANGMAO BIO"
+  },
+  {
+    "ticker": "0956.HK",
+    "name": "CHINA SUNTIEN"
+  },
+  {
+    "ticker": "0959.HK",
+    "name": "CENTURY ENT INT"
+  },
+  {
+    "ticker": "0960.HK",
+    "name": "LONGFOR GROUP"
+  },
+  {
+    "ticker": "0966.HK",
+    "name": "CHINA TAIPING"
+  },
+  {
+    "ticker": "0968.HK",
+    "name": "XINYI SOLAR"
+  },
+  {
+    "ticker": "0969.HK",
+    "name": "HUA LIEN INT'L"
+  },
+  {
+    "ticker": "0970.HK",
+    "name": "NEW SPARKLEROLL"
+  },
+  {
+    "ticker": "0974.HK",
+    "name": "SKL"
+  },
+  {
+    "ticker": "0975.HK",
+    "name": "MONGOL MINING"
+  },
+  {
+    "ticker": "0976.HK",
+    "name": "CHIHO ENV"
+  },
+  {
+    "ticker": "0978.HK",
+    "name": "CHI MER LAND"
+  },
+  {
+    "ticker": "0979.HK",
+    "name": "GREEN ENERGY GP"
+  },
+  {
+    "ticker": "0980.HK",
+    "name": "LIANHUA"
+  },
+  {
+    "ticker": "0981.HK",
+    "name": "SMIC"
+  },
+  {
+    "ticker": "0983.HK",
+    "name": "SOCAM DEV"
+  },
+  {
+    "ticker": "0984.HK",
+    "name": "AEON STORES"
+  },
+  {
+    "ticker": "0986.HK",
+    "name": "DUFU LIQUOR GP"
+  },
+  {
+    "ticker": "0987.HK",
+    "name": "CH RENEW EN INV"
+  },
+  {
+    "ticker": "0989.HK",
+    "name": "CHINA CBS INTL"
+  },
+  {
+    "ticker": "0990.HK",
+    "name": "DEEP SOURCE"
+  },
+  {
+    "ticker": "0991.HK",
+    "name": "DATANG POWER"
+  },
+  {
+    "ticker": "0992.HK",
+    "name": "LENOVO GROUP"
+  },
+  {
+    "ticker": "0993.HK",
+    "name": "XINKONG INT CAP"
+  },
+  {
+    "ticker": "0994.HK",
+    "name": "CT VISION"
+  },
+  {
+    "ticker": "0995.HK",
+    "name": "ANHUIEXPRESSWAY"
+  },
+  {
+    "ticker": "0997.HK",
+    "name": "CHINLINK INTL"
+  },
+  {
+    "ticker": "0998.HK",
+    "name": "CITIC BANK"
+  },
+  {
+    "ticker": "0999.HK",
+    "name": "XIAOCAIYUAN"
+  },
+  {
+    "ticker": "1000.HK",
+    "name": "BEIJING MEDIA"
+  },
+  {
+    "ticker": "1001.HK",
+    "name": "HK SH ALLIANCE"
+  },
+  {
+    "ticker": "1002.HK",
+    "name": "V.S. INT'L"
+  },
+  {
+    "ticker": "1003.HK",
+    "name": "HUANXI MEDIA"
+  },
+  {
+    "ticker": "1004.HK",
+    "name": "C SMARTEREN-NEW"
+  },
+  {
+    "ticker": "1005.HK",
+    "name": "MATRIX HOLDINGS"
+  },
+  {
+    "ticker": "1007.HK",
+    "name": "LONGHUI INTL"
+  },
+  {
+    "ticker": "1008.HK",
+    "name": "LITU HOLDINGS"
+  },
+  {
+    "ticker": "1009.HK",
+    "name": "INT'L ENT"
+  },
+  {
+    "ticker": "1010.HK",
+    "name": "SKY BLUE 11"
+  },
+  {
+    "ticker": "1011.HK",
+    "name": "NT PHARMA"
+  },
+  {
+    "ticker": "1013.HK",
+    "name": "WAI CHUN GROUP"
+  },
+  {
+    "ticker": "1020.HK",
+    "name": "CIPRUN TECH"
+  },
+  {
+    "ticker": "1022.HK",
+    "name": "FEIYU"
+  },
+  {
+    "ticker": "1023.HK",
+    "name": "SITOY GROUP"
+  },
+  {
+    "ticker": "1024.HK",
+    "name": "KUAISHOU-W"
+  },
+  {
+    "ticker": "1025.HK",
+    "name": "KNT HOLDINGS"
+  },
+  {
+    "ticker": "1026.HK",
+    "name": "UNIVERSAL TECH"
+  },
+  {
+    "ticker": "1027.HK",
+    "name": "ASIA STRAT TECH"
+  },
+  {
+    "ticker": "1028.HK",
+    "name": "C.BANNER"
+  },
+  {
+    "ticker": "1029.HK",
+    "name": "IRC"
+  },
+  {
+    "ticker": "1030.HK",
+    "name": "SEAZEN"
+  },
+  {
+    "ticker": "1033.HK",
+    "name": "SINOPEC SSC"
+  },
+  {
+    "ticker": "1036.HK",
+    "name": "VANKE OVERSEAS"
+  },
+  {
+    "ticker": "1037.HK",
+    "name": "MAXNERVA TECH"
+  },
+  {
+    "ticker": "1038.HK",
+    "name": "CKI HOLDINGS"
+  },
+  {
+    "ticker": "1039.HK",
+    "name": "CHANGYOU INT GP"
+  },
+  {
+    "ticker": "1044.HK",
+    "name": "HENGAN INT'L"
+  },
+  {
+    "ticker": "1045.HK",
+    "name": "APT SATELLITE"
+  },
+  {
+    "ticker": "1046.HK",
+    "name": "UNIVERSE ENT"
+  },
+  {
+    "ticker": "1047.HK",
+    "name": "NGAI HING HONG"
+  },
+  {
+    "ticker": "1049.HK",
+    "name": "CELESTIAL ASIA"
+  },
+  {
+    "ticker": "1050.HK",
+    "name": "KARRIE INT'L"
+  },
+  {
+    "ticker": "1051.HK",
+    "name": "G-RESOURCES"
+  },
+  {
+    "ticker": "1052.HK",
+    "name": "YUEXIUTRANSPORT"
+  },
+  {
+    "ticker": "1053.HK",
+    "name": "CHONGQING IRON"
+  },
+  {
+    "ticker": "1055.HK",
+    "name": "CHINA SOUTH AIR"
+  },
+  {
+    "ticker": "1057.HK",
+    "name": "ZHEJIANG SHIBAO"
+  },
+  {
+    "ticker": "1058.HK",
+    "name": "NAMYUE HOLDINGS"
+  },
+  {
+    "ticker": "1059.HK",
+    "name": "KANTONE HOLDING"
+  },
+  {
+    "ticker": "1060.HK",
+    "name": "DAMAI ENT"
+  },
+  {
+    "ticker": "1061.HK",
+    "name": "ESSEX BIO-TECH"
+  },
+  {
+    "ticker": "1062.HK",
+    "name": "CDB INT'L INV"
+  },
+  {
+    "ticker": "1063.HK",
+    "name": "SUNCORP TECH"
+  },
+  {
+    "ticker": "1064.HK",
+    "name": "ZHONG HUA INT'L"
+  },
+  {
+    "ticker": "1065.HK",
+    "name": "TIANJIN CAPITAL"
+  },
+  {
+    "ticker": "1066.HK",
+    "name": "WEIGAO GROUP"
+  },
+  {
+    "ticker": "1068.HK",
+    "name": "YURUN FOOD"
+  },
+  {
+    "ticker": "1069.HK",
+    "name": "CN HEALTH TECH"
+  },
+  {
+    "ticker": "1070.HK",
+    "name": "TCL ELECTRONICS"
+  },
+  {
+    "ticker": "1071.HK",
+    "name": "HUADIAN POWER"
+  },
+  {
+    "ticker": "1072.HK",
+    "name": "DONGFANG ELEC"
+  },
+  {
+    "ticker": "1073.HK",
+    "name": "DA YU FIN"
+  },
+  {
+    "ticker": "1075.HK",
+    "name": "CAPINFO"
+  },
+  {
+    "ticker": "1079.HK",
+    "name": "PINE TECH"
+  },
+  {
+    "ticker": "1080.HK",
+    "name": "SHENGLI PIPE"
+  },
+  {
+    "ticker": "1082.HK",
+    "name": "BDV EDU INTL"
+  },
+  {
+    "ticker": "1083.HK",
+    "name": "TG SMART ENERGY"
+  },
+  {
+    "ticker": "1084.HK",
+    "name": "GREEN FRESH BIO"
+  },
+  {
+    "ticker": "1085.HK",
+    "name": "HXTL"
+  },
+  {
+    "ticker": "1086.HK",
+    "name": "GOODBABY INTL"
+  },
+  {
+    "ticker": "1087.HK",
+    "name": "INVESTECH HLDGS"
+  },
+  {
+    "ticker": "1088.HK",
+    "name": "CHINA SHENHUA"
+  },
+  {
+    "ticker": "1090.HK",
+    "name": "DA MING INT'L"
+  },
+  {
+    "ticker": "1091.HK",
+    "name": "SOUTH MANGANESE"
+  },
+  {
+    "ticker": "1093.HK",
+    "name": "CSPC PHARMA"
+  },
+  {
+    "ticker": "1094.HK",
+    "name": "CHERISH SUN"
+  },
+  {
+    "ticker": "1097.HK",
+    "name": "I-CABLE COMM"
+  },
+  {
+    "ticker": "1098.HK",
+    "name": "ROAD KING INFRA"
+  },
+  {
+    "ticker": "1099.HK",
+    "name": "SINOPHARM"
+  },
+  {
+    "ticker": "1100.HK",
+    "name": "MAINLAND HOLD"
+  },
+  {
+    "ticker": "1101.HK",
+    "name": "HUARONG ENERGY"
+  },
+  {
+    "ticker": "1102.HK",
+    "name": "ENVIRO ENERGY"
+  },
+  {
+    "ticker": "1104.HK",
+    "name": "APAC RESOURCES"
+  },
+  {
+    "ticker": "1105.HK",
+    "name": "SING TAO"
+  },
+  {
+    "ticker": "1107.HK",
+    "name": "MODERN LAND"
+  },
+  {
+    "ticker": "1108.HK",
+    "name": "TRIUMPH NEW EN"
+  },
+  {
+    "ticker": "1109.HK",
+    "name": "CHINA RES LAND"
+  },
+  {
+    "ticker": "1110.HK",
+    "name": "KINGWORLD"
+  },
+  {
+    "ticker": "1111.HK",
+    "name": "HUASHI GROUP"
+  },
+  {
+    "ticker": "1112.HK",
+    "name": "H&H INTL HLDG"
+  },
+  {
+    "ticker": "1113.HK",
+    "name": "CK ASSET"
+  },
+  {
+    "ticker": "1114.HK",
+    "name": "BRILLIANCE CHI"
+  },
+  {
+    "ticker": "1115.HK",
+    "name": "5100 XIZANG"
+  },
+  {
+    "ticker": "1116.HK",
+    "name": "HC TECH GP"
+  },
+  {
+    "ticker": "1117.HK",
+    "name": "CH MODERN D"
+  },
+  {
+    "ticker": "1118.HK",
+    "name": "GOLIK HOLDINGS"
+  },
+  {
+    "ticker": "1119.HK",
+    "name": "IDREAMSKY"
+  },
+  {
+    "ticker": "1120.HK",
+    "name": "ARTS OPTICAL"
+  },
+  {
+    "ticker": "1121.HK",
+    "name": "GOLDENSOLAR"
+  },
+  {
+    "ticker": "1122.HK",
+    "name": "QINGLING MOTORS"
+  },
+  {
+    "ticker": "1123.HK",
+    "name": "CHINA-HK PHOTO"
+  },
+  {
+    "ticker": "1124.HK",
+    "name": "COASTAL GL"
+  },
+  {
+    "ticker": "1125.HK",
+    "name": "LAI FUNG HOLD"
+  },
+  {
+    "ticker": "1126.HK",
+    "name": "DREAM INT'L"
+  },
+  {
+    "ticker": "1127.HK",
+    "name": "LION ROCK GROUP"
+  },
+  {
+    "ticker": "1128.HK",
+    "name": "WYNN MACAU"
+  },
+  {
+    "ticker": "1129.HK",
+    "name": "WATER INDUSTRY"
+  },
+  {
+    "ticker": "1130.HK",
+    "name": "CHINA ENV RES"
+  },
+  {
+    "ticker": "1132.HK",
+    "name": "ORANGE SKY G H"
+  },
+  {
+    "ticker": "1133.HK",
+    "name": "HARBIN ELECTRIC"
+  },
+  {
+    "ticker": "1134.HK",
+    "name": "KELFRED"
+  },
+  {
+    "ticker": "1137.HK",
+    "name": "HK TECH VENTURE"
+  },
+  {
+    "ticker": "1138.HK",
+    "name": "COSCO SHIP ENGY"
+  },
+  {
+    "ticker": "1140.HK",
+    "name": "HK.AI CAPITAL"
+  },
+  {
+    "ticker": "1141.HK",
+    "name": "CMBC CAPITAL"
+  },
+  {
+    "ticker": "1142.HK",
+    "name": "E&P GLOBAL"
+  },
+  {
+    "ticker": "1143.HK",
+    "name": "CN ENGY STORAGE"
+  },
+  {
+    "ticker": "1145.HK",
+    "name": "COURAGE INV"
+  },
+  {
+    "ticker": "1146.HK",
+    "name": "HUICHENG INTL H"
+  },
+  {
+    "ticker": "1147.HK",
+    "name": "EDENSOFT"
+  },
+  {
+    "ticker": "1148.HK",
+    "name": "POWER XINCHEN"
+  },
+  {
+    "ticker": "1150.HK",
+    "name": "MILAN STATION"
+  },
+  {
+    "ticker": "1152.HK",
+    "name": "MOMENTUM FIN"
+  },
+  {
+    "ticker": "1153.HK",
+    "name": "JIAYUAN SER"
+  },
+  {
+    "ticker": "1156.HK",
+    "name": "CHINANEWENERGY"
+  },
+  {
+    "ticker": "1157.HK",
+    "name": "ZOOMLION"
+  },
+  {
+    "ticker": "1159.HK",
+    "name": "SMART DIGI TECH"
+  },
+  {
+    "ticker": "1160.HK",
+    "name": "GOLDSTONE CAP"
+  },
+  {
+    "ticker": "1161.HK",
+    "name": "WATER OASIS GP"
+  },
+  {
+    "ticker": "1162.HK",
+    "name": "LUMINA GROUP"
+  },
+  {
+    "ticker": "1163.HK",
+    "name": "ADTIGER CORP"
+  },
+  {
+    "ticker": "1164.HK",
+    "name": "CGN MINING"
+  },
+  {
+    "ticker": "1165.HK",
+    "name": "SFCE"
+  },
+  {
+    "ticker": "1166.HK",
+    "name": "SOLARTECH INT'L"
+  },
+  {
+    "ticker": "1167.HK",
+    "name": "JACOBIO-B"
+  },
+  {
+    "ticker": "1168.HK",
+    "name": "Z FIN"
+  },
+  {
+    "ticker": "1170.HK",
+    "name": "KINGMAKER"
+  },
+  {
+    "ticker": "1171.HK",
+    "name": "YANKUANG ENERGY"
+  },
+  {
+    "ticker": "1172.HK",
+    "name": "MAGNUSCONCORDIA"
+  },
+  {
+    "ticker": "1173.HK",
+    "name": "VEEKO INT'L"
+  },
+  {
+    "ticker": "1176.HK",
+    "name": "ZHUGUANG HOLD"
+  },
+  {
+    "ticker": "1177.HK",
+    "name": "SINO BIOPHARM"
+  },
+  {
+    "ticker": "1179.HK",
+    "name": "HWORLD-S"
+  },
+  {
+    "ticker": "1180.HK",
+    "name": "PARADISE ENT"
+  },
+  {
+    "ticker": "1181.HK",
+    "name": "TANG PALACE"
+  },
+  {
+    "ticker": "1182.HK",
+    "name": "SUCCESS DRAGON"
+  },
+  {
+    "ticker": "1183.HK",
+    "name": "MECOM POWER"
+  },
+  {
+    "ticker": "1184.HK",
+    "name": "S.A.S. DRAGON"
+  },
+  {
+    "ticker": "1186.HK",
+    "name": "CHINA RAIL CONS"
+  },
+  {
+    "ticker": "1188.HK",
+    "name": "HYBRID KINETIC"
+  },
+  {
+    "ticker": "1193.HK",
+    "name": "CHINA RES GAS"
+  },
+  {
+    "ticker": "1195.HK",
+    "name": "KINGWELL GROUP"
+  },
+  {
+    "ticker": "1196.HK",
+    "name": "REALORD GROUP"
+  },
+  {
+    "ticker": "1198.HK",
+    "name": "ROYALE HOME"
+  },
+  {
+    "ticker": "1199.HK",
+    "name": "COSCO SHIP PORT"
+  },
+  {
+    "ticker": "1200.HK",
+    "name": "MIDLAND HOLDING"
+  },
+  {
+    "ticker": "1201.HK",
+    "name": "TESSON HOLDINGS"
+  },
+  {
+    "ticker": "1202.HK",
+    "name": "SIWI SCI & TECH"
+  },
+  {
+    "ticker": "1203.HK",
+    "name": "GUANGNAN (HOLD)"
+  },
+  {
+    "ticker": "1204.HK",
+    "name": "BOARDWARE INTEL"
+  },
+  {
+    "ticker": "1205.HK",
+    "name": "CITIC RESOURCES"
+  },
+  {
+    "ticker": "1206.HK",
+    "name": "TECHNOVATOR"
+  },
+  {
+    "ticker": "1208.HK",
+    "name": "MMG"
+  },
+  {
+    "ticker": "1209.HK",
+    "name": "CHINA RES MIXC"
+  },
+  {
+    "ticker": "1211.HK",
+    "name": "BYD COMPANY"
+  },
+  {
+    "ticker": "1213.HK",
+    "name": "MOBICON GROUP"
+  },
+  {
+    "ticker": "1215.HK",
+    "name": "KAI YUAN HLDGS"
+  },
+  {
+    "ticker": "1216.HK",
+    "name": "ZYBANK"
+  },
+  {
+    "ticker": "1217.HK",
+    "name": "CH INNOVATION"
+  },
+  {
+    "ticker": "1218.HK",
+    "name": "EASYKNIT INT'L"
+  },
+  {
+    "ticker": "1220.HK",
+    "name": "ZHIDAO INT'L"
+  },
+  {
+    "ticker": "1221.HK",
+    "name": "SINO HOTELS"
+  },
+  {
+    "ticker": "1222.HK",
+    "name": "WANG ON GROUP"
+  },
+  {
+    "ticker": "1223.HK",
+    "name": "SYMPHONY HOLD"
+  },
+  {
+    "ticker": "1224.HK",
+    "name": "C C LAND"
+  },
+  {
+    "ticker": "1225.HK",
+    "name": "LERADO FIN"
+  },
+  {
+    "ticker": "1226.HK",
+    "name": "CH INV FIN GP"
+  },
+  {
+    "ticker": "1228.HK",
+    "name": "CANBRIDGE-B"
+  },
+  {
+    "ticker": "1229.HK",
+    "name": "NAN NAN RES"
+  },
+  {
+    "ticker": "1231.HK",
+    "name": "NEWTON RES"
+  },
+  {
+    "ticker": "1232.HK",
+    "name": "GW TIANDI"
+  },
+  {
+    "ticker": "1233.HK",
+    "name": "TIMES CHINA"
+  },
+  {
+    "ticker": "1234.HK",
+    "name": "CHINA LILANG"
+  },
+  {
+    "ticker": "1235.HK",
+    "name": "TRAVEL EXPERT"
+  },
+  {
+    "ticker": "1237.HK",
+    "name": "CH ENV TECH&BIO"
+  },
+  {
+    "ticker": "1238.HK",
+    "name": "POWERLONG"
+  },
+  {
+    "ticker": "1239.HK",
+    "name": "TEAMWAY INTL GP"
+  },
+  {
+    "ticker": "1240.HK",
+    "name": "CNQC INT'L"
+  },
+  {
+    "ticker": "1241.HK",
+    "name": "SHUANGHUA H"
+  },
+  {
+    "ticker": "1243.HK",
+    "name": "WANG ON PPT"
+  },
+  {
+    "ticker": "1244.HK",
+    "name": "3D MEDICINES"
+  },
+  {
+    "ticker": "1245.HK",
+    "name": "NIRAKU"
+  },
+  {
+    "ticker": "1246.HK",
+    "name": "BOILLHEALTHCARE"
+  },
+  {
+    "ticker": "1247.HK",
+    "name": "MIKO INTL"
+  },
+  {
+    "ticker": "1250.HK",
+    "name": "SDHS NEW ENERGY"
+  },
+  {
+    "ticker": "1251.HK",
+    "name": "SPT ENERGY"
+  },
+  {
+    "ticker": "1252.HK",
+    "name": "CHINA TIANRUI"
+  },
+  {
+    "ticker": "1253.HK",
+    "name": "GREEN BROAD"
+  },
+  {
+    "ticker": "1255.HK",
+    "name": "TATA HEALTH"
+  },
+  {
+    "ticker": "1257.HK",
+    "name": "CEB GREENTECH"
+  },
+  {
+    "ticker": "1258.HK",
+    "name": "CHINFMINING"
+  },
+  {
+    "ticker": "1259.HK",
+    "name": "PROSPER FUTURE"
+  },
+  {
+    "ticker": "1260.HK",
+    "name": "WONDERFUL SKY"
+  },
+  {
+    "ticker": "1262.HK",
+    "name": "LABIXIAOXIN"
+  },
+  {
+    "ticker": "1265.HK",
+    "name": "TIANJINJINRAN"
+  },
+  {
+    "ticker": "1268.HK",
+    "name": "MEIDONG AUTO"
+  },
+  {
+    "ticker": "1269.HK",
+    "name": "FIRST CAP GP"
+  },
+  {
+    "ticker": "1270.HK",
+    "name": "LANGHAM-SS"
+  },
+  {
+    "ticker": "1271.HK",
+    "name": "GRAND MING"
+  },
+  {
+    "ticker": "1272.HK",
+    "name": "DATANG ENVIRO"
+  },
+  {
+    "ticker": "1273.HK",
+    "name": "HK FINANCE GP"
+  },
+  {
+    "ticker": "1274.HK",
+    "name": "IMOTIONTECH"
+  },
+  {
+    "ticker": "1276.HK",
+    "name": "HENGRUI PHARMA"
+  },
+  {
+    "ticker": "1277.HK",
+    "name": "KINETIC DEV"
+  },
+  {
+    "ticker": "1278.HK",
+    "name": "CHINANEWTOWN"
+  },
+  {
+    "ticker": "1280.HK",
+    "name": "QIDIAN GUOFENG"
+  },
+  {
+    "ticker": "1281.HK",
+    "name": "XINDA INV HLDGS"
+  },
+  {
+    "ticker": "1282.HK",
+    "name": "RENZE HARVEST"
+  },
+  {
+    "ticker": "1283.HK",
+    "name": "ACCEL GROUP"
+  },
+  {
+    "ticker": "1284.HK",
+    "name": "NEW MEDIA LAB"
+  },
+  {
+    "ticker": "1285.HK",
+    "name": "JIASHILI GP"
+  },
+  {
+    "ticker": "1286.HK",
+    "name": "IMPRO PRECISION"
+  },
+  {
+    "ticker": "1288.HK",
+    "name": "ABC"
+  },
+  {
+    "ticker": "1289.HK",
+    "name": "SUNLIT SCI"
+  },
+  {
+    "ticker": "1290.HK",
+    "name": "CHINA HUIRONG"
+  },
+  {
+    "ticker": "1292.HK",
+    "name": "CMA LOGISTICS"
+  },
+  {
+    "ticker": "1293.HK",
+    "name": "GRAND BAOXIN"
+  },
+  {
+    "ticker": "1298.HK",
+    "name": "YUNNAN ENERGY"
+  },
+  {
+    "ticker": "1299.HK",
+    "name": "AIA"
+  },
+  {
+    "ticker": "1300.HK",
+    "name": "TRIGIANT"
+  },
+  {
+    "ticker": "1301.HK",
+    "name": "D&G TECH"
+  },
+  {
+    "ticker": "1302.HK",
+    "name": "LIFETECH SCI"
+  },
+  {
+    "ticker": "1303.HK",
+    "name": "HUILI RES"
+  },
+  {
+    "ticker": "1304.HK",
+    "name": "FORTIOR"
+  },
+  {
+    "ticker": "1305.HK",
+    "name": "WAI CHI HOLD"
+  },
+  {
+    "ticker": "1308.HK",
+    "name": "SITC"
+  },
+  {
+    "ticker": "1310.HK",
+    "name": "HKBN"
+  },
+  {
+    "ticker": "1312.HK",
+    "name": "KONTA CHINA"
+  },
+  {
+    "ticker": "1313.HK",
+    "name": "CR BLDG MAT TEC"
+  },
+  {
+    "ticker": "1314.HK",
+    "name": "TSUI WAH HLDG"
+  },
+  {
+    "ticker": "1315.HK",
+    "name": "GREEN ECONOMY"
+  },
+  {
+    "ticker": "1316.HK",
+    "name": "NEXTEER"
+  },
+  {
+    "ticker": "1317.HK",
+    "name": "MAPLELEAF EDU"
+  },
+  {
+    "ticker": "1318.HK",
+    "name": "MAO GEPING"
+  },
+  {
+    "ticker": "1319.HK",
+    "name": "OIWAHPAWN"
+  },
+  {
+    "ticker": "1321.HK",
+    "name": "CHINA NEWCITY"
+  },
+  {
+    "ticker": "1323.HK",
+    "name": "HUASHENG INTL"
+  },
+  {
+    "ticker": "1326.HK",
+    "name": "TRANSMIT ENT"
+  },
+  {
+    "ticker": "1327.HK",
+    "name": "LUXXU GROUP"
+  },
+  {
+    "ticker": "1328.HK",
+    "name": "GOLDSTREAM INV"
+  },
+  {
+    "ticker": "1330.HK",
+    "name": "DYNAGREEN ENV"
+  },
+  {
+    "ticker": "1332.HK",
+    "name": "TOUYUN BIOTECH"
+  },
+  {
+    "ticker": "1333.HK",
+    "name": "BRETON"
+  },
+  {
+    "ticker": "1334.HK",
+    "name": "RUICHANG INTL"
+  },
+  {
+    "ticker": "1335.HK",
+    "name": "SHEEN TAI"
+  },
+  {
+    "ticker": "1336.HK",
+    "name": "NCI"
+  },
+  {
+    "ticker": "1338.HK",
+    "name": "BAWANG GROUP"
+  },
+  {
+    "ticker": "1339.HK",
+    "name": "PICC GROUP"
+  },
+  {
+    "ticker": "1340.HK",
+    "name": "HUISHENG INTL"
+  },
+  {
+    "ticker": "1341.HK",
+    "name": "HAO TIAN INTL"
+  },
+  {
+    "ticker": "1343.HK",
+    "name": "WEI YUAN HLDG"
+  },
+  {
+    "ticker": "1345.HK",
+    "name": "SH PIONEER HLDG"
+  },
+  {
+    "ticker": "1346.HK",
+    "name": "LEVER STYLE"
+  },
+  {
+    "ticker": "1347.HK",
+    "name": "HUA HONG SEMI"
+  },
+  {
+    "ticker": "1348.HK",
+    "name": "QUALI-SMART"
+  },
+  {
+    "ticker": "1349.HK",
+    "name": "FUDANZHANGJIANG"
+  },
+  {
+    "ticker": "1351.HK",
+    "name": "BRIGHT FUTURE"
+  },
+  {
+    "ticker": "1354.HK",
+    "name": "KINGFARPROPERTY"
+  },
+  {
+    "ticker": "1355.HK",
+    "name": "LEGEND STRAT"
+  },
+  {
+    "ticker": "1357.HK",
+    "name": "MEITU"
+  },
+  {
+    "ticker": "1358.HK",
+    "name": "PW MEDTECH"
+  },
+  {
+    "ticker": "1359.HK",
+    "name": "CHINA CINDA"
+  },
+  {
+    "ticker": "1361.HK",
+    "name": "361 DEGREES"
+  },
+  {
+    "ticker": "1362.HK",
+    "name": "SIS MOBILE"
+  },
+  {
+    "ticker": "1364.HK",
+    "name": "GUMING"
+  },
+  {
+    "ticker": "1368.HK",
+    "name": "XTEP INT'L"
+  },
+  {
+    "ticker": "1370.HK",
+    "name": "AOWEI HOLDING"
+  },
+  {
+    "ticker": "1371.HK",
+    "name": "CHINA ECOTOUR"
+  },
+  {
+    "ticker": "1372.HK",
+    "name": "C CARBONNEUTRAL"
+  },
+  {
+    "ticker": "1373.HK",
+    "name": "IH RETAIL"
+  },
+  {
+    "ticker": "1375.HK",
+    "name": "CC SECURITIES"
+  },
+  {
+    "ticker": "1376.HK",
+    "name": "RAFFLESINTERIOR"
+  },
+  {
+    "ticker": "1378.HK",
+    "name": "CHINAHONGQIAO"
+  },
+  {
+    "ticker": "1379.HK",
+    "name": "WENLING MCT"
+  },
+  {
+    "ticker": "1380.HK",
+    "name": "CHI KINGSTONE"
+  },
+  {
+    "ticker": "1382.HK",
+    "name": "PACIFICTEXTILES"
+  },
+  {
+    "ticker": "1384.HK",
+    "name": "DEEPEXI TECH"
+  },
+  {
+    "ticker": "1385.HK",
+    "name": "SHANGHAI FUDAN"
+  },
+  {
+    "ticker": "1388.HK",
+    "name": "EMBRY HOLDINGS"
+  },
+  {
+    "ticker": "1389.HK",
+    "name": "MAJOR HLDGS"
+  },
+  {
+    "ticker": "1393.HK",
+    "name": "HIDILI INDUSTRY"
+  },
+  {
+    "ticker": "1395.HK",
+    "name": "ELL ENV"
+  },
+  {
+    "ticker": "1396.HK",
+    "name": "GD-HKGBA HLDGS"
+  },
+  {
+    "ticker": "1397.HK",
+    "name": "BAGUIO GREEN"
+  },
+  {
+    "ticker": "1398.HK",
+    "name": "ICBC"
+  },
+  {
+    "ticker": "1399.HK",
+    "name": "VESON HLDG"
+  },
+  {
+    "ticker": "1400.HK",
+    "name": "MOODY TECH HLDG"
+  },
+  {
+    "ticker": "1401.HK",
+    "name": "FUTURE MACH LTD"
+  },
+  {
+    "ticker": "1402.HK",
+    "name": "I-CONTROL"
+  },
+  {
+    "ticker": "1405.HK",
+    "name": "DPC DASH"
+  },
+  {
+    "ticker": "1406.HK",
+    "name": "CLARITY MEDICAL"
+  },
+  {
+    "ticker": "1407.HK",
+    "name": "JY GAS"
+  },
+  {
+    "ticker": "1408.HK",
+    "name": "MACAU E&M"
+  },
+  {
+    "ticker": "1410.HK",
+    "name": "EDVANCE INTL"
+  },
+  {
+    "ticker": "1412.HK",
+    "name": "Q P GROUP"
+  },
+  {
+    "ticker": "1413.HK",
+    "name": "FEG HOLDINGS"
+  },
+  {
+    "ticker": "1415.HK",
+    "name": "COWELL"
+  },
+  {
+    "ticker": "1416.HK",
+    "name": "CTR HOLDINGS"
+  },
+  {
+    "ticker": "1417.HK",
+    "name": "RIVERINE CHINA"
+  },
+  {
+    "ticker": "1418.HK",
+    "name": "SINOMAX GROUP"
+  },
+  {
+    "ticker": "1419.HK",
+    "name": "HUMAN HEALTH"
+  },
+  {
+    "ticker": "1420.HK",
+    "name": "CHUAN HOLDING"
+  },
+  {
+    "ticker": "1421.HK",
+    "name": "PROSP GP INTL"
+  },
+  {
+    "ticker": "1425.HK",
+    "name": "JUSTIN ALLEN H"
+  },
+  {
+    "ticker": "1426.HK",
+    "name": "SPRING REIT"
+  },
+  {
+    "ticker": "1427.HK",
+    "name": "CH TIANBAO GP"
+  },
+  {
+    "ticker": "1428.HK",
+    "name": "BRIGHT SMART"
+  },
+  {
+    "ticker": "1429.HK",
+    "name": "SKYMISSION GP"
+  },
+  {
+    "ticker": "1431.HK",
+    "name": "YST DAIRY"
+  },
+  {
+    "ticker": "1432.HK",
+    "name": "CHINA SHENGMU"
+  },
+  {
+    "ticker": "1433.HK",
+    "name": "CIRTEK HLDGS"
+  },
+  {
+    "ticker": "1440.HK",
+    "name": "STAR SHINE HLDG"
+  },
+  {
+    "ticker": "1442.HK",
+    "name": "INFINITY L&T"
+  },
+  {
+    "ticker": "1443.HK",
+    "name": "FULUM GP HLDG"
+  },
+  {
+    "ticker": "1446.HK",
+    "name": "HUNGFOOKTONG"
+  },
+  {
+    "ticker": "1447.HK",
+    "name": "SFK"
+  },
+  {
+    "ticker": "1448.HK",
+    "name": "FU SHOU YUAN"
+  },
+  {
+    "ticker": "1449.HK",
+    "name": "LEADER EDU"
+  },
+  {
+    "ticker": "1450.HK",
+    "name": "BE FRIENDS HLDG"
+  },
+  {
+    "ticker": "1451.HK",
+    "name": "MS GROUP HLDGS"
+  },
+  {
+    "ticker": "1452.HK",
+    "name": "DENOX ENV"
+  },
+  {
+    "ticker": "1455.HK",
+    "name": "FOURACE IND GP"
+  },
+  {
+    "ticker": "1456.HK",
+    "name": "GLMS SEC"
+  },
+  {
+    "ticker": "1458.HK",
+    "name": "ZHOU HEI YA"
+  },
+  {
+    "ticker": "1459.HK",
+    "name": "JUJIANG CONS"
+  },
+  {
+    "ticker": "1460.HK",
+    "name": "ICO GROUP"
+  },
+  {
+    "ticker": "1461.HK",
+    "name": "ZHONGTAIFUTURES"
+  },
+  {
+    "ticker": "1463.HK",
+    "name": "C-LINK SQ"
+  },
+  {
+    "ticker": "1466.HK",
+    "name": "BAIJIN LIFE SCI"
+  },
+  {
+    "ticker": "1468.HK",
+    "name": "JAKOTA CAPITAL"
+  },
+  {
+    "ticker": "1470.HK",
+    "name": "PROSPER ONE"
+  },
+  {
+    "ticker": "1471.HK",
+    "name": "ZHONGMIAO"
+  },
+  {
+    "ticker": "1472.HK",
+    "name": "SANG HING HLDGS"
+  },
+  {
+    "ticker": "1473.HK",
+    "name": "PANGAEA CONNECT"
+  },
+  {
+    "ticker": "1475.HK",
+    "name": "NISSIN FOODS"
+  },
+  {
+    "ticker": "1476.HK",
+    "name": "FIN STREET SEC"
+  },
+  {
+    "ticker": "1477.HK",
+    "name": "OCUMENSION-B"
+  },
+  {
+    "ticker": "1478.HK",
+    "name": "Q TECH"
+  },
+  {
+    "ticker": "1480.HK",
+    "name": "YAN TAT GROUP"
+  },
+  {
+    "ticker": "1481.HK",
+    "name": "SMART GLOBE"
+  },
+  {
+    "ticker": "1483.HK",
+    "name": "NET-A-GO TECH"
+  },
+  {
+    "ticker": "1486.HK",
+    "name": "C CHENG HLDGS"
+  },
+  {
+    "ticker": "1488.HK",
+    "name": "BEST FOOD HLDG"
+  },
+  {
+    "ticker": "1489.HK",
+    "name": "GC CONSTRUCTION"
+  },
+  {
+    "ticker": "1490.HK",
+    "name": "AI X TECH"
+  },
+  {
+    "ticker": "1495.HK",
+    "name": "JIYI HOLDINGS"
+  },
+  {
+    "ticker": "1496.HK",
+    "name": "AP RENTALS"
+  },
+  {
+    "ticker": "1497.HK",
+    "name": "YAN PALACE"
+  },
+  {
+    "ticker": "1498.HK",
+    "name": "PURAPHARM"
+  },
+  {
+    "ticker": "1499.HK",
+    "name": "OKG TECH"
+  },
+  {
+    "ticker": "1500.HK",
+    "name": "INCON"
+  },
+  {
+    "ticker": "1501.HK",
+    "name": "INT MEDICAL"
+  },
+  {
+    "ticker": "1502.HK",
+    "name": "FIN STREET PPT"
+  },
+  {
+    "ticker": "1503.HK",
+    "name": "CMC REIT"
+  },
+  {
+    "ticker": "1508.HK",
+    "name": "CHINA RE"
+  },
+  {
+    "ticker": "1513.HK",
+    "name": "LIVZON PHARMA"
+  },
+  {
+    "ticker": "1515.HK",
+    "name": "CR MEDICAL"
+  },
+  {
+    "ticker": "1516.HK",
+    "name": "SUNAC SERVICES"
+  },
+  {
+    "ticker": "1518.HK",
+    "name": "NC HEALTHCARE"
+  },
+  {
+    "ticker": "1519.HK",
+    "name": "J&T EXPRESS-W"
+  },
+  {
+    "ticker": "1520.HK",
+    "name": "VIRTUAL MIND"
+  },
+  {
+    "ticker": "1521.HK",
+    "name": "FRONTAGE"
+  },
+  {
+    "ticker": "1522.HK",
+    "name": "BII TRANS TECH"
+  },
+  {
+    "ticker": "1523.HK",
+    "name": "PLOVER BAY TECH"
+  },
+  {
+    "ticker": "1525.HK",
+    "name": "GENCH EDU"
+  },
+  {
+    "ticker": "1526.HK",
+    "name": "RICI HEALTH"
+  },
+  {
+    "ticker": "1527.HK",
+    "name": "TENGY ENV"
+  },
+  {
+    "ticker": "1528.HK",
+    "name": "RS MACALLINE"
+  },
+  {
+    "ticker": "1529.HK",
+    "name": "YUES INTL HLDG"
+  },
+  {
+    "ticker": "1530.HK",
+    "name": "3SBIO"
+  },
+  {
+    "ticker": "1532.HK",
+    "name": "CHINA PARTYTIME"
+  },
+  {
+    "ticker": "1536.HK",
+    "name": "YUK WING GP"
+  },
+  {
+    "ticker": "1538.HK",
+    "name": "ZHONG AO HOME"
+  },
+  {
+    "ticker": "1539.HK",
+    "name": "UNITY GP HLDGS"
+  },
+  {
+    "ticker": "1540.HK",
+    "name": "LEFTFIELD PRINT"
+  },
+  {
+    "ticker": "1541.HK",
+    "name": "IMMUNEONCO-B"
+  },
+  {
+    "ticker": "1542.HK",
+    "name": "TAIZHOU WATER"
+  },
+  {
+    "ticker": "1543.HK",
+    "name": "JOIN-SHARE"
+  },
+  {
+    "ticker": "1545.HK",
+    "name": "DESIGN CAPITAL"
+  },
+  {
+    "ticker": "1546.HK",
+    "name": "THELLOY DEV"
+  },
+  {
+    "ticker": "1547.HK",
+    "name": "IBI GROUP HLDGS"
+  },
+  {
+    "ticker": "1548.HK",
+    "name": "GENSCRIPT BIO"
+  },
+  {
+    "ticker": "1549.HK",
+    "name": "EVER HARVEST GP"
+  },
+  {
+    "ticker": "1551.HK",
+    "name": "GRCB"
+  },
+  {
+    "ticker": "1552.HK",
+    "name": "BHCC HOLDING"
+  },
+  {
+    "ticker": "1553.HK",
+    "name": "MAIKE TUBE"
+  },
+  {
+    "ticker": "1555.HK",
+    "name": "MIE HOLDINGS"
+  },
+  {
+    "ticker": "1556.HK",
+    "name": "CHINNEY KW"
+  },
+  {
+    "ticker": "1557.HK",
+    "name": "K.H. GP HLDGS"
+  },
+  {
+    "ticker": "1559.HK",
+    "name": "KWAN ON HLDGS"
+  },
+  {
+    "ticker": "1560.HK",
+    "name": "STAR GROUP ASIA"
+  },
+  {
+    "ticker": "1561.HK",
+    "name": "PAN ASIA DATA H"
+  },
+  {
+    "ticker": "1563.HK",
+    "name": "ALLI INTL ED LE"
+  },
+  {
+    "ticker": "1565.HK",
+    "name": "VIRSCEND EDU"
+  },
+  {
+    "ticker": "1566.HK",
+    "name": "CA CULTURAL"
+  },
+  {
+    "ticker": "1568.HK",
+    "name": "SUNDART HLDGS"
+  },
+  {
+    "ticker": "1569.HK",
+    "name": "MINSHENG EDU"
+  },
+  {
+    "ticker": "1570.HK",
+    "name": "WEIYE HOLDINGS"
+  },
+  {
+    "ticker": "1571.HK",
+    "name": "XIN POINT HOLD"
+  },
+  {
+    "ticker": "1572.HK",
+    "name": "CHINA ART FIN"
+  },
+  {
+    "ticker": "1575.HK",
+    "name": "REGAL PARTNERS"
+  },
+  {
+    "ticker": "1576.HK",
+    "name": "QILU EXPRESSWAY"
+  },
+  {
+    "ticker": "1577.HK",
+    "name": "HUIXIN CREDIT"
+  },
+  {
+    "ticker": "1578.HK",
+    "name": "BANK OF TIANJIN"
+  },
+  {
+    "ticker": "1579.HK",
+    "name": "YIHAI INTL"
+  },
+  {
+    "ticker": "1580.HK",
+    "name": "DA SEN HLDGS"
+  },
+  {
+    "ticker": "1581.HK",
+    "name": "PROGRESSIVE P"
+  },
+  {
+    "ticker": "1582.HK",
+    "name": "CR CONSTRUCTION"
+  },
+  {
+    "ticker": "1583.HK",
+    "name": "QINQIN FOODS"
+  },
+  {
+    "ticker": "1585.HK",
+    "name": "YADEA"
+  },
+  {
+    "ticker": "1586.HK",
+    "name": "LEON INSPECTION"
+  },
+  {
+    "ticker": "1587.HK",
+    "name": "SHINEROAD INTL"
+  },
+  {
+    "ticker": "1588.HK",
+    "name": "CHANJET"
+  },
+  {
+    "ticker": "1591.HK",
+    "name": "SHUN WO GROUP"
+  },
+  {
+    "ticker": "1592.HK",
+    "name": "ANCHORSTONE"
+  },
+  {
+    "ticker": "1593.HK",
+    "name": "CHEN LIN EDU"
+  },
+  {
+    "ticker": "1596.HK",
+    "name": "YICHEN IND"
+  },
+  {
+    "ticker": "1597.HK",
+    "name": "NATURE ENERGY T"
+  },
+  {
+    "ticker": "1598.HK",
+    "name": "21CENTURY EDU"
+  },
+  {
+    "ticker": "1599.HK",
+    "name": "UCD"
+  },
+  {
+    "ticker": "1600.HK",
+    "name": "TIAN LUN GAS"
+  },
+  {
+    "ticker": "1601.HK",
+    "name": "ZGC TEC LEASING"
+  },
+  {
+    "ticker": "1606.HK",
+    "name": "CDB LEASING"
+  },
+  {
+    "ticker": "1608.HK",
+    "name": "VPOWER GROUP"
+  },
+  {
+    "ticker": "1610.HK",
+    "name": "COFCO JOYCOME"
+  },
+  {
+    "ticker": "1611.HK",
+    "name": "SINOHOPE TECH"
+  },
+  {
+    "ticker": "1612.HK",
+    "name": "VINCENT MED"
+  },
+  {
+    "ticker": "1613.HK",
+    "name": "SYNERTONE"
+  },
+  {
+    "ticker": "1615.HK",
+    "name": "AB BUILDERS"
+  },
+  {
+    "ticker": "1616.HK",
+    "name": "A METAVERSE"
+  },
+  {
+    "ticker": "1617.HK",
+    "name": "NANFANG COMM"
+  },
+  {
+    "ticker": "1618.HK",
+    "name": "MCC"
+  },
+  {
+    "ticker": "1620.HK",
+    "name": "CINESE INTL"
+  },
+  {
+    "ticker": "1621.HK",
+    "name": "VICO INTL HLDGS"
+  },
+  {
+    "ticker": "1622.HK",
+    "name": "REDCO GROUP"
+  },
+  {
+    "ticker": "1623.HK",
+    "name": "HILONG"
+  },
+  {
+    "ticker": "1626.HK",
+    "name": "JIA YAO HLDGS"
+  },
+  {
+    "ticker": "1627.HK",
+    "name": "ABLE ENG HLDGS"
+  },
+  {
+    "ticker": "1628.HK",
+    "name": "YUZHOU GROUP"
+  },
+  {
+    "ticker": "1629.HK",
+    "name": "CHAMP ALLI INTL"
+  },
+  {
+    "ticker": "1630.HK",
+    "name": "KIN SHING HLDGS"
+  },
+  {
+    "ticker": "1631.HK",
+    "name": "REF HOLDINGS"
+  },
+  {
+    "ticker": "1632.HK",
+    "name": "MSCTECH"
+  },
+  {
+    "ticker": "1633.HK",
+    "name": "SHEUNG YUE GP"
+  },
+  {
+    "ticker": "1635.HK",
+    "name": "DZUG"
+  },
+  {
+    "ticker": "1636.HK",
+    "name": "CMRU"
+  },
+  {
+    "ticker": "1637.HK",
+    "name": "SH GROUP HLDG"
+  },
+  {
+    "ticker": "1638.HK",
+    "name": "KAISA GROUP"
+  },
+  {
+    "ticker": "1640.HK",
+    "name": "QIAN XUN TECH"
+  },
+  {
+    "ticker": "1641.HK",
+    "name": "HX COLDCHAIN"
+  },
+  {
+    "ticker": "1643.HK",
+    "name": "MODERN CHI MED"
+  },
+  {
+    "ticker": "1645.HK",
+    "name": "HAINA INTEL"
+  },
+  {
+    "ticker": "1647.HK",
+    "name": "GRANDSHORES"
+  },
+  {
+    "ticker": "1650.HK",
+    "name": "HYGIEIA GROUP"
+  },
+  {
+    "ticker": "1651.HK",
+    "name": "TSUGAMI CHINA"
+  },
+  {
+    "ticker": "1652.HK",
+    "name": "FUSEN PHARM"
+  },
+  {
+    "ticker": "1653.HK",
+    "name": "MOS HOUSE"
+  },
+  {
+    "ticker": "1655.HK",
+    "name": "OKURA HOLDINGS"
+  },
+  {
+    "ticker": "1656.HK",
+    "name": "ISDN HOLDINGS"
+  },
+  {
+    "ticker": "1657.HK",
+    "name": "SG GROUP HLDGS"
+  },
+  {
+    "ticker": "1658.HK",
+    "name": "PSBC"
+  },
+  {
+    "ticker": "1660.HK",
+    "name": "SEVEN ELEMENTS"
+  },
+  {
+    "ticker": "1661.HK",
+    "name": "CH FRONTIER TEC"
+  },
+  {
+    "ticker": "1662.HK",
+    "name": "YEE HOP HLDGS"
+  },
+  {
+    "ticker": "1663.HK",
+    "name": "S HARBOURHOLD"
+  },
+  {
+    "ticker": "1666.HK",
+    "name": "TONG REN TANG"
+  },
+  {
+    "ticker": "1667.HK",
+    "name": "DIMMI LIFE HLDG"
+  },
+  {
+    "ticker": "1668.HK",
+    "name": "CHINASOUTHCITY"
+  },
+  {
+    "ticker": "1669.HK",
+    "name": "GIC GROUP"
+  },
+  {
+    "ticker": "1671.HK",
+    "name": "TIANBAO ENERGY"
+  },
+  {
+    "ticker": "1672.HK",
+    "name": "ASCLETIS-B"
+  },
+  {
+    "ticker": "1673.HK",
+    "name": "HUAZHANG TECH"
+  },
+  {
+    "ticker": "1675.HK",
+    "name": "ASIAINFO TECH"
+  },
+  {
+    "ticker": "1676.HK",
+    "name": "GAODI HOLDINGS"
+  },
+  {
+    "ticker": "1679.HK",
+    "name": "RISECOMM GP"
+  },
+  {
+    "ticker": "1680.HK",
+    "name": "MACAU LEGEND"
+  },
+  {
+    "ticker": "1681.HK",
+    "name": "CONSUN PHARMA"
+  },
+  {
+    "ticker": "1682.HK",
+    "name": "HP LIVING TECH"
+  },
+  {
+    "ticker": "1683.HK",
+    "name": "HOPE LIFE INT"
+  },
+  {
+    "ticker": "1685.HK",
+    "name": "BOER POWER"
+  },
+  {
+    "ticker": "1686.HK",
+    "name": "SUNEVISION"
+  },
+  {
+    "ticker": "1689.HK",
+    "name": "HUAXIHOLDINGS"
+  },
+  {
+    "ticker": "1690.HK",
+    "name": "LAP KEI ENGRG"
+  },
+  {
+    "ticker": "1691.HK",
+    "name": "JS GLOBAL LIFE"
+  },
+  {
+    "ticker": "1692.HK",
+    "name": "TOWNRAY HLDGS"
+  },
+  {
+    "ticker": "1693.HK",
+    "name": "BGMC"
+  },
+  {
+    "ticker": "1695.HK",
+    "name": "S&P INTL HLDG"
+  },
+  {
+    "ticker": "1696.HK",
+    "name": "SISRAM MED"
+  },
+  {
+    "ticker": "1697.HK",
+    "name": "SDITC"
+  },
+  {
+    "ticker": "1698.HK",
+    "name": "TME-SW"
+  },
+  {
+    "ticker": "1701.HK",
+    "name": "TU YI HLDG"
+  },
+  {
+    "ticker": "1702.HK",
+    "name": "DONGGUANG CHEM"
+  },
+  {
+    "ticker": "1703.HK",
+    "name": "WELIFE TECH"
+  },
+  {
+    "ticker": "1705.HK",
+    "name": "B & S INTL HLDG"
+  },
+  {
+    "ticker": "1707.HK",
+    "name": "GEOTECH HLDGS"
+  },
+  {
+    "ticker": "1708.HK",
+    "name": "SAMPLE TECH"
+  },
+  {
+    "ticker": "1709.HK",
+    "name": "DL HOLDINGS GP"
+  },
+  {
+    "ticker": "1710.HK",
+    "name": "TRIO IND ELEC"
+  },
+  {
+    "ticker": "1711.HK",
+    "name": "ULFERTS"
+  },
+  {
+    "ticker": "1712.HK",
+    "name": "DRAGON MINING"
+  },
+  {
+    "ticker": "1713.HK",
+    "name": "SICHUAN EN INV"
+  },
+  {
+    "ticker": "1715.HK",
+    "name": "AI HEALTH TECH"
+  },
+  {
+    "ticker": "1716.HK",
+    "name": "MOST KWAI CHUNG"
+  },
+  {
+    "ticker": "1717.HK",
+    "name": "AUSNUTRIA"
+  },
+  {
+    "ticker": "1718.HK",
+    "name": "WAN KEI GROUP"
+  },
+  {
+    "ticker": "1719.HK",
+    "name": "CIL GROUP"
+  },
+  {
+    "ticker": "1720.HK",
+    "name": "PUTIAN COMM"
+  },
+  {
+    "ticker": "1721.HK",
+    "name": "FSM HOLDINGS"
+  },
+  {
+    "ticker": "1722.HK",
+    "name": "KIN PANG HLDGS"
+  },
+  {
+    "ticker": "1723.HK",
+    "name": "MOON INC"
+  },
+  {
+    "ticker": "1725.HK",
+    "name": "C STRATEGIC TEC"
+  },
+  {
+    "ticker": "1726.HK",
+    "name": "HKE HOLDINGS"
+  },
+  {
+    "ticker": "1727.HK",
+    "name": "HEBEI CONS"
+  },
+  {
+    "ticker": "1728.HK",
+    "name": "ZHENGTONGAUTO"
+  },
+  {
+    "ticker": "1729.HK",
+    "name": "TIME INTERCON"
+  },
+  {
+    "ticker": "1731.HK",
+    "name": "PROSPEROUS IND"
+  },
+  {
+    "ticker": "1732.HK",
+    "name": "XIANGXING INT"
+  },
+  {
+    "ticker": "1733.HK",
+    "name": "E-COMMODITIES"
+  },
+  {
+    "ticker": "1735.HK",
+    "name": "CENTRAL NEW EGY"
+  },
+  {
+    "ticker": "1736.HK",
+    "name": "PARENTING NET"
+  },
+  {
+    "ticker": "1737.HK",
+    "name": "A & S GROUP"
+  },
+  {
+    "ticker": "1738.HK",
+    "name": "FS ANTHRACITE"
+  },
+  {
+    "ticker": "1739.HK",
+    "name": "QEEKA HOME"
+  },
+  {
+    "ticker": "1740.HK",
+    "name": "VALUES CULTURAL"
+  },
+  {
+    "ticker": "1741.HK",
+    "name": "SHING CHI HLDGS"
+  },
+  {
+    "ticker": "1742.HK",
+    "name": "HPC HOLDINGS"
+  },
+  {
+    "ticker": "1745.HK",
+    "name": "LVJI TECH"
+  },
+  {
+    "ticker": "1746.HK",
+    "name": "MAN SHUN GP"
+  },
+  {
+    "ticker": "1747.HK",
+    "name": "HOME CONTROL"
+  },
+  {
+    "ticker": "1748.HK",
+    "name": "XIN YUAN ENT"
+  },
+  {
+    "ticker": "1749.HK",
+    "name": "SHANSHAN"
+  },
+  {
+    "ticker": "1750.HK",
+    "name": "REM GROUP HLDGS"
+  },
+  {
+    "ticker": "1751.HK",
+    "name": "AI ENERGY ENG"
+  },
+  {
+    "ticker": "1752.HK",
+    "name": "TOP EDUCATION"
+  },
+  {
+    "ticker": "1753.HK",
+    "name": "DUIBA"
+  },
+  {
+    "ticker": "1755.HK",
+    "name": "S-ENJOY SERVICE"
+  },
+  {
+    "ticker": "1756.HK",
+    "name": "CHI SCI&EDU IND"
+  },
+  {
+    "ticker": "1757.HK",
+    "name": "GLOBAL CHI BC"
+  },
+  {
+    "ticker": "1758.HK",
+    "name": "BOJUN EDU"
+  },
+  {
+    "ticker": "1759.HK",
+    "name": "SINO GAS HLDGS"
+  },
+  {
+    "ticker": "1760.HK",
+    "name": "INTRON TECH"
+  },
+  {
+    "ticker": "1762.HK",
+    "name": "WANKA ONLINE"
+  },
+  {
+    "ticker": "1763.HK",
+    "name": "CIRC"
+  },
+  {
+    "ticker": "1765.HK",
+    "name": "XJ INTL HLDGS"
+  },
+  {
+    "ticker": "1766.HK",
+    "name": "CRRC"
+  },
+  {
+    "ticker": "1767.HK",
+    "name": "TS WONDERS"
+  },
+  {
+    "ticker": "1768.HK",
+    "name": "BUSYMING"
+  },
+  {
+    "ticker": "1769.HK",
+    "name": "SCHOLAR EDU"
+  },
+  {
+    "ticker": "1771.HK",
+    "name": "SUNFONDA GP"
+  },
+  {
+    "ticker": "1772.HK",
+    "name": "GANFENGLITHIUM"
+  },
+  {
+    "ticker": "1773.HK",
+    "name": "TIANLI INT HLDG"
+  },
+  {
+    "ticker": "1775.HK",
+    "name": "BEXCELLENT GP"
+  },
+  {
+    "ticker": "1776.HK",
+    "name": "GF SEC"
+  },
+  {
+    "ticker": "1777.HK",
+    "name": "FANTASIA"
+  },
+  {
+    "ticker": "1778.HK",
+    "name": "COLOUR LIFE"
+  },
+  {
+    "ticker": "1780.HK",
+    "name": "RONGZUN INT'L H"
+  },
+  {
+    "ticker": "1782.HK",
+    "name": "IB DIGITAL TECH"
+  },
+  {
+    "ticker": "1783.HK",
+    "name": "ENVISION GREEN"
+  },
+  {
+    "ticker": "1785.HK",
+    "name": "CHENGDU EXPWAY"
+  },
+  {
+    "ticker": "1786.HK",
+    "name": "CRCCE"
+  },
+  {
+    "ticker": "1787.HK",
+    "name": "SD GOLD"
+  },
+  {
+    "ticker": "1788.HK",
+    "name": "GUOTAI JUNAN I"
+  },
+  {
+    "ticker": "1789.HK",
+    "name": "AK MEDICAL"
+  },
+  {
+    "ticker": "1790.HK",
+    "name": "TIL ENVIRO"
+  },
+  {
+    "ticker": "1792.HK",
+    "name": "CMON"
+  },
+  {
+    "ticker": "1793.HK",
+    "name": "WECON HOLDINGS"
+  },
+  {
+    "ticker": "1795.HK",
+    "name": "YADONG GROUP"
+  },
+  {
+    "ticker": "1796.HK",
+    "name": "METASPACEX"
+  },
+  {
+    "ticker": "1797.HK",
+    "name": "EAST BUY"
+  },
+  {
+    "ticker": "1798.HK",
+    "name": "DATANG RENEW"
+  },
+  {
+    "ticker": "1799.HK",
+    "name": "XINTE ENERGY"
+  },
+  {
+    "ticker": "1800.HK",
+    "name": "CHINA COMM CONS"
+  },
+  {
+    "ticker": "1801.HK",
+    "name": "INNOVENT BIO"
+  },
+  {
+    "ticker": "1802.HK",
+    "name": "WENYE GROUP"
+  },
+  {
+    "ticker": "1803.HK",
+    "name": "BJ SPORTS & ENT"
+  },
+  {
+    "ticker": "1808.HK",
+    "name": "ENTERPRISE DEV"
+  },
+  {
+    "ticker": "1809.HK",
+    "name": "PRINX CHENGSHAN"
+  },
+  {
+    "ticker": "1810.HK",
+    "name": "XIAOMI-W"
+  },
+  {
+    "ticker": "1811.HK",
+    "name": "CGN NEW ENERGY"
+  },
+  {
+    "ticker": "1812.HK",
+    "name": "CHENMING PAPER"
+  },
+  {
+    "ticker": "1813.HK",
+    "name": "KWG GROUP"
+  },
+  {
+    "ticker": "1815.HK",
+    "name": "EVEREST GOLD"
+  },
+  {
+    "ticker": "1816.HK",
+    "name": "CGN POWER"
+  },
+  {
+    "ticker": "1817.HK",
+    "name": "MULSANNE GROUP"
+  },
+  {
+    "ticker": "1818.HK",
+    "name": "ZHAOJIN MINING"
+  },
+  {
+    "ticker": "1820.HK",
+    "name": "PM PACKAGING"
+  },
+  {
+    "ticker": "1822.HK",
+    "name": "CHINA WOOD INT"
+  },
+  {
+    "ticker": "1823.HK",
+    "name": "HUAYUEXPRESSWAY"
+  },
+  {
+    "ticker": "1825.HK",
+    "name": "STERLING GP"
+  },
+  {
+    "ticker": "1826.HK",
+    "name": "FDB HOLDINGS"
+  },
+  {
+    "ticker": "1827.HK",
+    "name": "MIRICOR"
+  },
+  {
+    "ticker": "1828.HK",
+    "name": "FWD"
+  },
+  {
+    "ticker": "1830.HK",
+    "name": "PERFECT MEDICAL"
+  },
+  {
+    "ticker": "1831.HK",
+    "name": "SHIFANG HLDG"
+  },
+  {
+    "ticker": "1832.HK",
+    "name": "SAI LEISURE"
+  },
+  {
+    "ticker": "1833.HK",
+    "name": "PA GOODDOCTOR"
+  },
+  {
+    "ticker": "1835.HK",
+    "name": "REALWAY CAPITAL"
+  },
+  {
+    "ticker": "1836.HK",
+    "name": "STELLA HOLDINGS"
+  },
+  {
+    "ticker": "1837.HK",
+    "name": "NATURAL FOOD IH"
+  },
+  {
+    "ticker": "1841.HK",
+    "name": "A.PLUS GROUP"
+  },
+  {
+    "ticker": "1842.HK",
+    "name": "GROWN UP GROUP"
+  },
+  {
+    "ticker": "1843.HK",
+    "name": "SNACK EMPIRE"
+  },
+  {
+    "ticker": "1845.HK",
+    "name": "WG ENV TECH"
+  },
+  {
+    "ticker": "1846.HK",
+    "name": "EUROEYES"
+  },
+  {
+    "ticker": "1847.HK",
+    "name": "GHPC"
+  },
+  {
+    "ticker": "1848.HK",
+    "name": "CALC"
+  },
+  {
+    "ticker": "1849.HK",
+    "name": "AM GROUP"
+  },
+  {
+    "ticker": "1850.HK",
+    "name": "HSC RESOURCES"
+  },
+  {
+    "ticker": "1851.HK",
+    "name": "GINGKO EDU"
+  },
+  {
+    "ticker": "1853.HK",
+    "name": "CHUNCHENG HEAT"
+  },
+  {
+    "ticker": "1854.HK",
+    "name": "CHINA WANTIAN"
+  },
+  {
+    "ticker": "1855.HK",
+    "name": "ZONQING LTD"
+  },
+  {
+    "ticker": "1856.HK",
+    "name": "ERNEST BOREL"
+  },
+  {
+    "ticker": "1857.HK",
+    "name": "CEB WATER"
+  },
+  {
+    "ticker": "1858.HK",
+    "name": "CHUNLI MEDICAL"
+  },
+  {
+    "ticker": "1860.HK",
+    "name": "MOBVISTA"
+  },
+  {
+    "ticker": "1861.HK",
+    "name": "PRECIOUS DRAGON"
+  },
+  {
+    "ticker": "1862.HK",
+    "name": "JINGRUI HLDGS"
+  },
+  {
+    "ticker": "1863.HK",
+    "name": "CHI LONGEVITY"
+  },
+  {
+    "ticker": "1865.HK",
+    "name": "PENGO HLDG GP"
+  },
+  {
+    "ticker": "1866.HK",
+    "name": "CHINA XLX FERT"
+  },
+  {
+    "ticker": "1867.HK",
+    "name": "STD DEV GROUP"
+  },
+  {
+    "ticker": "1868.HK",
+    "name": "NEO-NEON"
+  },
+  {
+    "ticker": "1869.HK",
+    "name": "KAFELAKU COFFEE"
+  },
+  {
+    "ticker": "1870.HK",
+    "name": "ACME INTL HLDGS"
+  },
+  {
+    "ticker": "1871.HK",
+    "name": "CHINA ORIENTED"
+  },
+  {
+    "ticker": "1872.HK",
+    "name": "GUAN CHAO HLDGS"
+  },
+  {
+    "ticker": "1873.HK",
+    "name": "VIVA BIOTECH"
+  },
+  {
+    "ticker": "1875.HK",
+    "name": "BIODLINK-B"
+  },
+  {
+    "ticker": "1876.HK",
+    "name": "BUD APAC"
+  },
+  {
+    "ticker": "1877.HK",
+    "name": "JUNSHI BIO"
+  },
+  {
+    "ticker": "1878.HK",
+    "name": "SOUTHGOBI"
+  },
+  {
+    "ticker": "1880.HK",
+    "name": "CTG DUTY-FREE"
+  },
+  {
+    "ticker": "1881.HK",
+    "name": "REGAL REIT"
+  },
+  {
+    "ticker": "1882.HK",
+    "name": "HAITIAN INT'L"
+  },
+  {
+    "ticker": "1883.HK",
+    "name": "CITIC TELECOM"
+  },
+  {
+    "ticker": "1884.HK",
+    "name": "EPRINT GROUP"
+  },
+  {
+    "ticker": "1888.HK",
+    "name": "KB LAMINATES"
+  },
+  {
+    "ticker": "1889.HK",
+    "name": "SANAI HEALTH GP"
+  },
+  {
+    "ticker": "1890.HK",
+    "name": "CHINA KEPEI"
+  },
+  {
+    "ticker": "1891.HK",
+    "name": "HENG HUP"
+  },
+  {
+    "ticker": "1894.HK",
+    "name": "HANG YICK HLDGS"
+  },
+  {
+    "ticker": "1895.HK",
+    "name": "XINYUAN PM"
+  },
+  {
+    "ticker": "1896.HK",
+    "name": "MAOYAN ENT"
+  },
+  {
+    "ticker": "1897.HK",
+    "name": "MILLIONHOPE IND"
+  },
+  {
+    "ticker": "1898.HK",
+    "name": "CHINA COAL"
+  },
+  {
+    "ticker": "1899.HK",
+    "name": "XINGDA INT'L"
+  },
+  {
+    "ticker": "1900.HK",
+    "name": "CHINA ITS"
+  },
+  {
+    "ticker": "1901.HK",
+    "name": "FEIYANG GROUP"
+  },
+  {
+    "ticker": "1903.HK",
+    "name": "JBB BUILDERS"
+  },
+  {
+    "ticker": "1905.HK",
+    "name": "HAITONG UT"
+  },
+  {
+    "ticker": "1906.HK",
+    "name": "BONNY HLDG"
+  },
+  {
+    "ticker": "1907.HK",
+    "name": "CHINA RISUN GP"
+  },
+  {
+    "ticker": "1908.HK",
+    "name": "C&D INTL GROUP"
+  },
+  {
+    "ticker": "1909.HK",
+    "name": "FIRE ROCK"
+  },
+  {
+    "ticker": "1910.HK",
+    "name": "SAMSONITE"
+  },
+  {
+    "ticker": "1911.HK",
+    "name": "CR HOLDINGS"
+  },
+  {
+    "ticker": "1912.HK",
+    "name": "CONTEL"
+  },
+  {
+    "ticker": "1913.HK",
+    "name": "PRADA"
+  },
+  {
+    "ticker": "1915.HK",
+    "name": "TAIHE M-FIN"
+  },
+  {
+    "ticker": "1916.HK",
+    "name": "JIANGXI BANK"
+  },
+  {
+    "ticker": "1917.HK",
+    "name": "DOUMOB"
+  },
+  {
+    "ticker": "1918.HK",
+    "name": "SUNAC"
+  },
+  {
+    "ticker": "1919.HK",
+    "name": "COSCO SHIP HOLD"
+  },
+  {
+    "ticker": "1920.HK",
+    "name": "CHINA WACAN"
+  },
+  {
+    "ticker": "1921.HK",
+    "name": "DALIPAL HLDG"
+  },
+  {
+    "ticker": "1922.HK",
+    "name": "RUISEN LIFE SER"
+  },
+  {
+    "ticker": "1925.HK",
+    "name": "KWUNGS AROMA"
+  },
+  {
+    "ticker": "1927.HK",
+    "name": "JIUJIUWANG"
+  },
+  {
+    "ticker": "1928.HK",
+    "name": "SANDS CHINA LTD"
+  },
+  {
+    "ticker": "1929.HK",
+    "name": "CHOW TAI FOOK"
+  },
+  {
+    "ticker": "1930.HK",
+    "name": "SHINELONG"
+  },
+  {
+    "ticker": "1931.HK",
+    "name": "ETHK LABS INC."
+  },
+  {
+    "ticker": "1932.HK",
+    "name": "CPM GROUP"
+  },
+  {
+    "ticker": "1933.HK",
+    "name": "ONEFORCE HLDGS"
+  },
+  {
+    "ticker": "1935.HK",
+    "name": "JH EDUCATION"
+  },
+  {
+    "ticker": "1936.HK",
+    "name": "RITAMIX"
+  },
+  {
+    "ticker": "1937.HK",
+    "name": "JIACHEN HOLDING"
+  },
+  {
+    "ticker": "1938.HK",
+    "name": "CHU KONG PIPE"
+  },
+  {
+    "ticker": "1939.HK",
+    "name": "SHANGSHAN GOLD"
+  },
+  {
+    "ticker": "1940.HK",
+    "name": "CGII HLDGS"
+  },
+  {
+    "ticker": "1941.HK",
+    "name": "YE XING GROUP"
+  },
+  {
+    "ticker": "1942.HK",
+    "name": "MOG DIGITECH"
+  },
+  {
+    "ticker": "1943.HK",
+    "name": "KING'S STONE"
+  },
+  {
+    "ticker": "1945.HK",
+    "name": "ZERO2IPO"
+  },
+  {
+    "ticker": "1947.HK",
+    "name": "MEIHAO GROUP"
+  },
+  {
+    "ticker": "1948.HK",
+    "name": "UJU HOLDING"
+  },
+  {
+    "ticker": "1949.HK",
+    "name": "PLATT NERA"
+  },
+  {
+    "ticker": "1950.HK",
+    "name": "DIWANG IND H"
+  },
+  {
+    "ticker": "1951.HK",
+    "name": "JXR"
+  },
+  {
+    "ticker": "1952.HK",
+    "name": "EVEREST MED"
+  },
+  {
+    "ticker": "1953.HK",
+    "name": "RIMBACO"
+  },
+  {
+    "ticker": "1955.HK",
+    "name": "JOHNSON HLDGS"
+  },
+  {
+    "ticker": "1957.HK",
+    "name": "MBV INTL"
+  },
+  {
+    "ticker": "1958.HK",
+    "name": "BAIC MOTOR"
+  },
+  {
+    "ticker": "1959.HK",
+    "name": "ZHONG JU INVEST"
+  },
+  {
+    "ticker": "1960.HK",
+    "name": "TBKS HLDGS"
+  },
+  {
+    "ticker": "1961.HK",
+    "name": "INFINITIES TECH"
+  },
+  {
+    "ticker": "1962.HK",
+    "name": "EVERGREEN PG"
+  },
+  {
+    "ticker": "1963.HK",
+    "name": "BCQ"
+  },
+  {
+    "ticker": "1965.HK",
+    "name": "LANDSEA LIFE"
+  },
+  {
+    "ticker": "1966.HK",
+    "name": "CHINA SCE GROUP"
+  },
+  {
+    "ticker": "1967.HK",
+    "name": "CONFIDENCE IN"
+  },
+  {
+    "ticker": "1968.HK",
+    "name": "HINGTEX HLDGS"
+  },
+  {
+    "ticker": "1969.HK",
+    "name": "CHINA CHUNLAI"
+  },
+  {
+    "ticker": "1970.HK",
+    "name": "IMAX CHINA"
+  },
+  {
+    "ticker": "1971.HK",
+    "name": "RSUN SER"
+  },
+  {
+    "ticker": "1972.HK",
+    "name": "SWIREPROPERTIES"
+  },
+  {
+    "ticker": "1973.HK",
+    "name": "TIAN TU CAPITAL"
+  },
+  {
+    "ticker": "1975.HK",
+    "name": "SUN HING PRINT"
+  },
+  {
+    "ticker": "1977.HK",
+    "name": "ANALOGUE HLDGS"
+  },
+  {
+    "ticker": "1978.HK",
+    "name": "LH GROUP"
+  },
+  {
+    "ticker": "1979.HK",
+    "name": "TEN PAO GROUP"
+  },
+  {
+    "ticker": "1980.HK",
+    "name": "TIANGE"
+  },
+  {
+    "ticker": "1981.HK",
+    "name": "CATHAY GP HLDGS"
+  },
+  {
+    "ticker": "1982.HK",
+    "name": "NAMESON HLDGS"
+  },
+  {
+    "ticker": "1983.HK",
+    "name": "LUZHOU BANK"
+  },
+  {
+    "ticker": "1985.HK",
+    "name": "MICROWARE"
+  },
+  {
+    "ticker": "1986.HK",
+    "name": "TSAKER NE"
+  },
+  {
+    "ticker": "1987.HK",
+    "name": "BENG SOON MACH"
+  },
+  {
+    "ticker": "1988.HK",
+    "name": "MINSHENG BANK"
+  },
+  {
+    "ticker": "1991.HK",
+    "name": "TA YANG GROUP"
+  },
+  {
+    "ticker": "1993.HK",
+    "name": "ASIARAY"
+  },
+  {
+    "ticker": "1995.HK",
+    "name": "ES SERVICES"
+  },
+  {
+    "ticker": "1996.HK",
+    "name": "RSUN PPT"
+  },
+  {
+    "ticker": "1997.HK",
+    "name": "WHARF REIC"
+  },
+  {
+    "ticker": "1999.HK",
+    "name": "MAN WAH HLDGS"
+  },
+  {
+    "ticker": "2000.HK",
+    "name": "SIM TECH"
+  },
+  {
+    "ticker": "2001.HK",
+    "name": "NEW HIGHER EDU"
+  },
+  {
+    "ticker": "2002.HK",
+    "name": "SUNSHINE PAPER"
+  },
+  {
+    "ticker": "2003.HK",
+    "name": "VCREDIT"
+  },
+  {
+    "ticker": "2005.HK",
+    "name": "SSY GROUP"
+  },
+  {
+    "ticker": "2007.HK",
+    "name": "COUNTRY GARDEN"
+  },
+  {
+    "ticker": "2008.HK",
+    "name": "PHOENIX TV"
+  },
+  {
+    "ticker": "2009.HK",
+    "name": "BBMG"
+  },
+  {
+    "ticker": "2011.HK",
+    "name": "GILSTON GROUP"
+  },
+  {
+    "ticker": "2012.HK",
+    "name": "SUNSHINE OIL"
+  },
+  {
+    "ticker": "2013.HK",
+    "name": "WEIMOB INC"
+  },
+  {
+    "ticker": "2015.HK",
+    "name": "LI AUTO-W"
+  },
+  {
+    "ticker": "2016.HK",
+    "name": "CZBANK"
+  },
+  {
+    "ticker": "2017.HK",
+    "name": "CHANHIGH"
+  },
+  {
+    "ticker": "2018.HK",
+    "name": "AAC TECH"
+  },
+  {
+    "ticker": "2020.HK",
+    "name": "ANTA SPORTS"
+  },
+  {
+    "ticker": "2022.HK",
+    "name": "DIGIT HOLLYWOOD"
+  },
+  {
+    "ticker": "2023.HK",
+    "name": "CHINA LUDAO"
+  },
+  {
+    "ticker": "2025.HK",
+    "name": "RUIFENG POWER"
+  },
+  {
+    "ticker": "2026.HK",
+    "name": "PONY-W"
+  },
+  {
+    "ticker": "2028.HK",
+    "name": "JOLIMARK"
+  },
+  {
+    "ticker": "2030.HK",
+    "name": "CABBEEN"
+  },
+  {
+    "ticker": "2031.HK",
+    "name": "AUSUPREME"
+  },
+  {
+    "ticker": "2033.HK",
+    "name": "TIME WATCH"
+  },
+  {
+    "ticker": "2038.HK",
+    "name": "FIH"
+  },
+  {
+    "ticker": "2039.HK",
+    "name": "CIMC"
+  },
+  {
+    "ticker": "2048.HK",
+    "name": "E-HOUSE ENT"
+  },
+  {
+    "ticker": "2050.HK",
+    "name": "SANHUA"
+  },
+  {
+    "ticker": "2051.HK",
+    "name": "VALA"
+  },
+  {
+    "ticker": "2057.HK",
+    "name": "ZTO EXPRESS-W"
+  },
+  {
+    "ticker": "2068.HK",
+    "name": "CHALIECO"
+  },
+  {
+    "ticker": "2076.HK",
+    "name": "BOSS ZHIPIN-W"
+  },
+  {
+    "ticker": "2078.HK",
+    "name": "PANASIALUM"
+  },
+  {
+    "ticker": "2080.HK",
+    "name": "AUX INTL"
+  },
+  {
+    "ticker": "2086.HK",
+    "name": "LEADWAY TECH"
+  },
+  {
+    "ticker": "2088.HK",
+    "name": "XIWANG PROPERTY"
+  },
+  {
+    "ticker": "2096.HK",
+    "name": "SIMCERE PHARMA"
+  },
+  {
+    "ticker": "2097.HK",
+    "name": "MIXUE GROUP"
+  },
+  {
+    "ticker": "2098.HK",
+    "name": "ZALL SMARTCOM"
+  },
+  {
+    "ticker": "2099.HK",
+    "name": "CHINAGOLDINTL"
+  },
+  {
+    "ticker": "2100.HK",
+    "name": "BAIOO"
+  },
+  {
+    "ticker": "2101.HK",
+    "name": "FULU HOLDINGS"
+  },
+  {
+    "ticker": "2102.HK",
+    "name": "TAK LEE MACH"
+  },
+  {
+    "ticker": "2105.HK",
+    "name": "LAEKNA-B"
+  },
+  {
+    "ticker": "2107.HK",
+    "name": "FIRST SERVICE"
+  },
+  {
+    "ticker": "2108.HK",
+    "name": "K2 F&B"
+  },
+  {
+    "ticker": "2110.HK",
+    "name": "TIAN CHENG HLDG"
+  },
+  {
+    "ticker": "2111.HK",
+    "name": "BEST PACIFIC"
+  },
+  {
+    "ticker": "2112.HK",
+    "name": "GRACE LIFE-TECH"
+  },
+  {
+    "ticker": "2113.HK",
+    "name": "CENTURY GP INTL"
+  },
+  {
+    "ticker": "2116.HK",
+    "name": "JS INNOV"
+  },
+  {
+    "ticker": "2119.HK",
+    "name": "TSIT WING INTL"
+  },
+  {
+    "ticker": "2120.HK",
+    "name": "KN HOSPITAL"
+  },
+  {
+    "ticker": "2121.HK",
+    "name": "AINNOVATION"
+  },
+  {
+    "ticker": "2122.HK",
+    "name": "KIDSLAND INTL"
+  },
+  {
+    "ticker": "2125.HK",
+    "name": "STRAWBEAR ENT"
+  },
+  {
+    "ticker": "2126.HK",
+    "name": "JW THERAP-B"
+  },
+  {
+    "ticker": "2127.HK",
+    "name": "HUISEN SHARES"
+  },
+  {
+    "ticker": "2128.HK",
+    "name": "CHINA LESSO"
+  },
+  {
+    "ticker": "2129.HK",
+    "name": "LEGION CONSO"
+  },
+  {
+    "ticker": "2130.HK",
+    "name": "CN LOGISTICS"
+  },
+  {
+    "ticker": "2131.HK",
+    "name": "NETJOY"
+  },
+  {
+    "ticker": "2132.HK",
+    "name": "LANDRICH HLDG"
+  },
+  {
+    "ticker": "2135.HK",
+    "name": "RAILY AESMED"
+  },
+  {
+    "ticker": "2136.HK",
+    "name": "LIFESTYLE CHI"
+  },
+  {
+    "ticker": "2137.HK",
+    "name": "BRII-B"
+  },
+  {
+    "ticker": "2138.HK",
+    "name": "EC HEALTHCARE"
+  },
+  {
+    "ticker": "2139.HK",
+    "name": "BANK OF GANSU"
+  },
+  {
+    "ticker": "2142.HK",
+    "name": "HBM HOLDINGS-B"
+  },
+  {
+    "ticker": "2145.HK",
+    "name": "CHICMAX"
+  },
+  {
+    "ticker": "2146.HK",
+    "name": "ROISERV"
+  },
+  {
+    "ticker": "2147.HK",
+    "name": "ZHENGWEI GROUP"
+  },
+  {
+    "ticker": "2149.HK",
+    "name": "BATELAB"
+  },
+  {
+    "ticker": "2150.HK",
+    "name": "NAYUKI"
+  },
+  {
+    "ticker": "2152.HK",
+    "name": "SUXIN SERVICES"
+  },
+  {
+    "ticker": "2153.HK",
+    "name": "TAT HONG EQUIP"
+  },
+  {
+    "ticker": "2155.HK",
+    "name": "MORIMATSU INTL"
+  },
+  {
+    "ticker": "2156.HK",
+    "name": "C&D PROPERTY"
+  },
+  {
+    "ticker": "2157.HK",
+    "name": "LEPU BIO-B"
+  },
+  {
+    "ticker": "2158.HK",
+    "name": "YIDU TECH"
+  },
+  {
+    "ticker": "2159.HK",
+    "name": "MEDIWELCOME"
+  },
+  {
+    "ticker": "2160.HK",
+    "name": "MP CARDIO-B-NEW"
+  },
+  {
+    "ticker": "2161.HK",
+    "name": "JBM HEALTHCARE"
+  },
+  {
+    "ticker": "2162.HK",
+    "name": "KEYMED BIO-B"
+  },
+  {
+    "ticker": "2163.HK",
+    "name": "BROAD HOMES"
+  },
+  {
+    "ticker": "2165.HK",
+    "name": "LING YUE SER GP"
+  },
+  {
+    "ticker": "2166.HK",
+    "name": "SMART-CORE"
+  },
+  {
+    "ticker": "2167.HK",
+    "name": "TI CLOUD"
+  },
+  {
+    "ticker": "2168.HK",
+    "name": "KAISA PROSPER"
+  },
+  {
+    "ticker": "2169.HK",
+    "name": "CANGGANGRAILWAY"
+  },
+  {
+    "ticker": "2170.HK",
+    "name": "BASECARE-B"
+  },
+  {
+    "ticker": "2171.HK",
+    "name": "CARSGEN-B"
+  },
+  {
+    "ticker": "2172.HK",
+    "name": "MICROPORT NEURO"
+  },
+  {
+    "ticker": "2175.HK",
+    "name": "CH GENERAL EDU"
+  },
+  {
+    "ticker": "2176.HK",
+    "name": "CCID CONSULTING"
+  },
+  {
+    "ticker": "2177.HK",
+    "name": "UNQ HOLDINGS"
+  },
+  {
+    "ticker": "2178.HK",
+    "name": "PETRO-KING"
+  },
+  {
+    "ticker": "2179.HK",
+    "name": "RECBIO-B"
+  },
+  {
+    "ticker": "2180.HK",
+    "name": "MANPOWER GRC"
+  },
+  {
+    "ticker": "2181.HK",
+    "name": "MABPHARM-B"
+  },
+  {
+    "ticker": "2182.HK",
+    "name": "TIAN CHANG GP"
+  },
+  {
+    "ticker": "2185.HK",
+    "name": "BIOHEART-B"
+  },
+  {
+    "ticker": "2186.HK",
+    "name": "LUYE PHARMA"
+  },
+  {
+    "ticker": "2187.HK",
+    "name": "ZHIXIN GP HLDG"
+  },
+  {
+    "ticker": "2188.HK",
+    "name": "TITANS ENERGY"
+  },
+  {
+    "ticker": "2189.HK",
+    "name": "KATO (HK) HLDGS"
+  },
+  {
+    "ticker": "2190.HK",
+    "name": "ZYLOXTB"
+  },
+  {
+    "ticker": "2191.HK",
+    "name": "SF REIT"
+  },
+  {
+    "ticker": "2192.HK",
+    "name": "MEDLIVE"
+  },
+  {
+    "ticker": "2193.HK",
+    "name": "MAN KING HOLD"
+  },
+  {
+    "ticker": "2195.HK",
+    "name": "UNITY ENT"
+  },
+  {
+    "ticker": "2196.HK",
+    "name": "FOSUN PHARMA"
+  },
+  {
+    "ticker": "2197.HK",
+    "name": "CLOVER BIO-B"
+  },
+  {
+    "ticker": "2198.HK",
+    "name": "CHINA SANJIANG"
+  },
+  {
+    "ticker": "2199.HK",
+    "name": "REGINA MIRACLE"
+  },
+  {
+    "ticker": "2202.HK",
+    "name": "CHINA VANKE"
+  },
+  {
+    "ticker": "2203.HK",
+    "name": "BRAINHOLE TECH"
+  },
+  {
+    "ticker": "2205.HK",
+    "name": "KANGQIAO SER"
+  },
+  {
+    "ticker": "2208.HK",
+    "name": "GOLDWIND"
+  },
+  {
+    "ticker": "2209.HK",
+    "name": "YESASIA HLDGS"
+  },
+  {
+    "ticker": "2210.HK",
+    "name": "BEIJING JIAYE"
+  },
+  {
+    "ticker": "2211.HK",
+    "name": "UNI HEALTH"
+  },
+  {
+    "ticker": "2212.HK",
+    "name": "FB MINING"
+  },
+  {
+    "ticker": "2215.HK",
+    "name": "DEXIN SER GROUP"
+  },
+  {
+    "ticker": "2216.HK",
+    "name": "BRONCUS-B"
+  },
+  {
+    "ticker": "2218.HK",
+    "name": "ANDRE JUICE"
+  },
+  {
+    "ticker": "2219.HK",
+    "name": "CHAOJU EYE CARE"
+  },
+  {
+    "ticker": "2221.HK",
+    "name": "NEW CONCEPTS"
+  },
+  {
+    "ticker": "2222.HK",
+    "name": "NVC INTL"
+  },
+  {
+    "ticker": "2223.HK",
+    "name": "CASABLANCA"
+  },
+  {
+    "ticker": "2225.HK",
+    "name": "JINHAI MED TECH"
+  },
+  {
+    "ticker": "2226.HK",
+    "name": "HONWORLD GP"
+  },
+  {
+    "ticker": "2227.HK",
+    "name": "SOLIS HOLDINGS"
+  },
+  {
+    "ticker": "2228.HK",
+    "name": "XTALPI"
+  },
+  {
+    "ticker": "2230.HK",
+    "name": "MEDIALINK GROUP"
+  },
+  {
+    "ticker": "2231.HK",
+    "name": "JY GRANDMARK"
+  },
+  {
+    "ticker": "2232.HK",
+    "name": "CRYSTAL INTL"
+  },
+  {
+    "ticker": "2233.HK",
+    "name": "WESTCHINACEMENT"
+  },
+  {
+    "ticker": "2235.HK",
+    "name": "MICROTECH MED-B"
+  },
+  {
+    "ticker": "2236.HK",
+    "name": "WISON ENGRG"
+  },
+  {
+    "ticker": "2237.HK",
+    "name": "CHINA GRAPHITE"
+  },
+  {
+    "ticker": "2238.HK",
+    "name": "GAC GROUP"
+  },
+  {
+    "ticker": "2239.HK",
+    "name": "SMIT"
+  },
+  {
+    "ticker": "2245.HK",
+    "name": "LYGEND RESOURCE"
+  },
+  {
+    "ticker": "2246.HK",
+    "name": "GOGOX"
+  },
+  {
+    "ticker": "2250.HK",
+    "name": "B.DUCK SEMK"
+  },
+  {
+    "ticker": "2251.HK",
+    "name": "AIRDOC-B"
+  },
+  {
+    "ticker": "2252.HK",
+    "name": "MEDBOT-B"
+  },
+  {
+    "ticker": "2255.HK",
+    "name": "HAICHANG HLDG"
+  },
+  {
+    "ticker": "2256.HK",
+    "name": "ABBISKO-B"
+  },
+  {
+    "ticker": "2257.HK",
+    "name": "SIRNAOMICS-B"
+  },
+  {
+    "ticker": "2258.HK",
+    "name": "WATTS INT'L"
+  },
+  {
+    "ticker": "2259.HK",
+    "name": "ZIJIN GOLD INTL"
+  },
+  {
+    "ticker": "2260.HK",
+    "name": "VANOV HOLDINGS"
+  },
+  {
+    "ticker": "2262.HK",
+    "name": "SLD GROUP"
+  },
+  {
+    "ticker": "2263.HK",
+    "name": "FU SHEK FIN"
+  },
+  {
+    "ticker": "2265.HK",
+    "name": "HC ENV TECH"
+  },
+  {
+    "ticker": "2266.HK",
+    "name": "LAI SI ENT"
+  },
+  {
+    "ticker": "2268.HK",
+    "name": "WUXI XDC"
+  },
+  {
+    "ticker": "2269.HK",
+    "name": "WUXI BIO"
+  },
+  {
+    "ticker": "2270.HK",
+    "name": "DESUN SERVICES"
+  },
+  {
+    "ticker": "2271.HK",
+    "name": "ZHONGAN SERVICE"
+  },
+  {
+    "ticker": "2273.HK",
+    "name": "GUSHENGTANG"
+  },
+  {
+    "ticker": "2276.HK",
+    "name": "CONANT OPTICAL"
+  },
+  {
+    "ticker": "2279.HK",
+    "name": "YONGHE MEDICAL"
+  },
+  {
+    "ticker": "2280.HK",
+    "name": "HC GROUP"
+  },
+  {
+    "ticker": "2281.HK",
+    "name": "XINGLU WATER"
+  },
+  {
+    "ticker": "2282.HK",
+    "name": "MGM CHINA"
+  },
+  {
+    "ticker": "2283.HK",
+    "name": "TK GROUP HLDG"
+  },
+  {
+    "ticker": "2285.HK",
+    "name": "CHERVON"
+  },
+  {
+    "ticker": "2286.HK",
+    "name": "CHEN XING"
+  },
+  {
+    "ticker": "2288.HK",
+    "name": "RYKADAN CAPITAL"
+  },
+  {
+    "ticker": "2289.HK",
+    "name": "CHARMACY PHAR"
+  },
+  {
+    "ticker": "2291.HK",
+    "name": "SCIENTECH"
+  },
+  {
+    "ticker": "2293.HK",
+    "name": "BAMBOOSHEALTH"
+  },
+  {
+    "ticker": "2295.HK",
+    "name": "MAXICITY"
+  },
+  {
+    "ticker": "2297.HK",
+    "name": "RAINMED-B"
+  },
+  {
+    "ticker": "2298.HK",
+    "name": "COSMO LADY"
+  },
+  {
+    "ticker": "2299.HK",
+    "name": "BILLION IND"
+  },
+  {
+    "ticker": "2302.HK",
+    "name": "CNNC INT'L"
+  },
+  {
+    "ticker": "2306.HK",
+    "name": "YH ENT"
+  },
+  {
+    "ticker": "2307.HK",
+    "name": "KAM HING INT'L"
+  },
+  {
+    "ticker": "2309.HK",
+    "name": "ZO FUTURE GROUP"
+  },
+  {
+    "ticker": "2310.HK",
+    "name": "TIMES UNI GP"
+  },
+  {
+    "ticker": "2312.HK",
+    "name": "LONG INV CORP"
+  },
+  {
+    "ticker": "2313.HK",
+    "name": "SHENZHOU INTL"
+  },
+  {
+    "ticker": "2314.HK",
+    "name": "LEE & MAN PAPER"
+  },
+  {
+    "ticker": "2315.HK",
+    "name": "BIOCYTOGEN-B"
+  },
+  {
+    "ticker": "2317.HK",
+    "name": "VEDAN INT'L"
+  },
+  {
+    "ticker": "2318.HK",
+    "name": "PING AN"
+  },
+  {
+    "ticker": "2319.HK",
+    "name": "MENGNIU DAIRY"
+  },
+  {
+    "ticker": "2320.HK",
+    "name": "HOP FUNG GROUP"
+  },
+  {
+    "ticker": "2321.HK",
+    "name": "SWANGCHAICHUAN"
+  },
+  {
+    "ticker": "2322.HK",
+    "name": "MODERN INNO DT"
+  },
+  {
+    "ticker": "2323.HK",
+    "name": "RENCO HOLDINGS"
+  },
+  {
+    "ticker": "2324.HK",
+    "name": "CAPITAL VC"
+  },
+  {
+    "ticker": "2325.HK",
+    "name": "YUNKANG GROUP"
+  },
+  {
+    "ticker": "2326.HK",
+    "name": "NPE HOLDINGS"
+  },
+  {
+    "ticker": "2327.HK",
+    "name": "MEILLEUREHEALTH"
+  },
+  {
+    "ticker": "2328.HK",
+    "name": "PICC P&C"
+  },
+  {
+    "ticker": "2329.HK",
+    "name": "GLORY HEALTH"
+  },
+  {
+    "ticker": "2330.HK",
+    "name": "CHINA UPTOWN"
+  },
+  {
+    "ticker": "2331.HK",
+    "name": "LI NING"
+  },
+  {
+    "ticker": "2333.HK",
+    "name": "GWMOTOR"
+  },
+  {
+    "ticker": "2336.HK",
+    "name": "SHUOAO INTL"
+  },
+  {
+    "ticker": "2337.HK",
+    "name": "UNITED STRENGTH"
+  },
+  {
+    "ticker": "2338.HK",
+    "name": "WEICHAI POWER"
+  },
+  {
+    "ticker": "2339.HK",
+    "name": "BWI INT'L"
+  },
+  {
+    "ticker": "2340.HK",
+    "name": "ISP HOLDINGS"
+  },
+  {
+    "ticker": "2342.HK",
+    "name": "COMBA"
+  },
+  {
+    "ticker": "2343.HK",
+    "name": "PACIFIC BASIN"
+  },
+  {
+    "ticker": "2347.HK",
+    "name": "YOHO GROUP"
+  },
+  {
+    "ticker": "2348.HK",
+    "name": "DAWNRAYS PHARMA"
+  },
+  {
+    "ticker": "2349.HK",
+    "name": "CH CITY INFRA"
+  },
+  {
+    "ticker": "2350.HK",
+    "name": "MTT GROUP"
+  },
+  {
+    "ticker": "2352.HK",
+    "name": "DOWELL SERVICE"
+  },
+  {
+    "ticker": "2355.HK",
+    "name": "BAOYE GROUP"
+  },
+  {
+    "ticker": "2356.HK",
+    "name": "DAHSING BANKING"
+  },
+  {
+    "ticker": "2357.HK",
+    "name": "AVICHINA"
+  },
+  {
+    "ticker": "2358.HK",
+    "name": "JIU RONG HOLD"
+  },
+  {
+    "ticker": "2359.HK",
+    "name": "WUXI APPTEC"
+  },
+  {
+    "ticker": "2360.HK",
+    "name": "BEST MART 360"
+  },
+  {
+    "ticker": "2361.HK",
+    "name": "SINOHEALTH TECH"
+  },
+  {
+    "ticker": "2362.HK",
+    "name": "JINCHUAN INTL"
+  },
+  {
+    "ticker": "2363.HK",
+    "name": "TONGDA HONG TAI"
+  },
+  {
+    "ticker": "2367.HK",
+    "name": "GIANT BIOGENE"
+  },
+  {
+    "ticker": "2368.HK",
+    "name": "EAGLE NICE"
+  },
+  {
+    "ticker": "2369.HK",
+    "name": "COOLPAD GROUP"
+  },
+  {
+    "ticker": "2370.HK",
+    "name": "REDCO HEALTHY"
+  },
+  {
+    "ticker": "2371.HK",
+    "name": "CHUANGLIAN HOLD"
+  },
+  {
+    "ticker": "2372.HK",
+    "name": "WEILI HOLDINGS"
+  },
+  {
+    "ticker": "2373.HK",
+    "name": "BEAUTYFARM MED"
+  },
+  {
+    "ticker": "2376.HK",
+    "name": "LUSHANGSERVICES"
+  },
+  {
+    "ticker": "2377.HK",
+    "name": "BOQI ENV"
+  },
+  {
+    "ticker": "2378.HK",
+    "name": "PRU"
+  },
+  {
+    "ticker": "2380.HK",
+    "name": "CHINA POWER"
+  },
+  {
+    "ticker": "2381.HK",
+    "name": "SMC ELECTRIC"
+  },
+  {
+    "ticker": "2382.HK",
+    "name": "SUNNY OPTICAL"
+  },
+  {
+    "ticker": "2383.HK",
+    "name": "TOM GROUP"
+  },
+  {
+    "ticker": "2385.HK",
+    "name": "READBOY"
+  },
+  {
+    "ticker": "2386.HK",
+    "name": "SINOPEC SEG"
+  },
+  {
+    "ticker": "2388.HK",
+    "name": "BOC HONG KONG"
+  },
+  {
+    "ticker": "2389.HK",
+    "name": "BJ HEALTH"
+  },
+  {
+    "ticker": "2390.HK",
+    "name": "ZHIHU-W"
+  },
+  {
+    "ticker": "2391.HK",
+    "name": "TUYA-W"
+  },
+  {
+    "ticker": "2392.HK",
+    "name": "XUANWU CLOUD"
+  },
+  {
+    "ticker": "2393.HK",
+    "name": "YESTAR HEALTH"
+  },
+  {
+    "ticker": "2396.HK",
+    "name": "B&K CORP-B"
+  },
+  {
+    "ticker": "2399.HK",
+    "name": "CN ANCHU ENERGY"
+  },
+  {
+    "ticker": "2400.HK",
+    "name": "XD INC"
+  },
+  {
+    "ticker": "2402.HK",
+    "name": "SINOHYTEC"
+  },
+  {
+    "ticker": "2405.HK",
+    "name": "POWERWIN TECH"
+  },
+  {
+    "ticker": "2407.HK",
+    "name": "GAUSH MEDITECH"
+  },
+  {
+    "ticker": "2408.HK",
+    "name": "XIAO NOODLES"
+  },
+  {
+    "ticker": "2409.HK",
+    "name": "SEACON"
+  },
+  {
+    "ticker": "2410.HK",
+    "name": "TYK MEDICINES-B"
+  },
+  {
+    "ticker": "2411.HK",
+    "name": "PAGODA GP"
+  },
+  {
+    "ticker": "2415.HK",
+    "name": "MEDSCI"
+  },
+  {
+    "ticker": "2416.HK",
+    "name": "EDIANYUN"
+  },
+  {
+    "ticker": "2418.HK",
+    "name": "DEEWIN"
+  },
+  {
+    "ticker": "2419.HK",
+    "name": "DEKON AGR"
+  },
+  {
+    "ticker": "2420.HK",
+    "name": "ZIBUYU"
+  },
+  {
+    "ticker": "2421.HK",
+    "name": "KRP DEVELOPMENT"
+  },
+  {
+    "ticker": "2422.HK",
+    "name": "REGO INTERACT"
+  },
+  {
+    "ticker": "2423.HK",
+    "name": "BEKE-W"
+  },
+  {
+    "ticker": "2425.HK",
+    "name": "AUSTASIA GROUP"
+  },
+  {
+    "ticker": "2427.HK",
+    "name": "GUANZE MEDICAL"
+  },
+  {
+    "ticker": "2429.HK",
+    "name": "UBOX ONLINE"
+  },
+  {
+    "ticker": "2431.HK",
+    "name": "MINIEYE"
+  },
+  {
+    "ticker": "2432.HK",
+    "name": "DOBOT"
+  },
+  {
+    "ticker": "2433.HK",
+    "name": "ZT HN GROUP"
+  },
+  {
+    "ticker": "2436.HK",
+    "name": "LX TECHNOLOGY"
+  },
+  {
+    "ticker": "2438.HK",
+    "name": "MOBVOI"
+  },
+  {
+    "ticker": "2439.HK",
+    "name": "CH TREASURES NM"
+  },
+  {
+    "ticker": "2440.HK",
+    "name": "MEMESTRATEGY"
+  },
+  {
+    "ticker": "2442.HK",
+    "name": "EASY SMART GP"
+  },
+  {
+    "ticker": "2443.HK",
+    "name": "AUTOSTREETS"
+  },
+  {
+    "ticker": "2450.HK",
+    "name": "HUAIBEI GD CO"
+  },
+  {
+    "ticker": "2451.HK",
+    "name": "LUYUAN GP HLDG"
+  },
+  {
+    "ticker": "2453.HK",
+    "name": "CONCORD HC GP"
+  },
+  {
+    "ticker": "2455.HK",
+    "name": "RUNHUA SERVICE"
+  },
+  {
+    "ticker": "2457.HK",
+    "name": "BUYANG INTL"
+  },
+  {
+    "ticker": "2458.HK",
+    "name": "GALA TECH HOLD"
+  },
+  {
+    "ticker": "2459.HK",
+    "name": "SANERGY GROUP"
+  },
+  {
+    "ticker": "2460.HK",
+    "name": "CR BEVERAGE"
+  },
+  {
+    "ticker": "2465.HK",
+    "name": "LOPAL TECH"
+  },
+  {
+    "ticker": "2469.HK",
+    "name": "FENBI"
+  },
+  {
+    "ticker": "2473.HK",
+    "name": "XXF"
+  },
+  {
+    "ticker": "2477.HK",
+    "name": "WELLCELL HOLD"
+  },
+  {
+    "ticker": "2479.HK",
+    "name": "TIANJUDIHE"
+  },
+  {
+    "ticker": "2480.HK",
+    "name": "LUZHU BIOTECH-B"
+  },
+  {
+    "ticker": "2481.HK",
+    "name": "WISE LIVING TEC"
+  },
+  {
+    "ticker": "2482.HK",
+    "name": "LOGORY"
+  },
+  {
+    "ticker": "2483.HK",
+    "name": "K CASH"
+  },
+  {
+    "ticker": "2486.HK",
+    "name": "PLUS GP HOLDING"
+  },
+  {
+    "ticker": "2487.HK",
+    "name": "CUTIA-B"
+  },
+  {
+    "ticker": "2488.HK",
+    "name": "LAUNCH TECH"
+  },
+  {
+    "ticker": "2489.HK",
+    "name": "PERSISTENCEGOLD"
+  },
+  {
+    "ticker": "2490.HK",
+    "name": "LC LOGISTICS"
+  },
+  {
+    "ticker": "2495.HK",
+    "name": "VOICECOMM"
+  },
+  {
+    "ticker": "2496.HK",
+    "name": "YZYBIO-B"
+  },
+  {
+    "ticker": "2497.HK",
+    "name": "FUJING HOLDINGS"
+  },
+  {
+    "ticker": "2498.HK",
+    "name": "ROBOSENSE"
+  },
+  {
+    "ticker": "2499.HK",
+    "name": "FOLANGSI"
+  },
+  {
+    "ticker": "2500.HK",
+    "name": "VENUS MEDTECH-B"
+  },
+  {
+    "ticker": "2501.HK",
+    "name": "MAIYUE TECH"
+  },
+  {
+    "ticker": "2502.HK",
+    "name": "JINYUAN HCHEM"
+  },
+  {
+    "ticker": "2503.HK",
+    "name": "ZHONGSHENJIANYE"
+  },
+  {
+    "ticker": "2505.HK",
+    "name": "EDA GROUP HLDGS"
+  },
+  {
+    "ticker": "2506.HK",
+    "name": "XUNFEIHEALTH"
+  },
+  {
+    "ticker": "2507.HK",
+    "name": "CIRRUS"
+  },
+  {
+    "ticker": "2508.HK",
+    "name": "SAINT BELLA GP"
+  },
+  {
+    "ticker": "2509.HK",
+    "name": "QYUNS-B"
+  },
+  {
+    "ticker": "2510.HK",
+    "name": "TS LINES"
+  },
+  {
+    "ticker": "2511.HK",
+    "name": "HIGHTIDE-B"
+  },
+  {
+    "ticker": "2512.HK",
+    "name": "CLOUD FACTORY"
+  },
+  {
+    "ticker": "2513.HK",
+    "name": "KNOWLEDGE ATLAS"
+  },
+  {
+    "ticker": "2515.HK",
+    "name": "TJCD"
+  },
+  {
+    "ticker": "2516.HK",
+    "name": "FAR INTL"
+  },
+  {
+    "ticker": "2517.HK",
+    "name": "GUOQUAN"
+  },
+  {
+    "ticker": "2518.HK",
+    "name": "AUTOHOME-S"
+  },
+  {
+    "ticker": "2519.HK",
+    "name": "AUGROUP"
+  },
+  {
+    "ticker": "2520.HK",
+    "name": "SHANXI INSTALL"
+  },
+  {
+    "ticker": "2521.HK",
+    "name": "SHENGHUI CLEAN"
+  },
+  {
+    "ticker": "2522.HK",
+    "name": "RIMAG GROUP"
+  },
+  {
+    "ticker": "2525.HK",
+    "name": "HESAI-W"
+  },
+  {
+    "ticker": "2528.HK",
+    "name": "FW FASHION INT"
+  },
+  {
+    "ticker": "2529.HK",
+    "name": "HOLLWIN URBAN"
+  },
+  {
+    "ticker": "2530.HK",
+    "name": "NUMANS"
+  },
+  {
+    "ticker": "2531.HK",
+    "name": "CARLINK TECH"
+  },
+  {
+    "ticker": "2533.HK",
+    "name": "BLACK SESAME"
+  },
+  {
+    "ticker": "2535.HK",
+    "name": "WK GROUP"
+  },
+  {
+    "ticker": "2536.HK",
+    "name": "PALASINO"
+  },
+  {
+    "ticker": "2539.HK",
+    "name": "LEMO SERVICES"
+  },
+  {
+    "ticker": "2540.HK",
+    "name": "LESI GROUP"
+  },
+  {
+    "ticker": "2543.HK",
+    "name": "DAHON TECH"
+  },
+  {
+    "ticker": "2545.HK",
+    "name": "ZHONGGAN COMM"
+  },
+  {
+    "ticker": "2546.HK",
+    "name": "ZHIHUI MINING"
+  },
+  {
+    "ticker": "2549.HK",
+    "name": "CAROTE LTD"
+  },
+  {
+    "ticker": "2550.HK",
+    "name": "EASOU TECH"
+  },
+  {
+    "ticker": "2551.HK",
+    "name": "APT ELECTRONICS"
+  },
+  {
+    "ticker": "2552.HK",
+    "name": "HUA MEDICINE-B"
+  },
+  {
+    "ticker": "2555.HK",
+    "name": "CHABAIDAO"
+  },
+  {
+    "ticker": "2556.HK",
+    "name": "MARKETINGFORCE"
+  },
+  {
+    "ticker": "2558.HK",
+    "name": "JINSHANG BANK"
+  },
+  {
+    "ticker": "2559.HK",
+    "name": "DIDA INC"
+  },
+  {
+    "ticker": "2560.HK",
+    "name": "CONCH MAT TECH"
+  },
+  {
+    "ticker": "2561.HK",
+    "name": "VISEN PHARMA-B"
+  },
+  {
+    "ticker": "2562.HK",
+    "name": "SYNAGISTICS"
+  },
+  {
+    "ticker": "2563.HK",
+    "name": "BIOSTAR PHARM-B"
+  },
+  {
+    "ticker": "2565.HK",
+    "name": "PEGBIO CO-B"
+  },
+  {
+    "ticker": "2566.HK",
+    "name": "JIUYUAN GENE"
+  },
+  {
+    "ticker": "2567.HK",
+    "name": "QINIU"
+  },
+  {
+    "ticker": "2569.HK",
+    "name": "SOFT INTL"
+  },
+  {
+    "ticker": "2570.HK",
+    "name": "REFIRE"
+  },
+  {
+    "ticker": "2571.HK",
+    "name": "SAIMO"
+  },
+  {
+    "ticker": "2573.HK",
+    "name": "NEWTREND GROUP"
+  },
+  {
+    "ticker": "2575.HK",
+    "name": "XUANZHUBIO-B"
+  },
+  {
+    "ticker": "2576.HK",
+    "name": "TAIMEI TECH"
+  },
+  {
+    "ticker": "2577.HK",
+    "name": "INNOSCIENCE"
+  },
+  {
+    "ticker": "2579.HK",
+    "name": "CNGR"
+  },
+  {
+    "ticker": "2580.HK",
+    "name": "AUX ELECTRIC"
+  },
+  {
+    "ticker": "2581.HK",
+    "name": "BENQ HOLDING"
+  },
+  {
+    "ticker": "2582.HK",
+    "name": "GUOFUHEE"
+  },
+  {
+    "ticker": "2583.HK",
+    "name": "HIPINE"
+  },
+  {
+    "ticker": "2585.HK",
+    "name": "MOKINGRAN"
+  },
+  {
+    "ticker": "2586.HK",
+    "name": "DMALL"
+  },
+  {
+    "ticker": "2587.HK",
+    "name": "HEALTHYWAY INC"
+  },
+  {
+    "ticker": "2588.HK",
+    "name": "BOC AVIATION"
+  },
+  {
+    "ticker": "2589.HK",
+    "name": "AUNTEA JENNY"
+  },
+  {
+    "ticker": "2590.HK",
+    "name": "GEEKPLUS-W"
+  },
+  {
+    "ticker": "2591.HK",
+    "name": "INNOGEN-B"
+  },
+  {
+    "ticker": "2592.HK",
+    "name": "CLOUDBREAK-B"
+  },
+  {
+    "ticker": "2593.HK",
+    "name": "HERBS GROUP"
+  },
+  {
+    "ticker": "2595.HK",
+    "name": "GENFLEET-B"
+  },
+  {
+    "ticker": "2596.HK",
+    "name": "YIBIN BANK"
+  },
+  {
+    "ticker": "2597.HK",
+    "name": "XUNZHONG"
+  },
+  {
+    "ticker": "2598.HK",
+    "name": "LIANLIAN"
+  },
+  {
+    "ticker": "2600.HK",
+    "name": "CHALCO"
+  },
+  {
+    "ticker": "2601.HK",
+    "name": "CPIC"
+  },
+  {
+    "ticker": "2602.HK",
+    "name": "ONEWO"
+  },
+  {
+    "ticker": "2603.HK",
+    "name": "JIHONG CO"
+  },
+  {
+    "ticker": "2605.HK",
+    "name": "METALIGHT"
+  },
+  {
+    "ticker": "2607.HK",
+    "name": "SH PHARMA"
+  },
+  {
+    "ticker": "2608.HK",
+    "name": "SUNSHINE 100"
+  },
+  {
+    "ticker": "2609.HK",
+    "name": "BAYZED HEALTH"
+  },
+  {
+    "ticker": "2610.HK",
+    "name": "NANSHAN AL INTL"
+  },
+  {
+    "ticker": "2611.HK",
+    "name": "GTHT"
+  },
+  {
+    "ticker": "2613.HK",
+    "name": "CONTIOCEAN"
+  },
+  {
+    "ticker": "2616.HK",
+    "name": "CSTONE PHARMA-B"
+  },
+  {
+    "ticker": "2617.HK",
+    "name": "TRANSTHERA-B"
+  },
+  {
+    "ticker": "2618.HK",
+    "name": "JD LOGISTICS"
+  },
+  {
+    "ticker": "2619.HK",
+    "name": "XJ ELECTRICS"
+  },
+  {
+    "ticker": "2621.HK",
+    "name": "SHOUHUI GROUP"
+  },
+  {
+    "ticker": "2623.HK",
+    "name": "ADD NEW ENERGY"
+  },
+  {
+    "ticker": "2625.HK",
+    "name": "JIANGSU HORIZON"
+  },
+  {
+    "ticker": "2627.HK",
+    "name": "AB&B BIO-TECH-B"
+  },
+  {
+    "ticker": "2628.HK",
+    "name": "CHINA LIFE"
+  },
+  {
+    "ticker": "2629.HK",
+    "name": "MIRXES-B"
+  },
+  {
+    "ticker": "2630.HK",
+    "name": "VIGONVITA-B"
+  },
+  {
+    "ticker": "2631.HK",
+    "name": "SICC"
+  },
+  {
+    "ticker": "2633.HK",
+    "name": "JACOBSON PHARMA"
+  },
+  {
+    "ticker": "2635.HK",
+    "name": "NUOBIKAN"
+  },
+  {
+    "ticker": "2637.HK",
+    "name": "HAIXI PHARMA"
+  },
+  {
+    "ticker": "2638.HK",
+    "name": "HKELECTRIC-SS"
+  },
+  {
+    "ticker": "2643.HK",
+    "name": "CAOCAO INC"
+  },
+  {
+    "ticker": "2648.HK",
+    "name": "ANJOY FOOD"
+  },
+  {
+    "ticker": "2649.HK",
+    "name": "ALSCO POOLING"
+  },
+  {
+    "ticker": "2650.HK",
+    "name": "ZHIDA TECH-NEW"
+  },
+  {
+    "ticker": "2651.HK",
+    "name": "DAZHONG DENTAL"
+  },
+  {
+    "ticker": "2652.HK",
+    "name": "CF PHARMTECH"
+  },
+  {
+    "ticker": "2655.HK",
+    "name": "GUOXIA TECH"
+  },
+  {
+    "ticker": "2656.HK",
+    "name": "160 HEALTH"
+  },
+  {
+    "ticker": "2657.HK",
+    "name": "FOREST CABIN"
+  },
+  {
+    "ticker": "2658.HK",
+    "name": "TIANYU SEMI"
+  },
+  {
+    "ticker": "2659.HK",
+    "name": "BAO PHARMA-B"
+  },
+  {
+    "ticker": "2660.HK",
+    "name": "ZENGAME"
+  },
+  {
+    "ticker": "2661.HK",
+    "name": "QINGSONG HEALTH"
+  },
+  {
+    "ticker": "2663.HK",
+    "name": "KPA-BM HLDGS"
+  },
+  {
+    "ticker": "2665.HK",
+    "name": "SEYOND"
+  },
+  {
+    "ticker": "2666.HK",
+    "name": "UNI MEDICAL"
+  },
+  {
+    "ticker": "2668.HK",
+    "name": "PAK TAK INT'L"
+  },
+  {
+    "ticker": "2669.HK",
+    "name": "CHINA OVS PPT"
+  },
+  {
+    "ticker": "2670.HK",
+    "name": "YUNJI"
+  },
+  {
+    "ticker": "2671.HK",
+    "name": "USAS BUILDING"
+  },
+  {
+    "ticker": "2675.HK",
+    "name": "EDGE MEDICAL-B"
+  },
+  {
+    "ticker": "2676.HK",
+    "name": "NOVOSENSE"
+  },
+  {
+    "ticker": "2677.HK",
+    "name": "DISTINCT HEALTH"
+  },
+  {
+    "ticker": "2678.HK",
+    "name": "TEXHONG INTL GP"
+  },
+  {
+    "ticker": "2680.HK",
+    "name": "INNOVAX HLDGS"
+  },
+  {
+    "ticker": "2682.HK",
+    "name": "YUN LEE MARINE"
+  },
+  {
+    "ticker": "2683.HK",
+    "name": "WAHSUN HANDBAGS"
+  },
+  {
+    "ticker": "2685.HK",
+    "name": "QUANTGROUP"
+  },
+  {
+    "ticker": "2687.HK",
+    "name": "ABLE DIGITAL"
+  },
+  {
+    "ticker": "2688.HK",
+    "name": "ENN ENERGY"
+  },
+  {
+    "ticker": "2689.HK",
+    "name": "ND PAPER"
+  },
+  {
+    "ticker": "2691.HK",
+    "name": "NANHUA FUTURES"
+  },
+  {
+    "ticker": "2692.HK",
+    "name": "ZHAOWEI"
+  },
+  {
+    "ticker": "2693.HK",
+    "name": "JINYAN KAOLIN"
+  },
+  {
+    "ticker": "2695.HK",
+    "name": "IMPRESSION DHP"
+  },
+  {
+    "ticker": "2696.HK",
+    "name": "HENLIUS"
+  },
+  {
+    "ticker": "2698.HK",
+    "name": "SOFTCARE"
+  },
+  {
+    "ticker": "2699.HK",
+    "name": "XINMING CHINA"
+  },
+  {
+    "ticker": "2700.HK",
+    "name": "GREEN INTL HLDG"
+  },
+  {
+    "ticker": "2706.HK",
+    "name": "HAIZHI TECH GP"
+  },
+  {
+    "ticker": "2714.HK",
+    "name": "MUYUAN"
+  },
+  {
+    "ticker": "2715.HK",
+    "name": "ESTUN"
+  },
+  {
+    "ticker": "2718.HK",
+    "name": "MININGLAMP-W"
+  },
+  {
+    "ticker": "2720.HK",
+    "name": "RIDGE OUTDOOR"
+  },
+  {
+    "ticker": "2722.HK",
+    "name": "CHONGQING M&E"
+  },
+  {
+    "ticker": "2727.HK",
+    "name": "SH ELECTRIC"
+  },
+  {
+    "ticker": "2728.HK",
+    "name": "JINTAI ENERGY H"
+  },
+  {
+    "ticker": "2738.HK",
+    "name": "HUAJIN INTL"
+  },
+  {
+    "ticker": "2768.HK",
+    "name": "GON TECHNOLOGY"
+  },
+  {
+    "ticker": "2772.HK",
+    "name": "ZHONGLIANG HLDG"
+  },
+  {
+    "ticker": "2777.HK",
+    "name": "R&F PROPERTIES"
+  },
+  {
+    "ticker": "2778.HK",
+    "name": "CHAMPION REIT"
+  },
+  {
+    "ticker": "2779.HK",
+    "name": "CH XINHUA EDU"
+  },
+  {
+    "ticker": "2788.HK",
+    "name": "CHUANGXIN IND"
+  },
+  {
+    "ticker": "2789.HK",
+    "name": "YUANDA CHINA"
+  },
+  {
+    "ticker": "2798.HK",
+    "name": "PER ENERGY"
+  },
+  {
+    "ticker": "2799.HK",
+    "name": "CITIC FAMC"
+  },
+  {
+    "ticker": "2800.HK",
+    "name": "TRACKER FUND"
+  },
+  {
+    "ticker": "2801.HK",
+    "name": "ISHARES CHINA"
+  },
+  {
+    "ticker": "2802.HK",
+    "name": "A CSOP HSCEICC"
+  },
+  {
+    "ticker": "2803.HK",
+    "name": "PP BEDROCK"
+  },
+  {
+    "ticker": "2804.HK",
+    "name": "PREMIA VIET"
+  },
+  {
+    "ticker": "2805.HK",
+    "name": "CG BS CNASEAN"
+  },
+  {
+    "ticker": "2806.HK",
+    "name": "GX CN CONSUME"
+  },
+  {
+    "ticker": "2807.HK",
+    "name": "GX CN ROBO&AI"
+  },
+  {
+    "ticker": "2809.HK",
+    "name": "GX CN CLN EN"
+  },
+  {
+    "ticker": "2810.HK",
+    "name": "PREMIAEMASEAN"
+  },
+  {
+    "ticker": "2812.HK",
+    "name": "SAMSUNGCDGN"
+  },
+  {
+    "ticker": "2814.HK",
+    "name": "SAMSUNG FANG"
+  },
+  {
+    "ticker": "2815.HK",
+    "name": "GX CN LIL GIANT"
+  },
+  {
+    "ticker": "2817.HK",
+    "name": "PP CGBOND"
+  },
+  {
+    "ticker": "2818.HK",
+    "name": "PANDO BITCOIN"
+  },
+  {
+    "ticker": "2819.HK",
+    "name": "ABF HK IDX ETF"
+  },
+  {
+    "ticker": "2820.HK",
+    "name": "GX CN BIOTECH"
+  },
+  {
+    "ticker": "2821.HK",
+    "name": "ABF PAIF"
+  },
+  {
+    "ticker": "2822.HK",
+    "name": "CSOP A50 ETF"
+  },
+  {
+    "ticker": "2823.HK",
+    "name": "ISHARES A50"
+  },
+  {
+    "ticker": "2824.HK",
+    "name": "EFUND GOLD MI"
+  },
+  {
+    "ticker": "2825.HK",
+    "name": "WISECSIHK100ETF"
+  },
+  {
+    "ticker": "2826.HK",
+    "name": "GX CN CLOUD"
+  },
+  {
+    "ticker": "2827.HK",
+    "name": "WISE CSI300 ETF"
+  },
+  {
+    "ticker": "2828.HK",
+    "name": "HSCEI ETF"
+  },
+  {
+    "ticker": "2829.HK",
+    "name": "ISHARESCGB"
+  },
+  {
+    "ticker": "2830.HK",
+    "name": "CSOP SAUDI"
+  },
+  {
+    "ticker": "2832.HK",
+    "name": "BOSERA STAR50"
+  },
+  {
+    "ticker": "2834.HK",
+    "name": "ISHARESND100"
+  },
+  {
+    "ticker": "2835.HK",
+    "name": "PHILLIP HKNEWEQ"
+  },
+  {
+    "ticker": "2836.HK",
+    "name": "ISHARES INDIA"
+  },
+  {
+    "ticker": "2837.HK",
+    "name": "GX HS TECH"
+  },
+  {
+    "ticker": "2838.HK",
+    "name": "HS FCI50 ETF"
+  },
+  {
+    "ticker": "2839.HK",
+    "name": "CAM MSCI A50"
+  },
+  {
+    "ticker": "2840.HK",
+    "name": "SPDR GOLD TRT"
+  },
+  {
+    "ticker": "2841.HK",
+    "name": "GX CN MEDTECH"
+  },
+  {
+    "ticker": "2843.HK",
+    "name": "AMUNDI A50"
+  },
+  {
+    "ticker": "2845.HK",
+    "name": "GX CN EV BATT"
+  },
+  {
+    "ticker": "2846.HK",
+    "name": "ISHARESCSI300"
+  },
+  {
+    "ticker": "2848.HK",
+    "name": "TRMSCIKOREA"
+  },
+  {
+    "ticker": "2858.HK",
+    "name": "YIXIN"
+  },
+  {
+    "ticker": "2863.HK",
+    "name": "GOLDEN FAITH GP"
+  },
+  {
+    "ticker": "2865.HK",
+    "name": "DRINDA"
+  },
+  {
+    "ticker": "2866.HK",
+    "name": "COSCO SHIP DEV"
+  },
+  {
+    "ticker": "2869.HK",
+    "name": "GREENTOWN SER"
+  },
+  {
+    "ticker": "2877.HK",
+    "name": "SHINEWAY PHARM"
+  },
+  {
+    "ticker": "2878.HK",
+    "name": "SOLOMON SYSTECH"
+  },
+  {
+    "ticker": "2880.HK",
+    "name": "LIAONING PORT"
+  },
+  {
+    "ticker": "2881.HK",
+    "name": "WUHAN YOUJI"
+  },
+  {
+    "ticker": "2882.HK",
+    "name": "3DG HOLDINGS"
+  },
+  {
+    "ticker": "2883.HK",
+    "name": "CHINA OILFIELD"
+  },
+  {
+    "ticker": "2885.HK",
+    "name": "PEIPORT HOLD"
+  },
+  {
+    "ticker": "2886.HK",
+    "name": "BINHAI INV"
+  },
+  {
+    "ticker": "2888.HK",
+    "name": "STANCHART"
+  },
+  {
+    "ticker": "2889.HK",
+    "name": "PATEO"
+  },
+  {
+    "ticker": "2892.HK",
+    "name": "MILLION CITIES"
+  },
+  {
+    "ticker": "2898.HK",
+    "name": "SUNHO BIO-B"
+  },
+  {
+    "ticker": "2899.HK",
+    "name": "ZIJIN MINING"
+  },
+  {
+    "ticker": "2907.HK",
+    "name": "C SMARTEREN-OLD"
+  },
+  {
+    "ticker": "2910.HK",
+    "name": "ZHIDA TECH-OLD"
+  },
+  {
+    "ticker": "2911.HK",
+    "name": "CIDI-OLD"
+  },
+  {
+    "ticker": "2918.HK",
+    "name": "MP CARDIO-B-OLD"
+  },
+  {
+    "ticker": "2921.HK",
+    "name": "MINTH GROUP-2K"
+  },
+  {
+    "ticker": "2923.HK",
+    "name": "CCT FORTIS-OLD"
+  },
+  {
+    "ticker": "2927.HK",
+    "name": "ADD NEW EN RTS"
+  },
+  {
+    "ticker": "2929.HK",
+    "name": "STERLING GP"
+  },
+  {
+    "ticker": "2930.HK",
+    "name": "CHCASTSON81 RTS"
+  },
+  {
+    "ticker": "2931.HK",
+    "name": "NUOBIKAN"
+  },
+  {
+    "ticker": "3001.HK",
+    "name": "PP CNUSDPROP"
+  },
+  {
+    "ticker": "3003.HK",
+    "name": "CSOP MSCI A 50"
+  },
+  {
+    "ticker": "3004.HK",
+    "name": "CSOP VIETNAM30"
+  },
+  {
+    "ticker": "3005.HK",
+    "name": "X CSOPCSI500"
+  },
+  {
+    "ticker": "3006.HK",
+    "name": "A GX AI TECH"
+  },
+  {
+    "ticker": "3007.HK",
+    "name": "TR MSCI CHINA A"
+  },
+  {
+    "ticker": "3008.HK",
+    "name": "BOS HSK BTC"
+  },
+  {
+    "ticker": "3009.HK",
+    "name": "BOS HSK ETH"
+  },
+  {
+    "ticker": "3010.HK",
+    "name": "ISHARES AXJ"
+  },
+  {
+    "ticker": "3011.HK",
+    "name": "A ICBCCICCUSD"
+  },
+  {
+    "ticker": "3012.HK",
+    "name": "AMUNDI HK35"
+  },
+  {
+    "ticker": "3015.HK",
+    "name": "X TRNIFTY50"
+  },
+  {
+    "ticker": "3020.HK",
+    "name": "X TRMSCIUSA"
+  },
+  {
+    "ticker": "3021.HK",
+    "name": "FB FTSE TAIWAN"
+  },
+  {
+    "ticker": "3024.HK",
+    "name": "WISE SSE50ETF"
+  },
+  {
+    "ticker": "3029.HK",
+    "name": "GX HS ESG"
+  },
+  {
+    "ticker": "3032.HK",
+    "name": "HSTECH ETF"
+  },
+  {
+    "ticker": "3033.HK",
+    "name": "CSOP HS TECH"
+  },
+  {
+    "ticker": "3034.HK",
+    "name": "CSOP NASDAQ100"
+  },
+  {
+    "ticker": "3036.HK",
+    "name": "TRMSCITAIWAN"
+  },
+  {
+    "ticker": "3037.HK",
+    "name": "CSOP HSI ETF"
+  },
+  {
+    "ticker": "3038.HK",
+    "name": "HS ALOWCARBON"
+  },
+  {
+    "ticker": "3039.HK",
+    "name": "EFUNDHSIESG"
+  },
+  {
+    "ticker": "3040.HK",
+    "name": "GX MSCI CHINA"
+  },
+  {
+    "ticker": "3041.HK",
+    "name": "GX CN PB BOND"
+  },
+  {
+    "ticker": "3042.HK",
+    "name": "CAM BTC"
+  },
+  {
+    "ticker": "3046.HK",
+    "name": "CAM ETH"
+  },
+  {
+    "ticker": "3047.HK",
+    "name": "F SSIFIRONORE"
+  },
+  {
+    "ticker": "3050.HK",
+    "name": "GX CN GL LEADER"
+  },
+  {
+    "ticker": "3053.HK",
+    "name": "A CSOP HKD MM"
+  },
+  {
+    "ticker": "3056.HK",
+    "name": "A PANDO INNO"
+  },
+  {
+    "ticker": "3059.HK",
+    "name": "GX AGREENBOND"
+  },
+  {
+    "ticker": "3064.HK",
+    "name": "GX APAC"
+  },
+  {
+    "ticker": "3066.HK",
+    "name": "FA CSOP BTC"
+  },
+  {
+    "ticker": "3067.HK",
+    "name": "ISHARESHSTECH"
+  },
+  {
+    "ticker": "3068.HK",
+    "name": "FA CSOP ETH"
+  },
+  {
+    "ticker": "3069.HK",
+    "name": "CAM HSBIOTECH"
+  },
+  {
+    "ticker": "3070.HK",
+    "name": "PING AN HKDIV"
+  },
+  {
+    "ticker": "3071.HK",
+    "name": "A CICC HKD"
+  },
+  {
+    "ticker": "3074.HK",
+    "name": "ISHARESMSCITW"
+  },
+  {
+    "ticker": "3075.HK",
+    "name": "GX ASUSD BOND"
+  },
+  {
+    "ticker": "3076.HK",
+    "name": "FB TW SEMICON"
+  },
+  {
+    "ticker": "3077.HK",
+    "name": "PREMIA UST"
+  },
+  {
+    "ticker": "3081.HK",
+    "name": "VALUEGOLD ETF"
+  },
+  {
+    "ticker": "3084.HK",
+    "name": "A GX INDIA"
+  },
+  {
+    "ticker": "3085.HK",
+    "name": "PANDO ETH"
+  },
+  {
+    "ticker": "3086.HK",
+    "name": "CAM NASDAQ100"
+  },
+  {
+    "ticker": "3087.HK",
+    "name": "X TRVIET"
+  },
+  {
+    "ticker": "3088.HK",
+    "name": "CAM HS TECH"
+  },
+  {
+    "ticker": "3096.HK",
+    "name": "A CSOP USD MM"
+  },
+  {
+    "ticker": "3097.HK",
+    "name": "F GX OIL"
+  },
+  {
+    "ticker": "3101.HK",
+    "name": "CSOP A500"
+  },
+  {
+    "ticker": "3102.HK",
+    "name": "ICBCU KS KWEB"
+  },
+  {
+    "ticker": "3104.HK",
+    "name": "A GX EM ASIA"
+  },
+  {
+    "ticker": "3108.HK",
+    "name": "HGI ESGLEADER"
+  },
+  {
+    "ticker": "3109.HK",
+    "name": "CSOP STAR 50"
+  },
+  {
+    "ticker": "3110.HK",
+    "name": "GX HS HIGHDIV"
+  },
+  {
+    "ticker": "3111.HK",
+    "name": "EFUNDMSCIA50"
+  },
+  {
+    "ticker": "3112.HK",
+    "name": "A PANDO BLKC"
+  },
+  {
+    "ticker": "3115.HK",
+    "name": "ISHARESHSI"
+  },
+  {
+    "ticker": "3116.HK",
+    "name": "GX AP HIGH DIV"
+  },
+  {
+    "ticker": "3118.HK",
+    "name": "HGI MSCI CN A"
+  },
+  {
+    "ticker": "3119.HK",
+    "name": "GX ASIA SEMICON"
+  },
+  {
+    "ticker": "3122.HK",
+    "name": "A CSOP RMB MM"
+  },
+  {
+    "ticker": "3128.HK",
+    "name": "HS AINDTOPETF"
+  },
+  {
+    "ticker": "3129.HK",
+    "name": "BOCGBACLIMATE"
+  },
+  {
+    "ticker": "3130.HK",
+    "name": "HS CSI300"
+  },
+  {
+    "ticker": "3132.HK",
+    "name": "SAMSUNG SEMICON"
+  },
+  {
+    "ticker": "3133.HK",
+    "name": "CSOP CSI300"
+  },
+  {
+    "ticker": "3134.HK",
+    "name": "CSOP CSI PV"
+  },
+  {
+    "ticker": "3135.HK",
+    "name": "FA SAMSUNG BTC"
+  },
+  {
+    "ticker": "3136.HK",
+    "name": "HSI ESG ETF"
+  },
+  {
+    "ticker": "3137.HK",
+    "name": "A GX USD MM"
+  },
+  {
+    "ticker": "3139.HK",
+    "name": "A GX EV ROBOT"
+  },
+  {
+    "ticker": "3141.HK",
+    "name": "CAM ASIA IGB"
+  },
+  {
+    "ticker": "3145.HK",
+    "name": "CAM ASIA HIGHDV"
+  },
+  {
+    "ticker": "3146.HK",
+    "name": "CAM 20 UST"
+  },
+  {
+    "ticker": "3147.HK",
+    "name": "X CSOPCHINEXT"
+  },
+  {
+    "ticker": "3150.HK",
+    "name": "GX JP GL LEADER"
+  },
+  {
+    "ticker": "3151.HK",
+    "name": "PREMIA STAR50"
+  },
+  {
+    "ticker": "3152.HK",
+    "name": "A BOS HKD MM"
+  },
+  {
+    "ticker": "3153.HK",
+    "name": "CSOP NIKKEI225"
+  },
+  {
+    "ticker": "3156.HK",
+    "name": "BOS 20 UST"
+  },
+  {
+    "ticker": "3158.HK",
+    "name": "GX KPOP CULTURE"
+  },
+  {
+    "ticker": "3160.HK",
+    "name": "CAM JAPAN HDG"
+  },
+  {
+    "ticker": "3161.HK",
+    "name": "A CAM RMB MM"
+  },
+  {
+    "ticker": "3165.HK",
+    "name": "CAM EU QLTY HDG"
+  },
+  {
+    "ticker": "3167.HK",
+    "name": "ICBCCSOPCHINA"
+  },
+  {
+    "ticker": "3169.HK",
+    "name": "HGI G2 TECH 50"
+  },
+  {
+    "ticker": "3170.HK",
+    "name": "HS GOLD ETF"
+  },
+  {
+    "ticker": "3171.HK",
+    "name": "A SS BLOCKCHAIN"
+  },
+  {
+    "ticker": "3172.HK",
+    "name": "A SS ASIA META"
+  },
+  {
+    "ticker": "3173.HK",
+    "name": "PP CN NEWECON"
+  },
+  {
+    "ticker": "3174.HK",
+    "name": "CSOP HSBIOTECH"
+  },
+  {
+    "ticker": "3175.HK",
+    "name": "F SAMSUNG OIL"
+  },
+  {
+    "ticker": "3176.HK",
+    "name": "A TK USD MM"
+  },
+  {
+    "ticker": "3179.HK",
+    "name": "HGI ETH"
+  },
+  {
+    "ticker": "3181.HK",
+    "name": "PREMIAASIATEC"
+  },
+  {
+    "ticker": "3182.HK",
+    "name": "WISE NEWECONESG"
+  },
+  {
+    "ticker": "3184.HK",
+    "name": "GX INDIA TOP 10"
+  },
+  {
+    "ticker": "3185.HK",
+    "name": "GX FINTECH"
+  },
+  {
+    "ticker": "3187.HK",
+    "name": "SAMSUNG REITS"
+  },
+  {
+    "ticker": "3188.HK",
+    "name": "CAM CSI300"
+  },
+  {
+    "ticker": "3189.HK",
+    "name": "EFUND LIQUOR"
+  },
+  {
+    "ticker": "3190.HK",
+    "name": "FB SSH HIGH DIV"
+  },
+  {
+    "ticker": "3191.HK",
+    "name": "GX CN SEMICON"
+  },
+  {
+    "ticker": "3192.HK",
+    "name": "A BOS RMB MM"
+  },
+  {
+    "ticker": "3193.HK",
+    "name": "CSOP CSI 5G"
+  },
+  {
+    "ticker": "3195.HK",
+    "name": "HS S&P500"
+  },
+  {
+    "ticker": "3196.HK",
+    "name": "A BOS USD MM"
+  },
+  {
+    "ticker": "3199.HK",
+    "name": "ICBCCSOP CGPB"
+  },
+  {
+    "ticker": "3200.HK",
+    "name": "HANS CNC"
+  },
+  {
+    "ticker": "3268.HK",
+    "name": "MEIG"
+  },
+  {
+    "ticker": "3288.HK",
+    "name": "HAITIAN FLAV"
+  },
+  {
+    "ticker": "3300.HK",
+    "name": "CHINA GLASS"
+  },
+  {
+    "ticker": "3301.HK",
+    "name": "RONSHINECHINA"
+  },
+  {
+    "ticker": "3302.HK",
+    "name": "KINERGY"
+  },
+  {
+    "ticker": "3303.HK",
+    "name": "JUTAL OIL SER"
+  },
+  {
+    "ticker": "3306.HK",
+    "name": "JNBY"
+  },
+  {
+    "ticker": "3309.HK",
+    "name": "C-MER MEDICAL"
+  },
+  {
+    "ticker": "3311.HK",
+    "name": "CHINA STATE CON"
+  },
+  {
+    "ticker": "3313.HK",
+    "name": "ARTGO HOLDINGS"
+  },
+  {
+    "ticker": "3315.HK",
+    "name": "GOLDPAC GROUP"
+  },
+  {
+    "ticker": "3316.HK",
+    "name": "BINJIANG SER"
+  },
+  {
+    "ticker": "3317.HK",
+    "name": "XUNCE"
+  },
+  {
+    "ticker": "3318.HK",
+    "name": "CHINA BOTON"
+  },
+  {
+    "ticker": "3319.HK",
+    "name": "A-LIVING"
+  },
+  {
+    "ticker": "3320.HK",
+    "name": "CHINARES PHARMA"
+  },
+  {
+    "ticker": "3321.HK",
+    "name": "WAI HUNG GROUP"
+  },
+  {
+    "ticker": "3322.HK",
+    "name": "WIN HANVERKY"
+  },
+  {
+    "ticker": "3323.HK",
+    "name": "CNBM"
+  },
+  {
+    "ticker": "3328.HK",
+    "name": "BANKCOMM"
+  },
+  {
+    "ticker": "3329.HK",
+    "name": "BOCOM INTL"
+  },
+  {
+    "ticker": "3330.HK",
+    "name": "LINGBAO GOLD"
+  },
+  {
+    "ticker": "3332.HK",
+    "name": "SINOLIFE UTD"
+  },
+  {
+    "ticker": "3336.HK",
+    "name": "JU TENG INTL"
+  },
+  {
+    "ticker": "3337.HK",
+    "name": "ANTON OILFIELD"
+  },
+  {
+    "ticker": "3339.HK",
+    "name": "LONKING"
+  },
+  {
+    "ticker": "3347.HK",
+    "name": "TIGERMED"
+  },
+  {
+    "ticker": "3348.HK",
+    "name": "CHINA PENGFEI"
+  },
+  {
+    "ticker": "3360.HK",
+    "name": "FE HORIZON"
+  },
+  {
+    "ticker": "3363.HK",
+    "name": "ZHENGYE INT'L"
+  },
+  {
+    "ticker": "3366.HK",
+    "name": "OCT (ASIA)"
+  },
+  {
+    "ticker": "3368.HK",
+    "name": "PARKSON GROUP"
+  },
+  {
+    "ticker": "3369.HK",
+    "name": "QHD PORT"
+  },
+  {
+    "ticker": "3377.HK",
+    "name": "SINO-OCEAN GP"
+  },
+  {
+    "ticker": "3378.HK",
+    "name": "HANXBIO-B"
+  },
+  {
+    "ticker": "3380.HK",
+    "name": "LOGAN GROUP"
+  },
+  {
+    "ticker": "3382.HK",
+    "name": "TIANJINPORT DEV"
+  },
+  {
+    "ticker": "3383.HK",
+    "name": "AGILE GROUP"
+  },
+  {
+    "ticker": "3389.HK",
+    "name": "HENGDELI"
+  },
+  {
+    "ticker": "3390.HK",
+    "name": "TYCOON GROUP"
+  },
+  {
+    "ticker": "3393.HK",
+    "name": "WASION HOLDINGS"
+  },
+  {
+    "ticker": "3395.HK",
+    "name": "JX ENERGY"
+  },
+  {
+    "ticker": "3396.HK",
+    "name": "LEGENDHOLDING"
+  },
+  {
+    "ticker": "3398.HK",
+    "name": "CHINA TING"
+  },
+  {
+    "ticker": "3399.HK",
+    "name": "YUEYUN TRANS"
+  },
+  {
+    "ticker": "3401.HK",
+    "name": "GX AI INFRA"
+  },
+  {
+    "ticker": "3402.HK",
+    "name": "GX G2TECH"
+  },
+  {
+    "ticker": "3403.HK",
+    "name": "CAM HSI ESG"
+  },
+  {
+    "ticker": "3404.HK",
+    "name": "CAM MSCIINDIA"
+  },
+  {
+    "ticker": "3405.HK",
+    "name": "FB ASIA EGY STR"
+  },
+  {
+    "ticker": "3406.HK",
+    "name": "PA TECHSELECT"
+  },
+  {
+    "ticker": "3410.HK",
+    "name": "HS JAPAN TPX100"
+  },
+  {
+    "ticker": "3411.HK",
+    "name": "PP ASIA IGUSD"
+  },
+  {
+    "ticker": "3412.HK",
+    "name": "A DOO PAYMENTS"
+  },
+  {
+    "ticker": "3413.HK",
+    "name": "A DOO AI"
+  },
+  {
+    "ticker": "3415.HK",
+    "name": "A GXS&P500CC"
+  },
+  {
+    "ticker": "3416.HK",
+    "name": "A GX HSCEICC"
+  },
+  {
+    "ticker": "3417.HK",
+    "name": "A GX HSTCC"
+  },
+  {
+    "ticker": "3419.HK",
+    "name": "A GX HSICC"
+  },
+  {
+    "ticker": "3420.HK",
+    "name": "A VP RMB MM"
+  },
+  {
+    "ticker": "3421.HK",
+    "name": "A VP HKD MM"
+  },
+  {
+    "ticker": "3422.HK",
+    "name": "GX INNO TOP 10"
+  },
+  {
+    "ticker": "3423.HK",
+    "name": "CMS HS TECH"
+  },
+  {
+    "ticker": "3425.HK",
+    "name": "MBC ETH"
+  },
+  {
+    "ticker": "3426.HK",
+    "name": "A DOO WEB3"
+  },
+  {
+    "ticker": "3427.HK",
+    "name": "FB MULTIASSET"
+  },
+  {
+    "ticker": "3430.HK",
+    "name": "MBC BTC"
+  },
+  {
+    "ticker": "3431.HK",
+    "name": "CSOP HKKRTECH"
+  },
+  {
+    "ticker": "3432.HK",
+    "name": "CSOP HKCNCON"
+  },
+  {
+    "ticker": "3433.HK",
+    "name": "CSOP UST20"
+  },
+  {
+    "ticker": "3434.HK",
+    "name": "EFUND DIGITAL"
+  },
+  {
+    "ticker": "3435.HK",
+    "name": "HSCMS 7-10Y UST"
+  },
+  {
+    "ticker": "3436.HK",
+    "name": "HSCMS 1-3Y UST"
+  },
+  {
+    "ticker": "3437.HK",
+    "name": "BOS CSOE HIDV"
+  },
+  {
+    "ticker": "3439.HK",
+    "name": "HGI BTC"
+  },
+  {
+    "ticker": "3440.HK",
+    "name": "GX 0-3M UST"
+  },
+  {
+    "ticker": "3441.HK",
+    "name": "CSOP EWSELECT"
+  },
+  {
+    "ticker": "3442.HK",
+    "name": "CSOP HKUSTECH"
+  },
+  {
+    "ticker": "3443.HK",
+    "name": "CSOP HK EQUITY"
+  },
+  {
+    "ticker": "3447.HK",
+    "name": "CSOP AP REITS"
+  },
+  {
+    "ticker": "3448.HK",
+    "name": "GX CHINA TECH"
+  },
+  {
+    "ticker": "3450.HK",
+    "name": "GX 3-5Y UST"
+  },
+  {
+    "ticker": "3451.HK",
+    "name": "A GXNASDAQCC"
+  },
+  {
+    "ticker": "3453.HK",
+    "name": "PREMIA TW50"
+  },
+  {
+    "ticker": "3454.HK",
+    "name": "CSOP MAG7"
+  },
+  {
+    "ticker": "3455.HK",
+    "name": "INVESCO QQQ"
+  },
+  {
+    "ticker": "3457.HK",
+    "name": "A TK HKD MM"
+  },
+  {
+    "ticker": "3460.HK",
+    "name": "CAM SOL"
+  },
+  {
+    "ticker": "3461.HK",
+    "name": "A CAM RMBTMMF"
+  },
+  {
+    "ticker": "3466.HK",
+    "name": "HS HIGH DIV"
+  },
+  {
+    "ticker": "3469.HK",
+    "name": "CSOP SCHIGHDIV"
+  },
+  {
+    "ticker": "3470.HK",
+    "name": "GX GREATERCHINA"
+  },
+  {
+    "ticker": "3471.HK",
+    "name": "A CAM HKDTMMF"
+  },
+  {
+    "ticker": "3472.HK",
+    "name": "A CAM USDTMMF"
+  },
+  {
+    "ticker": "3476.HK",
+    "name": "A HSJPUSINCOME"
+  },
+  {
+    "ticker": "3477.HK",
+    "name": "PA EW SELECT"
+  },
+  {
+    "ticker": "3478.HK",
+    "name": "PPKSA G SUKUK"
+  },
+  {
+    "ticker": "3480.HK",
+    "name": "A VP USD MM"
+  },
+  {
+    "ticker": "3483.HK",
+    "name": "EFUND APAC HD"
+  },
+  {
+    "ticker": "3489.HK",
+    "name": "EFUND AI"
+  },
+  {
+    "ticker": "3600.HK",
+    "name": "MODERN DENTAL"
+  },
+  {
+    "ticker": "3601.HK",
+    "name": "LUDASHI"
+  },
+  {
+    "ticker": "3603.HK",
+    "name": "XINJI SHAXI"
+  },
+  {
+    "ticker": "3606.HK",
+    "name": "FUYAO GLASS"
+  },
+  {
+    "ticker": "3613.HK",
+    "name": "TONGRENTANGCM"
+  },
+  {
+    "ticker": "3616.HK",
+    "name": "EVER REACH GP"
+  },
+  {
+    "ticker": "3618.HK",
+    "name": "CQRC BANK"
+  },
+  {
+    "ticker": "3623.HK",
+    "name": "C SUCCESS FIN"
+  },
+  {
+    "ticker": "3626.HK",
+    "name": "EAST NOVA HLDGS"
+  },
+  {
+    "ticker": "3628.HK",
+    "name": "RENHENG ENT"
+  },
+  {
+    "ticker": "3633.HK",
+    "name": "ZHONGYU ENERGY"
+  },
+  {
+    "ticker": "3636.HK",
+    "name": "JINXUN RESOURCE"
+  },
+  {
+    "ticker": "3638.HK",
+    "name": "HUNLICAR GROUP"
+  },
+  {
+    "ticker": "3639.HK",
+    "name": "YIDA CHINA"
+  },
+  {
+    "ticker": "3650.HK",
+    "name": "KEEP"
+  },
+  {
+    "ticker": "3658.HK",
+    "name": "NEW HOPE SERV"
+  },
+  {
+    "ticker": "3660.HK",
+    "name": "QFIN-S"
+  },
+  {
+    "ticker": "3662.HK",
+    "name": "STARJOY W&T"
+  },
+  {
+    "ticker": "3666.HK",
+    "name": "SHANGHAI XNG"
+  },
+  {
+    "ticker": "3668.HK",
+    "name": "YANCOAL AUS"
+  },
+  {
+    "ticker": "3669.HK",
+    "name": "YONGDA AUTO"
+  },
+  {
+    "ticker": "3677.HK",
+    "name": "ZENERGY"
+  },
+  {
+    "ticker": "3678.HK",
+    "name": "HOLLY FUTURES"
+  },
+  {
+    "ticker": "3680.HK",
+    "name": "RUIHE DATA"
+  },
+  {
+    "ticker": "3681.HK",
+    "name": "SINOMAB BIO-B"
+  },
+  {
+    "ticker": "3683.HK",
+    "name": "GREAT HARVEST"
+  },
+  {
+    "ticker": "3686.HK",
+    "name": "CLIFFORDML"
+  },
+  {
+    "ticker": "3688.HK",
+    "name": "TOP SPRING"
+  },
+  {
+    "ticker": "3689.HK",
+    "name": "KANGHUA HEALTH"
+  },
+  {
+    "ticker": "3690.HK",
+    "name": "MEITUAN-W"
+  },
+  {
+    "ticker": "3692.HK",
+    "name": "HANSOH PHARMA"
+  },
+  {
+    "ticker": "3696.HK",
+    "name": "INSILICO"
+  },
+  {
+    "ticker": "3698.HK",
+    "name": "HUISHANG BANK"
+  },
+  {
+    "ticker": "3699.HK",
+    "name": "EB GRAND CHINA"
+  },
+  {
+    "ticker": "3700.HK",
+    "name": "INKEVERSE"
+  },
+  {
+    "ticker": "3708.HK",
+    "name": "WORLD DIGI ECON"
+  },
+  {
+    "ticker": "3709.HK",
+    "name": "EEKA FASHION"
+  },
+  {
+    "ticker": "3718.HK",
+    "name": "BJ ENT URBAN"
+  },
+  {
+    "ticker": "3728.HK",
+    "name": "CHING LEE"
+  },
+  {
+    "ticker": "3737.HK",
+    "name": "ZHONGZHIPHARM"
+  },
+  {
+    "ticker": "3738.HK",
+    "name": "VOBILE GROUP"
+  },
+  {
+    "ticker": "3750.HK",
+    "name": "CATL"
+  },
+  {
+    "ticker": "3759.HK",
+    "name": "PHARMARON"
+  },
+  {
+    "ticker": "3768.HK",
+    "name": "DCWT"
+  },
+  {
+    "ticker": "3773.HK",
+    "name": "YS DIGIFAVOR"
+  },
+  {
+    "ticker": "3778.HK",
+    "name": "CHINA WEAVING"
+  },
+  {
+    "ticker": "3788.HK",
+    "name": "HANKING GOLD"
+  },
+  {
+    "ticker": "3789.HK",
+    "name": "ROYAL DELUXE"
+  },
+  {
+    "ticker": "3798.HK",
+    "name": "HOMELAND ITL"
+  },
+  {
+    "ticker": "3800.HK",
+    "name": "GCL TECH"
+  },
+  {
+    "ticker": "3808.HK",
+    "name": "SINOTRUK"
+  },
+  {
+    "ticker": "3813.HK",
+    "name": "POU SHENG INT'L"
+  },
+  {
+    "ticker": "3816.HK",
+    "name": "KFM KINGDOM"
+  },
+  {
+    "ticker": "3818.HK",
+    "name": "CHINA DONGXIANG"
+  },
+  {
+    "ticker": "3822.HK",
+    "name": "SAM WOO CONS"
+  },
+  {
+    "ticker": "3828.HK",
+    "name": "MING FAI INT'L"
+  },
+  {
+    "ticker": "3830.HK",
+    "name": "KIDDIELAND"
+  },
+  {
+    "ticker": "3833.HK",
+    "name": "XINXIN MINING"
+  },
+  {
+    "ticker": "3836.HK",
+    "name": "HARMONY AUTO"
+  },
+  {
+    "ticker": "3838.HK",
+    "name": "CHINA STARCH"
+  },
+  {
+    "ticker": "3839.HK",
+    "name": "CT ENTERPRISE"
+  },
+  {
+    "ticker": "3848.HK",
+    "name": "HAOSEN FINTECH"
+  },
+  {
+    "ticker": "3858.HK",
+    "name": "JIAXIN INTL RES"
+  },
+  {
+    "ticker": "3860.HK",
+    "name": "EPS HEALTH TECH"
+  },
+  {
+    "ticker": "3866.HK",
+    "name": "BQD"
+  },
+  {
+    "ticker": "3868.HK",
+    "name": "XINYI ENERGY"
+  },
+  {
+    "ticker": "3869.HK",
+    "name": "HOSPITAL CORP"
+  },
+  {
+    "ticker": "3877.HK",
+    "name": "CSSC SHIPPING"
+  },
+  {
+    "ticker": "3878.HK",
+    "name": "VICON HOLDINGS"
+  },
+  {
+    "ticker": "3880.HK",
+    "name": "MEDTIDE"
+  },
+  {
+    "ticker": "3881.HK",
+    "name": "CIDI-NEW"
+  },
+  {
+    "ticker": "3882.HK",
+    "name": "SKYLIGHT HLDG"
+  },
+  {
+    "ticker": "3883.HK",
+    "name": "CHINA AOYUAN"
+  },
+  {
+    "ticker": "3886.HK",
+    "name": "TOWN HEALTH"
+  },
+  {
+    "ticker": "3887.HK",
+    "name": "HASHKEY HLDGS"
+  },
+  {
+    "ticker": "3888.HK",
+    "name": "KINGSOFT"
+  },
+  {
+    "ticker": "3889.HK",
+    "name": "GLOBAL CORN GP"
+  },
+  {
+    "ticker": "3893.HK",
+    "name": "CROSSTEC"
+  },
+  {
+    "ticker": "3896.HK",
+    "name": "KINGSOFT CLOUD"
+  },
+  {
+    "ticker": "3898.HK",
+    "name": "TIMES ELECTRIC"
+  },
+  {
+    "ticker": "3899.HK",
+    "name": "CIMC ENRIC"
+  },
+  {
+    "ticker": "3900.HK",
+    "name": "GREENTOWN CHINA"
+  },
+  {
+    "ticker": "3903.HK",
+    "name": "HANHUA FIN"
+  },
+  {
+    "ticker": "3908.HK",
+    "name": "CICC"
+  },
+  {
+    "ticker": "3913.HK",
+    "name": "KWG LIVING"
+  },
+  {
+    "ticker": "3918.HK",
+    "name": "NAGACORP"
+  },
+  {
+    "ticker": "3919.HK",
+    "name": "GOLDENPOWER"
+  },
+  {
+    "ticker": "3928.HK",
+    "name": "CHINA NEXT-GEN"
+  },
+  {
+    "ticker": "3931.HK",
+    "name": "CALB"
+  },
+  {
+    "ticker": "3933.HK",
+    "name": "UNITED LAB"
+  },
+  {
+    "ticker": "3938.HK",
+    "name": "LFG INV HLDGS"
+  },
+  {
+    "ticker": "3939.HK",
+    "name": "WANGUO GOLD GP"
+  },
+  {
+    "ticker": "3958.HK",
+    "name": "DFZQ"
+  },
+  {
+    "ticker": "3963.HK",
+    "name": "RONGZHONG FIN"
+  },
+  {
+    "ticker": "3968.HK",
+    "name": "CM BANK"
+  },
+  {
+    "ticker": "3969.HK",
+    "name": "CHINA CRSC"
+  },
+  {
+    "ticker": "3978.HK",
+    "name": "BESTSTUDY EDU"
+  },
+  {
+    "ticker": "3983.HK",
+    "name": "CHINA BLUECHEM"
+  },
+  {
+    "ticker": "3986.HK",
+    "name": "GIGADEVICE"
+  },
+  {
+    "ticker": "3988.HK",
+    "name": "BANK OF CHINA"
+  },
+  {
+    "ticker": "3989.HK",
+    "name": "CAPITAL ENV"
+  },
+  {
+    "ticker": "3990.HK",
+    "name": "MIDEA REAL EST"
+  },
+  {
+    "ticker": "3991.HK",
+    "name": "CHANGHONG JH"
+  },
+  {
+    "ticker": "3993.HK",
+    "name": "CMOC"
+  },
+  {
+    "ticker": "3996.HK",
+    "name": "CH ENERGY ENG"
+  },
+  {
+    "ticker": "3997.HK",
+    "name": "TSO"
+  },
+  {
+    "ticker": "3998.HK",
+    "name": "BOSIDENG"
+  },
+  {
+    "ticker": "3999.HK",
+    "name": "DACHAN FOOD"
+  },
+  {
+    "ticker": "4332.HK",
+    "name": "AMGEN-T"
+  },
+  {
+    "ticker": "4333.HK",
+    "name": "CISCO-T"
+  },
+  {
+    "ticker": "4335.HK",
+    "name": "INTEL-T"
+  },
+  {
+    "ticker": "4336.HK",
+    "name": "APPL MATERIAL-T"
+  },
+  {
+    "ticker": "4337.HK",
+    "name": "STARBUCKS-T"
+  },
+  {
+    "ticker": "4338.HK",
+    "name": "MICROSOFT-T"
+  },
+  {
+    "ticker": "4621.HK",
+    "name": "CINDA 21USDPREF"
+  },
+  {
+    "ticker": "6030.HK",
+    "name": "CITIC SEC"
+  },
+  {
+    "ticker": "6031.HK",
+    "name": "SANY HEAVY IND"
+  },
+  {
+    "ticker": "6033.HK",
+    "name": "TELECOM DIGIT"
+  },
+  {
+    "ticker": "6036.HK",
+    "name": "APEX ACE HLDG"
+  },
+  {
+    "ticker": "6038.HK",
+    "name": "G & M HLDGS"
+  },
+  {
+    "ticker": "6049.HK",
+    "name": "POLY PPT SER"
+  },
+  {
+    "ticker": "6055.HK",
+    "name": "CTIHK"
+  },
+  {
+    "ticker": "6058.HK",
+    "name": "CISI FIN"
+  },
+  {
+    "ticker": "6060.HK",
+    "name": "ZA ONLINE"
+  },
+  {
+    "ticker": "6063.HK",
+    "name": "LOTUS HORIZON"
+  },
+  {
+    "ticker": "6066.HK",
+    "name": "CSC"
+  },
+  {
+    "ticker": "6068.HK",
+    "name": "WISDOM EDU INTL"
+  },
+  {
+    "ticker": "6069.HK",
+    "name": "SY HOLDINGS"
+  },
+  {
+    "ticker": "6078.HK",
+    "name": "HYGEIA HEALTH"
+  },
+  {
+    "ticker": "6080.HK",
+    "name": "WING CHI HLDGS"
+  },
+  {
+    "ticker": "6082.HK",
+    "name": "BIREN TECH"
+  },
+  {
+    "ticker": "6083.HK",
+    "name": "WORLD-LINK LOG"
+  },
+  {
+    "ticker": "6086.HK",
+    "name": "FANGZHOU JIANKE"
+  },
+  {
+    "ticker": "6088.HK",
+    "name": "FIT HON TENG"
+  },
+  {
+    "ticker": "6090.HK",
+    "name": "BUTONG GROUP"
+  },
+  {
+    "ticker": "6093.HK",
+    "name": "HEVOL SERVICES"
+  },
+  {
+    "ticker": "6098.HK",
+    "name": "CG SERVICES"
+  },
+  {
+    "ticker": "6099.HK",
+    "name": "CMSC"
+  },
+  {
+    "ticker": "6100.HK",
+    "name": "TONGDAO LIEPIN"
+  },
+  {
+    "ticker": "6108.HK",
+    "name": "NEW RAY MEDIC"
+  },
+  {
+    "ticker": "6110.HK",
+    "name": "TOPSPORTS"
+  },
+  {
+    "ticker": "6113.HK",
+    "name": "BITSTRAT HLDGS"
+  },
+  {
+    "ticker": "6117.HK",
+    "name": "RIZHAO PORT JR"
+  },
+  {
+    "ticker": "6118.HK",
+    "name": "AUSTAR"
+  },
+  {
+    "ticker": "6119.HK",
+    "name": "TIAN YUAN GP"
+  },
+  {
+    "ticker": "6123.HK",
+    "name": "YTO INTL EXP"
+  },
+  {
+    "ticker": "6127.HK",
+    "name": "JOINN"
+  },
+  {
+    "ticker": "6128.HK",
+    "name": "GRAPHEX GROUP"
+  },
+  {
+    "ticker": "6133.HK",
+    "name": "VITAL INNO"
+  },
+  {
+    "ticker": "6136.HK",
+    "name": "KANGDA ENV"
+  },
+  {
+    "ticker": "6138.HK",
+    "name": "HARBIN BANK"
+  },
+  {
+    "ticker": "6158.HK",
+    "name": "ZHENRO PPT"
+  },
+  {
+    "ticker": "6160.HK",
+    "name": "BEONE MEDICINES"
+  },
+  {
+    "ticker": "6162.HK",
+    "name": "TR INTERIORS"
+  },
+  {
+    "ticker": "6163.HK",
+    "name": "GEMILANG INTL"
+  },
+  {
+    "ticker": "6166.HK",
+    "name": "CIG"
+  },
+  {
+    "ticker": "6168.HK",
+    "name": "ZHOU LIU FU"
+  },
+  {
+    "ticker": "6169.HK",
+    "name": "YUHUA EDU"
+  },
+  {
+    "ticker": "6178.HK",
+    "name": "EB SECURITIES"
+  },
+  {
+    "ticker": "6181.HK",
+    "name": "LAOPU GOLD"
+  },
+  {
+    "ticker": "6182.HK",
+    "name": "TWINTEK"
+  },
+  {
+    "ticker": "6185.HK",
+    "name": "CANSINOBIO"
+  },
+  {
+    "ticker": "6186.HK",
+    "name": "CHINA FEIHE"
+  },
+  {
+    "ticker": "6188.HK",
+    "name": "BJ DIGITAL"
+  },
+  {
+    "ticker": "6189.HK",
+    "name": "ADWAY"
+  },
+  {
+    "ticker": "6190.HK",
+    "name": "BANKOFJIUJIANG"
+  },
+  {
+    "ticker": "6193.HK",
+    "name": "TAILAM TECHCON"
+  },
+  {
+    "ticker": "6196.HK",
+    "name": "BANKOFZHENGZHOU"
+  },
+  {
+    "ticker": "6198.HK",
+    "name": "QINGDAO PORT"
+  },
+  {
+    "ticker": "6199.HK",
+    "name": "BANK OF GUIZHOU"
+  },
+  {
+    "ticker": "6288.HK",
+    "name": "FAST RETAIL-DRS"
+  },
+  {
+    "ticker": "6600.HK",
+    "name": "ONEROBOTICS"
+  },
+  {
+    "ticker": "6601.HK",
+    "name": "CHEERWIN GP"
+  },
+  {
+    "ticker": "6603.HK",
+    "name": "IFBH"
+  },
+  {
+    "ticker": "6608.HK",
+    "name": "BAIRONG-W"
+  },
+  {
+    "ticker": "6609.HK",
+    "name": "HEARTCARE-B"
+  },
+  {
+    "ticker": "6610.HK",
+    "name": "FLOWING CLOUD"
+  },
+  {
+    "ticker": "6611.HK",
+    "name": "SANXUN GROUP"
+  },
+  {
+    "ticker": "6613.HK",
+    "name": "LENS"
+  },
+  {
+    "ticker": "6616.HK",
+    "name": "GLOBAL NEW MAT"
+  },
+  {
+    "ticker": "6618.HK",
+    "name": "JD HEALTH"
+  },
+  {
+    "ticker": "6622.HK",
+    "name": "ZHAOKE OPHTH-B"
+  },
+  {
+    "ticker": "6623.HK",
+    "name": "LUFAX"
+  },
+  {
+    "ticker": "6626.HK",
+    "name": "YUEXIU SERVICES"
+  },
+  {
+    "ticker": "6628.HK",
+    "name": "TRANSCENTA-B"
+  },
+  {
+    "ticker": "6633.HK",
+    "name": "QINGCI GAMES"
+  },
+  {
+    "ticker": "6639.HK",
+    "name": "ARRAIL GROUP"
+  },
+  {
+    "ticker": "6651.HK",
+    "name": "51WORLD"
+  },
+  {
+    "ticker": "6655.HK",
+    "name": "HX BLDG MAT"
+  },
+  {
+    "ticker": "6657.HK",
+    "name": "BAIWANG CO"
+  },
+  {
+    "ticker": "6660.HK",
+    "name": "AIM VACCINE"
+  },
+  {
+    "ticker": "6661.HK",
+    "name": "HUZHOU GAS"
+  },
+  {
+    "ticker": "6663.HK",
+    "name": "IWS GROUP"
+  },
+  {
+    "ticker": "6666.HK",
+    "name": "EVERG SERVICES"
+  },
+  {
+    "ticker": "6667.HK",
+    "name": "MEGA GENOMICS"
+  },
+  {
+    "ticker": "6668.HK",
+    "name": "E-STAR CM"
+  },
+  {
+    "ticker": "6669.HK",
+    "name": "ACOTEC-B"
+  },
+  {
+    "ticker": "6676.HK",
+    "name": "ZG GROUP-W"
+  },
+  {
+    "ticker": "6677.HK",
+    "name": "SINO-OCEAN SERV"
+  },
+  {
+    "ticker": "6680.HK",
+    "name": "JLMAG"
+  },
+  {
+    "ticker": "6681.HK",
+    "name": "BRAINAURORA-B"
+  },
+  {
+    "ticker": "6682.HK",
+    "name": "PHANCY"
+  },
+  {
+    "ticker": "6683.HK",
+    "name": "STARPLUS LEGEND"
+  },
+  {
+    "ticker": "6686.HK",
+    "name": "NOAH HOLDINGS"
+  },
+  {
+    "ticker": "6687.HK",
+    "name": "JST GROUP"
+  },
+  {
+    "ticker": "6690.HK",
+    "name": "HAIER SMARTHOME"
+  },
+  {
+    "ticker": "6693.HK",
+    "name": "CHIFENG GOLD"
+  },
+  {
+    "ticker": "6696.HK",
+    "name": "MANY IDEA CLOUD"
+  },
+  {
+    "ticker": "6698.HK",
+    "name": "STAR CM"
+  },
+  {
+    "ticker": "6699.HK",
+    "name": "ANGELALIGN"
+  },
+  {
+    "ticker": "6805.HK",
+    "name": "KIMOU ENVIRON"
+  },
+  {
+    "ticker": "6806.HK",
+    "name": "SWHY"
+  },
+  {
+    "ticker": "6808.HK",
+    "name": "SUNART RETAIL"
+  },
+  {
+    "ticker": "6809.HK",
+    "name": "MONTAGE TECH"
+  },
+  {
+    "ticker": "6811.HK",
+    "name": "TAI HING GROUP"
+  },
+  {
+    "ticker": "6812.HK",
+    "name": "WINSON HLDGS HK"
+  },
+  {
+    "ticker": "6816.HK",
+    "name": "PROSPER CONS"
+  },
+  {
+    "ticker": "6818.HK",
+    "name": "CEB BANK"
+  },
+  {
+    "ticker": "6820.HK",
+    "name": "FRIENDTIMES"
+  },
+  {
+    "ticker": "6821.HK",
+    "name": "ASYMCHEM"
+  },
+  {
+    "ticker": "6822.HK",
+    "name": "KING'S FLAIR"
+  },
+  {
+    "ticker": "6823.HK",
+    "name": "HKT-SS"
+  },
+  {
+    "ticker": "6826.HK",
+    "name": "HAOHAI BIOTEC"
+  },
+  {
+    "ticker": "6828.HK",
+    "name": "BG BLUE SKY"
+  },
+  {
+    "ticker": "6829.HK",
+    "name": "DRAGON RISE GP"
+  },
+  {
+    "ticker": "6830.HK",
+    "name": "HUAZHONG IN-V"
+  },
+  {
+    "ticker": "6831.HK",
+    "name": "GREEN TEA GROUP"
+  },
+  {
+    "ticker": "6833.HK",
+    "name": "SINCO PHARMA"
+  },
+  {
+    "ticker": "6838.HK",
+    "name": "WINOX"
+  },
+  {
+    "ticker": "6839.HK",
+    "name": "YUNNAN WATER"
+  },
+  {
+    "ticker": "6855.HK",
+    "name": "ASCENTAGE-B"
+  },
+  {
+    "ticker": "6858.HK",
+    "name": "HONMAGOLF"
+  },
+  {
+    "ticker": "6860.HK",
+    "name": "FINGERTANGO"
+  },
+  {
+    "ticker": "6862.HK",
+    "name": "HAIDILAO"
+  },
+  {
+    "ticker": "6865.HK",
+    "name": "FLAT GLASS"
+  },
+  {
+    "ticker": "6866.HK",
+    "name": "ZUOLI M-FIN"
+  },
+  {
+    "ticker": "6868.HK",
+    "name": "TENFU"
+  },
+  {
+    "ticker": "6869.HK",
+    "name": "YOFC"
+  },
+  {
+    "ticker": "6877.HK",
+    "name": "TE HEALTHCARE"
+  },
+  {
+    "ticker": "6878.HK",
+    "name": "DIFFER GP AUTO"
+  },
+  {
+    "ticker": "6881.HK",
+    "name": "CGS"
+  },
+  {
+    "ticker": "6882.HK",
+    "name": "EGL HOLDINGS"
+  },
+  {
+    "ticker": "6883.HK",
+    "name": "ETERNAL BEAUTY"
+  },
+  {
+    "ticker": "6885.HK",
+    "name": "JINMA ENERGY"
+  },
+  {
+    "ticker": "6886.HK",
+    "name": "HTSC"
+  },
+  {
+    "ticker": "6887.HK",
+    "name": "SUNSHINE PHARMA"
+  },
+  {
+    "ticker": "6888.HK",
+    "name": "FREETECH"
+  },
+  {
+    "ticker": "6889.HK",
+    "name": "DYNAM JAPAN"
+  },
+  {
+    "ticker": "6890.HK",
+    "name": "KANGLI INT HLDG"
+  },
+  {
+    "ticker": "6893.HK",
+    "name": "HINSANG GROUP"
+  },
+  {
+    "ticker": "6896.HK",
+    "name": "GOLDEN THROAT"
+  },
+  {
+    "ticker": "6898.HK",
+    "name": "CHINA ALUMCAN"
+  },
+  {
+    "ticker": "6899.HK",
+    "name": "OURGAME"
+  },
+  {
+    "ticker": "6908.HK",
+    "name": "HG SEMI"
+  },
+  {
+    "ticker": "6909.HK",
+    "name": "BETTERLIFE HLDG"
+  },
+  {
+    "ticker": "6911.HK",
+    "name": "LANCANG TEA"
+  },
+  {
+    "ticker": "6913.HK",
+    "name": "SCVE GROUP"
+  },
+  {
+    "ticker": "6918.HK",
+    "name": "KIDZTECH"
+  },
+  {
+    "ticker": "6919.HK",
+    "name": "RENRUI HR"
+  },
+  {
+    "ticker": "6922.HK",
+    "name": "CRYOFOCUS-B"
+  },
+  {
+    "ticker": "6928.HK",
+    "name": "TOMO HOLDINGS"
+  },
+  {
+    "ticker": "6929.HK",
+    "name": "ORBUSNEICH"
+  },
+  {
+    "ticker": "6933.HK",
+    "name": "SINO-ENTERTAIN"
+  },
+  {
+    "ticker": "6936.HK",
+    "name": "SF HOLDING"
+  },
+  {
+    "ticker": "6938.HK",
+    "name": "RIBOLIFE-B"
+  },
+  {
+    "ticker": "6939.HK",
+    "name": "MEGAIN"
+  },
+  {
+    "ticker": "6955.HK",
+    "name": "BOAN BIOTECH"
+  },
+  {
+    "ticker": "6958.HK",
+    "name": "ZHENRO SERVICES"
+  },
+  {
+    "ticker": "6959.HK",
+    "name": "CHANGJIU HLDGS"
+  },
+  {
+    "ticker": "6960.HK",
+    "name": "SHUANGDENG"
+  },
+  {
+    "ticker": "6963.HK",
+    "name": "SUNSHINE INS"
+  },
+  {
+    "ticker": "6966.HK",
+    "name": "C WAN TONG YUAN"
+  },
+  {
+    "ticker": "6968.HK",
+    "name": "GANGLONG CHINA"
+  },
+  {
+    "ticker": "6969.HK",
+    "name": "SMOORE INTL"
+  },
+  {
+    "ticker": "6978.HK",
+    "name": "IMMUNOTECH-B"
+  },
+  {
+    "ticker": "6979.HK",
+    "name": "ZJLD"
+  },
+  {
+    "ticker": "6980.HK",
+    "name": "BAMA TEA"
+  },
+  {
+    "ticker": "6988.HK",
+    "name": "JOY SPREADER"
+  },
+  {
+    "ticker": "6989.HK",
+    "name": "EXCELLENCE CM"
+  },
+  {
+    "ticker": "6990.HK",
+    "name": "SKB BIO-B"
+  },
+  {
+    "ticker": "6993.HK",
+    "name": "BLUE MOON GROUP"
+  },
+  {
+    "ticker": "6996.HK",
+    "name": "ANTENGENE-B"
+  },
+  {
+    "ticker": "6998.HK",
+    "name": "EDDING GENOR"
+  },
+  {
+    "ticker": "6999.HK",
+    "name": "LEADING HLDGS"
+  },
+  {
+    "ticker": "7200.HK",
+    "name": "FL2 CSOP HSI"
+  },
+  {
+    "ticker": "7226.HK",
+    "name": "XL2CSOPHSTECH"
+  },
+  {
+    "ticker": "7233.HK",
+    "name": "XL2CSOPCSI300"
+  },
+  {
+    "ticker": "7234.HK",
+    "name": "XL2 BOS CHINEXT"
+  },
+  {
+    "ticker": "7261.HK",
+    "name": "FL2CAMNDQ100"
+  },
+  {
+    "ticker": "7262.HK",
+    "name": "FL2 CSOP NIKKEI"
+  },
+  {
+    "ticker": "7266.HK",
+    "name": "FL2CSOPNASDAQ"
+  },
+  {
+    "ticker": "7288.HK",
+    "name": "FL2 CSOP HSCEI"
+  },
+  {
+    "ticker": "7299.HK",
+    "name": "FL2CSOPGOLD"
+  },
+  {
+    "ticker": "7300.HK",
+    "name": "FI CSOP HSI"
+  },
+  {
+    "ticker": "7311.HK",
+    "name": "XI2CSOPCOIN"
+  },
+  {
+    "ticker": "7347.HK",
+    "name": "XI2CSOPSMSN"
+  },
+  {
+    "ticker": "7366.HK",
+    "name": "XI2CSOPTSLA"
+  },
+  {
+    "ticker": "7376.HK",
+    "name": "FI CSOP BTC"
+  },
+  {
+    "ticker": "7388.HK",
+    "name": "XI2CSOPNVDA"
+  },
+  {
+    "ticker": "7399.HK",
+    "name": "XI2CSOPMSTR"
+  },
+  {
+    "ticker": "7500.HK",
+    "name": "FI2 CSOP HSI"
+  },
+  {
+    "ticker": "7515.HK",
+    "name": "FI2 CSOP NIKKEI"
+  },
+  {
+    "ticker": "7522.HK",
+    "name": "FI2CAMNDQ100"
+  },
+  {
+    "ticker": "7552.HK",
+    "name": "XI2CSOPHSTECH"
+  },
+  {
+    "ticker": "7568.HK",
+    "name": "FI2CSOPNASDAQ"
+  },
+  {
+    "ticker": "7588.HK",
+    "name": "FI2 CSOP HSCEI"
+  },
+  {
+    "ticker": "7618.HK",
+    "name": "JD INDUSTRIALS"
+  },
+  {
+    "ticker": "7709.HK",
+    "name": "XL2CSOPHYNIX"
+  },
+  {
+    "ticker": "7711.HK",
+    "name": "XL2CSOPCOIN"
+  },
+  {
+    "ticker": "7747.HK",
+    "name": "XL2CSOPSMSN"
+  },
+  {
+    "ticker": "7766.HK",
+    "name": "XL2CSOPTSLA"
+  },
+  {
+    "ticker": "7777.HK",
+    "name": "XL2CSOPBRKB"
+  },
+  {
+    "ticker": "7788.HK",
+    "name": "XL2CSOPNVDA"
+  },
+  {
+    "ticker": "7799.HK",
+    "name": "XL2CSOPMSTR"
+  },
+  {
+    "ticker": "8003.HK",
+    "name": "GREAT WORLD"
+  },
+  {
+    "ticker": "8005.HK",
+    "name": "YUXING INFOTECH"
+  },
+  {
+    "ticker": "8006.HK",
+    "name": "SINO SPLENDID"
+  },
+  {
+    "ticker": "8007.HK",
+    "name": "GLOBALSTRAT"
+  },
+  {
+    "ticker": "8013.HK",
+    "name": "ECI TECH"
+  },
+  {
+    "ticker": "8017.HK",
+    "name": "TRADEGO"
+  },
+  {
+    "ticker": "8018.HK",
+    "name": "FINSOFT FIN"
+  },
+  {
+    "ticker": "8019.HK",
+    "name": "HAO WEN HLDGS"
+  },
+  {
+    "ticker": "8020.HK",
+    "name": "UNITAS HOLD"
+  },
+  {
+    "ticker": "8021.HK",
+    "name": "WLS HOLDINGS"
+  },
+  {
+    "ticker": "8023.HK",
+    "name": "KWONG MAN KEE"
+  },
+  {
+    "ticker": "8026.HK",
+    "name": "CB GLOBAL"
+  },
+  {
+    "ticker": "8027.HK",
+    "name": "KPM HOLDING"
+  },
+  {
+    "ticker": "8028.HK",
+    "name": "TIMELESS"
+  },
+  {
+    "ticker": "8029.HK",
+    "name": "IMPERIUM FIN GP"
+  },
+  {
+    "ticker": "8030.HK",
+    "name": "FENGYINHE"
+  },
+  {
+    "ticker": "8031.HK",
+    "name": "ETS GROUP"
+  },
+  {
+    "ticker": "8033.HK",
+    "name": "VODATEL NETWORK"
+  },
+  {
+    "ticker": "8035.HK",
+    "name": "JANCO HOLDINGS"
+  },
+  {
+    "ticker": "8036.HK",
+    "name": "EBROKER GROUP"
+  },
+  {
+    "ticker": "8037.HK",
+    "name": "CH BIOTECH SER"
+  },
+  {
+    "ticker": "8039.HK",
+    "name": "CHINA COME RIDE"
+  },
+  {
+    "ticker": "8040.HK",
+    "name": "COOLPOINT INNO"
+  },
+  {
+    "ticker": "8041.HK",
+    "name": "INTELLIMARK-5K"
+  },
+  {
+    "ticker": "8042.HK",
+    "name": "KOS INTL"
+  },
+  {
+    "ticker": "8043.HK",
+    "name": "ATLINKS"
+  },
+  {
+    "ticker": "8047.HK",
+    "name": "CHINA OCEAN GP"
+  },
+  {
+    "ticker": "8048.HK",
+    "name": "YU TAK INT'L"
+  },
+  {
+    "ticker": "8049.HK",
+    "name": "JILIN CHANGLONG"
+  },
+  {
+    "ticker": "8050.HK",
+    "name": "CITY COOLXUAN"
+  },
+  {
+    "ticker": "8051.HK",
+    "name": "CIRCUTECH"
+  },
+  {
+    "ticker": "8052.HK",
+    "name": "LUK HING ENT"
+  },
+  {
+    "ticker": "8056.HK",
+    "name": "LIFE CONCEPTS"
+  },
+  {
+    "ticker": "8057.HK",
+    "name": "MADISON HLDG"
+  },
+  {
+    "ticker": "8059.HK",
+    "name": "GLORY FLAME"
+  },
+  {
+    "ticker": "8060.HK",
+    "name": "GLOBAL LINK"
+  },
+  {
+    "ticker": "8062.HK",
+    "name": "EFT SOLUTIONS"
+  },
+  {
+    "ticker": "8065.HK",
+    "name": "KML TECH"
+  },
+  {
+    "ticker": "8066.HK",
+    "name": "PHOENITRON HOLD"
+  },
+  {
+    "ticker": "8067.HK",
+    "name": "OUC HOLDINGS"
+  },
+  {
+    "ticker": "8069.HK",
+    "name": "FLYDOO TECH"
+  },
+  {
+    "ticker": "8070.HK",
+    "name": "KEEN OCEAN"
+  },
+  {
+    "ticker": "8071.HK",
+    "name": "CH NETCOMTECH"
+  },
+  {
+    "ticker": "8072.HK",
+    "name": "LANGU CO"
+  },
+  {
+    "ticker": "8073.HK",
+    "name": "SFSY NEW MAT"
+  },
+  {
+    "ticker": "8076.HK",
+    "name": "SING LEE"
+  },
+  {
+    "ticker": "8079.HK",
+    "name": "WISDOMCOME GP"
+  },
+  {
+    "ticker": "8080.HK",
+    "name": "NAS HOLDINGS"
+  },
+  {
+    "ticker": "8081.HK",
+    "name": "BAIJUYI HOLD"
+  },
+  {
+    "ticker": "8082.HK",
+    "name": "QINGHUA HOLD"
+  },
+  {
+    "ticker": "8083.HK",
+    "name": "YOUZAN"
+  },
+  {
+    "ticker": "8087.HK",
+    "name": "CHINA 33MEDIA"
+  },
+  {
+    "ticker": "8091.HK",
+    "name": "OOH HOLDINGS"
+  },
+  {
+    "ticker": "8092.HK",
+    "name": "ITE HOLDINGS"
+  },
+  {
+    "ticker": "8093.HK",
+    "name": "WEB3 META"
+  },
+  {
+    "ticker": "8095.HK",
+    "name": "BEIDA JADE BIRD"
+  },
+  {
+    "ticker": "8096.HK",
+    "name": "TASTY CONCEPTS"
+  },
+  {
+    "ticker": "8098.HK",
+    "name": "CL GROUP"
+  },
+  {
+    "ticker": "8100.HK",
+    "name": "FAMOUS TECH INT"
+  },
+  {
+    "ticker": "8103.HK",
+    "name": "HMVOD"
+  },
+  {
+    "ticker": "8106.HK",
+    "name": "XINHUA LANDE"
+  },
+  {
+    "ticker": "8107.HK",
+    "name": "FICUS TECH"
+  },
+  {
+    "ticker": "8111.HK",
+    "name": "CT IND GROUP"
+  },
+  {
+    "ticker": "8112.HK",
+    "name": "CORNERSTONE FIN"
+  },
+  {
+    "ticker": "8113.HK",
+    "name": "V&V TECH"
+  },
+  {
+    "ticker": "8115.HK",
+    "name": "SHANGHAI QINGPU"
+  },
+  {
+    "ticker": "8117.HK",
+    "name": "CHI P ENERGY"
+  },
+  {
+    "ticker": "8118.HK",
+    "name": "ZHONGZI INTL H"
+  },
+  {
+    "ticker": "8120.HK",
+    "name": "CH DEMETER FIN"
+  },
+  {
+    "ticker": "8121.HK",
+    "name": "GUOEN HOLDINGS"
+  },
+  {
+    "ticker": "8123.HK",
+    "name": "SINOFORTUNE FIN"
+  },
+  {
+    "ticker": "8125.HK",
+    "name": "CHINA NEW HLDGS"
+  },
+  {
+    "ticker": "8126.HK",
+    "name": "G. A. HOLDINGS"
+  },
+  {
+    "ticker": "8128.HK",
+    "name": "CHYY GP"
+  },
+  {
+    "ticker": "8130.HK",
+    "name": "DADI INTL GROUP"
+  },
+  {
+    "ticker": "8131.HK",
+    "name": "ABC MULTIACTIVE"
+  },
+  {
+    "ticker": "8132.HK",
+    "name": "CENTURY EN INTL"
+  },
+  {
+    "ticker": "8133.HK",
+    "name": "JISHENG GP HLDG"
+  },
+  {
+    "ticker": "8136.HK",
+    "name": "IMS GROUP"
+  },
+  {
+    "ticker": "8137.HK",
+    "name": "HONBRIDGE"
+  },
+  {
+    "ticker": "8139.HK",
+    "name": "CHANGAN RH"
+  },
+  {
+    "ticker": "8140.HK",
+    "name": "BOSATECH"
+  },
+  {
+    "ticker": "8143.HK",
+    "name": "GF HEALTHCARE"
+  },
+  {
+    "ticker": "8146.HK",
+    "name": "GRACEWINE"
+  },
+  {
+    "ticker": "8147.HK",
+    "name": "MILLENNIUM PG"
+  },
+  {
+    "ticker": "8148.HK",
+    "name": "WUXI LIFE"
+  },
+  {
+    "ticker": "8149.HK",
+    "name": "ALTUS HLDGS"
+  },
+  {
+    "ticker": "8152.HK",
+    "name": "M&L HOLDINGS"
+  },
+  {
+    "ticker": "8153.HK",
+    "name": "JIADING INTL GP"
+  },
+  {
+    "ticker": "8156.HK",
+    "name": "SINOPHARM TECH"
+  },
+  {
+    "ticker": "8158.HK",
+    "name": "CRMI"
+  },
+  {
+    "ticker": "8159.HK",
+    "name": "CU VENTURE INV"
+  },
+  {
+    "ticker": "8160.HK",
+    "name": "GOLDWAY EDU"
+  },
+  {
+    "ticker": "8161.HK",
+    "name": "MEDINET GROUP"
+  },
+  {
+    "ticker": "8162.HK",
+    "name": "LOCO HK"
+  },
+  {
+    "ticker": "8163.HK",
+    "name": "NOIZ GROUP"
+  },
+  {
+    "ticker": "8168.HK",
+    "name": "AMASSE CAPITAL"
+  },
+  {
+    "ticker": "8169.HK",
+    "name": "ECO-TEK HLDGS"
+  },
+  {
+    "ticker": "8172.HK",
+    "name": "LAJIN ENT"
+  },
+  {
+    "ticker": "8173.HK",
+    "name": "HEPHAESTUS HLDG"
+  },
+  {
+    "ticker": "8176.HK",
+    "name": "SUPERROBOTICS"
+  },
+  {
+    "ticker": "8178.HK",
+    "name": "CHINA INFO TECH"
+  },
+  {
+    "ticker": "8179.HK",
+    "name": "PALINDA GROUP"
+  },
+  {
+    "ticker": "8181.HK",
+    "name": "KS SMART MGMT"
+  },
+  {
+    "ticker": "8186.HK",
+    "name": "ALMANA"
+  },
+  {
+    "ticker": "8187.HK",
+    "name": "JIMU GROUP"
+  },
+  {
+    "ticker": "8188.HK",
+    "name": "GME GROUP"
+  },
+  {
+    "ticker": "8189.HK",
+    "name": "TEDA BIOMEDICAL"
+  },
+  {
+    "ticker": "8191.HK",
+    "name": "HONG WEI ASIA"
+  },
+  {
+    "ticker": "8193.HK",
+    "name": "ASIAPAC FIN INV"
+  },
+  {
+    "ticker": "8195.HK",
+    "name": "LEGENDARY EDU"
+  },
+  {
+    "ticker": "8196.HK",
+    "name": "FUTIAN HOLDINGS"
+  },
+  {
+    "ticker": "8198.HK",
+    "name": "CRYPTO FLOW"
+  },
+  {
+    "ticker": "8200.HK",
+    "name": "SAU SAN TONG"
+  },
+  {
+    "ticker": "8201.HK",
+    "name": "PPS INT'L"
+  },
+  {
+    "ticker": "8203.HK",
+    "name": "KAISUN HOLDINGS"
+  },
+  {
+    "ticker": "8205.HK",
+    "name": "JIAODA WITHUB"
+  },
+  {
+    "ticker": "8206.HK",
+    "name": "S ROBOT EDU"
+  },
+  {
+    "ticker": "8208.HK",
+    "name": "WMCH GLOBAL"
+  },
+  {
+    "ticker": "8210.HK",
+    "name": "DLC ASIA"
+  },
+  {
+    "ticker": "8213.HK",
+    "name": "STARGLORY HLDGS"
+  },
+  {
+    "ticker": "8217.HK",
+    "name": "JU FU TANG BIOT"
+  },
+  {
+    "ticker": "8218.HK",
+    "name": "ECHO INT HOLD"
+  },
+  {
+    "ticker": "8219.HK",
+    "name": "HANVEY GROUP"
+  },
+  {
+    "ticker": "8220.HK",
+    "name": "BINGO GROUP"
+  },
+  {
+    "ticker": "8221.HK",
+    "name": "GAOYU FINANCE"
+  },
+  {
+    "ticker": "8222.HK",
+    "name": "E LIGHTING"
+  },
+  {
+    "ticker": "8223.HK",
+    "name": "ZYY"
+  },
+  {
+    "ticker": "8225.HK",
+    "name": "C HEALTH GP"
+  },
+  {
+    "ticker": "8226.HK",
+    "name": "KOALA FIN GP"
+  },
+  {
+    "ticker": "8227.HK",
+    "name": "HAITIAN ANTENNA"
+  },
+  {
+    "ticker": "8229.HK",
+    "name": "FUTURE DATA"
+  },
+  {
+    "ticker": "8232.HK",
+    "name": "THAC GROUP"
+  },
+  {
+    "ticker": "8237.HK",
+    "name": "LINK HOLDINGS"
+  },
+  {
+    "ticker": "8238.HK",
+    "name": "WINTO GROUP"
+  },
+  {
+    "ticker": "8239.HK",
+    "name": "CAPITAL FIN"
+  },
+  {
+    "ticker": "8241.HK",
+    "name": "YING KEE TEA"
+  },
+  {
+    "ticker": "8245.HK",
+    "name": "CANOPY SKYFIRE"
+  },
+  {
+    "ticker": "8246.HK",
+    "name": "ZHONGHUAGAS-NEW"
+  },
+  {
+    "ticker": "8247.HK",
+    "name": "BIOSINO BIO-TEC"
+  },
+  {
+    "ticker": "8249.HK",
+    "name": "RUIYUAN IC TECH"
+  },
+  {
+    "ticker": "8250.HK",
+    "name": "DU DU HLDGS"
+  },
+  {
+    "ticker": "8262.HK",
+    "name": "SUPER STRONG"
+  },
+  {
+    "ticker": "8267.HK",
+    "name": "LINEKONG"
+  },
+  {
+    "ticker": "8268.HK",
+    "name": "SMART CITY DEV"
+  },
+  {
+    "ticker": "8269.HK",
+    "name": "GO UP EDU TECH"
+  },
+  {
+    "ticker": "8270.HK",
+    "name": "CHINA CBM"
+  },
+  {
+    "ticker": "8271.HK",
+    "name": "GDC"
+  },
+  {
+    "ticker": "8275.HK",
+    "name": "CHINA NEW CONS"
+  },
+  {
+    "ticker": "8277.HK",
+    "name": "STEEDORIENTAL"
+  },
+  {
+    "ticker": "8279.HK",
+    "name": "AGTECH HOLDINGS"
+  },
+  {
+    "ticker": "8280.HK",
+    "name": "CDV HOLDINGS"
+  },
+  {
+    "ticker": "8281.HK",
+    "name": "CH GOLD CLASSIC"
+  },
+  {
+    "ticker": "8282.HK",
+    "name": "GAMEONE"
+  },
+  {
+    "ticker": "8283.HK",
+    "name": "ZHONGSHI MINAN"
+  },
+  {
+    "ticker": "8285.HK",
+    "name": "SLING GROUP"
+  },
+  {
+    "ticker": "8286.HK",
+    "name": "CCOE"
+  },
+  {
+    "ticker": "8290.HK",
+    "name": "AHSAY BACKUP"
+  },
+  {
+    "ticker": "8291.HK",
+    "name": "HK ENT INTL"
+  },
+  {
+    "ticker": "8292.HK",
+    "name": "VSING"
+  },
+  {
+    "ticker": "8293.HK",
+    "name": "SINGASIA HLDG"
+  },
+  {
+    "ticker": "8295.HK",
+    "name": "KINGWISOFT TECH"
+  },
+  {
+    "ticker": "8296.HK",
+    "name": "SINO-LIFE GROUP"
+  },
+  {
+    "ticker": "8297.HK",
+    "name": "OCEAN STAR TECH"
+  },
+  {
+    "ticker": "8299.HK",
+    "name": "GT GOLD"
+  },
+  {
+    "ticker": "8300.HK",
+    "name": "JIN MI FANG GP"
+  },
+  {
+    "ticker": "8305.HK",
+    "name": "ST HLDGS"
+  },
+  {
+    "ticker": "8307.HK",
+    "name": "MEDICSKIN"
+  },
+  {
+    "ticker": "8308.HK",
+    "name": "GUDOU HLDGS"
+  },
+  {
+    "ticker": "8309.HK",
+    "name": "MANSHING GLOBAL"
+  },
+  {
+    "ticker": "8310.HK",
+    "name": "YANCHENG PORT"
+  },
+  {
+    "ticker": "8311.HK",
+    "name": "PERFECT OPT"
+  },
+  {
+    "ticker": "8313.HK",
+    "name": "ZACD"
+  },
+  {
+    "ticker": "8315.HK",
+    "name": "CEN PLAZA HOTEL"
+  },
+  {
+    "ticker": "8316.HK",
+    "name": "CHINA HONGBAO"
+  },
+  {
+    "ticker": "8317.HK",
+    "name": "FINET GROUP"
+  },
+  {
+    "ticker": "8319.HK",
+    "name": "EXPERT SYS"
+  },
+  {
+    "ticker": "8320.HK",
+    "name": "AEC GROUP"
+  },
+  {
+    "ticker": "8321.HK",
+    "name": "TAI KAM HLDGS"
+  },
+  {
+    "ticker": "8326.HK",
+    "name": "TK NEW ENERGY"
+  },
+  {
+    "ticker": "8328.HK",
+    "name": "XY ELEC STORAGE"
+  },
+  {
+    "ticker": "8329.HK",
+    "name": "NEP INTERLONG"
+  },
+  {
+    "ticker": "8331.HK",
+    "name": "P.B. GROUP"
+  },
+  {
+    "ticker": "8333.HK",
+    "name": "ASTRUM FIN"
+  },
+  {
+    "ticker": "8337.HK",
+    "name": "DIRECTEL"
+  },
+  {
+    "ticker": "8340.HK",
+    "name": "ZIJING INTL FIN"
+  },
+  {
+    "ticker": "8341.HK",
+    "name": "AESO HOLDING"
+  },
+  {
+    "ticker": "8347.HK",
+    "name": "F8 ENT"
+  },
+  {
+    "ticker": "8348.HK",
+    "name": "BINHAI TEDA"
+  },
+  {
+    "ticker": "8349.HK",
+    "name": "GUIXIN GROUP"
+  },
+  {
+    "ticker": "8350.HK",
+    "name": "WELL LINK SEC"
+  },
+  {
+    "ticker": "8356.HK",
+    "name": "TSUN YIP HLDGS"
+  },
+  {
+    "ticker": "8357.HK",
+    "name": "REPUBLIC HC"
+  },
+  {
+    "ticker": "8360.HK",
+    "name": "BASIC H NEWLIFE"
+  },
+  {
+    "ticker": "8362.HK",
+    "name": "WINNING TOWER"
+  },
+  {
+    "ticker": "8365.HK",
+    "name": "HATCHER GROUP"
+  },
+  {
+    "ticker": "8366.HK",
+    "name": "ZJ UNITED INV"
+  },
+  {
+    "ticker": "8367.HK",
+    "name": "SIMPLICITY HLDG"
+  },
+  {
+    "ticker": "8368.HK",
+    "name": "CREATIVE CHINA"
+  },
+  {
+    "ticker": "8370.HK",
+    "name": "ZHI SHENG GP"
+  },
+  {
+    "ticker": "8371.HK",
+    "name": "TASTEGOURMET GP"
+  },
+  {
+    "ticker": "8372.HK",
+    "name": "GBG HOLDINGS"
+  },
+  {
+    "ticker": "8373.HK",
+    "name": "INDIGO STAR"
+  },
+  {
+    "ticker": "8375.HK",
+    "name": "DATA UNION CAP"
+  },
+  {
+    "ticker": "8377.HK",
+    "name": "HARBOUR EQUINE"
+  },
+  {
+    "ticker": "8379.HK",
+    "name": "PRIME INTEL"
+  },
+  {
+    "ticker": "8385.HK",
+    "name": "PROSPEROUSPRINT"
+  },
+  {
+    "ticker": "8391.HK",
+    "name": "CORNERSTONE TEC"
+  },
+  {
+    "ticker": "8392.HK",
+    "name": "SATU HOLDINGS"
+  },
+  {
+    "ticker": "8395.HK",
+    "name": "ZXZN QI-HOUSE"
+  },
+  {
+    "ticker": "8400.HK",
+    "name": "ASIA PIONEER"
+  },
+  {
+    "ticker": "8401.HK",
+    "name": "STREAM IDEAS"
+  },
+  {
+    "ticker": "8402.HK",
+    "name": "PLATEAU TL"
+  },
+  {
+    "ticker": "8403.HK",
+    "name": "DOWWAY"
+  },
+  {
+    "ticker": "8406.HK",
+    "name": "CHINA ORAL IND"
+  },
+  {
+    "ticker": "8411.HK",
+    "name": "K W NELSON GP"
+  },
+  {
+    "ticker": "8412.HK",
+    "name": "NEW AMANTE"
+  },
+  {
+    "ticker": "8413.HK",
+    "name": "ASIA GROCERY"
+  },
+  {
+    "ticker": "8416.HK",
+    "name": "HM INTL HLDGS"
+  },
+  {
+    "ticker": "8417.HK",
+    "name": "DADI EDU"
+  },
+  {
+    "ticker": "8418.HK",
+    "name": "OPTIMA AUTO"
+  },
+  {
+    "ticker": "8419.HK",
+    "name": "AV PROMOTIONS"
+  },
+  {
+    "ticker": "8420.HK",
+    "name": "NEXION TECH"
+  },
+  {
+    "ticker": "8422.HK",
+    "name": "WT GROUP"
+  },
+  {
+    "ticker": "8423.HK",
+    "name": "CHI HO DEV"
+  },
+  {
+    "ticker": "8425.HK",
+    "name": "HING MING HLDGS"
+  },
+  {
+    "ticker": "8426.HK",
+    "name": "MODERN LIVING"
+  },
+  {
+    "ticker": "8427.HK",
+    "name": "WS-SK TARGET"
+  },
+  {
+    "ticker": "8428.HK",
+    "name": "CBK HOLDINGS"
+  },
+  {
+    "ticker": "8429.HK",
+    "name": "SV VISION"
+  },
+  {
+    "ticker": "8430.HK",
+    "name": "C&N HOLDINGS"
+  },
+  {
+    "ticker": "8431.HK",
+    "name": "HAO BAI INTL"
+  },
+  {
+    "ticker": "8432.HK",
+    "name": "BAR PACIFIC"
+  },
+  {
+    "ticker": "8436.HK",
+    "name": "TAKBO GROUP"
+  },
+  {
+    "ticker": "8437.HK",
+    "name": "RMH HOLDINGS"
+  },
+  {
+    "ticker": "8439.HK",
+    "name": "SOMERLEY CAP"
+  },
+  {
+    "ticker": "8445.HK",
+    "name": "NOBLE ENG GP"
+  },
+  {
+    "ticker": "8446.HK",
+    "name": "BRIGHTSTAR TECH"
+  },
+  {
+    "ticker": "8447.HK",
+    "name": "MS CONCEPT"
+  },
+  {
+    "ticker": "8448.HK",
+    "name": "UNI PRINTSHOP"
+  },
+  {
+    "ticker": "8450.HK",
+    "name": "EDICO HOLDINGS"
+  },
+  {
+    "ticker": "8451.HK",
+    "name": "SUNLIGHT HLDGS"
+  },
+  {
+    "ticker": "8452.HK",
+    "name": "FY FINANCIAL"
+  },
+  {
+    "ticker": "8455.HK",
+    "name": "LAI GROUP"
+  },
+  {
+    "ticker": "8456.HK",
+    "name": "MANSION INTL"
+  },
+  {
+    "ticker": "8460.HK",
+    "name": "BASETROPHY GP"
+  },
+  {
+    "ticker": "8462.HK",
+    "name": "OMNIBRIDGE HLDG"
+  },
+  {
+    "ticker": "8471.HK",
+    "name": "REACH NEW HLDGS"
+  },
+  {
+    "ticker": "8472.HK",
+    "name": "LAPCO HOLDINGS"
+  },
+  {
+    "ticker": "8473.HK",
+    "name": "MI MING MART"
+  },
+  {
+    "ticker": "8475.HK",
+    "name": "E-STATION GTECH"
+  },
+  {
+    "ticker": "8480.HK",
+    "name": "FURNIWEB"
+  },
+  {
+    "ticker": "8481.HK",
+    "name": "SHENGLONG INTL"
+  },
+  {
+    "ticker": "8482.HK",
+    "name": "WAN LEADER"
+  },
+  {
+    "ticker": "8483.HK",
+    "name": "MAX SIGHT GROUP"
+  },
+  {
+    "ticker": "8487.HK",
+    "name": "ISP GLOBAL"
+  },
+  {
+    "ticker": "8489.HK",
+    "name": "GP LOGISTICS"
+  },
+  {
+    "ticker": "8490.HK",
+    "name": "NICHE-TECH SEMI"
+  },
+  {
+    "ticker": "8491.HK",
+    "name": "COOL LINK"
+  },
+  {
+    "ticker": "8493.HK",
+    "name": "S. DRAGON"
+  },
+  {
+    "ticker": "8495.HK",
+    "name": "1957 & CO."
+  },
+  {
+    "ticker": "8496.HK",
+    "name": "GLOBAL UIN"
+  },
+  {
+    "ticker": "8500.HK",
+    "name": "ICONCULTURE"
+  },
+  {
+    "ticker": "8501.HK",
+    "name": "SANBASE CORP"
+  },
+  {
+    "ticker": "8502.HK",
+    "name": "OCEAN LINE PORT"
+  },
+  {
+    "ticker": "8507.HK",
+    "name": "I.CENTURY HLDG"
+  },
+  {
+    "ticker": "8509.HK",
+    "name": "WINE'S LINK"
+  },
+  {
+    "ticker": "8510.HK",
+    "name": "TOPSTANDARDCORP"
+  },
+  {
+    "ticker": "8511.HK",
+    "name": "MIN FU INTL"
+  },
+  {
+    "ticker": "8512.HK",
+    "name": "HYFUSIN GROUP"
+  },
+  {
+    "ticker": "8513.HK",
+    "name": "MAXWIN INT HLDG"
+  },
+  {
+    "ticker": "8516.HK",
+    "name": "ZY INTL"
+  },
+  {
+    "ticker": "8519.HK",
+    "name": "XINXIANG ERA"
+  },
+  {
+    "ticker": "8521.HK",
+    "name": "WEBX INTL HLDGS"
+  },
+  {
+    "ticker": "8525.HK",
+    "name": "BAIYING HOLDING"
+  },
+  {
+    "ticker": "8526.HK",
+    "name": "WING FUNG GROUP"
+  },
+  {
+    "ticker": "8527.HK",
+    "name": "JLOGO HLDGS"
+  },
+  {
+    "ticker": "8529.HK",
+    "name": "UBOT HOLDING"
+  },
+  {
+    "ticker": "8532.HK",
+    "name": "POLYFAIR HLDGS"
+  },
+  {
+    "ticker": "8535.HK",
+    "name": "VISTAR HOLDINGS"
+  },
+  {
+    "ticker": "8536.HK",
+    "name": "TL NATURAL GAS"
+  },
+  {
+    "ticker": "8537.HK",
+    "name": "CHONG FAI JEWEL"
+  },
+  {
+    "ticker": "8540.HK",
+    "name": "VICTORY SEC"
+  },
+  {
+    "ticker": "8545.HK",
+    "name": "AMUSE GROUP"
+  },
+  {
+    "ticker": "8547.HK",
+    "name": "PACIFIC LEGEND"
+  },
+  {
+    "ticker": "8549.HK",
+    "name": "GOLDEN LEAF INT"
+  },
+  {
+    "ticker": "8597.HK",
+    "name": "ZHONGHUAGAS-OLD"
+  },
+  {
+    "ticker": "8598.HK",
+    "name": "INTELLIMARK-20K"
+  },
+  {
+    "ticker": "8601.HK",
+    "name": "BOLTEK"
+  },
+  {
+    "ticker": "8603.HK",
+    "name": "FAMEGLOW"
+  },
+  {
+    "ticker": "8606.HK",
+    "name": "KINETIX SYSTEMS"
+  },
+  {
+    "ticker": "8610.HK",
+    "name": "BBSB INTL"
+  },
+  {
+    "ticker": "8611.HK",
+    "name": "MINDTELL TECH"
+  },
+  {
+    "ticker": "8612.HK",
+    "name": "WORLD SUPER"
+  },
+  {
+    "ticker": "8613.HK",
+    "name": "ORIENTAL PAY"
+  },
+  {
+    "ticker": "8616.HK",
+    "name": "SUNRAY ENG GP"
+  },
+  {
+    "ticker": "8619.HK",
+    "name": "NIU HOLDINGS"
+  },
+  {
+    "ticker": "8620.HK",
+    "name": "AE LOGISTICS"
+  },
+  {
+    "ticker": "8621.HK",
+    "name": "METROPOLIS CAP"
+  },
+  {
+    "ticker": "8622.HK",
+    "name": "JOYZYME GROUP"
+  },
+  {
+    "ticker": "8623.HK",
+    "name": "CHINA SAFTOWER"
+  },
+  {
+    "ticker": "8627.HK",
+    "name": "ORANGE TOUR"
+  },
+  {
+    "ticker": "8629.HK",
+    "name": "SYNTRUST GK"
+  },
+  {
+    "ticker": "8631.HK",
+    "name": "SUN KONG HLDGS"
+  },
+  {
+    "ticker": "8635.HK",
+    "name": "ELEPHANT HLDGS"
+  },
+  {
+    "ticker": "8637.HK",
+    "name": "METASURFACE"
+  },
+  {
+    "ticker": "8645.HK",
+    "name": "BYTE META"
+  },
+  {
+    "ticker": "8646.HK",
+    "name": "CHINA HONGGUANG"
+  },
+  {
+    "ticker": "8657.HK",
+    "name": "TRUE PARTNER"
+  },
+  {
+    "ticker": "8659.HK",
+    "name": "YIK WO INTL"
+  },
+  {
+    "ticker": "8668.HK",
+    "name": "YING HAI GROUP"
+  },
+  {
+    "ticker": "9001.HK",
+    "name": "PP CNUSDPROP-U"
+  },
+  {
+    "ticker": "9008.HK",
+    "name": "BOS HSK BTC-U"
+  },
+  {
+    "ticker": "9009.HK",
+    "name": "BOS HSK ETH-U"
+  },
+  {
+    "ticker": "9010.HK",
+    "name": "ISHARES AXJ-U"
+  },
+  {
+    "ticker": "9011.HK",
+    "name": "A ICBCCICCUSD-U"
+  },
+  {
+    "ticker": "9040.HK",
+    "name": "GX MSCI CHINA-U"
+  },
+  {
+    "ticker": "9042.HK",
+    "name": "CAM BTC-U"
+  },
+  {
+    "ticker": "9046.HK",
+    "name": "CAM ETH-U"
+  },
+  {
+    "ticker": "9047.HK",
+    "name": "F SSIFIRONORE-U"
+  },
+  {
+    "ticker": "9064.HK",
+    "name": "GX APAC-U"
+  },
+  {
+    "ticker": "9067.HK",
+    "name": "ISHARESHSTECH-U"
+  },
+  {
+    "ticker": "9069.HK",
+    "name": "CAM HSBIOTECH-U"
+  },
+  {
+    "ticker": "9070.HK",
+    "name": "PING AN HKDIV-U"
+  },
+  {
+    "ticker": "9074.HK",
+    "name": "ISHARESMSCITW-U"
+  },
+  {
+    "ticker": "9075.HK",
+    "name": "GX ASUSD BOND-U"
+  },
+  {
+    "ticker": "9077.HK",
+    "name": "PREMIA UST-U"
+  },
+  {
+    "ticker": "9078.HK",
+    "name": "PREMIA UST A-U"
+  },
+  {
+    "ticker": "9081.HK",
+    "name": "VALUEGOLD ETF-U"
+  },
+  {
+    "ticker": "9084.HK",
+    "name": "A GX INDIA-U"
+  },
+  {
+    "ticker": "9086.HK",
+    "name": "CAM NASDAQ100-U"
+  },
+  {
+    "ticker": "9088.HK",
+    "name": "CAM HS TECH-U"
+  },
+  {
+    "ticker": "9096.HK",
+    "name": "A CSOP USD MM-U"
+  },
+  {
+    "ticker": "9102.HK",
+    "name": "ICBCU KS KWEB-U"
+  },
+  {
+    "ticker": "9104.HK",
+    "name": "A GX EM ASIA-U"
+  },
+  {
+    "ticker": "9107.HK",
+    "name": "BOS 20 UST A-U"
+  },
+  {
+    "ticker": "9115.HK",
+    "name": "ISHARESHSI-U"
+  },
+  {
+    "ticker": "9141.HK",
+    "name": "CAM ASIA IGB-U"
+  },
+  {
+    "ticker": "9146.HK",
+    "name": "CAM 20 UST-U"
+  },
+  {
+    "ticker": "9151.HK",
+    "name": "PREMIA STAR50-U"
+  },
+  {
+    "ticker": "9156.HK",
+    "name": "BOS 20 UST-U"
+  },
+  {
+    "ticker": "9159.HK",
+    "name": "PREMIA TW50A-U"
+  },
+  {
+    "ticker": "9167.HK",
+    "name": "ICBCCSOPCHINA-U"
+  },
+  {
+    "ticker": "9173.HK",
+    "name": "PP CN NEWECON-U"
+  },
+  {
+    "ticker": "9176.HK",
+    "name": "A TK USD MM-U"
+  },
+  {
+    "ticker": "9177.HK",
+    "name": "PP CGBOND HDG-U"
+  },
+  {
+    "ticker": "9179.HK",
+    "name": "HGI ETH-U"
+  },
+  {
+    "ticker": "9181.HK",
+    "name": "PREMIAASIATEC-U"
+  },
+  {
+    "ticker": "9187.HK",
+    "name": "SAMSUNG REITS-U"
+  },
+  {
+    "ticker": "9188.HK",
+    "name": "CAM CSI300-U"
+  },
+  {
+    "ticker": "9191.HK",
+    "name": "GX CN SEMICON-U"
+  },
+  {
+    "ticker": "9195.HK",
+    "name": "HS S&P500-U"
+  },
+  {
+    "ticker": "9196.HK",
+    "name": "A BOS USD MM-U"
+  },
+  {
+    "ticker": "9311.HK",
+    "name": "XI2CSOPCOIN-U"
+  },
+  {
+    "ticker": "9347.HK",
+    "name": "XI2CSOPSMSN-U"
+  },
+  {
+    "ticker": "9366.HK",
+    "name": "XI2CSOPTSLA-U"
+  },
+  {
+    "ticker": "9388.HK",
+    "name": "XI2CSOPNVDA-U"
+  },
+  {
+    "ticker": "9399.HK",
+    "name": "XI2CSOPMSTR-U"
+  },
+  {
+    "ticker": "9403.HK",
+    "name": "CAM HSI ESG-U"
+  },
+  {
+    "ticker": "9404.HK",
+    "name": "CAM MSCIINDIA-U"
+  },
+  {
+    "ticker": "9406.HK",
+    "name": "PA TECHSELECT-U"
+  },
+  {
+    "ticker": "9411.HK",
+    "name": "PP ASIA IGUSD-U"
+  },
+  {
+    "ticker": "9415.HK",
+    "name": "A GXS&P500CC-U"
+  },
+  {
+    "ticker": "9416.HK",
+    "name": "A GX HSCEICC-U"
+  },
+  {
+    "ticker": "9425.HK",
+    "name": "MBC ETH-U"
+  },
+  {
+    "ticker": "9430.HK",
+    "name": "MBC BTC-U"
+  },
+  {
+    "ticker": "9434.HK",
+    "name": "EFUND DIGITAL-U"
+  },
+  {
+    "ticker": "9437.HK",
+    "name": "BOS CSOE HIDV-U"
+  },
+  {
+    "ticker": "9439.HK",
+    "name": "HGI BTC-U"
+  },
+  {
+    "ticker": "9440.HK",
+    "name": "GX 0-3M UST-U"
+  },
+  {
+    "ticker": "9446.HK",
+    "name": "CAM 20 UST A-U"
+  },
+  {
+    "ticker": "9450.HK",
+    "name": "GX 3-5Y UST-U"
+  },
+  {
+    "ticker": "9451.HK",
+    "name": "A GXNASDAQCC-U"
+  },
+  {
+    "ticker": "9455.HK",
+    "name": "INVESCO QQQ-U"
+  },
+  {
+    "ticker": "9460.HK",
+    "name": "CAM SOL-U"
+  },
+  {
+    "ticker": "9472.HK",
+    "name": "A CAM USDTMMF-U"
+  },
+  {
+    "ticker": "9477.HK",
+    "name": "PA EW SELECT-U"
+  },
+  {
+    "ticker": "9478.HK",
+    "name": "PPKSA G SUKUK-U"
+  },
+  {
+    "ticker": "9480.HK",
+    "name": "A VP USD MM-U"
+  },
+  {
+    "ticker": "9483.HK",
+    "name": "EFUND APAC HD-U"
+  },
+  {
+    "ticker": "9489.HK",
+    "name": "EFUND AI-U"
+  },
+  {
+    "ticker": "9600.HK",
+    "name": "NEWLINK TECH"
+  },
+  {
+    "ticker": "9606.HK",
+    "name": "DUALITYBIO-B"
+  },
+  {
+    "ticker": "9608.HK",
+    "name": "SUNDY SERVICE"
+  },
+  {
+    "ticker": "9609.HK",
+    "name": "HAIWEI ELEC"
+  },
+  {
+    "ticker": "9611.HK",
+    "name": "LONGCHEER"
+  },
+  {
+    "ticker": "9616.HK",
+    "name": "NEUTECH GROUP"
+  },
+  {
+    "ticker": "9618.HK",
+    "name": "JD-SW"
+  },
+  {
+    "ticker": "9626.HK",
+    "name": "BILIBILI-W"
+  },
+  {
+    "ticker": "9633.HK",
+    "name": "NONGFU SPRING"
+  },
+  {
+    "ticker": "9636.HK",
+    "name": "JF SMARTINVEST"
+  },
+  {
+    "ticker": "9638.HK",
+    "name": "FERRETTI"
+  },
+  {
+    "ticker": "9639.HK",
+    "name": "WING LEE DEV"
+  },
+  {
+    "ticker": "9658.HK",
+    "name": "SUPER HI"
+  },
+  {
+    "ticker": "9660.HK",
+    "name": "HORIZONROBOT-W"
+  },
+  {
+    "ticker": "9663.HK",
+    "name": "SINOSYNERGY"
+  },
+  {
+    "ticker": "9668.HK",
+    "name": "CBHB"
+  },
+  {
+    "ticker": "9669.HK",
+    "name": "BEISEN HOLDING"
+  },
+  {
+    "ticker": "9676.HK",
+    "name": "SHIYUE DAOTIAN"
+  },
+  {
+    "ticker": "9677.HK",
+    "name": "WEIHAI BANK"
+  },
+  {
+    "ticker": "9678.HK",
+    "name": "UNISOUND"
+  },
+  {
+    "ticker": "9680.HK",
+    "name": "CHENQI TECH"
+  },
+  {
+    "ticker": "9686.HK",
+    "name": "XIKANG CLOUD"
+  },
+  {
+    "ticker": "9688.HK",
+    "name": "ZAI LAB"
+  },
+  {
+    "ticker": "9689.HK",
+    "name": "JTF INTL"
+  },
+  {
+    "ticker": "9690.HK",
+    "name": "TUHU-W"
+  },
+  {
+    "ticker": "9696.HK",
+    "name": "TIANQI LITHIUM"
+  },
+  {
+    "ticker": "9698.HK",
+    "name": "GDS-SW"
+  },
+  {
+    "ticker": "9699.HK",
+    "name": "SF INTRA-CITY"
+  },
+  {
+    "ticker": "9711.HK",
+    "name": "XL2CSOPCOIN-U"
+  },
+  {
+    "ticker": "9747.HK",
+    "name": "XL2CSOPSMSN-U"
+  },
+  {
+    "ticker": "9766.HK",
+    "name": "XL2CSOPTSLA-U"
+  },
+  {
+    "ticker": "9777.HK",
+    "name": "XL2CSOPBRKB-U"
+  },
+  {
+    "ticker": "9788.HK",
+    "name": "XL2CSOPNVDA-U"
+  },
+  {
+    "ticker": "9799.HK",
+    "name": "XL2CSOPMSTR-U"
+  },
+  {
+    "ticker": "9801.HK",
+    "name": "ISHARES CHINA-U"
+  },
+  {
+    "ticker": "9803.HK",
+    "name": "PP BEDROCK-U"
+  },
+  {
+    "ticker": "9804.HK",
+    "name": "PREMIA VIET-U"
+  },
+  {
+    "ticker": "9805.HK",
+    "name": "CG BS CNASEAN-U"
+  },
+  {
+    "ticker": "9806.HK",
+    "name": "GX CN CONSUME-U"
+  },
+  {
+    "ticker": "9807.HK",
+    "name": "GX CN ROBO&AI-U"
+  },
+  {
+    "ticker": "9809.HK",
+    "name": "GX CN CLN EN-U"
+  },
+  {
+    "ticker": "9810.HK",
+    "name": "PREMIAEMASEAN-U"
+  },
+  {
+    "ticker": "9812.HK",
+    "name": "SAMSUNGCDGN-U"
+  },
+  {
+    "ticker": "9814.HK",
+    "name": "SAMSUNG FANG-U"
+  },
+  {
+    "ticker": "9817.HK",
+    "name": "PP CGBOND-U"
+  },
+  {
+    "ticker": "9820.HK",
+    "name": "GX CN BIOTECH-U"
+  },
+  {
+    "ticker": "9824.HK",
+    "name": "EFUND GOLD MI-U"
+  },
+  {
+    "ticker": "9826.HK",
+    "name": "GX CN CLOUD-U"
+  },
+  {
+    "ticker": "9829.HK",
+    "name": "ISHARESCGB-U"
+  },
+  {
+    "ticker": "9834.HK",
+    "name": "ISHARESND100-U"
+  },
+  {
+    "ticker": "9836.HK",
+    "name": "ISHARES INDIA-U"
+  },
+  {
+    "ticker": "9839.HK",
+    "name": "CAM MSCI A50-U"
+  },
+  {
+    "ticker": "9840.HK",
+    "name": "SPDR GOLD TRT-U"
+  },
+  {
+    "ticker": "9845.HK",
+    "name": "GX CN EV BATT-U"
+  },
+  {
+    "ticker": "9846.HK",
+    "name": "ISHARESCSI300-U"
+  },
+  {
+    "ticker": "9857.HK",
+    "name": "LINMON MEDIA"
+  },
+  {
+    "ticker": "9858.HK",
+    "name": "YOURAN DAIRY"
+  },
+  {
+    "ticker": "9860.HK",
+    "name": "ADICON HOLDINGS"
+  },
+  {
+    "ticker": "9863.HK",
+    "name": "LEAPMOTOR"
+  },
+  {
+    "ticker": "9866.HK",
+    "name": "NIO-SW"
+  },
+  {
+    "ticker": "9868.HK",
+    "name": "XPENG-W"
+  },
+  {
+    "ticker": "9869.HK",
+    "name": "HELENS"
+  },
+  {
+    "ticker": "9876.HK",
+    "name": "OCEAN ONE HLDG"
+  },
+  {
+    "ticker": "9877.HK",
+    "name": "JENSCARE-B"
+  },
+  {
+    "ticker": "9878.HK",
+    "name": "HUITONGDA NET"
+  },
+  {
+    "ticker": "9879.HK",
+    "name": "MIGAO GROUP"
+  },
+  {
+    "ticker": "9880.HK",
+    "name": "UBTECH ROBOTICS"
+  },
+  {
+    "ticker": "9881.HK",
+    "name": "RONGTA TECH"
+  },
+  {
+    "ticker": "9882.HK",
+    "name": "BEST LINKING"
+  },
+  {
+    "ticker": "9885.HK",
+    "name": "YSB"
+  },
+  {
+    "ticker": "9886.HK",
+    "name": "DINGDANG HEALTH"
+  },
+  {
+    "ticker": "9887.HK",
+    "name": "LEADS BIOLABS-B"
+  },
+  {
+    "ticker": "9888.HK",
+    "name": "BIDU-SW"
+  },
+  {
+    "ticker": "9889.HK",
+    "name": "DRCB"
+  },
+  {
+    "ticker": "9890.HK",
+    "name": "TANWAN"
+  },
+  {
+    "ticker": "9893.HK",
+    "name": "PIZU GROUP"
+  },
+  {
+    "ticker": "9896.HK",
+    "name": "MNSO"
+  },
+  {
+    "ticker": "9898.HK",
+    "name": "WB-SW"
+  },
+  {
+    "ticker": "9899.HK",
+    "name": "NETEASE MUSIC"
+  },
+  {
+    "ticker": "9900.HK",
+    "name": "ZCLOUD TECH CON"
+  },
+  {
+    "ticker": "9901.HK",
+    "name": "NEW ORIENTAL-S"
+  },
+  {
+    "ticker": "9903.HK",
+    "name": "ILUVATAR COREX"
+  },
+  {
+    "ticker": "9906.HK",
+    "name": "HONLIV HEALTH"
+  },
+  {
+    "ticker": "9908.HK",
+    "name": "JIAXING GAS"
+  },
+  {
+    "ticker": "9909.HK",
+    "name": "POWERLONG CM"
+  },
+  {
+    "ticker": "9911.HK",
+    "name": "NEWBORNTOWN"
+  },
+  {
+    "ticker": "9913.HK",
+    "name": "CHI KAN HLDGS"
+  },
+  {
+    "ticker": "9916.HK",
+    "name": "XINGYE WULIAN"
+  },
+  {
+    "ticker": "9918.HK",
+    "name": "WISE ALLY INTL"
+  },
+  {
+    "ticker": "9919.HK",
+    "name": "ACTIVATION GP"
+  },
+  {
+    "ticker": "9922.HK",
+    "name": "JIUMAOJIU"
+  },
+  {
+    "ticker": "9923.HK",
+    "name": "YEAHKA"
+  },
+  {
+    "ticker": "9926.HK",
+    "name": "AKESO"
+  },
+  {
+    "ticker": "9927.HK",
+    "name": "SERES"
+  },
+  {
+    "ticker": "9928.HK",
+    "name": "TIMES NEIGHBOR"
+  },
+  {
+    "ticker": "9929.HK",
+    "name": "SEM HLDGS"
+  },
+  {
+    "ticker": "9930.HK",
+    "name": "HORIZON CD"
+  },
+  {
+    "ticker": "9933.HK",
+    "name": "GHW INTL"
+  },
+  {
+    "ticker": "9936.HK",
+    "name": "XIMEI RESOURCES"
+  },
+  {
+    "ticker": "9938.HK",
+    "name": "WAH WO HOLDINGS"
+  },
+  {
+    "ticker": "9939.HK",
+    "name": "KINTOR PHARMA-B"
+  },
+  {
+    "ticker": "9955.HK",
+    "name": "CLOUDR"
+  },
+  {
+    "ticker": "9958.HK",
+    "name": "LITIAN PICTURES"
+  },
+  {
+    "ticker": "9959.HK",
+    "name": "LINKLOGIS-W"
+  },
+  {
+    "ticker": "9960.HK",
+    "name": "KINDSTAR GLOBAL"
+  },
+  {
+    "ticker": "9961.HK",
+    "name": "TRIP.COM-S"
+  },
+  {
+    "ticker": "9963.HK",
+    "name": "TRANSTECH"
+  },
+  {
+    "ticker": "9966.HK",
+    "name": "ALPHAMAB-B"
+  },
+  {
+    "ticker": "9968.HK",
+    "name": "HUIJING HLDGS"
+  },
+  {
+    "ticker": "9969.HK",
+    "name": "INNOCARE"
+  },
+  {
+    "ticker": "9973.HK",
+    "name": "CHERY AUTO"
+  },
+  {
+    "ticker": "9978.HK",
+    "name": "FINELAND LIVING"
+  },
+  {
+    "ticker": "9979.HK",
+    "name": "GREENTOWN MGMT"
+  },
+  {
+    "ticker": "9980.HK",
+    "name": "EASTROC"
+  },
+  {
+    "ticker": "9981.HK",
+    "name": "WOER"
+  },
+  {
+    "ticker": "9982.HK",
+    "name": "CENTRALCHINA MT"
+  },
+  {
+    "ticker": "9983.HK",
+    "name": "CC NEW LIFE"
+  },
+  {
+    "ticker": "9985.HK",
+    "name": "WL DELICIOUS"
+  },
+  {
+    "ticker": "9986.HK",
+    "name": "DASHAN EDU"
+  },
+  {
+    "ticker": "9987.HK",
+    "name": "YUM CHINA"
+  },
+  {
+    "ticker": "9988.HK",
+    "name": "BABA-W"
+  },
+  {
+    "ticker": "9989.HK",
+    "name": "HEPALINK"
+  },
+  {
+    "ticker": "9990.HK",
+    "name": "ARCHOSAUR GAMES"
+  },
+  {
+    "ticker": "9991.HK",
+    "name": "BAOZUN-W"
+  },
+  {
+    "ticker": "9992.HK",
+    "name": "POP MART"
+  },
+  {
+    "ticker": "9993.HK",
+    "name": "RADIANCE HLDGS"
+  },
+  {
+    "ticker": "9995.HK",
+    "name": "REMEGEN"
+  },
+  {
+    "ticker": "9996.HK",
+    "name": "PEIJIA-B"
+  },
+  {
+    "ticker": "9998.HK",
+    "name": "KWAN YONG"
+  },
+  {
+    "ticker": "9999.HK",
+    "name": "NTES-S"
+  }
+]
