@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-03-11T08:36:05.257967-04:00",
+  "updated_at": "2026-03-18T17:46:09.938425-04:00",
   "prices": {
     "AAPL": {
       "name": "Apple",
-      "price": 260.83
+      "price": 249.94
     },
     "MSFT": {
       "name": "Microsoft",
-      "price": 405.76
+      "price": 391.79
     }
   }
 }
