@@ -1,65 +1,65 @@
 {
-  "updated_at": "2026-03-18T14:26:08.806299+08:00",
+  "updated_at": "2026-03-19T14:23:11.269930+08:00",
   "prices": {
     "1101.TW": {
       "name": "台泥",
-      "price": 24.55
+      "price": 23.9
     },
     "1102.TW": {
       "name": "亞泥",
-      "price": 34.5
+      "price": 34.1
     },
     "1103.TW": {
       "name": "嘉泥",
-      "price": 13.65
+      "price": 13.55
     },
     "1104.TW": {
       "name": "環泥",
-      "price": 29.4
+      "price": 29.2
     },
     "1108.TW": {
       "name": "幸福",
-      "price": 15.0
+      "price": 14.9
     },
     "1109.TW": {
       "name": "信大",
-      "price": 15.45
+      "price": 15.35
     },
     "1110.TW": {
       "name": "東泥",
-      "price": 15.7
+      "price": 15.6
     },
     "1201.TW": {
       "name": "味全",
-      "price": 13.8
+      "price": 13.75
     },
     "1203.TW": {
       "name": "味王",
-      "price": 38.95
+      "price": 38.75
     },
     "1210.TW": {
       "name": "大成",
-      "price": 53.5
+      "price": 53.1
     },
     "1213.TW": {
       "name": "大飲",
-      "price": 9.8
+      "price": 9.77
     },
     "1215.TW": {
       "name": "卜蜂",
-      "price": 152.0
+      "price": 149.0
     },
     "1216.TW": {
       "name": "統一",
-      "price": 71.4
+      "price": 70.4
     },
     "1217.TW": {
       "name": "愛之味",
-      "price": 10.25
+      "price": 10.2
     },
     "1218.TW": {
       "name": "泰山",
-      "price": 19.25
+      "price": 19.1
     },
     "1219.TW": {
       "name": "福壽",
@@ -67,43 +67,43 @@
     },
     "1220.TW": {
       "name": "台榮",
-      "price": 12.75
+      "price": 12.65
     },
     "1225.TW": {
       "name": "福懋油",
-      "price": 31.2
+      "price": 31.05
     },
     "1227.TW": {
       "name": "佳格",
-      "price": 30.25
+      "price": 30.0
     },
     "1229.TW": {
       "name": "聯華",
-      "price": 45.15
+      "price": 44.6
     },
     "1231.TW": {
       "name": "聯華食",
-      "price": 90.5
+      "price": 91.0
     },
     "1232.TW": {
       "name": "大統益",
-      "price": 151.0
+      "price": 149.5
     },
     "1233.TW": {
       "name": "天仁",
-      "price": 30.5
+      "price": 30.1
     },
     "1234.TW": {
       "name": "黑松",
-      "price": 36.45
+      "price": 36.0
     },
     "1235.TW": {
       "name": "興泰",
-      "price": 36.6
+      "price": 36.15
     },
     "1236.TW": {
       "name": "宏亞",
-      "price": 27.3
+      "price": 27.2
     },
     "1256.TW": {
       "name": "鮮活果汁-KY",
@@ -111,147 +111,147 @@
     },
     "1301.TW": {
       "name": "台塑",
-      "price": 47.3
+      "price": 48.6
     },
     "1303.TW": {
       "name": "南亞",
-      "price": 86.2
+      "price": 84.2
     },
     "1304.TW": {
       "name": "台聚",
-      "price": 12.9
+      "price": 14.15
     },
     "1305.TW": {
       "name": "華夏",
-      "price": 14.05
+      "price": 15.45
     },
     "1307.TW": {
       "name": "三芳",
-      "price": 34.0
+      "price": 34.8
     },
     "1308.TW": {
       "name": "亞聚",
-      "price": 14.6
+      "price": 16.05
     },
     "1309.TW": {
       "name": "台達化",
-      "price": 15.6
+      "price": 17.15
     },
     "1310.TW": {
       "name": "台苯",
-      "price": 11.4
+      "price": 11.85
     },
     "1312.TW": {
       "name": "國喬",
-      "price": 13.8
+      "price": 14.4
     },
     "1313.TW": {
       "name": "聯成",
-      "price": 12.85
+      "price": 13.1
     },
     "1314.TW": {
       "name": "中石化",
-      "price": 8.53
+      "price": 8.65
     },
     "1315.TW": {
       "name": "達新",
-      "price": 64.4
+      "price": 63.9
     },
     "1316.TW": {
       "name": "上曜",
-      "price": 12.9
+      "price": 12.65
     },
     "1319.TW": {
       "name": "東陽",
-      "price": 83.9
+      "price": 82.0
     },
     "1321.TW": {
       "name": "大洋",
-      "price": 33.25
+      "price": 32.95
     },
     "1323.TW": {
       "name": "永裕",
-      "price": 19.1
+      "price": 19.2
     },
     "1324.TW": {
       "name": "地球",
-      "price": 10.35
+      "price": 10.45
     },
     "1325.TW": {
       "name": "恆大",
-      "price": 27.45
+      "price": 26.7
     },
     "1326.TW": {
       "name": "台化",
-      "price": 45.95
+      "price": 46.6
     },
     "1337.TW": {
       "name": "再生-KY",
-      "price": 6.07
+      "price": 6.28
     },
     "1338.TW": {
       "name": "廣華-KY",
-      "price": 15.65
+      "price": 15.55
     },
     "1339.TW": {
       "name": "昭輝",
-      "price": 41.9
+      "price": 41.6
     },
     "1340.TW": {
       "name": "勝悅-KY",
-      "price": 6.98
+      "price": 7.03
     },
     "1341.TW": {
       "name": "富林-KY",
-      "price": 58.8
+      "price": 59.3
     },
     "1342.TW": {
       "name": "八貫",
-      "price": 88.5
+      "price": 86.7
     },
     "1402.TW": {
       "name": "遠東新",
-      "price": 26.85
+      "price": 26.7
     },
     "1409.TW": {
       "name": "新纖",
-      "price": 16.85
+      "price": 16.7
     },
     "1410.TW": {
       "name": "南染",
-      "price": 31.65
+      "price": 31.7
     },
     "1413.TW": {
       "name": "宏洲",
-      "price": 9.59
+      "price": 9.61
     },
     "1414.TW": {
       "name": "東和",
-      "price": 19.55
+      "price": 18.8
     },
     "1416.TW": {
       "name": "廣豐",
-      "price": 11.75
+      "price": 11.65
     },
     "1417.TW": {
       "name": "嘉裕",
-      "price": 8.89
+      "price": 8.95
     },
     "1418.TW": {
       "name": "東華",
-      "price": 18.9
+      "price": 18.45
     },
     "1419.TW": {
       "name": "新紡",
-      "price": 63.1
+      "price": 61.3
     },
     "1423.TW": {
       "name": "利華",
-      "price": 40.0
+      "price": 39.8
     },
     "1432.TW": {
       "name": "大魯閣",
-      "price": 18.05
+      "price": 18.1
     },
     "1434.TW": {
       "name": "福懋",
@@ -259,39 +259,39 @@
     },
     "1435.TW": {
       "name": "中福",
-      "price": 18.6
+      "price": 18.55
     },
     "1436.TW": {
       "name": "華友聯",
-      "price": 54.9
+      "price": 54.2
     },
     "1437.TW": {
       "name": "勤益控",
-      "price": 31.0
+      "price": 30.7
     },
     "1438.TW": {
       "name": "三地開發",
-      "price": 30.2
+      "price": 29.55
     },
     "1439.TW": {
       "name": "雋揚",
-      "price": 28.45
+      "price": 27.7
     },
     "1440.TW": {
       "name": "南紡",
-      "price": 13.2
+      "price": 13.4
     },
     "1441.TW": {
       "name": "大東",
-      "price": 9.97
+      "price": 9.93
     },
     "1442.TW": {
       "name": "名軒",
-      "price": 26.9
+      "price": 27.05
     },
     "1443.TW": {
       "name": "立益物流",
-      "price": 24.55
+      "price": 24.35
     },
     "1444.TW": {
       "name": "力麗",
@@ -299,35 +299,35 @@
     },
     "1445.TW": {
       "name": "大宇",
-      "price": 12.9
+      "price": 12.85
     },
     "1446.TW": {
       "name": "宏和",
-      "price": 17.1
+      "price": 17.25
     },
     "1447.TW": {
       "name": "力鵬",
-      "price": 5.6
+      "price": 5.61
     },
     "1449.TW": {
       "name": "佳和",
-      "price": 11.9
+      "price": 13.05
     },
     "1451.TW": {
       "name": "年興",
-      "price": 18.1
+      "price": 18.0
     },
     "1452.TW": {
       "name": "宏益",
-      "price": 11.25
+      "price": 11.2
     },
     "1453.TW": {
       "name": "大將",
-      "price": 12.2
+      "price": 12.3
     },
     "1454.TW": {
       "name": "台富",
-      "price": 12.95
+      "price": 12.8
     },
     "1455.TW": {
       "name": "集盛",
@@ -335,407 +335,407 @@
     },
     "1456.TW": {
       "name": "怡華",
-      "price": 13.45
+      "price": 13.15
     },
     "1457.TW": {
       "name": "宜進",
-      "price": 16.35
+      "price": 16.1
     },
     "1459.TW": {
       "name": "聯發",
-      "price": 11.8
+      "price": 11.7
     },
     "1460.TW": {
       "name": "宏遠",
-      "price": 7.06
+      "price": 6.92
     },
     "1463.TW": {
       "name": "強盛",
-      "price": 17.85
+      "price": 17.6
     },
     "1464.TW": {
       "name": "得力",
-      "price": 10.75
+      "price": 10.6
     },
     "1465.TW": {
       "name": "偉全",
-      "price": 12.2
+      "price": 12.15
     },
     "1466.TW": {
       "name": "聚隆",
-      "price": 18.25
+      "price": 17.8
     },
     "1467.TW": {
       "name": "南緯",
-      "price": 7.19
+      "price": 7.09
     },
     "1468.TW": {
       "name": "昶和",
-      "price": 12.4
+      "price": 12.15
     },
     "1470.TW": {
       "name": "大統新創",
-      "price": 22.15
+      "price": 22.75
     },
     "1471.TW": {
       "name": "首利",
-      "price": 13.0
+      "price": 12.7
     },
     "1472.TW": {
       "name": "三洋實業",
-      "price": 95.9
+      "price": 96.7
     },
     "1473.TW": {
       "name": "台南",
-      "price": 24.1
+      "price": 23.5
     },
     "1474.TW": {
       "name": "弘裕",
-      "price": 10.05
+      "price": 10.0
     },
     "1475.TW": {
       "name": "業旺",
-      "price": 29.3
+      "price": 28.85
     },
     "1476.TW": {
       "name": "儒鴻",
-      "price": 392.0
+      "price": 372.5
     },
     "1477.TW": {
       "name": "聚陽",
-      "price": 297.0
+      "price": 293.0
     },
     "1503.TW": {
       "name": "士電",
-      "price": 208.5
+      "price": 203.0
     },
     "1504.TW": {
       "name": "東元",
-      "price": 71.1
+      "price": 68.3
     },
     "1506.TW": {
       "name": "正道",
-      "price": 11.4
+      "price": 11.45
     },
     "1512.TW": {
       "name": "瑞利",
-      "price": 7.35
+      "price": 7.66
     },
     "1513.TW": {
       "name": "中興電",
-      "price": 162.0
+      "price": 159.5
     },
     "1514.TW": {
       "name": "亞力",
-      "price": 119.5
+      "price": 117.5
     },
     "1515.TW": {
       "name": "力山",
-      "price": 25.3
+      "price": 24.65
     },
     "1516.TW": {
       "name": "川飛",
-      "price": 22.55
+      "price": 22.3
     },
     "1517.TW": {
       "name": "利奇",
-      "price": 11.55
+      "price": 11.35
     },
     "1519.TW": {
       "name": "華城",
-      "price": 929.0
+      "price": 922.0
     },
     "1521.TW": {
       "name": "大億",
-      "price": 25.45
+      "price": 25.25
     },
     "1522.TW": {
       "name": "堤維西",
-      "price": 34.25
+      "price": 33.85
     },
     "1524.TW": {
       "name": "耿鼎",
-      "price": 29.0
+      "price": 28.8
     },
     "1525.TW": {
       "name": "江申",
-      "price": 61.5
+      "price": 61.3
     },
     "1526.TW": {
       "name": "日馳",
-      "price": 17.8
+      "price": 17.65
     },
     "1527.TW": {
       "name": "鑽全",
-      "price": 32.45
+      "price": 32.5
     },
     "1528.TW": {
       "name": "恩德",
-      "price": 23.75
+      "price": 23.1
     },
     "1529.TW": {
       "name": "樂事綠能",
-      "price": 28.05
+      "price": 27.65
     },
     "1530.TW": {
       "name": "亞崴",
-      "price": 26.6
+      "price": 26.3
     },
     "1531.TW": {
       "name": "高林股",
-      "price": 12.85
+      "price": 12.95
     },
     "1532.TW": {
       "name": "勤美",
-      "price": 23.05
+      "price": 22.6
     },
     "1533.TW": {
       "name": "車王電",
-      "price": 31.2
+      "price": 31.0
     },
     "1535.TW": {
       "name": "中宇",
-      "price": 52.9
+      "price": 52.7
     },
     "1536.TW": {
       "name": "和大",
-      "price": 53.0
+      "price": 51.2
     },
     "1537.TW": {
       "name": "廣隆",
-      "price": 124.5
+      "price": 124.0
     },
     "1538.TW": {
       "name": "正峰",
-      "price": 17.2
+      "price": 17.0
     },
     "1539.TW": {
       "name": "巨庭",
-      "price": 17.15
+      "price": 17.1
     },
     "1540.TW": {
       "name": "喬福",
-      "price": 22.5
+      "price": 22.1
     },
     "1541.TW": {
       "name": "錩泰",
-      "price": 25.65
+      "price": 25.25
     },
     "1558.TW": {
       "name": "伸興",
-      "price": 94.7
+      "price": 93.8
     },
     "1560.TW": {
       "name": "中砂",
-      "price": 485.5
+      "price": 467.0
     },
     "1563.TW": {
       "name": "巧新",
-      "price": 40.85
+      "price": 40.35
     },
     "1568.TW": {
       "name": "倉佑",
-      "price": 22.6
+      "price": 22.45
     },
     "1582.TW": {
       "name": "信錦",
-      "price": 94.0
+      "price": 92.7
     },
     "1583.TW": {
       "name": "程泰",
-      "price": 43.7
+      "price": 43.65
     },
     "1587.TW": {
       "name": "吉茂",
-      "price": 37.1
+      "price": 35.5
     },
     "1589.TW": {
       "name": "永冠-KY",
-      "price": 8.64
+      "price": 8.4
     },
     "1590.TW": {
       "name": "亞德客-KY",
-      "price": 1025.0
+      "price": 978.0
     },
     "1597.TW": {
       "name": "直得",
-      "price": 80.8
+      "price": 79.1
     },
     "1598.TW": {
       "name": "岱宇",
-      "price": 20.1
+      "price": 20.05
     },
     "1603.TW": {
       "name": "華電",
-      "price": 34.3
+      "price": 33.8
     },
     "1604.TW": {
       "name": "聲寶",
-      "price": 25.25
+      "price": 25.2
     },
     "1605.TW": {
       "name": "華新",
-      "price": 33.9
+      "price": 32.2
     },
     "1608.TW": {
       "name": "華榮",
-      "price": 33.85
+      "price": 33.25
     },
     "1609.TW": {
       "name": "大亞",
-      "price": 35.3
+      "price": 34.3
     },
     "1611.TW": {
       "name": "中電",
-      "price": 13.45
+      "price": 13.7
     },
     "1612.TW": {
       "name": "宏泰",
-      "price": 35.9
+      "price": 35.65
     },
     "1614.TW": {
       "name": "三洋電",
-      "price": 32.8
+      "price": 32.3
     },
     "1615.TW": {
       "name": "大山",
-      "price": 47.05
+      "price": 46.35
     },
     "1616.TW": {
       "name": "億泰",
-      "price": 24.95
+      "price": 24.25
     },
     "1617.TW": {
       "name": "榮星",
-      "price": 15.35
+      "price": 15.15
     },
     "1618.TW": {
       "name": "合機",
-      "price": 42.05
+      "price": 41.2
     },
     "1626.TW": {
       "name": "艾美特-KY",
-      "price": 10.6
+      "price": 10.2
     },
     "1702.TW": {
       "name": "南僑",
-      "price": 36.15
+      "price": 35.65
     },
     "1707.TW": {
       "name": "葡萄王",
-      "price": 120.0
+      "price": 119.5
     },
     "1708.TW": {
       "name": "東鹼",
-      "price": 43.15
+      "price": 46.45
     },
     "1709.TW": {
       "name": "和益",
-      "price": 18.3
+      "price": 18.75
     },
     "1710.TW": {
       "name": "東聯",
-      "price": 13.5
+      "price": 14.85
     },
     "1711.TW": {
       "name": "永光",
-      "price": 39.35
+      "price": 43.25
     },
     "1712.TW": {
       "name": "興農",
-      "price": 44.25
+      "price": 43.75
     },
     "1713.TW": {
       "name": "國化",
-      "price": 47.5
+      "price": 48.0
     },
     "1714.TW": {
       "name": "和桐",
-      "price": 9.63
+      "price": 9.89
     },
     "1717.TW": {
       "name": "長興",
-      "price": 62.9
+      "price": 62.7
     },
     "1718.TW": {
       "name": "中纖",
-      "price": 7.44
+      "price": 7.66
     },
     "1720.TW": {
       "name": "生達",
-      "price": 64.0
+      "price": 62.9
     },
     "1721.TW": {
       "name": "三晃",
-      "price": 19.65
+      "price": 19.75
     },
     "1722.TW": {
       "name": "台肥",
-      "price": 46.9
+      "price": 47.2
     },
     "1723.TW": {
       "name": "中碳",
-      "price": 74.2
+      "price": 76.6
     },
     "1725.TW": {
       "name": "元禎",
-      "price": 32.25
+      "price": 35.45
     },
     "1726.TW": {
       "name": "永記",
-      "price": 75.8
+      "price": 75.5
     },
     "1727.TW": {
       "name": "中華化",
-      "price": 55.3
+      "price": 54.7
     },
     "1730.TW": {
       "name": "花仙子",
-      "price": 53.0
+      "price": 52.8
     },
     "1731.TW": {
       "name": "美吾華",
-      "price": 21.95
+      "price": 21.85
     },
     "1732.TW": {
       "name": "毛寶",
-      "price": 26.5
+      "price": 26.05
     },
     "1733.TW": {
       "name": "五鼎",
-      "price": 29.5
+      "price": 29.4
     },
     "1734.TW": {
       "name": "杏輝",
-      "price": 31.05
+      "price": 30.7
     },
     "1735.TW": {
       "name": "日勝化",
-      "price": 31.45
+      "price": 31.7
     },
     "1736.TW": {
       "name": "喬山",
-      "price": 130.0
+      "price": 126.0
     },
     "1737.TW": {
       "name": "臺鹽",
-      "price": 31.7
+      "price": 31.6
     },
     "1752.TW": {
       "name": "南光",
-      "price": 36.65
+      "price": 36.4
     },
     "1760.TW": {
       "name": "寶齡富錦",
-      "price": 61.5
+      "price": 61.4
     },
     "1762.TW": {
       "name": "中化生",
-      "price": 30.0
+      "price": 29.15
     },
     "1773.TW": {
       "name": "勝一",
-      "price": 148.0
+      "price": 149.0
     },
     "1776.TW": {
       "name": "展宇",
@@ -743,59 +743,59 @@
     },
     "1783.TW": {
       "name": "和康生",
-      "price": 44.45
+      "price": 43.55
     },
     "1786.TW": {
       "name": "科妍",
-      "price": 66.2
+      "price": 64.9
     },
     "1789.TW": {
       "name": "神隆",
-      "price": 22.4
+      "price": 22.15
     },
     "1795.TW": {
       "name": "美時",
-      "price": 247.5
+      "price": 223.5
     },
     "1802.TW": {
       "name": "台玻",
-      "price": 64.1
+      "price": 61.1
     },
     "1805.TW": {
       "name": "寶徠",
-      "price": 10.25
+      "price": 10.65
     },
     "1806.TW": {
       "name": "冠軍",
-      "price": 8.7
+      "price": 8.6
     },
     "1808.TW": {
       "name": "潤隆",
-      "price": 31.35
+      "price": 30.35
     },
     "1809.TW": {
       "name": "中釉",
-      "price": 29.55
+      "price": 32.5
     },
     "1810.TW": {
       "name": "和成",
-      "price": 18.1
+      "price": 17.9
     },
     "1817.TW": {
       "name": "凱撒衛",
-      "price": 38.85
+      "price": 38.75
     },
     "1903.TW": {
       "name": "士紙",
-      "price": 50.2
+      "price": 49.4
     },
     "1904.TW": {
       "name": "正隆",
-      "price": 17.75
+      "price": 17.5
     },
     "1905.TW": {
       "name": "華紙",
-      "price": 11.75
+      "price": 11.65
     },
     "1906.TW": {
       "name": "寶隆",
@@ -803,59 +803,59 @@
     },
     "1907.TW": {
       "name": "永豐餘",
-      "price": 24.35
+      "price": 23.9
     },
     "1909.TW": {
       "name": "榮成",
-      "price": 9.23
+      "price": 9.15
     },
     "2002.TW": {
       "name": "中鋼",
-      "price": 19.3
+      "price": 18.8
     },
     "2006.TW": {
       "name": "東和鋼鐵",
-      "price": 77.0
+      "price": 75.0
     },
     "2007.TW": {
       "name": "燁興",
-      "price": 8.02
+      "price": 7.85
     },
     "2008.TW": {
       "name": "高興昌",
-      "price": 28.0
+      "price": 27.75
     },
     "2009.TW": {
       "name": "第一銅",
-      "price": 43.15
+      "price": 41.55
     },
     "2010.TW": {
       "name": "春源",
-      "price": 24.95
+      "price": 24.75
     },
     "2012.TW": {
       "name": "春雨",
-      "price": 16.7
+      "price": 16.2
     },
     "2013.TW": {
       "name": "中鋼構",
-      "price": 44.35
+      "price": 43.75
     },
     "2014.TW": {
       "name": "中鴻",
-      "price": 18.05
+      "price": 17.85
     },
     "2015.TW": {
       "name": "豐興",
-      "price": 70.5
+      "price": 67.7
     },
     "2017.TW": {
       "name": "官田鋼",
-      "price": 10.0
+      "price": 9.91
     },
     "2020.TW": {
       "name": "美亞",
-      "price": 24.2
+      "price": 23.9
     },
     "2022.TW": {
       "name": "聚亨",
@@ -863,79 +863,79 @@
     },
     "2023.TW": {
       "name": "燁輝",
-      "price": 14.5
+      "price": 14.45
     },
     "2024.TW": {
       "name": "志聯",
-      "price": 14.7
+      "price": 14.55
     },
     "2025.TW": {
       "name": "千興",
-      "price": 10.7
+      "price": 10.55
     },
     "2027.TW": {
       "name": "大成鋼",
-      "price": 37.9
+      "price": 37.5
     },
     "2028.TW": {
       "name": "威致",
-      "price": 18.05
+      "price": 17.75
     },
     "2029.TW": {
       "name": "盛餘",
-      "price": 20.9
+      "price": 20.4
     },
     "2030.TW": {
       "name": "彰源",
-      "price": 15.6
+      "price": 15.3
     },
     "2031.TW": {
       "name": "新光鋼",
-      "price": 40.1
+      "price": 39.55
     },
     "2032.TW": {
       "name": "新鋼",
-      "price": 15.7
+      "price": 15.4
     },
     "2033.TW": {
       "name": "佳大",
-      "price": 15.9
+      "price": 15.65
     },
     "2034.TW": {
       "name": "允強",
-      "price": 20.45
+      "price": 20.05
     },
     "2038.TW": {
       "name": "海光",
-      "price": 15.1
+      "price": 14.8
     },
     "2049.TW": {
       "name": "上銀",
-      "price": 232.5
+      "price": 229.5
     },
     "2059.TW": {
       "name": "川湖",
-      "price": 3410.0
+      "price": 3575.0
     },
     "2062.TW": {
       "name": "橋椿",
-      "price": 20.65
+      "price": 20.4
     },
     "2069.TW": {
       "name": "運錩",
-      "price": 18.8
+      "price": 18.5
     },
     "2101.TW": {
       "name": "南港",
-      "price": 34.0
+      "price": 33.6
     },
     "2102.TW": {
       "name": "泰豐",
-      "price": 19.5
+      "price": 18.95
     },
     "2103.TW": {
       "name": "台橡",
-      "price": 20.95
+      "price": 21.95
     },
     "2104.TW": {
       "name": "國際中橡",
@@ -943,11 +943,11 @@
     },
     "2105.TW": {
       "name": "正新",
-      "price": 29.85
+      "price": 29.55
     },
     "2106.TW": {
       "name": "建大",
-      "price": 18.3
+      "price": 18.0
     },
     "2107.TW": {
       "name": "厚生",
@@ -955,7 +955,7 @@
     },
     "2108.TW": {
       "name": "南帝",
-      "price": 25.55
+      "price": 27.6
     },
     "2109.TW": {
       "name": "華豐",
@@ -963,115 +963,115 @@
     },
     "2114.TW": {
       "name": "鑫永銓",
-      "price": 88.8
+      "price": 88.7
     },
     "2115.TW": {
       "name": "六暉-KY",
-      "price": 21.7
+      "price": 21.45
     },
     "2201.TW": {
       "name": "裕隆",
-      "price": 28.1
+      "price": 27.55
     },
     "2204.TW": {
       "name": "中華",
-      "price": 56.5
+      "price": 55.7
     },
     "2206.TW": {
       "name": "三陽工業",
-      "price": 58.5
+      "price": 58.4
     },
     "2207.TW": {
       "name": "和泰車",
-      "price": 501.0
+      "price": 485.5
     },
     "2208.TW": {
       "name": "台船",
-      "price": 21.6
+      "price": 21.5
     },
     "2211.TW": {
       "name": "長榮鋼",
-      "price": 102.0
+      "price": 100.0
     },
     "2227.TW": {
       "name": "裕日車",
-      "price": 50.5
+      "price": 49.8
     },
     "2228.TW": {
       "name": "劍麟",
-      "price": 90.3
+      "price": 89.3
     },
     "2231.TW": {
       "name": "為升",
-      "price": 83.0
+      "price": 80.8
     },
     "2233.TW": {
       "name": "宇隆",
-      "price": 239.0
+      "price": 231.5
     },
     "2236.TW": {
       "name": "百達-KY",
-      "price": 109.5
+      "price": 108.0
     },
     "2239.TW": {
       "name": "英利-KY",
-      "price": 23.65
+      "price": 23.35
     },
     "2241.TW": {
       "name": "艾姆勒",
-      "price": 29.15
+      "price": 31.5
     },
     "2243.TW": {
       "name": "宏旭-KY",
-      "price": 20.5
+      "price": 19.7
     },
     "2247.TW": {
       "name": "汎德永業",
-      "price": 239.5
+      "price": 237.0
     },
     "2250.TW": {
       "name": "IKKA-KY",
-      "price": 67.2
+      "price": 64.8
     },
     "2301.TW": {
       "name": "光寶科",
-      "price": 170.0
+      "price": 160.5
     },
     "2302.TW": {
       "name": "麗正",
-      "price": 19.05
+      "price": 19.15
     },
     "2303.TW": {
       "name": "聯電",
-      "price": 61.1
+      "price": 58.7
     },
     "2305.TW": {
       "name": "全友",
-      "price": 15.05
+      "price": 14.8
     },
     "2308.TW": {
       "name": "台達電",
-      "price": 1465.0
+      "price": 1455.0
     },
     "2312.TW": {
       "name": "金寶",
-      "price": 24.45
+      "price": 23.9
     },
     "2313.TW": {
       "name": "華通",
-      "price": 230.0
+      "price": 223.5
     },
     "2314.TW": {
       "name": "台揚",
-      "price": 20.75
+      "price": 20.0
     },
     "2316.TW": {
       "name": "楠梓電",
-      "price": 112.5
+      "price": 108.0
     },
     "2317.TW": {
       "name": "鴻海",
-      "price": 210.0
+      "price": 205.0
     },
     "2321.TW": {
       "name": "東訊",
@@ -1079,135 +1079,135 @@
     },
     "2323.TW": {
       "name": "中環",
-      "price": 11.0
+      "price": 11.95
     },
     "2324.TW": {
       "name": "仁寶",
-      "price": 32.85
+      "price": 32.6
     },
     "2327.TW": {
       "name": "國巨",
-      "price": 280.5
+      "price": 275.0
     },
     "2328.TW": {
       "name": "廣宇",
-      "price": 47.35
+      "price": 46.25
     },
     "2329.TW": {
       "name": "華泰",
-      "price": 57.1
+      "price": 60.3
     },
     "2330.TW": {
       "name": "台積電",
-      "price": 1905.0
+      "price": 1850.0
     },
     "2331.TW": {
       "name": "精英",
-      "price": 24.1
+      "price": 23.45
     },
     "2332.TW": {
       "name": "友訊",
-      "price": 15.55
+      "price": 15.5
     },
     "2337.TW": {
       "name": "旺宏",
-      "price": 143.5
+      "price": 157.0
     },
     "2338.TW": {
       "name": "光罩",
-      "price": 56.1
+      "price": 53.5
     },
     "2340.TW": {
       "name": "台亞",
-      "price": 28.8
+      "price": 28.55
     },
     "2342.TW": {
       "name": "茂矽",
-      "price": 33.9
+      "price": 33.0
     },
     "2344.TW": {
       "name": "華邦電",
-      "price": 128.0
+      "price": 122.0
     },
     "2345.TW": {
       "name": "智邦",
-      "price": 1600.0
+      "price": 1590.0
     },
     "2347.TW": {
       "name": "聯強",
-      "price": 80.0
+      "price": 78.4
     },
     "2348.TW": {
       "name": "海悅",
-      "price": 80.8
+      "price": 82.9
     },
     "2349.TW": {
       "name": "錸德",
-      "price": 13.1
+      "price": 14.4
     },
     "2351.TW": {
       "name": "順德",
-      "price": 97.5
+      "price": 94.2
     },
     "2352.TW": {
       "name": "佳世達",
-      "price": 24.6
+      "price": 24.3
     },
     "2353.TW": {
       "name": "宏碁",
-      "price": 28.9
+      "price": 28.35
     },
     "2354.TW": {
       "name": "鴻準",
-      "price": 55.0
+      "price": 53.2
     },
     "2355.TW": {
       "name": "敬鵬",
-      "price": 48.15
+      "price": 47.05
     },
     "2356.TW": {
       "name": "英業達",
-      "price": 44.35
+      "price": 43.45
     },
     "2357.TW": {
       "name": "華碩",
-      "price": 594.0
+      "price": 578.0
     },
     "2359.TW": {
       "name": "所羅門",
-      "price": 119.5
+      "price": 116.5
     },
     "2360.TW": {
       "name": "致茂",
-      "price": 1565.0
+      "price": 1595.0
     },
     "2362.TW": {
       "name": "藍天",
-      "price": 38.9
+      "price": 38.55
     },
     "2363.TW": {
       "name": "矽統",
-      "price": 52.8
+      "price": 51.0
     },
     "2364.TW": {
       "name": "倫飛",
-      "price": 64.5
+      "price": 63.7
     },
     "2365.TW": {
       "name": "昆盈",
-      "price": 35.65
+      "price": 34.95
     },
     "2367.TW": {
       "name": "燿華",
-      "price": 76.0
+      "price": 72.1
     },
     "2368.TW": {
       "name": "金像電",
-      "price": 917.0
+      "price": 1005.0
     },
     "2369.TW": {
       "name": "菱生",
-      "price": 31.55
+      "price": 32.5
     },
     "2371.TW": {
       "name": "大同",
@@ -1215,175 +1215,175 @@
     },
     "2373.TW": {
       "name": "震旦行",
-      "price": 56.6
+      "price": 55.9
     },
     "2374.TW": {
       "name": "佳能",
-      "price": 73.0
+      "price": 71.0
     },
     "2375.TW": {
       "name": "凱美",
-      "price": 84.3
+      "price": 82.6
     },
     "2376.TW": {
       "name": "技嘉",
-      "price": 249.5
+      "price": 247.5
     },
     "2377.TW": {
       "name": "微星",
-      "price": 97.5
+      "price": 94.3
     },
     "2379.TW": {
       "name": "瑞昱",
-      "price": 482.0
+      "price": 476.5
     },
     "2380.TW": {
       "name": "虹光",
-      "price": 6.07
+      "price": 6.67
     },
     "2382.TW": {
       "name": "廣達",
-      "price": 293.0
+      "price": 286.5
     },
     "2383.TW": {
       "name": "台光電",
-      "price": 2700.0
+      "price": 2890.0
     },
     "2385.TW": {
       "name": "群光",
-      "price": 123.0
+      "price": 120.5
     },
     "2387.TW": {
       "name": "精元",
-      "price": 44.9
+      "price": 45.05
     },
     "2388.TW": {
       "name": "威盛",
-      "price": 51.7
+      "price": 50.3
     },
     "2390.TW": {
       "name": "云辰",
-      "price": 10.85
+      "price": 11.25
     },
     "2392.TW": {
       "name": "正崴",
-      "price": 37.1
+      "price": 36.6
     },
     "2393.TW": {
       "name": "億光",
-      "price": 66.6
+      "price": 68.6
     },
     "2395.TW": {
       "name": "研華",
-      "price": 349.0
+      "price": 342.0
     },
     "2397.TW": {
       "name": "友通",
-      "price": 55.8
+      "price": 54.8
     },
     "2399.TW": {
       "name": "映泰",
-      "price": 30.8
+      "price": 33.85
     },
     "2401.TW": {
       "name": "凌陽",
-      "price": 21.15
+      "price": 20.9
     },
     "2402.TW": {
       "name": "毅嘉",
-      "price": 50.5
+      "price": 51.6
     },
     "2404.TW": {
       "name": "漢唐",
-      "price": 938.0
+      "price": 915.0
     },
     "2405.TW": {
       "name": "輔信",
-      "price": 15.2
+      "price": 15.1
     },
     "2406.TW": {
       "name": "國碩",
-      "price": 36.9
+      "price": 36.45
     },
     "2408.TW": {
       "name": "南亞科",
-      "price": 276.0
+      "price": 260.0
     },
     "2409.TW": {
       "name": "友達",
-      "price": 16.2
+      "price": 15.75
     },
     "2412.TW": {
       "name": "中華電",
-      "price": 137.5
+      "price": 135.5
     },
     "2413.TW": {
       "name": "環科",
-      "price": 58.8
+      "price": 58.0
     },
     "2414.TW": {
       "name": "精技",
-      "price": 44.3
+      "price": 44.1
     },
     "2415.TW": {
       "name": "錩新",
-      "price": 29.7
+      "price": 29.05
     },
     "2417.TW": {
       "name": "圓剛",
-      "price": 36.75
+      "price": 35.8
     },
     "2419.TW": {
       "name": "仲琦",
-      "price": 31.2
+      "price": 31.7
     },
     "2420.TW": {
       "name": "新巨",
-      "price": 52.7
+      "price": 52.0
     },
     "2421.TW": {
       "name": "建準",
-      "price": 151.5
+      "price": 144.5
     },
     "2423.TW": {
       "name": "固緯",
-      "price": 49.1
+      "price": 48.35
     },
     "2424.TW": {
       "name": "隴華",
-      "price": 29.0
+      "price": 28.15
     },
     "2425.TW": {
       "name": "承啟",
-      "price": 30.95
+      "price": 31.0
     },
     "2426.TW": {
       "name": "鼎元",
-      "price": 38.35
+      "price": 34.7
     },
     "2427.TW": {
       "name": "三商電",
-      "price": 24.15
+      "price": 23.95
     },
     "2428.TW": {
       "name": "興勤",
-      "price": 165.0
+      "price": 162.0
     },
     "2429.TW": {
       "name": "銘旺科",
-      "price": 51.2
+      "price": 48.85
     },
     "2430.TW": {
       "name": "燦坤",
-      "price": 22.75
+      "price": 22.2
     },
     "2431.TW": {
       "name": "聯昌",
-      "price": 12.8
+      "price": 12.85
     },
     "2433.TW": {
       "name": "互盛電",
-      "price": 46.3
+      "price": 46.1
     },
     "2434.TW": {
       "name": "統懋",
@@ -1391,27 +1391,27 @@
     },
     "2436.TW": {
       "name": "偉詮電",
-      "price": 69.3
+      "price": 66.1
     },
     "2438.TW": {
       "name": "翔耀",
-      "price": 22.7
+      "price": 23.2
     },
     "2439.TW": {
       "name": "美律",
-      "price": 85.5
+      "price": 83.8
     },
     "2440.TW": {
       "name": "太空梭",
-      "price": 15.2
+      "price": 14.9
     },
     "2441.TW": {
       "name": "超豐",
-      "price": 89.5
+      "price": 95.3
     },
     "2442.TW": {
       "name": "新美齊",
-      "price": 21.25
+      "price": 20.45
     },
     "2444.TW": {
       "name": "兆勁",
@@ -1419,111 +1419,111 @@
     },
     "2449.TW": {
       "name": "京元電子",
-      "price": 323.0
+      "price": 316.0
     },
     "2450.TW": {
       "name": "神腦",
-      "price": 29.7
+      "price": 29.5
     },
     "2451.TW": {
       "name": "創見",
-      "price": 313.5
+      "price": 309.0
     },
     "2453.TW": {
       "name": "凌群",
-      "price": 55.7
+      "price": 55.1
     },
     "2454.TW": {
       "name": "聯發科",
-      "price": 1730.0
+      "price": 1680.0
     },
     "2455.TW": {
       "name": "全新",
-      "price": 227.5
+      "price": 227.0
     },
     "2457.TW": {
       "name": "飛宏",
-      "price": 28.4
+      "price": 27.95
     },
     "2458.TW": {
       "name": "義隆",
-      "price": 141.0
+      "price": 136.5
     },
     "2459.TW": {
       "name": "敦吉",
-      "price": 66.6
+      "price": 65.7
     },
     "2460.TW": {
       "name": "建通",
-      "price": 26.25
+      "price": 25.2
     },
     "2461.TW": {
       "name": "光群雷",
-      "price": 16.5
+      "price": 16.6
     },
     "2462.TW": {
       "name": "良得電",
-      "price": 22.7
+      "price": 22.85
     },
     "2464.TW": {
       "name": "盟立",
-      "price": 79.6
+      "price": 77.0
     },
     "2465.TW": {
       "name": "麗臺",
-      "price": 63.8
+      "price": 65.8
     },
     "2466.TW": {
       "name": "冠西電",
-      "price": 51.8
+      "price": 52.0
     },
     "2467.TW": {
       "name": "志聖",
-      "price": 401.0
+      "price": 371.5
     },
     "2468.TW": {
       "name": "華經",
-      "price": 40.25
+      "price": 40.85
     },
     "2471.TW": {
       "name": "資通",
-      "price": 53.8
+      "price": 52.2
     },
     "2472.TW": {
       "name": "立隆電",
-      "price": 125.0
+      "price": 128.0
     },
     "2474.TW": {
       "name": "可成",
-      "price": 187.5
+      "price": 188.0
     },
     "2476.TW": {
       "name": "鉅祥",
-      "price": 85.7
+      "price": 86.0
     },
     "2477.TW": {
       "name": "美隆電",
-      "price": 24.6
+      "price": 24.5
     },
     "2478.TW": {
       "name": "大毅",
-      "price": 70.9
+      "price": 71.9
     },
     "2480.TW": {
       "name": "敦陽科",
-      "price": 144.0
+      "price": 143.0
     },
     "2481.TW": {
       "name": "強茂",
-      "price": 102.5
+      "price": 101.0
     },
     "2482.TW": {
       "name": "連宇",
-      "price": 16.25
+      "price": 16.15
     },
     "2483.TW": {
       "name": "百容",
-      "price": 21.5
+      "price": 21.55
     },
     "2484.TW": {
       "name": "希華",
@@ -1531,27 +1531,27 @@
     },
     "2485.TW": {
       "name": "兆赫",
-      "price": 80.0
+      "price": 80.1
     },
     "2486.TW": {
       "name": "一詮",
-      "price": 163.0
+      "price": 161.0
     },
     "2488.TW": {
       "name": "漢平",
-      "price": 48.4
+      "price": 48.35
     },
     "2489.TW": {
       "name": "瑞軒",
-      "price": 39.0
+      "price": 42.9
     },
     "2491.TW": {
       "name": "吉祥全",
-      "price": 16.55
+      "price": 16.7
     },
     "2492.TW": {
       "name": "華新科",
-      "price": 141.5
+      "price": 137.0
     },
     "2493.TW": {
       "name": "揚博",
@@ -1559,43 +1559,43 @@
     },
     "2495.TW": {
       "name": "普安",
-      "price": 35.95
+      "price": 39.5
     },
     "2496.TW": {
       "name": "卓越",
-      "price": 69.1
+      "price": 68.5
     },
     "2497.TW": {
       "name": "怡利電",
-      "price": 42.4
+      "price": 41.8
     },
     "2498.TW": {
       "name": "宏達電",
-      "price": 43.05
+      "price": 41.2
     },
     "2501.TW": {
       "name": "國建",
-      "price": 23.45
+      "price": 23.25
     },
     "2504.TW": {
       "name": "國產",
-      "price": 38.2
+      "price": 37.95
     },
     "2505.TW": {
       "name": "國揚",
-      "price": 19.5
+      "price": 19.3
     },
     "2506.TW": {
       "name": "太設",
-      "price": 8.81
+      "price": 8.73
     },
     "2509.TW": {
       "name": "全坤建",
-      "price": 14.2
+      "price": 14.0
     },
     "2511.TW": {
       "name": "太子",
-      "price": 8.2
+      "price": 8.12
     },
     "2514.TW": {
       "name": "龍邦",
@@ -1603,123 +1603,123 @@
     },
     "2515.TW": {
       "name": "中工",
-      "price": 14.7
+      "price": 14.15
     },
     "2516.TW": {
       "name": "新建",
-      "price": 13.75
+      "price": 13.95
     },
     "2520.TW": {
       "name": "冠德",
-      "price": 32.4
+      "price": 31.7
     },
     "2524.TW": {
       "name": "京城",
-      "price": 39.4
+      "price": 38.9
     },
     "2527.TW": {
       "name": "宏璟",
-      "price": 30.65
+      "price": 29.8
     },
     "2528.TW": {
       "name": "皇普",
-      "price": 27.1
+      "price": 26.85
     },
     "2530.TW": {
       "name": "華建",
-      "price": 25.1
+      "price": 24.8
     },
     "2534.TW": {
       "name": "宏盛",
-      "price": 20.2
+      "price": 20.0
     },
     "2535.TW": {
       "name": "達欣工",
-      "price": 73.2
+      "price": 72.3
     },
     "2536.TW": {
       "name": "宏普",
-      "price": 22.65
+      "price": 22.35
     },
     "2537.TW": {
       "name": "聯上發",
-      "price": 10.05
+      "price": 10.1
     },
     "2538.TW": {
       "name": "基泰",
-      "price": 10.2
+      "price": 10.15
     },
     "2539.TW": {
       "name": "櫻花建",
-      "price": 48.75
+      "price": 48.25
     },
     "2540.TW": {
       "name": "愛山林",
-      "price": 47.0
+      "price": 47.2
     },
     "2542.TW": {
       "name": "興富發",
-      "price": 36.5
+      "price": 35.85
     },
     "2543.TW": {
       "name": "皇昌",
-      "price": 69.7
+      "price": 69.6
     },
     "2545.TW": {
       "name": "皇翔",
-      "price": 36.65
+      "price": 36.5
     },
     "2546.TW": {
       "name": "根基",
-      "price": 83.8
+      "price": 83.4
     },
     "2547.TW": {
       "name": "日勝生",
-      "price": 11.15
+      "price": 10.9
     },
     "2548.TW": {
       "name": "華固",
-      "price": 115.5
+      "price": 116.5
     },
     "2597.TW": {
       "name": "潤弘",
-      "price": 156.0
+      "price": 152.0
     },
     "2601.TW": {
       "name": "益航",
-      "price": 6.24
+      "price": 6.12
     },
     "2603.TW": {
       "name": "長榮",
-      "price": 218.0
+      "price": 217.5
     },
     "2605.TW": {
       "name": "新興",
-      "price": 41.2
+      "price": 43.35
     },
     "2606.TW": {
       "name": "裕民",
-      "price": 61.0
+      "price": 60.5
     },
     "2607.TW": {
       "name": "榮運",
-      "price": 53.8
+      "price": 52.9
     },
     "2608.TW": {
       "name": "嘉里大榮",
-      "price": 31.1
+      "price": 31.05
     },
     "2609.TW": {
       "name": "陽明",
-      "price": 58.3
+      "price": 56.5
     },
     "2610.TW": {
       "name": "華航",
-      "price": 18.95
+      "price": 18.7
     },
     "2611.TW": {
       "name": "志信",
-      "price": 14.85
+      "price": 14.7
     },
     "2612.TW": {
       "name": "中航",
@@ -1727,39 +1727,39 @@
     },
     "2613.TW": {
       "name": "中櫃",
-      "price": 26.1
+      "price": 24.4
     },
     "2614.TW": {
       "name": "東森",
-      "price": 20.9
+      "price": 20.35
     },
     "2615.TW": {
       "name": "萬海",
-      "price": 79.9
+      "price": 78.5
     },
     "2616.TW": {
       "name": "山隆",
-      "price": 15.8
+      "price": 17.35
     },
     "2617.TW": {
       "name": "台航",
-      "price": 32.4
+      "price": 31.95
     },
     "2618.TW": {
       "name": "長榮航",
-      "price": 35.5
+      "price": 34.65
     },
     "2630.TW": {
       "name": "亞航",
-      "price": 51.4
+      "price": 51.1
     },
     "2633.TW": {
       "name": "台灣高鐵",
-      "price": 26.1
+      "price": 26.15
     },
     "2634.TW": {
       "name": "漢翔",
-      "price": 51.2
+      "price": 50.2
     },
     "2636.TW": {
       "name": "台驊投控",
@@ -1771,35 +1771,35 @@
     },
     "2642.TW": {
       "name": "宅配通",
-      "price": 23.8
+      "price": 23.65
     },
     "2645.TW": {
       "name": "長榮航太",
-      "price": 163.0
+      "price": 155.0
     },
     "2701.TW": {
       "name": "萬企",
-      "price": 10.8
+      "price": 10.7
     },
     "2702.TW": {
       "name": "華園",
-      "price": 11.3
+      "price": 11.2
     },
     "2704.TW": {
       "name": "國賓",
-      "price": 42.55
+      "price": 42.25
     },
     "2705.TW": {
       "name": "六福",
-      "price": 16.6
+      "price": 16.3
     },
     "2706.TW": {
       "name": "第一店",
-      "price": 12.55
+      "price": 12.4
     },
     "2707.TW": {
       "name": "晶華",
-      "price": 185.5
+      "price": 184.0
     },
     "2712.TW": {
       "name": "遠雄來",
@@ -1807,199 +1807,199 @@
     },
     "2722.TW": {
       "name": "夏都",
-      "price": 23.35
+      "price": 23.1
     },
     "2723.TW": {
       "name": "美食-KY",
-      "price": 70.5
+      "price": 70.8
     },
     "2727.TW": {
       "name": "王品",
-      "price": 225.0
+      "price": 223.5
     },
     "2731.TW": {
       "name": "雄獅",
-      "price": 170.0
+      "price": 168.0
     },
     "2739.TW": {
       "name": "寒舍",
-      "price": 34.5
+      "price": 33.95
     },
     "2748.TW": {
       "name": "雲品",
-      "price": 40.15
+      "price": 39.6
     },
     "2753.TW": {
       "name": "八方雲集",
-      "price": 185.0
+      "price": 183.5
     },
     "2762.TW": {
       "name": "世界健身-KY",
-      "price": 74.9
+      "price": 73.5
     },
     "2801.TW": {
       "name": "彰銀",
-      "price": 20.8
+      "price": 20.6
     },
     "2812.TW": {
       "name": "台中銀",
-      "price": 20.5
+      "price": 20.4
     },
     "2816.TW": {
       "name": "旺旺保",
-      "price": 31.0
+      "price": 30.85
     },
     "2820.TW": {
       "name": "華票",
-      "price": 16.95
+      "price": 16.8
     },
     "2832.TW": {
       "name": "台產",
-      "price": 48.5
+      "price": 47.4
     },
     "2834.TW": {
       "name": "臺企銀",
-      "price": 15.15
+      "price": 15.05
     },
     "2836.TW": {
       "name": "高雄銀",
-      "price": 12.2
+      "price": 12.1
     },
     "2838.TW": {
       "name": "聯邦銀",
-      "price": 20.05
+      "price": 20.15
     },
     "2845.TW": {
       "name": "遠東銀",
-      "price": 12.45
+      "price": 12.35
     },
     "2849.TW": {
       "name": "安泰銀",
-      "price": 13.15
+      "price": 12.95
     },
     "2850.TW": {
       "name": "新產",
-      "price": 117.5
+      "price": 116.0
     },
     "2851.TW": {
       "name": "中再保",
-      "price": 30.55
+      "price": 30.35
     },
     "2852.TW": {
       "name": "第一保",
-      "price": 26.15
+      "price": 25.85
     },
     "2855.TW": {
       "name": "統一證",
-      "price": 33.9
+      "price": 32.9
     },
     "2867.TW": {
       "name": "三商壽",
-      "price": 7.69
+      "price": 7.58
     },
     "2880.TW": {
       "name": "華南金",
-      "price": 33.4
+      "price": 33.3
     },
     "2881.TW": {
       "name": "富邦金",
-      "price": 89.5
+      "price": 88.2
     },
     "2882.TW": {
       "name": "國泰金",
-      "price": 73.4
+      "price": 71.6
     },
     "2883.TW": {
       "name": "開發金",
-      "price": 20.65
+      "price": 19.95
     },
     "2884.TW": {
       "name": "玉山金",
-      "price": 32.25
+      "price": 31.7
     },
     "2885.TW": {
       "name": "元大金",
-      "price": 44.65
+      "price": 44.25
     },
     "2886.TW": {
       "name": "兆豐金",
-      "price": 39.3
+      "price": 38.95
     },
     "2887.TW": {
       "name": "台新金",
-      "price": 24.6
+      "price": 24.45
     },
     "2889.TW": {
       "name": "國票金",
-      "price": 16.2
+      "price": 16.05
     },
     "2890.TW": {
       "name": "永豐金",
-      "price": 32.05
+      "price": 31.7
     },
     "2891.TW": {
       "name": "中信金",
-      "price": 53.3
+      "price": 51.6
     },
     "2892.TW": {
       "name": "第一金",
-      "price": 28.95
+      "price": 28.6
     },
     "2897.TW": {
       "name": "王道銀行",
-      "price": 9.92
+      "price": 9.9
     },
     "2901.TW": {
       "name": "欣欣",
-      "price": 23.65
+      "price": 23.45
     },
     "2903.TW": {
       "name": "遠百",
-      "price": 23.45
+      "price": 23.25
     },
     "2904.TW": {
       "name": "匯僑",
-      "price": 16.8
+      "price": 16.7
     },
     "2905.TW": {
       "name": "三商",
-      "price": 14.6
+      "price": 14.2
     },
     "2906.TW": {
       "name": "高林",
-      "price": 13.15
+      "price": 13.1
     },
     "2908.TW": {
       "name": "特力",
-      "price": 20.1
+      "price": 20.0
     },
     "2910.TW": {
       "name": "統領",
-      "price": 21.2
+      "price": 20.9
     },
     "2911.TW": {
       "name": "麗嬰房",
-      "price": 5.3
+      "price": 5.18
     },
     "2912.TW": {
       "name": "統一超",
-      "price": 219.5
+      "price": 214.5
     },
     "2913.TW": {
       "name": "農林",
-      "price": 12.3
+      "price": 12.2
     },
     "2915.TW": {
       "name": "潤泰全",
-      "price": 49.85
+      "price": 49.0
     },
     "2923.TW": {
       "name": "鼎固-KY",
-      "price": 18.8
+      "price": 17.8
     },
     "2929.TW": {
       "name": "淘帝-KY",
-      "price": 6.63
+      "price": 6.52
     },
     "2939.TW": {
       "name": "凱羿-KY",
@@ -2011,31 +2011,31 @@
     },
     "3002.TW": {
       "name": "歐格",
-      "price": 20.8
+      "price": 20.25
     },
     "3003.TW": {
       "name": "健和興",
-      "price": 50.8
+      "price": 49.95
     },
     "3004.TW": {
       "name": "豐達科",
-      "price": 106.5
+      "price": 104.5
     },
     "3005.TW": {
       "name": "神基",
-      "price": 136.0
+      "price": 131.5
     },
     "3006.TW": {
       "name": "晶豪科",
-      "price": 213.5
+      "price": 217.0
     },
     "3008.TW": {
       "name": "大立光",
-      "price": 2440.0
+      "price": 2320.0
     },
     "3010.TW": {
       "name": "華立",
-      "price": 133.0
+      "price": 135.5
     },
     "3011.TW": {
       "name": "今皓",
@@ -2043,143 +2043,143 @@
     },
     "3013.TW": {
       "name": "晟銘電",
-      "price": 99.4
+      "price": 97.9
     },
     "3014.TW": {
       "name": "聯陽",
-      "price": 119.0
+      "price": 117.5
     },
     "3015.TW": {
       "name": "全漢",
-      "price": 51.7
+      "price": 51.1
     },
     "3016.TW": {
       "name": "嘉晶",
-      "price": 65.5
+      "price": 64.2
     },
     "3017.TW": {
       "name": "奇鋐",
-      "price": 1850.0
+      "price": 2015.0
     },
     "3018.TW": {
       "name": "隆銘綠能",
-      "price": 12.1
+      "price": 12.3
     },
     "3019.TW": {
       "name": "亞光",
-      "price": 137.5
+      "price": 132.5
     },
     "3021.TW": {
       "name": "鴻名",
-      "price": 16.85
+      "price": 16.6
     },
     "3022.TW": {
       "name": "威強電",
-      "price": 62.3
+      "price": 68.5
     },
     "3023.TW": {
       "name": "信邦",
-      "price": 250.5
+      "price": 245.5
     },
     "3024.TW": {
       "name": "憶聲",
-      "price": 10.7
+      "price": 10.75
     },
     "3025.TW": {
       "name": "星通",
-      "price": 61.8
+      "price": 64.6
     },
     "3026.TW": {
       "name": "禾伸堂",
-      "price": 118.0
+      "price": 121.5
     },
     "3027.TW": {
       "name": "盛達",
-      "price": 21.2
+      "price": 20.6
     },
     "3028.TW": {
       "name": "增你強",
-      "price": 58.9
+      "price": 56.5
     },
     "3029.TW": {
       "name": "零壹",
-      "price": 118.0
+      "price": 111.5
     },
     "3030.TW": {
       "name": "德律",
-      "price": 260.5
+      "price": 263.5
     },
     "3031.TW": {
       "name": "佰鴻",
-      "price": 22.45
+      "price": 23.4
     },
     "3032.TW": {
       "name": "偉訓",
-      "price": 66.2
+      "price": 64.5
     },
     "3033.TW": {
       "name": "威健",
-      "price": 34.65
+      "price": 35.2
     },
     "3034.TW": {
       "name": "聯詠",
-      "price": 382.5
+      "price": 373.5
     },
     "3035.TW": {
       "name": "智原",
-      "price": 164.0
+      "price": 160.5
     },
     "3036.TW": {
       "name": "文曄",
-      "price": 256.0
+      "price": 250.0
     },
     "3037.TW": {
       "name": "欣興",
-      "price": 580.0
+      "price": 581.0
     },
     "3038.TW": {
       "name": "全台",
-      "price": 23.5
+      "price": 22.0
     },
     "3040.TW": {
       "name": "遠見",
-      "price": 48.05
+      "price": 48.5
     },
     "3041.TW": {
       "name": "揚智",
-      "price": 23.85
+      "price": 23.95
     },
     "3042.TW": {
       "name": "晶技",
-      "price": 93.5
+      "price": 93.4
     },
     "3043.TW": {
       "name": "科風",
-      "price": 21.05
+      "price": 21.15
     },
     "3044.TW": {
       "name": "健鼎",
-      "price": 373.5
+      "price": 366.0
     },
     "3045.TW": {
       "name": "台灣大",
-      "price": 110.0
+      "price": 109.5
     },
     "3046.TW": {
       "name": "建碁",
-      "price": 48.55
+      "price": 48.3
     },
     "3047.TW": {
       "name": "訊舟",
-      "price": 16.75
+      "price": 16.6
     },
     "3048.TW": {
       "name": "益登",
-      "price": 41.35
+      "price": 42.55
     },
     "3049.TW": {
       "name": "精金",
-      "price": 14.95
+      "price": 16.4
     },
     "3050.TW": {
       "name": "鈺德",
@@ -2187,55 +2187,55 @@
     },
     "3051.TW": {
       "name": "力特",
-      "price": 21.5
+      "price": 20.8
     },
     "3052.TW": {
       "name": "夆典",
-      "price": 11.1
+      "price": 11.0
     },
     "3054.TW": {
       "name": "立萬利",
-      "price": 90.3
+      "price": 86.0
     },
     "3055.TW": {
       "name": "蔚華科",
-      "price": 60.1
+      "price": 59.4
     },
     "3056.TW": {
       "name": "富華新",
-      "price": 14.7
+      "price": 14.5
     },
     "3057.TW": {
       "name": "喬鼎",
-      "price": 16.65
+      "price": 18.3
     },
     "3058.TW": {
       "name": "立德",
-      "price": 10.45
+      "price": 10.5
     },
     "3059.TW": {
       "name": "華晶科",
-      "price": 38.3
+      "price": 37.85
     },
     "3060.TW": {
       "name": "銘異",
-      "price": 31.55
+      "price": 33.35
     },
     "3062.TW": {
       "name": "建漢",
-      "price": 24.75
+      "price": 24.15
     },
     "3090.TW": {
       "name": "日電貿",
-      "price": 99.5
+      "price": 99.4
     },
     "3092.TW": {
       "name": "鴻碩",
-      "price": 34.0
+      "price": 33.35
     },
     "3094.TW": {
       "name": "聯傑",
-      "price": 24.05
+      "price": 23.85
     },
     "3130.TW": {
       "name": "一零四",
@@ -2243,11 +2243,11 @@
     },
     "3138.TW": {
       "name": "耀登",
-      "price": 186.0
+      "price": 185.5
     },
     "3149.TW": {
       "name": "正達",
-      "price": 45.55
+      "price": 44.5
     },
     "3164.TW": {
       "name": "景岳",
@@ -2255,7 +2255,7 @@
     },
     "3167.TW": {
       "name": "大量",
-      "price": 349.0
+      "price": 357.0
     },
     "3168.TW": {
       "name": "眾福科",
@@ -2263,107 +2263,107 @@
     },
     "3189.TW": {
       "name": "景碩",
-      "price": 365.5
+      "price": 383.5
     },
     "3209.TW": {
       "name": "全科",
-      "price": 44.65
+      "price": 43.25
     },
     "3229.TW": {
       "name": "晟鈦",
-      "price": 18.85
+      "price": 17.75
     },
     "3231.TW": {
       "name": "緯創",
-      "price": 130.5
+      "price": 127.5
     },
     "3257.TW": {
       "name": "虹冠電",
-      "price": 57.8
+      "price": 56.6
     },
     "3266.TW": {
       "name": "昇陽",
-      "price": 13.35
+      "price": 13.25
     },
     "3296.TW": {
       "name": "勝德",
-      "price": 21.9
+      "price": 21.75
     },
     "3305.TW": {
       "name": "昇貿",
-      "price": 112.5
+      "price": 108.5
     },
     "3308.TW": {
       "name": "聯德",
-      "price": 22.3
+      "price": 21.6
     },
     "3311.TW": {
       "name": "閎暉",
-      "price": 33.15
+      "price": 32.7
     },
     "3312.TW": {
       "name": "弘憶股",
-      "price": 36.75
+      "price": 36.95
     },
     "3321.TW": {
       "name": "同泰",
-      "price": 15.6
+      "price": 15.45
     },
     "3338.TW": {
       "name": "泰碩",
-      "price": 63.5
+      "price": 66.1
     },
     "3346.TW": {
       "name": "麗清",
-      "price": 20.4
+      "price": 20.05
     },
     "3356.TW": {
       "name": "奇偶",
-      "price": 51.2
+      "price": 50.7
     },
     "3376.TW": {
       "name": "新日興",
-      "price": 221.0
+      "price": 230.5
     },
     "3380.TW": {
       "name": "明泰",
-      "price": 35.95
+      "price": 36.65
     },
     "3406.TW": {
       "name": "玉晶光",
-      "price": 448.0
+      "price": 448.5
     },
     "3413.TW": {
       "name": "京鼎",
-      "price": 307.0
+      "price": 305.0
     },
     "3416.TW": {
       "name": "融程電",
-      "price": 153.5
+      "price": 150.5
     },
     "3419.TW": {
       "name": "譁裕",
-      "price": 16.6
+      "price": 16.3
     },
     "3432.TW": {
       "name": "台端",
-      "price": 16.4
+      "price": 16.25
     },
     "3437.TW": {
       "name": "榮創",
-      "price": 22.5
+      "price": 24.75
     },
     "3443.TW": {
       "name": "創意",
-      "price": 2515.0
+      "price": 2610.0
     },
     "3447.TW": {
       "name": "展達",
-      "price": 42.6
+      "price": 41.45
     },
     "3450.TW": {
       "name": "聯鈞",
-      "price": 280.5
+      "price": 279.0
     },
     "3454.TW": {
       "name": "晶睿",
@@ -2371,95 +2371,95 @@
     },
     "3481.TW": {
       "name": "群創",
-      "price": 27.95
+      "price": 27.3
     },
     "3494.TW": {
       "name": "誠研",
-      "price": 8.26
+      "price": 8.24
     },
     "3501.TW": {
       "name": "維熹",
-      "price": 49.0
+      "price": 48.75
     },
     "3504.TW": {
       "name": "揚明光",
-      "price": 59.5
+      "price": 59.6
     },
     "3515.TW": {
       "name": "華擎",
-      "price": 222.5
+      "price": 220.0
     },
     "3518.TW": {
       "name": "柏騰",
-      "price": 21.75
+      "price": 22.55
     },
     "3528.TW": {
       "name": "安馳",
-      "price": 63.9
+      "price": 63.0
     },
     "3530.TW": {
       "name": "晶相光",
-      "price": 61.8
+      "price": 61.9
     },
     "3532.TW": {
       "name": "台勝科",
-      "price": 150.5
+      "price": 153.0
     },
     "3533.TW": {
       "name": "嘉澤",
-      "price": 1915.0
+      "price": 2030.0
     },
     "3535.TW": {
       "name": "晶彩科",
-      "price": 123.0
+      "price": 124.5
     },
     "3543.TW": {
       "name": "州巧",
-      "price": 50.4
+      "price": 51.9
     },
     "3545.TW": {
       "name": "敦泰",
-      "price": 45.7
+      "price": 43.55
     },
     "3550.TW": {
       "name": "聯穎",
-      "price": 19.8
+      "price": 19.55
     },
     "3557.TW": {
       "name": "嘉威",
-      "price": 31.45
+      "price": 30.5
     },
     "3563.TW": {
       "name": "牧德",
-      "price": 731.0
+      "price": 735.0
     },
     "3576.TW": {
       "name": "聯合再生",
-      "price": 25.6
+      "price": 24.25
     },
     "3583.TW": {
       "name": "辛耘",
-      "price": 417.5
+      "price": 416.5
     },
     "3588.TW": {
       "name": "通嘉",
-      "price": 50.7
+      "price": 49.6
     },
     "3591.TW": {
       "name": "艾笛森",
-      "price": 20.0
+      "price": 22.0
     },
     "3592.TW": {
       "name": "瑞鼎",
-      "price": 220.0
+      "price": 215.0
     },
     "3593.TW": {
       "name": "力銘",
-      "price": 12.8
+      "price": 12.9
     },
     "3596.TW": {
       "name": "智易",
-      "price": 201.5
+      "price": 197.0
     },
     "3605.TW": {
       "name": "宏致",
@@ -2467,43 +2467,43 @@
     },
     "3607.TW": {
       "name": "谷崧",
-      "price": 14.6
+      "price": 14.45
     },
     "3617.TW": {
       "name": "碩天",
-      "price": 179.0
+      "price": 174.5
     },
     "3622.TW": {
       "name": "洋華",
-      "price": 60.9
+      "price": 59.7
     },
     "3645.TW": {
       "name": "達邁",
-      "price": 84.8
+      "price": 80.9
     },
     "3652.TW": {
       "name": "精聯",
-      "price": 28.0
+      "price": 27.4
     },
     "3653.TW": {
       "name": "健策",
-      "price": 3980.0
+      "price": 3900.0
     },
     "3661.TW": {
       "name": "世芯-KY",
-      "price": 3300.0
+      "price": 3220.0
     },
     "3665.TW": {
       "name": "貿聯-KY",
-      "price": 1690.0
+      "price": 1720.0
     },
     "3669.TW": {
       "name": "圓展",
-      "price": 35.5
+      "price": 35.3
     },
     "3673.TW": {
       "name": "TPK-KY",
-      "price": 42.0
+      "price": 45.15
     },
     "3679.TW": {
       "name": "新至陞",
@@ -2511,63 +2511,63 @@
     },
     "3686.TW": {
       "name": "達能",
-      "price": 18.6
+      "price": 20.05
     },
     "3694.TW": {
       "name": "海華",
-      "price": 58.6
+      "price": 57.0
     },
     "3701.TW": {
       "name": "大眾控",
-      "price": 65.2
+      "price": 66.0
     },
     "3702.TW": {
       "name": "大聯大",
-      "price": 93.1
+      "price": 93.0
     },
     "3703.TW": {
       "name": "欣陸",
-      "price": 22.6
+      "price": 22.55
     },
     "3704.TW": {
       "name": "合勤控",
-      "price": 34.6
+      "price": 34.05
     },
     "3705.TW": {
       "name": "永信",
-      "price": 53.6
+      "price": 53.5
     },
     "3706.TW": {
       "name": "神達",
-      "price": 84.5
+      "price": 82.1
     },
     "3708.TW": {
       "name": "上緯投控",
-      "price": 124.0
+      "price": 119.0
     },
     "3711.TW": {
       "name": "日月光投控",
-      "price": 357.5
+      "price": 347.0
     },
     "3712.TW": {
       "name": "永崴投控",
-      "price": 23.9
+      "price": 23.05
     },
     "3714.TW": {
       "name": "富采",
-      "price": 47.2
+      "price": 48.5
     },
     "3715.TW": {
       "name": "定穎投控",
-      "price": 173.5
+      "price": 190.5
     },
     "4104.TW": {
       "name": "佳醫",
-      "price": 75.8
+      "price": 75.5
     },
     "4106.TW": {
       "name": "雃博",
-      "price": 22.4
+      "price": 22.55
     },
     "4108.TW": {
       "name": "懷特",
@@ -2575,31 +2575,31 @@
     },
     "4119.TW": {
       "name": "旭富",
-      "price": 54.2
+      "price": 52.8
     },
     "4133.TW": {
       "name": "亞諾法",
-      "price": 23.3
+      "price": 23.05
     },
     "4137.TW": {
       "name": "麗豐-KY",
-      "price": 109.5
+      "price": 109.0
     },
     "4142.TW": {
       "name": "國光生",
-      "price": 18.15
+      "price": 18.05
     },
     "4148.TW": {
       "name": "全宇生技-KY",
-      "price": 41.1
+      "price": 42.15
     },
     "4155.TW": {
       "name": "訊映",
-      "price": 13.6
+      "price": 13.45
     },
     "4164.TW": {
       "name": "承業醫",
-      "price": 31.1
+      "price": 30.85
     },
     "4190.TW": {
       "name": "佐登-KY",
@@ -2607,143 +2607,143 @@
     },
     "4306.TW": {
       "name": "炎洲",
-      "price": 13.35
+      "price": 13.4
     },
     "4414.TW": {
       "name": "如興",
-      "price": 11.45
+      "price": 11.7
     },
     "4426.TW": {
       "name": "利勤",
-      "price": 9.06
+      "price": 9.05
     },
     "4438.TW": {
       "name": "廣越",
-      "price": 59.1
+      "price": 57.4
     },
     "4439.TW": {
       "name": "冠星-KY",
-      "price": 86.3
+      "price": 84.2
     },
     "4440.TW": {
       "name": "宜新實業",
-      "price": 18.35
+      "price": 17.2
     },
     "4526.TW": {
       "name": "東台",
-      "price": 33.1
+      "price": 32.6
     },
     "4532.TW": {
       "name": "瑞智",
-      "price": 27.25
+      "price": 26.65
     },
     "4536.TW": {
       "name": "拓凱",
-      "price": 155.5
+      "price": 153.5
     },
     "4540.TW": {
       "name": "全球傳動",
-      "price": 46.75
+      "price": 45.85
     },
     "4545.TW": {
       "name": "銘鈺",
-      "price": 32.25
+      "price": 32.4
     },
     "4551.TW": {
       "name": "智伸科",
-      "price": 122.5
+      "price": 126.5
     },
     "4552.TW": {
       "name": "力達-KY",
-      "price": 21.35
+      "price": 21.25
     },
     "4555.TW": {
       "name": "氣立",
-      "price": 35.8
+      "price": 36.5
     },
     "4557.TW": {
       "name": "永新-KY",
-      "price": 63.1
+      "price": 61.3
     },
     "4560.TW": {
       "name": "強信-KY",
-      "price": 33.5
+      "price": 32.9
     },
     "4562.TW": {
       "name": "穎漢",
-      "price": 33.35
+      "price": 32.5
     },
     "4564.TW": {
       "name": "元翎",
-      "price": 20.45
+      "price": 19.95
     },
     "4566.TW": {
       "name": "時碩工業",
-      "price": 62.4
+      "price": 61.1
     },
     "4569.TW": {
       "name": "六方科-KY",
-      "price": 137.5
+      "price": 151.0
     },
     "4571.TW": {
       "name": "鈞興-KY",
-      "price": 166.0
+      "price": 163.0
     },
     "4572.TW": {
       "name": "駐龍",
-      "price": 146.0
+      "price": 144.0
     },
     "4576.TW": {
       "name": "大銀微系統",
-      "price": 121.0
+      "price": 119.0
     },
     "4581.TW": {
       "name": "光隆精密-KY",
-      "price": 49.7
+      "price": 49.2
     },
     "4583.TW": {
       "name": "台灣精銳",
-      "price": 639.0
+      "price": 640.0
     },
     "4588.TW": {
       "name": "玖鼎電力",
-      "price": 60.7
+      "price": 59.8
     },
     "4720.TW": {
       "name": "德淵",
-      "price": 17.3
+      "price": 16.95
     },
     "4722.TW": {
       "name": "國精化",
-      "price": 190.0
+      "price": 186.5
     },
     "4736.TW": {
       "name": "泰博",
-      "price": 127.0
+      "price": 124.0
     },
     "4737.TW": {
       "name": "華廣",
-      "price": 63.8
+      "price": 62.6
     },
     "4739.TW": {
       "name": "康普",
-      "price": 82.9
+      "price": 83.2
     },
     "4746.TW": {
       "name": "台耀",
-      "price": 55.9
+      "price": 53.6
     },
     "4755.TW": {
       "name": "三福化",
-      "price": 150.5
+      "price": 150.0
     },
     "4763.TW": {
       "name": "材料-KY",
-      "price": 47.15
+      "price": 46.9
     },
     "4764.TW": {
       "name": "雙鍵",
-      "price": 155.0
+      "price": 157.5
     },
     "4766.TW": {
       "name": "南寶",
@@ -2751,119 +2751,119 @@
     },
     "4770.TW": {
       "name": "上品",
-      "price": 241.5
+      "price": 232.0
     },
     "4771.TW": {
       "name": "望隼",
-      "price": 185.0
+      "price": 190.0
     },
     "4807.TW": {
       "name": "日成-KY",
-      "price": 16.25
+      "price": 16.15
     },
     "4904.TW": {
       "name": "遠傳",
-      "price": 94.0
+      "price": 92.7
     },
     "4906.TW": {
       "name": "正文",
-      "price": 33.45
+      "price": 33.65
     },
     "4912.TW": {
       "name": "聯德控股-KY",
-      "price": 92.5
+      "price": 90.4
     },
     "4915.TW": {
       "name": "致伸",
-      "price": 73.4
+      "price": 72.0
     },
     "4916.TW": {
       "name": "事欣科",
-      "price": 61.8
+      "price": 63.9
     },
     "4919.TW": {
       "name": "新唐",
-      "price": 90.4
+      "price": 99.4
     },
     "4927.TW": {
       "name": "泰鼎-KY",
-      "price": 45.5
+      "price": 46.1
     },
     "4930.TW": {
       "name": "燦星網",
-      "price": 20.35
+      "price": 20.15
     },
     "4934.TW": {
       "name": "太極",
-      "price": 19.2
+      "price": 20.0
     },
     "4935.TW": {
       "name": "茂林-KY",
-      "price": 36.7
+      "price": 35.95
     },
     "4938.TW": {
       "name": "和碩",
-      "price": 78.2
+      "price": 77.3
     },
     "4942.TW": {
       "name": "嘉彰",
-      "price": 38.0
+      "price": 37.85
     },
     "4943.TW": {
       "name": "康控-KY",
-      "price": 11.7
+      "price": 11.3
     },
     "4949.TW": {
       "name": "有成精密",
-      "price": 67.8
+      "price": 72.1
     },
     "4952.TW": {
       "name": "凌通",
-      "price": 45.0
+      "price": 43.05
     },
     "4956.TW": {
       "name": "光鋐",
-      "price": 31.75
+      "price": 34.9
     },
     "4958.TW": {
       "name": "臻鼎-KY",
-      "price": 207.0
+      "price": 209.5
     },
     "4960.TW": {
       "name": "誠美材",
-      "price": 27.0
+      "price": 25.9
     },
     "4961.TW": {
       "name": "天鈺",
-      "price": 143.0
+      "price": 141.0
     },
     "4967.TW": {
       "name": "十銓",
-      "price": 246.5
+      "price": 271.0
     },
     "4968.TW": {
       "name": "立積",
-      "price": 107.5
+      "price": 105.0
     },
     "4976.TW": {
       "name": "佳凌",
-      "price": 29.55
+      "price": 29.7
     },
     "4977.TW": {
       "name": "眾達-KY",
-      "price": 187.5
+      "price": 192.0
     },
     "4989.TW": {
       "name": "榮科",
-      "price": 75.5
+      "price": 73.9
     },
     "4994.TW": {
       "name": "傳奇",
-      "price": 95.6
+      "price": 91.5
     },
     "4999.TW": {
       "name": "鑫禾",
-      "price": 22.45
+      "price": 22.35
     },
     "5007.TW": {
       "name": "三星",
@@ -2871,63 +2871,63 @@
     },
     "5203.TW": {
       "name": "訊連",
-      "price": 64.0
+      "price": 62.9
     },
     "5215.TW": {
       "name": "科嘉-KY",
-      "price": 39.4
+      "price": 38.6
     },
     "5222.TW": {
       "name": "全訊",
-      "price": 135.5
+      "price": 133.0
     },
     "5225.TW": {
       "name": "東科-KY",
-      "price": 94.5
+      "price": 92.3
     },
     "5234.TW": {
       "name": "達興材料",
-      "price": 399.0
+      "price": 392.0
     },
     "5243.TW": {
       "name": "乙盛-KY",
-      "price": 75.8
+      "price": 72.1
     },
     "5244.TW": {
       "name": "弘凱",
-      "price": 35.75
+      "price": 38.35
     },
     "5258.TW": {
       "name": "虹堡",
-      "price": 46.15
+      "price": 44.9
     },
     "5269.TW": {
       "name": "祥碩",
-      "price": 1250.0
+      "price": 1205.0
     },
     "5283.TW": {
       "name": "禾聯碩",
-      "price": 57.2
+      "price": 56.6
     },
     "5284.TW": {
       "name": "jpp-KY",
-      "price": 275.0
+      "price": 273.0
     },
     "5285.TW": {
       "name": "界霖",
-      "price": 48.0
+      "price": 47.45
     },
     "5288.TW": {
       "name": "豐祥-KY",
-      "price": 138.5
+      "price": 137.0
     },
     "5292.TW": {
       "name": "華懋",
-      "price": 192.0
+      "price": 195.0
     },
     "5306.TW": {
       "name": "桂盟",
-      "price": 89.2
+      "price": 88.1
     },
     "5388.TW": {
       "name": "中磊",
@@ -2935,55 +2935,55 @@
     },
     "5434.TW": {
       "name": "崇越",
-      "price": 339.0
+      "price": 329.5
     },
     "5469.TW": {
       "name": "瀚宇博",
-      "price": 89.3
+      "price": 87.3
     },
     "5471.TW": {
       "name": "松翰",
-      "price": 43.55
+      "price": 41.5
     },
     "5484.TW": {
       "name": "慧友",
-      "price": 42.15
+      "price": 41.1
     },
     "5515.TW": {
       "name": "建國",
-      "price": 36.75
+      "price": 37.2
     },
     "5519.TW": {
       "name": "隆大",
-      "price": 34.05
+      "price": 33.75
     },
     "5521.TW": {
       "name": "工信",
-      "price": 14.0
+      "price": 13.75
     },
     "5522.TW": {
       "name": "遠雄",
-      "price": 70.2
+      "price": 68.8
     },
     "5525.TW": {
       "name": "順天",
-      "price": 25.75
+      "price": 25.45
     },
     "5531.TW": {
       "name": "鄉林",
-      "price": 9.02
+      "price": 9.0
     },
     "5533.TW": {
       "name": "皇鼎",
-      "price": 14.35
+      "price": 14.2
     },
     "5534.TW": {
       "name": "長虹",
-      "price": 78.0
+      "price": 76.8
     },
     "5538.TW": {
       "name": "東明-KY",
-      "price": 30.55
+      "price": 30.05
     },
     "5546.TW": {
       "name": "永固-KY",
@@ -2991,71 +2991,71 @@
     },
     "5607.TW": {
       "name": "遠雄港",
-      "price": 48.45
+      "price": 47.0
     },
     "5608.TW": {
       "name": "四維航",
-      "price": 17.1
+      "price": 17.5
     },
     "5706.TW": {
       "name": "鳳凰",
-      "price": 52.0
+      "price": 51.5
     },
     "5871.TW": {
       "name": "中租-KY",
-      "price": 107.5
+      "price": 106.0
     },
     "5876.TW": {
       "name": "上海商銀",
-      "price": 39.6
+      "price": 39.25
     },
     "5880.TW": {
       "name": "合庫金",
-      "price": 23.2
+      "price": 22.95
     },
     "5906.TW": {
       "name": "台南-KY",
-      "price": 48.0
+      "price": 46.5
     },
     "5907.TW": {
       "name": "大洋-KY",
-      "price": 5.79
+      "price": 5.84
     },
     "6005.TW": {
       "name": "群益證",
-      "price": 29.2
+      "price": 27.95
     },
     "6024.TW": {
       "name": "群益期",
-      "price": 55.1
+      "price": 55.0
     },
     "6108.TW": {
       "name": "競國",
-      "price": 17.1
+      "price": 16.85
     },
     "6112.TW": {
       "name": "邁達特",
-      "price": 48.2
+      "price": 49.25
     },
     "6115.TW": {
       "name": "鎰勝",
-      "price": 46.95
+      "price": 46.8
     },
     "6116.TW": {
       "name": "彩晶",
-      "price": 8.85
+      "price": 8.76
     },
     "6117.TW": {
       "name": "迎廣",
-      "price": 73.8
+      "price": 72.6
     },
     "6120.TW": {
       "name": "達運",
-      "price": 13.55
+      "price": 13.35
     },
     "6128.TW": {
       "name": "上福",
-      "price": 22.85
+      "price": 22.2
     },
     "6133.TW": {
       "name": "金橋",
@@ -3063,151 +3063,151 @@
     },
     "6136.TW": {
       "name": "富爾特",
-      "price": 24.25
+      "price": 24.0
     },
     "6139.TW": {
       "name": "亞翔",
-      "price": 585.0
+      "price": 587.0
     },
     "6141.TW": {
       "name": "柏承",
-      "price": 26.0
+      "price": 28.3
     },
     "6142.TW": {
       "name": "友勁",
-      "price": 10.15
+      "price": 9.99
     },
     "6152.TW": {
       "name": "百一",
-      "price": 19.0
+      "price": 20.35
     },
     "6153.TW": {
       "name": "嘉聯益",
-      "price": 17.45
+      "price": 17.1
     },
     "6155.TW": {
       "name": "鈞寶",
-      "price": 49.85
+      "price": 49.35
     },
     "6164.TW": {
       "name": "華興",
-      "price": 13.15
+      "price": 13.05
     },
     "6165.TW": {
       "name": "浪凡",
-      "price": 47.8
+      "price": 48.05
     },
     "6166.TW": {
       "name": "凌華",
-      "price": 61.2
+      "price": 60.5
     },
     "6168.TW": {
       "name": "宏齊",
-      "price": 22.35
+      "price": 23.75
     },
     "6176.TW": {
       "name": "瑞儀",
-      "price": 95.0
+      "price": 93.0
     },
     "6177.TW": {
       "name": "達麗",
-      "price": 47.35
+      "price": 47.05
     },
     "6183.TW": {
       "name": "關貿",
-      "price": 93.3
+      "price": 92.9
     },
     "6184.TW": {
       "name": "大豐電",
-      "price": 48.0
+      "price": 47.55
     },
     "6189.TW": {
       "name": "豐藝",
-      "price": 47.2
+      "price": 46.85
     },
     "6191.TW": {
       "name": "精成科",
-      "price": 100.5
+      "price": 97.6
     },
     "6192.TW": {
       "name": "巨路",
-      "price": 123.0
+      "price": 119.0
     },
     "6196.TW": {
       "name": "帆宣",
-      "price": 285.5
+      "price": 280.5
     },
     "6197.TW": {
       "name": "佳必琪",
-      "price": 195.0
+      "price": 196.0
     },
     "6201.TW": {
       "name": "亞弘電",
-      "price": 51.9
+      "price": 51.5
     },
     "6202.TW": {
       "name": "盛群",
-      "price": 57.0
+      "price": 56.3
     },
     "6205.TW": {
       "name": "詮欣",
-      "price": 56.8
+      "price": 57.4
     },
     "6206.TW": {
       "name": "飛捷",
-      "price": 106.0
+      "price": 101.5
     },
     "6209.TW": {
       "name": "今國光",
-      "price": 57.7
+      "price": 60.2
     },
     "6213.TW": {
       "name": "聯茂",
-      "price": 150.5
+      "price": 151.5
     },
     "6214.TW": {
       "name": "精誠",
-      "price": 113.5
+      "price": 112.0
     },
     "6215.TW": {
       "name": "和椿",
-      "price": 112.5
+      "price": 108.0
     },
     "6216.TW": {
       "name": "居易",
-      "price": 26.0
+      "price": 25.75
     },
     "6224.TW": {
       "name": "聚鼎",
-      "price": 41.1
+      "price": 40.5
     },
     "6225.TW": {
       "name": "天瀚",
-      "price": 22.5
+      "price": 22.05
     },
     "6226.TW": {
       "name": "光鼎",
-      "price": 13.35
+      "price": 14.65
     },
     "6230.TW": {
       "name": "尼得科超眾",
-      "price": 173.0
+      "price": 180.0
     },
     "6235.TW": {
       "name": "華孚",
-      "price": 50.7
+      "price": 49.1
     },
     "6239.TW": {
       "name": "力成",
-      "price": 211.0
+      "price": 205.5
     },
     "6243.TW": {
       "name": "迅杰",
-      "price": 31.9
+      "price": 30.9
     },
     "6257.TW": {
       "name": "矽格",
-      "price": 136.5
+      "price": 134.5
     },
     "6269.TW": {
       "name": "台郡",
@@ -3215,23 +3215,23 @@
     },
     "6271.TW": {
       "name": "同欣電",
-      "price": 161.0
+      "price": 157.0
     },
     "6277.TW": {
       "name": "宏正",
-      "price": 60.0
+      "price": 59.3
     },
     "6278.TW": {
       "name": "台表科",
-      "price": 99.6
+      "price": 99.0
     },
     "6281.TW": {
       "name": "全國電",
-      "price": 61.1
+      "price": 60.8
     },
     "6282.TW": {
       "name": "康舒",
-      "price": 52.8
+      "price": 50.0
     },
     "6283.TW": {
       "name": "淳安",
@@ -3239,159 +3239,159 @@
     },
     "6285.TW": {
       "name": "啟碁",
-      "price": 173.5
+      "price": 173.0
     },
     "6405.TW": {
       "name": "悅城",
-      "price": 31.35
+      "price": 30.5
     },
     "6409.TW": {
       "name": "旭隼",
-      "price": 784.0
+      "price": 740.0
     },
     "6412.TW": {
       "name": "群電",
-      "price": 80.0
+      "price": 78.8
     },
     "6414.TW": {
       "name": "樺漢",
-      "price": 279.0
+      "price": 271.5
     },
     "6415.TW": {
       "name": "矽力*-KY",
-      "price": 289.5
+      "price": 280.5
     },
     "6416.TW": {
       "name": "瑞祺電通",
-      "price": 82.4
+      "price": 82.1
     },
     "6426.TW": {
       "name": "統新",
-      "price": 158.5
+      "price": 174.0
     },
     "6431.TW": {
       "name": "光麗-KY",
-      "price": 22.45
+      "price": 21.6
     },
     "6438.TW": {
       "name": "迅得",
-      "price": 156.0
+      "price": 157.5
     },
     "6442.TW": {
       "name": "光聖",
-      "price": 1850.0
+      "price": 1930.0
     },
     "6443.TW": {
       "name": "元晶",
-      "price": 51.0
+      "price": 49.4
     },
     "6446.TW": {
       "name": "藥華藥",
-      "price": 673.0
+      "price": 646.0
     },
     "6449.TW": {
       "name": "鈺邦",
-      "price": 166.5
+      "price": 162.0
     },
     "6451.TW": {
       "name": "訊芯-KY",
-      "price": 279.0
+      "price": 272.0
     },
     "6456.TW": {
       "name": "GIS-KY",
-      "price": 63.2
+      "price": 64.7
     },
     "6464.TW": {
       "name": "台數科",
-      "price": 77.1
+      "price": 76.4
     },
     "6472.TW": {
       "name": "保瑞",
-      "price": 516.0
+      "price": 483.0
     },
     "6477.TW": {
       "name": "安集",
-      "price": 38.1
+      "price": 37.6
     },
     "6491.TW": {
       "name": "晶碩",
-      "price": 280.5
+      "price": 274.5
     },
     "6504.TW": {
       "name": "南六",
-      "price": 39.25
+      "price": 39.1
     },
     "6505.TW": {
       "name": "台塑化",
-      "price": 57.0
+      "price": 57.4
     },
     "6515.TW": {
       "name": "穎崴",
-      "price": 7220.0
+      "price": 7210.0
     },
     "6525.TW": {
       "name": "捷敏-KY",
-      "price": 83.9
+      "price": 85.0
     },
     "6526.TW": {
       "name": "達發",
-      "price": 516.0
+      "price": 502.0
     },
     "6531.TW": {
       "name": "愛普*",
-      "price": 572.0
+      "price": 551.0
     },
     "6533.TW": {
       "name": "晶心科",
-      "price": 187.0
+      "price": 174.0
     },
     "6541.TW": {
       "name": "泰福-KY",
-      "price": 43.35
+      "price": 41.25
     },
     "6550.TW": {
       "name": "北極星藥業-KY",
-      "price": 22.5
+      "price": 21.0
     },
     "6552.TW": {
       "name": "易華電",
-      "price": 28.0
+      "price": 27.5
     },
     "6558.TW": {
       "name": "興能高",
-      "price": 29.8
+      "price": 29.4
     },
     "6573.TW": {
       "name": "虹揚-KY",
-      "price": 14.0
+      "price": 13.75
     },
     "6579.TW": {
       "name": "研揚",
-      "price": 116.5
+      "price": 115.0
     },
     "6581.TW": {
       "name": "鋼聯",
-      "price": 113.0
+      "price": 111.0
     },
     "6582.TW": {
       "name": "申豐",
-      "price": 31.6
+      "price": 32.6
     },
     "6585.TW": {
       "name": "鼎基",
-      "price": 85.0
+      "price": 83.1
     },
     "6591.TW": {
       "name": "動力-KY",
-      "price": 63.5
+      "price": 63.0
     },
     "6592.TW": {
       "name": "和潤企業",
-      "price": 64.9
+      "price": 63.9
     },
     "6598.TW": {
       "name": "ABC-KY",
-      "price": 24.8
+      "price": 25.0
     },
     "6605.TW": {
       "name": "帝寶",
@@ -3399,15 +3399,15 @@
     },
     "6606.TW": {
       "name": "建德工業",
-      "price": 24.65
+      "price": 24.4
     },
     "6625.TW": {
       "name": "必應",
-      "price": 78.6
+      "price": 78.0
     },
     "6641.TW": {
       "name": "基士德-KY",
-      "price": 19.3
+      "price": 19.0
     },
     "6655.TW": {
       "name": "科定",
@@ -3415,183 +3415,183 @@
     },
     "6657.TW": {
       "name": "華安",
-      "price": 47.65
+      "price": 45.7
     },
     "6658.TW": {
       "name": "聯策",
-      "price": 68.2
+      "price": 66.8
     },
     "6666.TW": {
       "name": "羅麗芬-KY",
-      "price": 40.8
+      "price": 41.2
     },
     "6668.TW": {
       "name": "中揚光",
-      "price": 34.7
+      "price": 34.05
     },
     "6669.TW": {
       "name": "緯穎",
-      "price": 3825.0
+      "price": 3765.0
     },
     "6670.TW": {
       "name": "復盛應用",
-      "price": 279.0
+      "price": 271.5
     },
     "6671.TW": {
       "name": "三能-KY",
-      "price": 30.4
+      "price": 30.95
     },
     "6672.TW": {
       "name": "騰輝電子-KY",
-      "price": 102.0
+      "price": 112.0
     },
     "6674.TW": {
       "name": "鋐寶科技",
-      "price": 19.4
+      "price": 19.05
     },
     "6689.TW": {
       "name": "伊雲谷",
-      "price": 78.7
+      "price": 82.6
     },
     "6691.TW": {
       "name": "洋基工程",
-      "price": 618.0
+      "price": 615.0
     },
     "6695.TW": {
       "name": "芯鼎",
-      "price": 42.4
+      "price": 41.1
     },
     "6698.TW": {
       "name": "旭暉應材",
-      "price": 33.3
+      "price": 33.2
     },
     "6706.TW": {
       "name": "惠特",
-      "price": 125.0
+      "price": 121.5
     },
     "6715.TW": {
       "name": "嘉基",
-      "price": 330.0
+      "price": 357.0
     },
     "6719.TW": {
       "name": "力智",
-      "price": 174.0
+      "price": 168.5
     },
     "6742.TW": {
       "name": "澤米",
-      "price": 42.5
+      "price": 41.6
     },
     "6743.TW": {
       "name": "安普新",
-      "price": 25.0
+      "price": 25.6
     },
     "6753.TW": {
       "name": "龍德造船",
-      "price": 134.0
+      "price": 131.0
     },
     "6754.TW": {
       "name": "匯僑設計",
-      "price": 46.3
+      "price": 45.55
     },
     "6756.TW": {
       "name": "威鋒電子",
-      "price": 78.3
+      "price": 75.2
     },
     "6768.TW": {
       "name": "志強-KY",
-      "price": 101.0
+      "price": 93.7
     },
     "6770.TW": {
       "name": "力積電",
-      "price": 71.9
+      "price": 75.0
     },
     "6776.TW": {
       "name": "展碁國際",
-      "price": 69.8
+      "price": 73.5
     },
     "6781.TW": {
       "name": "AES-KY",
-      "price": 1025.0
+      "price": 1000.0
     },
     "6782.TW": {
       "name": "視陽",
-      "price": 211.5
+      "price": 207.5
     },
     "6789.TW": {
       "name": "采鈺",
-      "price": 359.0
+      "price": 344.0
     },
     "6790.TW": {
       "name": "永豐實",
-      "price": 39.9
+      "price": 39.55
     },
     "6792.TW": {
       "name": "詠業",
-      "price": 57.0
+      "price": 55.8
     },
     "6796.TW": {
       "name": "晉弘",
-      "price": 75.4
+      "price": 73.8
     },
     "6799.TW": {
       "name": "來頡",
-      "price": 82.5
+      "price": 80.8
     },
     "6805.TW": {
       "name": "富世達",
-      "price": 1840.0
+      "price": 1975.0
     },
     "6806.TW": {
       "name": "森崴能源",
-      "price": 41.4
+      "price": 41.05
     },
     "6807.TW": {
       "name": "峰源-KY",
-      "price": 43.6
+      "price": 43.3
     },
     "6830.TW": {
       "name": "汎銓",
-      "price": 384.5
+      "price": 419.0
     },
     "6834.TW": {
       "name": "天二科技",
-      "price": 31.85
+      "price": 31.5
     },
     "6835.TW": {
       "name": "圓裕",
-      "price": 38.55
+      "price": 38.05
     },
     "6861.TW": {
       "name": "睿生光電",
-      "price": 161.5
+      "price": 162.5
     },
     "6863.TW": {
       "name": "永道-KY",
-      "price": 93.3
+      "price": 89.8
     },
     "6901.TW": {
       "name": "鑽石投資",
-      "price": 14.55
+      "price": 14.2
     },
     "6906.TW": {
       "name": "現觀科",
-      "price": 70.4
+      "price": 69.3
     },
     "6914.TW": {
       "name": "阜爾運通",
-      "price": 149.0
+      "price": 150.0
     },
     "6916.TW": {
       "name": "華凌",
-      "price": 18.0
+      "price": 17.8
     },
     "6928.TW": {
       "name": "攸泰科技",
-      "price": 48.85
+      "price": 47.05
     },
     "6933.TW": {
       "name": "AMAX-KY",
-      "price": 132.0
+      "price": 128.0
     },
     "6937.TW": {
       "name": "天虹",
@@ -3599,55 +3599,55 @@
     },
     "8011.TW": {
       "name": "台通",
-      "price": 20.6
+      "price": 20.4
     },
     "8016.TW": {
       "name": "矽創",
-      "price": 201.5
+      "price": 199.0
     },
     "8021.TW": {
       "name": "尖點",
-      "price": 260.5
+      "price": 260.0
     },
     "8028.TW": {
       "name": "昇陽半導體",
-      "price": 197.0
+      "price": 188.0
     },
     "8033.TW": {
       "name": "雷虎",
-      "price": 146.5
+      "price": 151.0
     },
     "8039.TW": {
       "name": "台虹",
-      "price": 119.5
+      "price": 117.5
     },
     "8046.TW": {
       "name": "南電",
-      "price": 567.0
+      "price": 561.0
     },
     "8070.TW": {
       "name": "長華*",
-      "price": 44.0
+      "price": 43.65
     },
     "8072.TW": {
       "name": "陞泰",
-      "price": 28.4
+      "price": 28.0
     },
     "8081.TW": {
       "name": "致新",
-      "price": 242.5
+      "price": 238.0
     },
     "8101.TW": {
       "name": "華冠",
-      "price": 14.65
+      "price": 14.25
     },
     "8103.TW": {
       "name": "瀚荃",
-      "price": 88.0
+      "price": 85.0
     },
     "8104.TW": {
       "name": "錸寶",
-      "price": 34.25
+      "price": 34.35
     },
     "8105.TW": {
       "name": "凌巨",
@@ -3655,63 +3655,63 @@
     },
     "8110.TW": {
       "name": "華東",
-      "price": 61.2
+      "price": 59.2
     },
     "8112.TW": {
       "name": "至上",
-      "price": 94.6
+      "price": 91.7
     },
     "8114.TW": {
       "name": "振樺電",
-      "price": 185.5
+      "price": 180.5
     },
     "8131.TW": {
       "name": "福懋科",
-      "price": 68.0
+      "price": 67.1
     },
     "8150.TW": {
       "name": "南茂",
-      "price": 64.6
+      "price": 63.4
     },
     "8163.TW": {
       "name": "達方",
-      "price": 28.75
+      "price": 28.25
     },
     "8201.TW": {
       "name": "無敵",
-      "price": 13.65
+      "price": 13.3
     },
     "8210.TW": {
       "name": "勤誠",
-      "price": 890.0
+      "price": 892.0
     },
     "8213.TW": {
       "name": "志超",
-      "price": 33.95
+      "price": 33.8
     },
     "8215.TW": {
       "name": "明基材",
-      "price": 23.95
+      "price": 24.45
     },
     "8222.TW": {
       "name": "寶一",
-      "price": 38.8
+      "price": 37.85
     },
     "8249.TW": {
       "name": "菱光",
-      "price": 52.3
+      "price": 51.1
     },
     "8261.TW": {
       "name": "富鼎",
-      "price": 114.0
+      "price": 112.5
     },
     "8271.TW": {
       "name": "宇瞻",
-      "price": 204.5
+      "price": 208.5
     },
     "8341.TW": {
       "name": "日友",
-      "price": 77.8
+      "price": 76.4
     },
     "8367.TW": {
       "name": "建新國際",
@@ -3719,135 +3719,135 @@
     },
     "8374.TW": {
       "name": "羅昇",
-      "price": 74.3
+      "price": 72.6
     },
     "8404.TW": {
       "name": "百和興業-KY",
-      "price": 19.8
+      "price": 19.45
     },
     "8411.TW": {
       "name": "福貞-KY",
-      "price": 12.4
+      "price": 12.45
     },
     "8422.TW": {
       "name": "可寧衛",
-      "price": 30.25
+      "price": 29.95
     },
     "8429.TW": {
       "name": "金麗-KY",
-      "price": 7.07
+      "price": 7.05
     },
     "8438.TW": {
       "name": "昶昕",
-      "price": 62.0
+      "price": 59.1
     },
     "8442.TW": {
       "name": "威宏-KY",
-      "price": 56.0
+      "price": 55.6
     },
     "8443.TW": {
       "name": "阿瘦",
-      "price": 11.85
+      "price": 11.8
     },
     "8454.TW": {
       "name": "富邦媒",
-      "price": 180.5
+      "price": 177.0
     },
     "8462.TW": {
       "name": "柏文",
-      "price": 147.5
+      "price": 143.0
     },
     "8463.TW": {
       "name": "潤泰材",
-      "price": 24.85
+      "price": 23.95
     },
     "8464.TW": {
       "name": "億豐",
-      "price": 396.0
+      "price": 383.5
     },
     "8466.TW": {
       "name": "美吉吉-KY",
-      "price": 19.45
+      "price": 19.15
     },
     "8467.TW": {
       "name": "波力-KY",
-      "price": 156.0
+      "price": 154.5
     },
     "8473.TW": {
       "name": "山林水",
-      "price": 39.35
+      "price": 39.4
     },
     "8476.TW": {
       "name": "台境",
-      "price": 19.35
+      "price": 19.4
     },
     "8478.TW": {
       "name": "東哥遊艇",
-      "price": 164.0
+      "price": 161.5
     },
     "8481.TW": {
       "name": "政伸",
-      "price": 42.0
+      "price": 41.8
     },
     "8482.TW": {
       "name": "商億-KY",
-      "price": 48.15
+      "price": 47.9
     },
     "8488.TW": {
       "name": "吉源-KY",
-      "price": 9.83
+      "price": 9.76
     },
     "8499.TW": {
       "name": "鼎炫-KY",
-      "price": 277.5
+      "price": 264.0
     },
     "8926.TW": {
       "name": "台汽電",
-      "price": 46.95
+      "price": 47.15
     },
     "8940.TW": {
       "name": "新天地",
-      "price": 19.3
+      "price": 18.9
     },
     "8996.TW": {
       "name": "高力",
-      "price": 952.0
+      "price": 951.0
     },
     "9802.TW": {
       "name": "鈺齊-KY",
-      "price": 85.3
+      "price": 80.7
     },
     "9902.TW": {
       "name": "台火",
-      "price": 14.8
+      "price": 14.65
     },
     "9904.TW": {
       "name": "寶成",
-      "price": 29.05
+      "price": 28.6
     },
     "9905.TW": {
       "name": "大華",
-      "price": 21.35
+      "price": 21.0
     },
     "9906.TW": {
       "name": "欣巴巴",
-      "price": 41.7
+      "price": 40.7
     },
     "9907.TW": {
       "name": "統一實",
-      "price": 18.3
+      "price": 18.0
     },
     "9908.TW": {
       "name": "大台北",
-      "price": 30.0
+      "price": 30.4
     },
     "9910.TW": {
       "name": "豐泰",
-      "price": 83.9
+      "price": 79.9
     },
     "9911.TW": {
       "name": "櫻花",
-      "price": 91.0
+      "price": 90.3
     },
     "9912.TW": {
       "name": "偉聯",
@@ -3855,115 +3855,115 @@
     },
     "9914.TW": {
       "name": "美利達",
-      "price": 68.2
+      "price": 67.1
     },
     "9917.TW": {
       "name": "中保科",
-      "price": 114.5
+      "price": 113.0
     },
     "9918.TW": {
       "name": "欣天然",
-      "price": 44.35
+      "price": 48.75
     },
     "9919.TW": {
       "name": "康那香",
-      "price": 15.6
+      "price": 15.45
     },
     "9921.TW": {
       "name": "巨大",
-      "price": 71.9
+      "price": 70.1
     },
     "9924.TW": {
       "name": "福興",
-      "price": 45.8
+      "price": 45.3
     },
     "9925.TW": {
       "name": "新保",
-      "price": 40.8
+      "price": 40.65
     },
     "9926.TW": {
       "name": "新海",
-      "price": 50.1
+      "price": 50.6
     },
     "9927.TW": {
       "name": "泰銘",
-      "price": 68.6
+      "price": 68.0
     },
     "9928.TW": {
       "name": "中視",
-      "price": 17.95
+      "price": 17.85
     },
     "9929.TW": {
       "name": "秋雨",
-      "price": 12.45
+      "price": 13.65
     },
     "9930.TW": {
       "name": "中聯資源",
-      "price": 70.6
+      "price": 70.1
     },
     "9931.TW": {
       "name": "欣高",
-      "price": 38.0
+      "price": 41.8
     },
     "9933.TW": {
       "name": "中鼎",
-      "price": 34.1
+      "price": 34.9
     },
     "9934.TW": {
       "name": "成霖",
-      "price": 9.7
+      "price": 9.56
     },
     "9935.TW": {
       "name": "慶豐富",
-      "price": 20.0
+      "price": 19.8
     },
     "9937.TW": {
       "name": "全國",
-      "price": 56.7
+      "price": 56.8
     },
     "9938.TW": {
       "name": "百和",
-      "price": 48.95
+      "price": 48.25
     },
     "9939.TW": {
       "name": "宏全",
-      "price": 121.5
+      "price": 118.5
     },
     "9940.TW": {
       "name": "信義",
-      "price": 20.35
+      "price": 20.05
     },
     "9941.TW": {
       "name": "裕融",
-      "price": 78.0
+      "price": 76.2
     },
     "9942.TW": {
       "name": "茂順",
-      "price": 116.5
+      "price": 115.5
     },
     "9943.TW": {
       "name": "好樂迪",
-      "price": 58.6
+      "price": 58.5
     },
     "9944.TW": {
       "name": "新麗",
-      "price": 16.3
+      "price": 16.25
     },
     "9945.TW": {
       "name": "潤泰新",
-      "price": 26.7
+      "price": 26.3
     },
     "9946.TW": {
       "name": "三發地產",
-      "price": 18.25
+      "price": 18.2
     },
     "9955.TW": {
       "name": "佳龍",
-      "price": 35.0
+      "price": 34.1
     },
     "9958.TW": {
       "name": "世紀鋼",
-      "price": 128.5
+      "price": 126.0
     }
   }
 }
