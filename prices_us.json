@@ -4205,6 +4205,14 @@
       "name": "FIS Trust FIS Bright Portfolios Focused Equity ETF",
       "price": 30.29
     },
+    "BRK-B": {
+      "name": "Berkshire Hathaway Inc.",
+      "price": 477.35
+    },
+    "BRK-A": {
+      "name": "Berkshire Hathaway Inc.",
+      "price": 716300.0
+    },
     "BRKC": {
       "name": "Tidal Trust II YieldMax BRK.B Option Income Strategy ETF",
       "price": 41.503
