@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T17:25:55.021297+08:00",
+  "updated_at": "2026-05-01T17:15:20.258868+08:00",
   "prices": {
     "0001.HK": {
       "name": "CKH HOLDINGS",
@@ -243,7 +243,7 @@
     },
     "0073.HK": {
       "name": "ASIAN CITRUS",
-      "price": 1.87
+      "price": 1.88
     },
     "0075.HK": {
       "name": "Y.T. REALTY",
@@ -391,7 +391,7 @@
     },
     "0115.HK": {
       "name": "GRAND FIELD GP",
-      "price": 8.36
+      "price": 8.34
     },
     "0116.HK": {
       "name": "CHOW SANG SANG",
@@ -431,7 +431,7 @@
     },
     "0126.HK": {
       "name": "CARRIANNA",
-      "price": 0.117
+      "price": 0.119
     },
     "0127.HK": {
       "name": "CHINESE EST H",
@@ -543,7 +543,7 @@
     },
     "0160.HK": {
       "name": "HON KWOK LAND",
-      "price": 0.95
+      "price": 0.96
     },
     "0162.HK": {
       "name": "CENTURY GINWA",
@@ -587,7 +587,7 @@
     },
     "0174.HK": {
       "name": "GEMINI INV",
-      "price": 0.215
+      "price": 0.214
     },
     "0175.HK": {
       "name": "GEELY AUTO",
@@ -763,7 +763,7 @@
     },
     "0225.HK": {
       "name": "POKFULAM",
-      "price": 5.24
+      "price": 5.25
     },
     "0227.HK": {
       "name": "FIRST SHANGHAI",
@@ -907,7 +907,7 @@
     },
     "0271.HK": {
       "name": "ASIASEC PPT",
-      "price": 0.179
+      "price": 0.176
     },
     "0272.HK": {
       "name": "SHUI ON LAND",
@@ -1115,7 +1115,7 @@
     },
     "0335.HK": {
       "name": "UPBEST GROUP",
-      "price": 0.63
+      "price": 0.64
     },
     "0336.HK": {
       "name": "HUABAO INTL",
@@ -1159,7 +1159,7 @@
     },
     "0348.HK": {
       "name": "CHINAHEALTHWISE",
-      "price": 0.069
+      "price": 0.073
     },
     "0351.HK": {
       "name": "ASIA ENERGY LOG",
@@ -1259,7 +1259,7 @@
     },
     "0377.HK": {
       "name": "CHINA HUAJUN GP",
-      "price": 1.15
+      "price": 1.09
     },
     "0379.HK": {
       "name": "EG LEASING",
@@ -1415,7 +1415,7 @@
     },
     "0430.HK": {
       "name": "ORIENTAL EXPL",
-      "price": 0.385
+      "price": 0.39
     },
     "0431.HK": {
       "name": "G CHINA FIN",
@@ -1699,7 +1699,7 @@
     },
     "0540.HK": {
       "name": "SPEEDY GLOBAL",
-      "price": 0.212
+      "price": 0.209
     },
     "0542.HK": {
       "name": "CN CULTURAL T&A",
@@ -1879,7 +1879,7 @@
     },
     "0601.HK": {
       "name": "REMT",
-      "price": 0.072
+      "price": 0.064
     },
     "0602.HK": {
       "name": "JIAHUA STORES H",
@@ -2099,7 +2099,7 @@
     },
     "0674.HK": {
       "name": "CHINA TANGSHANG",
-      "price": 0.072
+      "price": 0.071
     },
     "0675.HK": {
       "name": "K & P INT'L",
@@ -2319,7 +2319,7 @@
     },
     "0743.HK": {
       "name": "ASIA CEMENT CH",
-      "price": 2.11
+      "price": 2.07
     },
     "0745.HK": {
       "name": "CN CULTURE GP",
@@ -2403,7 +2403,7 @@
     },
     "0770.HK": {
       "name": "SHANGHAI GROWTH",
-      "price": 0.178
+      "price": 0.177
     },
     "0771.HK": {
       "name": "AUTOMATED SYS",
@@ -2503,7 +2503,7 @@
     },
     "0814.HK": {
       "name": "JINGKELONG",
-      "price": 0.295
+      "price": 0.305
     },
     "0815.HK": {
       "name": "CHI SILVER GP",
@@ -2555,7 +2555,7 @@
     },
     "0829.HK": {
       "name": "SHENGUAN HLDGS",
-      "price": 0.192
+      "price": 0.191
     },
     "0830.HK": {
       "name": "CSC DEVELOPMENT",
@@ -2575,7 +2575,7 @@
     },
     "0834.HK": {
       "name": "KANGDA FOOD",
-      "price": 0.325
+      "price": 0.315
     },
     "0836.HK": {
       "name": "CHINA RES POWER",
@@ -3831,11 +3831,11 @@
     },
     "1262.HK": {
       "name": "LABIXIAOXIN",
-      "price": 3.69
+      "price": 3.68
     },
     "1265.HK": {
       "name": "TIANJINJINRAN",
-      "price": 0.183
+      "price": 0.182
     },
     "1268.HK": {
       "name": "MEIDONG AUTO",
@@ -4123,11 +4123,11 @@
     },
     "1370.HK": {
       "name": "AOWEI HOLDING",
-      "price": 0.26
+      "price": 0.25
     },
     "1371.HK": {
       "name": "CHINA ECOTOUR",
-      "price": 0.182
+      "price": 0.18
     },
     "1372.HK": {
       "name": "C CARBONNEUTRAL",
@@ -4263,7 +4263,7 @@
     },
     "1420.HK": {
       "name": "CHUAN HOLDING",
-      "price": 0.237
+      "price": 0.235
     },
     "1421.HK": {
       "name": "PROSP GP INTL",
@@ -4415,7 +4415,7 @@
     },
     "1481.HK": {
       "name": "SMART GLOBE",
-      "price": 2.55
+      "price": 2.48
     },
     "1483.HK": {
       "name": "NET-A-GO TECH",
@@ -4487,7 +4487,7 @@
     },
     "1518.HK": {
       "name": "NC HEALTHCARE",
-      "price": 0.57
+      "price": 0.56
     },
     "1519.HK": {
       "name": "J&T EXPRESS-W",
@@ -4687,7 +4687,7 @@
     },
     "1583.HK": {
       "name": "QINQIN FOODS",
-      "price": 1.08
+      "price": 1.09
     },
     "1585.HK": {
       "name": "YADEA",
@@ -5023,7 +5023,7 @@
     },
     "1703.HK": {
       "name": "WELIFE TECH",
-      "price": 0.6
+      "price": 0.56
     },
     "1705.HK": {
       "name": "B & S INTL HLDG",
@@ -5167,7 +5167,7 @@
     },
     "1747.HK": {
       "name": "HOME CONTROL",
-      "price": 4.72
+      "price": 4.64
     },
     "1748.HK": {
       "name": "XIN YUAN ENT",
@@ -5407,7 +5407,7 @@
     },
     "1825.HK": {
       "name": "STERLING GP",
-      "price": 0.71
+      "price": 1.0
     },
     "1826.HK": {
       "name": "FDB HOLDINGS",
@@ -5455,7 +5455,7 @@
     },
     "1842.HK": {
       "name": "GROWN UP GROUP",
-      "price": 0.046
+      "price": 0.045
     },
     "1843.HK": {
       "name": "SNACK EMPIRE",
@@ -5927,7 +5927,7 @@
     },
     "1987.HK": {
       "name": "BENG SOON MACH",
-      "price": 0.205
+      "price": 0.206
     },
     "1988.HK": {
       "name": "MINSHENG BANK",
@@ -5939,7 +5939,7 @@
     },
     "1993.HK": {
       "name": "ASIARAY",
-      "price": 0.57
+      "price": 0.56
     },
     "1995.HK": {
       "name": "ES SERVICES",
@@ -6127,7 +6127,7 @@
     },
     "2102.HK": {
       "name": "TAK LEE MACH",
-      "price": 0.275
+      "price": 0.28
     },
     "2105.HK": {
       "name": "LAEKNA-B",
@@ -6239,7 +6239,7 @@
     },
     "2146.HK": {
       "name": "ROISERV",
-      "price": 1.15
+      "price": 1.11
     },
     "2147.HK": {
       "name": "ZHENGWEI GROUP",
@@ -6359,7 +6359,7 @@
     },
     "2182.HK": {
       "name": "TIAN CHANG GP",
-      "price": 0.32
+      "price": 0.325
     },
     "2185.HK": {
       "name": "BIOHEART-B",
@@ -6399,7 +6399,7 @@
     },
     "2195.HK": {
       "name": "UNITY ENT",
-      "price": 0.375
+      "price": 0.37
     },
     "2196.HK": {
       "name": "FOSUN PHARMA",
@@ -6671,7 +6671,7 @@
     },
     "2299.HK": {
       "name": "BILLION IND",
-      "price": 4.9
+      "price": 5.05
     },
     "2302.HK": {
       "name": "CNNC INT'L",
@@ -6823,7 +6823,7 @@
     },
     "2355.HK": {
       "name": "BAOYE GROUP",
-      "price": 4.0
+      "price": 3.99
     },
     "2356.HK": {
       "name": "DAHSING BANKING",
@@ -7011,7 +7011,7 @@
     },
     "2422.HK": {
       "name": "REGO INTERACT",
-      "price": 1.58
+      "price": 1.57
     },
     "2423.HK": {
       "name": "BEKE-W",
@@ -7111,7 +7111,7 @@
     },
     "2477.HK": {
       "name": "WELLCELL HOLD",
-      "price": 2.91
+      "price": 3.13
     },
     "2479.HK": {
       "name": "TIANJUDIHE",
@@ -7131,7 +7131,7 @@
     },
     "2483.HK": {
       "name": "K CASH",
-      "price": 1.88
+      "price": 1.86
     },
     "2486.HK": {
       "name": "PLUS GP HOLDING",
@@ -7875,7 +7875,7 @@
     },
     "2821.HK": {
       "name": "ABF PAIF",
-      "price": 112.65
+      "price": 112.35
     },
     "2822.HK": {
       "name": "CSOP A50 ETF",
@@ -7891,7 +7891,7 @@
     },
     "2825.HK": {
       "name": "WISECSIHK100ETF",
-      "price": 29.96
+      "price": 29.7
     },
     "2826.HK": {
       "name": "GX CN CLOUD",
@@ -7947,7 +7947,7 @@
     },
     "2841.HK": {
       "name": "GX CN MEDTECH",
-      "price": 42.26
+      "price": 42.08
     },
     "2843.HK": {
       "name": "AMUNDI A50",
@@ -8091,11 +8091,11 @@
     },
     "3024.HK": {
       "name": "WISE SSE50ETF",
-      "price": 30.94
+      "price": 31.12
     },
     "3029.HK": {
       "name": "GX HS ESG",
-      "price": 5.025
+      "price": 4.966
     },
     "3032.HK": {
       "name": "HSTECH ETF",
@@ -8123,11 +8123,11 @@
     },
     "3039.HK": {
       "name": "EFUNDHSIESG",
-      "price": 3.76
+      "price": 3.718
     },
     "3040.HK": {
       "name": "GX MSCI CHINA",
-      "price": 35.72
+      "price": 35.28
     },
     "3041.HK": {
       "name": "GX CN PB BOND",
@@ -8163,7 +8163,7 @@
     },
     "3064.HK": {
       "name": "GX APAC",
-      "price": 75.82
+      "price": 74.9
     },
     "3066.HK": {
       "name": "FA CSOP BTC",
@@ -8203,7 +8203,7 @@
     },
     "3077.HK": {
       "name": "PREMIA UST",
-      "price": 3961.55
+      "price": 3961.8
     },
     "3081.HK": {
       "name": "VALUEGOLD ETF",
@@ -8211,7 +8211,7 @@
     },
     "3084.HK": {
       "name": "A GX INDIA",
-      "price": 49.64
+      "price": 48.94
     },
     "3085.HK": {
       "name": "PANDO ETH",
@@ -8243,7 +8243,7 @@
     },
     "3102.HK": {
       "name": "ICBCU KS KWEB",
-      "price": 31.82
+      "price": 31.66
     },
     "3104.HK": {
       "name": "A GX EM ASIA",
@@ -8295,7 +8295,7 @@
     },
     "3129.HK": {
       "name": "BOCGBACLIMATE",
-      "price": 11.7
+      "price": 11.64
     },
     "3130.HK": {
       "name": "HS CSI300",
@@ -8327,7 +8327,7 @@
     },
     "3139.HK": {
       "name": "A GX EV ROBOT",
-      "price": 96.32
+      "price": 96.64
     },
     "3141.HK": {
       "name": "CAM ASIA IGB",
@@ -8375,7 +8375,7 @@
     },
     "3161.HK": {
       "name": "A CAM RMB MM",
-      "price": 1216.8
+      "price": 1215.5
     },
     "3165.HK": {
       "name": "CAM EU QLTY HDG",
@@ -8383,7 +8383,7 @@
     },
     "3167.HK": {
       "name": "ICBCCSOPCHINA",
-      "price": 64.26
+      "price": 63.86
     },
     "3169.HK": {
       "name": "HGI G2 TECH 50",
@@ -8395,7 +8395,7 @@
     },
     "3171.HK": {
       "name": "A SS BLOCKCHAIN",
-      "price": 43.96
+      "price": 43.28
     },
     "3173.HK": {
       "name": "PP CN NEWECON",
@@ -8423,15 +8423,15 @@
     },
     "3182.HK": {
       "name": "WISE NEWECONESG",
-      "price": 12.53
+      "price": 12.37
     },
     "3184.HK": {
       "name": "GX INDIA TOP 10",
-      "price": 46.06
+      "price": 45.88
     },
     "3185.HK": {
       "name": "GX FINTECH",
-      "price": 37.32
+      "price": 36.46
     },
     "3187.HK": {
       "name": "SAMSUNG REITS",
@@ -8467,7 +8467,7 @@
     },
     "3196.HK": {
       "name": "A BOS USD MM",
-      "price": 8943.0
+      "price": 8943.0996
     },
     "3199.HK": {
       "name": "ICBCCSOP CGPB",
@@ -8543,7 +8543,7 @@
     },
     "3321.HK": {
       "name": "WAI HUNG GROUP",
-      "price": 0.45
+      "price": 0.53
     },
     "3322.HK": {
       "name": "WIN HANVERKY",
@@ -8683,7 +8683,7 @@
     },
     "3411.HK": {
       "name": "PP ASIA IGUSD",
-      "price": 78.78
+      "price": 78.68
     },
     "3412.HK": {
       "name": "A DOO PAYMENTS",
@@ -8743,7 +8743,7 @@
     },
     "3432.HK": {
       "name": "CSOP HKCNCON",
-      "price": 105.0
+      "price": 103.95
     },
     "3433.HK": {
       "name": "CSOP UST20",
@@ -8851,7 +8851,7 @@
     },
     "3477.HK": {
       "name": "PA EW SELECT",
-      "price": 17.47
+      "price": 17.43
     },
     "3478.HK": {
       "name": "PPKSA G SUKUK",
@@ -9003,7 +9003,7 @@
     },
     "3699.HK": {
       "name": "EB GRAND CHINA",
-      "price": 0.43
+      "price": 0.425
     },
     "3700.HK": {
       "name": "INKEVERSE",
@@ -9135,7 +9135,7 @@
     },
     "3869.HK": {
       "name": "HOSPITAL CORP",
-      "price": 3.5
+      "price": 3.46
     },
     "3877.HK": {
       "name": "CSSC SHIPPING",
@@ -9643,7 +9643,7 @@
     },
     "6667.HK": {
       "name": "MEGA GENOMICS",
-      "price": 7.23
+      "price": 7.22
     },
     "6668.HK": {
       "name": "E-STAR CM",
@@ -9731,7 +9731,7 @@
     },
     "6816.HK": {
       "name": "PROSPER CONS",
-      "price": 0.191
+      "price": 0.192
     },
     "6818.HK": {
       "name": "CEB BANK",
@@ -9747,7 +9747,7 @@
     },
     "6822.HK": {
       "name": "KING'S FLAIR",
-      "price": 0.4
+      "price": 0.39
     },
     "6823.HK": {
       "name": "HKT-SS",
@@ -10167,7 +10167,7 @@
     },
     "8026.HK": {
       "name": "CB GLOBAL",
-      "price": 0.38
+      "price": 0.365
     },
     "8027.HK": {
       "name": "KPM HOLDING",
@@ -10323,7 +10323,7 @@
     },
     "8083.HK": {
       "name": "YOUZAN",
-      "price": 0.129
+      "price": 0.128
     },
     "8087.HK": {
       "name": "CHINA 33MEDIA",
@@ -10335,7 +10335,7 @@
     },
     "8092.HK": {
       "name": "ITE HOLDINGS",
-      "price": 0.033
+      "price": 0.034
     },
     "8093.HK": {
       "name": "WEB3 META",
@@ -10383,7 +10383,7 @@
     },
     "8115.HK": {
       "name": "SHANGHAI QINGPU",
-      "price": 11.98
+      "price": 11.9
     },
     "8117.HK": {
       "name": "CHI P ENERGY",
@@ -10403,7 +10403,7 @@
     },
     "8123.HK": {
       "name": "SINOFORTUNE FIN",
-      "price": 0.265
+      "price": 0.26
     },
     "8125.HK": {
       "name": "CHINA NEW HLDGS",
@@ -10491,7 +10491,7 @@
     },
     "8160.HK": {
       "name": "GOLDWAY EDU",
-      "price": 0.5
+      "price": 0.49
     },
     "8161.HK": {
       "name": "MEDINET GROUP",
@@ -10583,7 +10583,7 @@
     },
     "8203.HK": {
       "name": "KAISUN HOLDINGS",
-      "price": 0.18
+      "price": 0.175
     },
     "8205.HK": {
       "name": "JIAODA WITHUB",
@@ -10627,7 +10627,7 @@
     },
     "8222.HK": {
       "name": "E LIGHTING",
-      "price": 0.037
+      "price": 0.036
     },
     "8223.HK": {
       "name": "ZYY",
@@ -10647,7 +10647,7 @@
     },
     "8229.HK": {
       "name": "FUTURE DATA",
-      "price": 0.63
+      "price": 0.62
     },
     "8232.HK": {
       "name": "THAC GROUP",
@@ -11007,7 +11007,7 @@
     },
     "8419.HK": {
       "name": "AV PROMOTIONS",
-      "price": 0.074
+      "price": 0.079
     },
     "8420.HK": {
       "name": "NEXION TECH",
@@ -11043,7 +11043,7 @@
     },
     "8430.HK": {
       "name": "C&N HOLDINGS",
-      "price": 0.073
+      "price": 0.075
     },
     "8431.HK": {
       "name": "HAO BAI INTL",
@@ -11355,7 +11355,7 @@
     },
     "8668.HK": {
       "name": "YING HAI GROUP",
-      "price": 0.1
+      "price": 0.101
     },
     "9001.HK": {
       "name": "PP CNUSDPROP-U",
@@ -11379,15 +11379,15 @@
     },
     "9040.HK": {
       "name": "GX MSCI CHINA-U",
-      "price": 4.558
+      "price": 4.504
     },
     "9042.HK": {
       "name": "CAM BTC-U",
-      "price": 1.198
+      "price": 1.188
     },
     "9046.HK": {
       "name": "CAM ETH-U",
-      "price": 0.7
+      "price": 0.684
     },
     "9047.HK": {
       "name": "F SSIFIRONORE-U",
@@ -11395,7 +11395,7 @@
     },
     "9064.HK": {
       "name": "GX APAC-U",
-      "price": 9.66
+      "price": 9.56
     },
     "9067.HK": {
       "name": "ISHARESHSTECH-U",
@@ -11407,7 +11407,7 @@
     },
     "9070.HK": {
       "name": "PING AN HKDIV-U",
-      "price": 5.59
+      "price": 5.52
     },
     "9074.HK": {
       "name": "ISHARESMSCITW-U",
@@ -11415,7 +11415,7 @@
     },
     "9075.HK": {
       "name": "GX ASUSD BOND-U",
-      "price": 7.44
+      "price": 7.43
     },
     "9077.HK": {
       "name": "PREMIA UST-U",
@@ -11431,7 +11431,7 @@
     },
     "9084.HK": {
       "name": "A GX INDIA-U",
-      "price": 6.335
+      "price": 6.245
     },
     "9086.HK": {
       "name": "CAM NASDAQ100-U",
@@ -11447,7 +11447,7 @@
     },
     "9102.HK": {
       "name": "ICBCU KS KWEB-U",
-      "price": 4.062
+      "price": 4.042
     },
     "9104.HK": {
       "name": "A GX EM ASIA-U",
@@ -11455,15 +11455,15 @@
     },
     "9107.HK": {
       "name": "BOS 20 UST A-U",
-      "price": 99.74
+      "price": 98.96
     },
     "9115.HK": {
       "name": "ISHARESHSI-U",
-      "price": 12.13
+      "price": 12.01
     },
     "9141.HK": {
       "name": "CAM ASIA IGB-U",
-      "price": 1.896
+      "price": 1.892
     },
     "9146.HK": {
       "name": "CAM 20 UST-U",
@@ -11475,7 +11475,7 @@
     },
     "9156.HK": {
       "name": "BOS 20 UST-U",
-      "price": 99.72
+      "price": 99.04
     },
     "9159.HK": {
       "name": "PREMIA TW50A-U",
@@ -11483,7 +11483,7 @@
     },
     "9167.HK": {
       "name": "ICBCCSOPCHINA-U",
-      "price": 8.2
+      "price": 8.16
     },
     "9173.HK": {
       "name": "PP CN NEWECON-U",
@@ -11499,7 +11499,7 @@
     },
     "9179.HK": {
       "name": "HGI ETH-U",
-      "price": 0.704
+      "price": 0.685
     },
     "9181.HK": {
       "name": "PREMIAASIATEC-U",
@@ -11507,7 +11507,7 @@
     },
     "9187.HK": {
       "name": "SAMSUNG REITS-U",
-      "price": 2.094
+      "price": 2.092
     },
     "9188.HK": {
       "name": "CAM CSI300-U",
@@ -11535,23 +11535,23 @@
     },
     "9366.HK": {
       "name": "XI2CSOPTSLA-U",
-      "price": 1.524
+      "price": 1.556
     },
     "9388.HK": {
       "name": "XI2CSOPNVDA-U",
-      "price": 1.752
+      "price": 1.81
     },
     "9399.HK": {
       "name": "XI2CSOPMSTR-U",
-      "price": 3.71
+      "price": 4.104
     },
     "9403.HK": {
       "name": "CAM HSI ESG-U",
-      "price": 6.74
+      "price": 6.68
     },
     "9404.HK": {
       "name": "CAM MSCIINDIA-U",
-      "price": 0.822
+      "price": 0.805
     },
     "9411.HK": {
       "name": "PP ASIA IGUSD-U",
@@ -11567,7 +11567,7 @@
     },
     "9425.HK": {
       "name": "MBC ETH-U",
-      "price": 0.548
+      "price": 0.535
     },
     "9430.HK": {
       "name": "MBC BTC-U",
@@ -11575,11 +11575,11 @@
     },
     "9437.HK": {
       "name": "BOS CSOE HIDV-U",
-      "price": 1.398
+      "price": 1.39
     },
     "9439.HK": {
       "name": "HGI BTC-U",
-      "price": 1.206
+      "price": 1.194
     },
     "9440.HK": {
       "name": "GX 0-3M UST-U",
@@ -11587,7 +11587,7 @@
     },
     "9446.HK": {
       "name": "CAM 20 UST A-U",
-      "price": 99.5
+      "price": 98.8
     },
     "9450.HK": {
       "name": "GX 3-5Y UST-U",
@@ -11599,11 +11599,11 @@
     },
     "9455.HK": {
       "name": "INVESCO QQQ-U",
-      "price": 659.8
+      "price": 662.0
     },
     "9460.HK": {
       "name": "CAM SOL-U",
-      "price": 0.435
+      "price": 0.43
     },
     "9472.HK": {
       "name": "A CAM USDTMMF-U",
@@ -11739,7 +11739,7 @@
     },
     "9711.HK": {
       "name": "XL2CSOPCOIN-U",
-      "price": 4.728
+      "price": 4.186
     },
     "9747.HK": {
       "name": "XL2CSOPSMSN-U",
@@ -11747,15 +11747,15 @@
     },
     "9766.HK": {
       "name": "XL2CSOPTSLA-U",
-      "price": 13.43
+      "price": 13.12
     },
     "9777.HK": {
       "name": "XL2CSOPBRKB-U",
-      "price": 6.83
+      "price": 6.755
     },
     "9788.HK": {
       "name": "XL2CSOPNVDA-U",
-      "price": 22.92
+      "price": 22.16
     },
     "9799.HK": {
       "name": "XL2CSOPMSTR-U",
@@ -11767,15 +11767,15 @@
     },
     "9803.HK": {
       "name": "PP BEDROCK-U",
-      "price": 1.314
+      "price": 1.312
     },
     "9804.HK": {
       "name": "PREMIA VIET-U",
-      "price": 12.89
+      "price": 12.84
     },
     "9805.HK": {
       "name": "CG BS CNASEAN-U",
-      "price": 1.242
+      "price": 1.232
     },
     "9806.HK": {
       "name": "GX CN CONSUME-U",
@@ -11795,7 +11795,7 @@
     },
     "9812.HK": {
       "name": "SAMSUNGCDGN-U",
-      "price": 1.508
+      "price": 1.494
     },
     "9814.HK": {
       "name": "SAMSUNG FANG-U",
@@ -11811,7 +11811,7 @@
     },
     "9824.HK": {
       "name": "EFUND GOLD MI-U",
-      "price": 1.45
+      "price": 1.422
     },
     "9826.HK": {
       "name": "GX CN CLOUD-U",
@@ -11823,7 +11823,7 @@
     },
     "9834.HK": {
       "name": "ISHARESND100-U",
-      "price": 66.36
+      "price": 66.44
     },
     "9836.HK": {
       "name": "ISHARES INDIA-U",
@@ -11835,7 +11835,7 @@
     },
     "9840.HK": {
       "name": "SPDR GOLD TRT-U",
-      "price": 420.2
+      "price": 421.9
     },
     "9845.HK": {
       "name": "GX CN EV BATT-U",
@@ -11979,7 +11979,7 @@
     },
     "9918.HK": {
       "name": "WISE ALLY INTL",
-      "price": 0.9
+      "price": 0.94
     },
     "9919.HK": {
       "name": "ACTIVATION GP",
