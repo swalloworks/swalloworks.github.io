@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-04T17:52:30.929410-04:00",
+  "updated_at": "2026-05-04T21:23:53.795215-04:00",
   "prices": {
     "A": {
       "name": "Agilent Technologies Inc.",
@@ -124,10 +124,6 @@
     "ABX": {
       "name": "Abacus Global Management Inc.",
       "price": 9.19
-    },
-    "ACA": {
-      "name": "Arcosa Inc.",
-      "price": 123.19
     },
     "ACAD": {
       "name": "ACADIA Pharmaceuticals Inc.",
@@ -1819,7 +1815,7 @@
     },
     "ASGN": {
       "name": "ASGN Incorporated",
-      "price": 21.18
+      "price": 20.74
     },
     "ASH": {
       "name": "Ashland Inc.",
@@ -2047,7 +2043,7 @@
     },
     "ATON": {
       "name": "AlphaTON Capital Corp.",
-      "price": 0.24
+      "price": 0.256
     },
     "ATOS": {
       "name": "Atossa Therapeutics Inc.",
@@ -3455,7 +3451,7 @@
     },
     "BITF": {
       "name": "Bitfarms Ltd.",
-      "price": 3.09
+      "price": 3.235
     },
     "BITI": {
       "name": "ProShares Short Bitcoin ETF",
@@ -5043,7 +5039,7 @@
     },
     "CAPT": {
       "name": "Captivision Inc.",
-      "price": 0.0016
+      "price": 0.0099
     },
     "CAQUU": {
       "name": "Cambridge Acquisition Corp.",
@@ -5967,7 +5963,7 @@
     },
     "CIGL": {
       "name": "Concorde International Group Ltd",
-      "price": 1.63
+      "price": 1.53
     },
     "CIIT": {
       "name": "Tianci International Inc.",
@@ -6191,7 +6187,7 @@
     },
     "CMBM": {
       "name": "Cambium Networks Corporation",
-      "price": 0.06
+      "price": 0.3468
     },
     "CMBO": {
       "name": "Wayfinder Dynamic U.S. Interest Rate ETF",
@@ -10539,7 +10535,7 @@
     },
     "ETHM": {
       "name": "Dynamix Corporation",
-      "price": 10.77
+      "price": 10.73
     },
     "ETHMU": {
       "name": "Dynamix Corporation",
@@ -11651,7 +11647,7 @@
     },
     "FFIU": {
       "name": "UVA Unconstrained Medium-Term Fixed Income ETF",
-      "price": 21.933
+      "price": 21.865
     },
     "FFIV": {
       "name": "F5 Inc.",
@@ -12487,7 +12483,7 @@
     },
     "FORH": {
       "name": "Formidable ETF",
-      "price": 25.516
+      "price": 25.538
     },
     "FORM": {
       "name": "FormFactor Inc.",
@@ -12623,7 +12619,7 @@
     },
     "FRIZ": {
       "name": "Franklin Templeton ETF Trust Franklin Dividend Growth ETF",
-      "price": 25.919
+      "price": 25.693
     },
     "FRME": {
       "name": "First Merchants Corporation",
@@ -13507,7 +13503,7 @@
     },
     "GENW": {
       "name": "Spinnaker ETF Series Genter Capital International Dividend ETF",
-      "price": 14.616
+      "price": 14.365
     },
     "GEO": {
       "name": "Geo Group Inc (The) REIT",
@@ -13779,7 +13775,7 @@
     },
     "GLBL": {
       "name": "Pacer Funds Trust Pacer MSCI World Industry Advantage ETF",
-      "price": 26.899
+      "price": 26.925
     },
     "GLBS": {
       "name": "Globus Maritime Limited",
@@ -13947,7 +13943,7 @@
     },
     "GMMA": {
       "name": "Tidal Trust III GammaRoad Market Navigation ETF",
-      "price": 21.085
+      "price": 21.01
     },
     "GMMF": {
       "name": "BlackRock ETF Trust iShares Government Money Market ETF",
@@ -14579,7 +14575,7 @@
     },
     "GUSA": {
       "name": "Goldman Sachs ETF Trust II Goldman Sachs MarketBeta U.S. 1000",
-      "price": 62.332
+      "price": 62.044
     },
     "GUSE": {
       "name": "Goldman Sachs Enhanced U.S. Equity ETF",
@@ -14671,7 +14667,7 @@
     },
     "GXLC": {
       "name": "Global X Funds Global X U.S. 500 ETF",
-      "price": 86.864
+      "price": 86.484
     },
     "GXO": {
       "name": "GXO Logistics Inc.",
@@ -14767,7 +14763,7 @@
     },
     "HAPS": {
       "name": "Harbor Human Capital Factor US Small Cap ETF",
-      "price": 34.567
+      "price": 34.415
     },
     "HARD": {
       "name": "Simplify Exchange Traded Funds Simplify Commodities Strategy N",
@@ -15331,7 +15327,7 @@
     },
     "HOLD": {
       "name": "Harbor ETF Trust Harbor Alpha Layering ETF",
-      "price": 32.838
+      "price": 32.817
     },
     "HOLO": {
       "name": "MicroCloud Hologram Inc.",
@@ -15539,7 +15535,7 @@
     },
     "HTAX": {
       "name": "Nomura National High-Yield Municipal Bond ETF",
-      "price": 24.53
+      "price": 24.499
     },
     "HTCO": {
       "name": "High-Trend International Group",
@@ -15651,7 +15647,7 @@
     },
     "HUSV": {
       "name": "First Trust Exchange-Traded Fund III First Trust Horizon Manag",
-      "price": 39.139
+      "price": 38.851
     },
     "HUT": {
       "name": "Hut 8 Corp.",
@@ -15899,7 +15895,7 @@
     },
     "IAUG": {
       "name": "Innovator ETFs Trust Innovator International Developed Power B",
-      "price": 29.495
+      "price": 29.335
     },
     "IAUI": {
       "name": "NEOS ETF Trust NEOS Gold High Income ETF",
@@ -16279,7 +16275,7 @@
     },
     "IDEC": {
       "name": "Innovator ETFs Trust Innovator International Developed Power B",
-      "price": 33.63
+      "price": 33.304
     },
     "IDEF": {
       "name": "iShares Defense Industrials Active ETF",
@@ -16439,7 +16435,7 @@
     },
     "IFED": {
       "name": "ETRACS IFED Invest with the Fed TR Index ETN",
-      "price": 42.675
+      "price": 42.651
     },
     "IFF": {
       "name": "International Flavors & Fragrances Inc.",
@@ -16491,7 +16487,7 @@
     },
     "IGCB": {
       "name": "TCW Corporate Bond ETF",
-      "price": 45.756
+      "price": 45.655
     },
     "IGE": {
       "name": "iShares North American Natural Resources ETF",
@@ -16507,7 +16503,7 @@
     },
     "IGGY": {
       "name": "AB Active ETFs Inc. AB International Growth ETF",
-      "price": 27.984
+      "price": 27.654
     },
     "IGHG": {
       "name": "ProShares Investment Grade-Interest Rate Hedged",
@@ -17051,7 +17047,7 @@
     },
     "INTM": {
       "name": "Invesco Intermediate Municipal ETF",
-      "price": 51.685
+      "price": 51.64
     },
     "INTR": {
       "name": "Inter & Co. Inc.",
@@ -17143,7 +17139,7 @@
     },
     "IOPP": {
       "name": "Simplify Exchange Traded Funds Simplify Tara India Opportuniti",
-      "price": 24.961
+      "price": 24.681
     },
     "IOSP": {
       "name": "Innospec Inc.",
@@ -17275,7 +17271,7 @@
     },
     "IQRA": {
       "name": "NYLI CBRE Real Assets ETF",
-      "price": 30.728
+      "price": 30.438
     },
     "IQSI": {
       "name": "NYLI Candriam International Equity ETF",
@@ -17283,7 +17279,7 @@
     },
     "IQSM": {
       "name": "NYLI Candriam U.S. Mid Cap Equity ETF",
-      "price": 37.178
+      "price": 36.992
     },
     "IQST": {
       "name": "iQSTEL Inc.",
@@ -17295,7 +17291,7 @@
     },
     "IQSZ": {
       "name": "Invesco Global Equity Net Zero ETF",
-      "price": 30.294
+      "price": 30.091
     },
     "IQV": {
       "name": "IQVIA Holdings Inc.",
@@ -17531,7 +17527,7 @@
     },
     "ITOL": {
       "name": "Tema ETF Trust Tema International Durable Quality ETF",
-      "price": 26.55
+      "price": 26.227
     },
     "ITOT": {
       "name": "iShares Core S&P Total U.S. Stock Market ETF",
@@ -17543,7 +17539,7 @@
     },
     "ITRM": {
       "name": "Iterum Therapeutics plc",
-      "price": 0.0392
+      "price": 0.0284
     },
     "ITRN": {
       "name": "Ituran Location and Control Ltd.",
@@ -17675,7 +17671,7 @@
     },
     "IWDL": {
       "name": "ETRACS 2x Leveraged US Value Factor TR ETN",
-      "price": 57.116
+      "price": 56.432
     },
     "IWF": {
       "name": "iShares Russell 1000 Growth ETF",
@@ -17707,7 +17703,7 @@
     },
     "IWML": {
       "name": "ETRACS 2x Leveraged US Size Factor TR ETN",
-      "price": 29.55
+      "price": 29.183
     },
     "IWMW": {
       "name": "iShares Trust iShares Russell 2000 BuyWrite ETF",
@@ -18015,7 +18011,7 @@
     },
     "JDIV": {
       "name": "J.P. Morgan Exchange-Traded Fund Trust JPMorgan Dividend Leade",
-      "price": 56.074
+      "price": 55.501
     },
     "JDOC": {
       "name": "JPMorgan Healthcare Leaders ETF",
@@ -18091,7 +18087,7 @@
     },
     "JFBR": {
       "name": "Jeffs' Brands Ltd",
-      "price": 2.21
+      "price": 2.03
     },
     "JFLI": {
       "name": "J.P. Morgan Exchange-Traded Fund Trust JPMorgan Flexible Incom",
@@ -18115,7 +18111,7 @@
     },
     "JHAC": {
       "name": "John Hancock Exchange-Traded Fund Trust John Hancock Fundament",
-      "price": 15.07
+      "price": 15.032
     },
     "JHAI": {
       "name": "Janus Henderson Global Artificial Intelligence ETF",
@@ -18135,7 +18131,7 @@
     },
     "JHDV": {
       "name": "John Hancock Exchange-Traded Fund Trust John Hancock U.S. High",
-      "price": 44.059
+      "price": 43.784
     },
     "JHEM": {
       "name": "John Hancock Multifactor Emerging Markets ETF",
@@ -18151,7 +18147,7 @@
     },
     "JHID": {
       "name": "John Hancock Exchange-Traded Fund Trust John Hancock Internati",
-      "price": 42.324
+      "price": 41.783
     },
     "JHLN": {
       "name": "John Hancock Exchange-Traded Fund Trust John Hancock Global Se",
@@ -18231,7 +18227,7 @@
     },
     "JLQD": {
       "name": "Janus Henderson Corporate Bond ETF",
-      "price": 41.285
+      "price": 41.19
     },
     "JMBS": {
       "name": "Janus Henderson Mortgage-Backed Securities ETF",
@@ -18379,7 +18375,7 @@
     },
     "JPSV": {
       "name": "J.P. Morgan Exchange-Traded Fund Trust JPMorgan Active Small C",
-      "price": 63.012
+      "price": 62.341
     },
     "JPUS": {
       "name": "JPMorgan Diversified Return U.S. Equity ETF",
@@ -18399,7 +18395,7 @@
     },
     "JRE": {
       "name": "Janus Henderson U.S. Real Estate ETF",
-      "price": 26.622
+      "price": 26.434
     },
     "JRSH": {
       "name": "Jerash Holdings (US) Inc.",
@@ -18455,7 +18451,7 @@
     },
     "JULM": {
       "name": "First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Max",
-      "price": 34.255
+      "price": 34.225
     },
     "JULP": {
       "name": "PGIM S&P 500 Buffer 12 ETF - July",
@@ -18627,7 +18623,7 @@
     },
     "KBUF": {
       "name": "KraneShares 90% KWEB Defined Outcome January 2027 ETF",
-      "price": 28.104
+      "price": 28.017
     },
     "KBWB": {
       "name": "Invesco KBW Bank ETF",
@@ -18647,7 +18643,7 @@
     },
     "KCAI": {
       "name": "KraneShares Trust KraneShares China Alpha Index ETF",
-      "price": 32.59
+      "price": 32.535
     },
     "KCCA": {
       "name": "KraneShares California Carbon Allowance Strategy ETF",
@@ -18691,7 +18687,7 @@
     },
     "KDRN": {
       "name": "ETF Opportunities Trust Kingsbarn Tactical Bond ETF",
-      "price": 23.295
+      "price": 23.25
     },
     "KE": {
       "name": "Kimball Electronics Inc.",
@@ -18871,7 +18867,7 @@
     },
     "KLMT": {
       "name": "Invesco Exchange-Traded Fund Trust II Invesco MSCI Global Clim",
-      "price": 33.055
+      "price": 32.841
     },
     "KLRS": {
       "name": "Kalaris Therapeutics Inc.",
@@ -19015,7 +19011,7 @@
     },
     "KOKU": {
       "name": "Xtrackers MSCI Kokusai Equity ETF",
-      "price": 125.81
+      "price": 125.551
     },
     "KOLD": {
       "name": "ProShares UltraShort Bloomberg Natural Gas",
@@ -19027,7 +19023,7 @@
     },
     "KONG": {
       "name": "ETF Opportunities Trust Formidable Fortress ETF",
-      "price": 30.752
+      "price": 30.753
     },
     "KOOL": {
       "name": "Spinnaker ETF Series North Shore Equity Rotation ETF",
@@ -19075,7 +19071,7 @@
     },
     "KPRO": {
       "name": "KraneShares 100% KWEB Defined Outcome January 2027 ETF",
-      "price": 27.318
+      "price": 27.297
     },
     "KPRX": {
       "name": "Kiora Pharmaceuticals Inc.",
@@ -19171,7 +19167,7 @@
     },
     "KSEP": {
       "name": "Innovator U.S. Small Cap Power Buffer ETF - September",
-      "price": 29.9
+      "price": 29.81
     },
     "KSLV": {
       "name": "Kurv ETF Trust Kurv Silver Enhanced Income ETF",
@@ -19647,11 +19643,11 @@
     },
     "LFAW": {
       "name": "LifeX 2060 Longevity Income ETF",
-      "price": 175.691
+      "price": 173.759
     },
     "LFBE": {
       "name": "LifeX 2065 Longevity Income ETF",
-      "price": 185.138
+      "price": 183.143
     },
     "LFCR": {
       "name": "Lifecore Biomedical Inc.",
@@ -19659,7 +19655,7 @@
     },
     "LFDR": {
       "name": "LifeX Durable Income ETF",
-      "price": 185.236
+      "price": 183.213
     },
     "LFEQ": {
       "name": "VanEck Long/Flat Trend ETF",
@@ -19707,7 +19703,7 @@
     },
     "LGDX": {
       "name": "Tidal Trust III Intech S&P Large Cap Diversified Alpha ETF",
-      "price": 24.119
+      "price": 24.004
     },
     "LGH": {
       "name": "HCM Defender 500 Index ETF",
@@ -19715,7 +19711,7 @@
     },
     "LGHT": {
       "name": "Spinnaker ETF Series Langar Global HealthTech ETF",
-      "price": 8.246
+      "price": 8.238
     },
     "LGIH": {
       "name": "LGI Homes Inc.",
@@ -19771,15 +19767,15 @@
     },
     "LIAM": {
       "name": "LifeX 2055 Inflation-Protected Longevity Income ETF",
-      "price": 238.423
+      "price": 236.462
     },
     "LIAU": {
       "name": "LifeX 2060 Inflation-Protected Longevity Income ETF",
-      "price": 263.168
+      "price": 260.905
     },
     "LIBD": {
       "name": "LifeX 2065 Inflation-Protected Longevity Income ETF",
-      "price": 278.731
+      "price": 276.234
     },
     "LICN": {
       "name": "Lichen International Limited",
@@ -20047,7 +20043,7 @@
     },
     "LOCT": {
       "name": "Innovator ETFs Trust Innovator Premium Income 15 Buffer ETF -",
-      "price": 23.88
+      "price": 23.87
     },
     "LODI": {
       "name": "ETF Series Solutions AAM SLC Low Duration Income ETF",
@@ -20087,7 +20083,7 @@
     },
     "LOPP": {
       "name": "Gabelli Love Our Planet & People ETF Gabelli Love Our Planet &",
-      "price": 37.268
+      "price": 37.015
     },
     "LOTI": {
       "name": "Liberty One Tactical Income ETF",
@@ -20163,7 +20159,7 @@
     },
     "LQAI": {
       "name": "Exchange Listed Funds Trust LG QRAFT AI-Powered U.S. Large Cap",
-      "price": 42.733
+      "price": 42.881
     },
     "LQD": {
       "name": "iShares iBoxx $ Investment Grade Corporate Bond ETF",
@@ -20295,7 +20291,7 @@
     },
     "LSVD": {
       "name": "The Advisors Inner Circle Fund LSV Disciplined Value ETF",
-      "price": 32.81
+      "price": 32.688
     },
     "LTBR": {
       "name": "Lightbridge Corporation",
@@ -20559,7 +20555,7 @@
     },
     "MANI": {
       "name": "Man ETF Series Trust Man Active Income ETF",
-      "price": 25.607
+      "price": 25.63
     },
     "MANU": {
       "name": "Manchester United Ltd.",
@@ -20595,7 +20591,7 @@
     },
     "MART": {
       "name": "AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer10 Mar E",
-      "price": 40.957
+      "price": 40.84
     },
     "MARU": {
       "name": "AIM ETF Products Trust AllianzIM U.S. Equity Buffer15 Uncapped",
@@ -20659,7 +20655,7 @@
     },
     "MAXN": {
       "name": "Maxeon Solar Technologies Ltd.",
-      "price": 0.7593
+      "price": 0.71
     },
     "MAYM": {
       "name": "First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Max",
@@ -21011,7 +21007,7 @@
     },
     "MEG": {
       "name": "Montrose Environmental Group Inc.",
-      "price": 22.14
+      "price": 21.33
     },
     "MEGL": {
       "name": "Magic Empire Global Limited",
@@ -21171,7 +21167,7 @@
     },
     "MFUL": {
       "name": "Mindful Conservative ETF",
-      "price": 22.16
+      "price": 22.133
     },
     "MFUS": {
       "name": "PIMCO Equitiy Series PIMCO RAFI Dynamic Multi-Factor U.S. Equi",
@@ -21287,7 +21283,7 @@
     },
     "MHY": {
       "name": "Man ETF Series Trust Man Active High Yield ETF",
-      "price": 25.22
+      "price": 25.19
     },
     "MIAX": {
       "name": "Miami International Holdings Inc.",
@@ -21319,7 +21315,7 @@
     },
     "MIGI": {
       "name": "Mawson Infrastructure Group Inc.",
-      "price": 4.85
+      "price": 4.47
     },
     "MILK": {
       "name": "Pacer Funds Trust Pacer US Cash Cows Bond ETF",
@@ -21487,7 +21483,7 @@
     },
     "MLPR": {
       "name": "ETRACS Quarterly Pay 1.5X Leveraged Alerian MLP Index ETN",
-      "price": 71.965
+      "price": 72.838
     },
     "MLPX": {
       "name": "Global X MLP & Energy Infrastructure ETF",
@@ -21795,7 +21791,7 @@
     },
     "MRGR": {
       "name": "ProShares Merger ETF",
-      "price": 45.03
+      "price": 44.87
     },
     "MRK": {
       "name": "Merck & Company Inc.",
@@ -22083,7 +22079,7 @@
     },
     "MTRA": {
       "name": "Invesco International Growth Focus ETF",
-      "price": 25.535
+      "price": 25.356
     },
     "MTRN": {
       "name": "Materion Corporation",
@@ -22099,7 +22095,7 @@
     },
     "MTUL": {
       "name": "ETRACS 2x Leveraged MSCI US Momentum Factor TR ETN",
-      "price": 47.409
+      "price": 47.184
     },
     "MTUM": {
       "name": "iShares MSCI USA Momentum Factor ETF",
@@ -22159,11 +22155,11 @@
     },
     "MUNB": {
       "name": "Northern Funds Northern Trust 2035 Tax-Exempt Distributing Lad",
-      "price": 100.895
+      "price": 100.645
     },
     "MUNC": {
       "name": "Northern Funds Northern Trust 2045 Tax-Exempt Distributing Lad",
-      "price": 102.37
+      "price": 102.289
     },
     "MUND": {
       "name": "Northern Funds Northern Trust 2055 Tax-Exempt Distributing Lad",
@@ -22187,7 +22183,7 @@
     },
     "MUSE": {
       "name": "TCW Multisector Credit Income ETF",
-      "price": 49.61
+      "price": 49.585
     },
     "MUSI": {
       "name": "American Century Multisector Income ETF",
@@ -22215,7 +22211,7 @@
     },
     "MVAL": {
       "name": "VanEck ETF Trust VanEck Morningstar Wide Moat Value ETF",
-      "price": 36.025
+      "price": 35.466
     },
     "MVBF": {
       "name": "MVB Financial Corp.",
@@ -22239,11 +22235,11 @@
     },
     "MVPA": {
       "name": "Advisor Managed Portfolios Miller Value Partners Appreciation",
-      "price": 34.488
+      "price": 33.893
     },
     "MVPL": {
       "name": "Advisor Managed Portfolios Miller Value Partners Leverage ETF",
-      "price": 39.832
+      "price": 39.453
     },
     "MVRL": {
       "name": "ETRACS Monthly Pay 1.5X Leveraged Mortgage REIT ETN",
@@ -22487,7 +22483,7 @@
     },
     "NBCE": {
       "name": "Neuberger China Equity ETF",
-      "price": 38.899
+      "price": 38.903
     },
     "NBCM": {
       "name": "Neuberger Commodity Strategy ETF",
@@ -22499,7 +22495,7 @@
     },
     "NBDS": {
       "name": "Neuberger Disrupters ETF",
-      "price": 35.943
+      "price": 35.861
     },
     "NBET": {
       "name": "Neuberger Energy Transition & Infrastructure ETF",
@@ -22507,11 +22503,11 @@
     },
     "NBFC": {
       "name": "Neuberger Flexible Credit Income ETF",
-      "price": 50.65
+      "price": 50.515
     },
     "NBGX": {
       "name": "Neuberger Growth ETF",
-      "price": 28.651
+      "price": 28.565
     },
     "NBHC": {
       "name": "National Bank Holdings Corporation",
@@ -22567,7 +22563,7 @@
     },
     "NBTR": {
       "name": "Neuberger Total Return Bond ETF",
-      "price": 50.035
+      "price": 49.885
     },
     "NC": {
       "name": "NACCO Industries Inc.",
@@ -22899,7 +22895,7 @@
     },
     "NITE": {
       "name": "Capitol Series Trust The Nightview Fund NITE",
-      "price": 36.643
+      "price": 36.464
     },
     "NIVF": {
       "name": "NewGenIvf Group Limited",
@@ -23711,7 +23707,7 @@
     },
     "NXTI": {
       "name": "Simplify Exchange Traded Funds Simplify Next Intangible Core I",
-      "price": 31.57
+      "price": 31.575
     },
     "NXTS": {
       "name": "Nexentis Technologies Inc.",
@@ -23923,7 +23919,7 @@
     },
     "ODHY": {
       "name": "Spinnaker ETF Series Obra Defensive High Yield ETF",
-      "price": 9.995
+      "price": 9.975
     },
     "ODV": {
       "name": "Osisko Development Corp.",
@@ -24187,7 +24183,7 @@
     },
     "ONEO": {
       "name": "State Street SPDR Russell 1000 Momentum Focus ETF",
-      "price": 143.532
+      "price": 142.85
     },
     "ONEQ": {
       "name": "Fidelity Nasdaq Composite Index ETF",
@@ -24887,7 +24883,7 @@
     },
     "PBJN": {
       "name": "PGIM S&P 500 Buffer 20 ETF - June",
-      "price": 30.76
+      "price": 30.75
     },
     "PBL": {
       "name": "PGIM ETF Trust PGIM Portfolio Ballast ETF",
@@ -24899,7 +24895,7 @@
     },
     "PBMR": {
       "name": "PGIM S&P 500 Buffer 20 ETF - March",
-      "price": 31.615
+      "price": 31.555
     },
     "PBMY": {
       "name": "PGIM S&P 500 Buffer 20 ETF - May",
@@ -24907,7 +24903,7 @@
     },
     "PBNV": {
       "name": "PGIM S&P 500 Buffer 20 ETF - November",
-      "price": 30.37
+      "price": 30.316
     },
     "PBOC": {
       "name": "PGIM S&P 500 Buffer 20 ETF - October",
@@ -24971,7 +24967,7 @@
     },
     "PCCE": {
       "name": "Litman Gregory Funds Trust Polen Capital China Growth ETF",
-      "price": 12.94
+      "price": 12.86
     },
     "PCEF": {
       "name": "Invesco CEF Income Composite ETF",
@@ -24979,7 +24975,7 @@
     },
     "PCFI": {
       "name": "FundVantage Trust Polen Floating Rate Income ETF",
-      "price": 22.995
+      "price": 23.03
     },
     "PCG": {
       "name": "Pacific Gas & Electric Co.",
@@ -24995,7 +24991,7 @@
     },
     "PCI": {
       "name": "PGIM ETF Trust PGIM Corporate Bond 5-10 Year ETF",
-      "price": 50.051
+      "price": 49.911
     },
     "PCIG": {
       "name": "Litman Gregory Funds Trust Polen Capital International Growth",
@@ -25003,7 +24999,7 @@
     },
     "PCL": {
       "name": "PGIM ETF Trust PGIM Corporate Bond 10+ Year ETF",
-      "price": 49.449
+      "price": 49.205
     },
     "PCLG": {
       "name": "FundVantage Trust Polen Focus Growth ETF",
@@ -25027,7 +25023,7 @@
     },
     "PCRB": {
       "name": "Putnam ETF Trust Putnam ESG Core Bond ETF",
-      "price": 46.245
+      "price": 46.073
     },
     "PCRX": {
       "name": "Pacira BioSciences Inc.",
@@ -25151,7 +25147,7 @@
     },
     "PEMX": {
       "name": "Putnam ETF Trust Putnam Emerging Markets ex-China ETF",
-      "price": 80.684
+      "price": 81.215
     },
     "PEN": {
       "name": "Penumbra Inc.",
@@ -25515,7 +25511,7 @@
     },
     "PJBF": {
       "name": "PGIM ETF Trust PGIM Jennison Better Future ETF",
-      "price": 66.126
+      "price": 66.075
     },
     "PJFG": {
       "name": "PGIM ETF Trust PGIM Jennison Focused Growth ETF",
@@ -25523,7 +25519,7 @@
     },
     "PJFM": {
       "name": "PGIM ETF Trust PGIM Jennison Focused Mid-Cap ETF",
-      "price": 67.268
+      "price": 66.701
     },
     "PJFV": {
       "name": "PGIM ETF Trust PGIM Jennison Focused Value ETF",
@@ -25531,7 +25527,7 @@
     },
     "PJIO": {
       "name": "PGIM ETF Trust PGIM Jennison International Opportunities ETF",
-      "price": 61.536
+      "price": 61.373
     },
     "PJP": {
       "name": "Invesco Pharmaceuticals ETF",
@@ -25611,7 +25607,7 @@
     },
     "PLDR": {
       "name": "Putnam Sustainable Leaders ETF",
-      "price": 37.556
+      "price": 37.336
     },
     "PLMK": {
       "name": "Plum Acquisition Corp.",
@@ -25627,7 +25623,7 @@
     },
     "PLOO": {
       "name": "Themes ETF Trust Leverage Shares 2x Capped Accelerated PLTR Mo",
-      "price": 14.296
+      "price": 14.444
     },
     "PLOW": {
       "name": "Douglas Dynamics Inc.",
@@ -25731,7 +25727,7 @@
     },
     "PMAU": {
       "name": "PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF - August",
-      "price": 26.305
+      "price": 26.28
     },
     "PMAX": {
       "name": "Powell Max Limited",
@@ -25767,11 +25763,11 @@
     },
     "PMJL": {
       "name": "PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF - July",
-      "price": 26.385
+      "price": 26.365
     },
     "PMJN": {
       "name": "PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF - June",
-      "price": 26.615
+      "price": 26.64
     },
     "PMMF": {
       "name": "BlackRock ETF Trust iShares Prime Money Market ETF",
@@ -25791,7 +25787,7 @@
     },
     "PMSE": {
       "name": "PGIM Rock ETF Trust PGIM S&P 500 Max Buffer ETF - September",
-      "price": 26.055
+      "price": 26.015
     },
     "PMTR": {
       "name": "Perimeter Acquisition Corp.",
@@ -25931,7 +25927,7 @@
     },
     "PPEM": {
       "name": "Putnam ETF Trust Putnam PanAgora ESG Emerging Markets Equity E",
-      "price": 21.44
+      "price": 21.49
     },
     "PPG": {
       "name": "PPG Industries Inc.",
@@ -25951,7 +25947,7 @@
     },
     "PPIE": {
       "name": "Putnam ETF Trust Putnam PanAgora ESG International Equity ETF",
-      "price": 26.906
+      "price": 26.471
     },
     "PPIH": {
       "name": "Perma-Pipe International Holdings Inc.",
@@ -26235,7 +26231,7 @@
     },
     "PSCJ": {
       "name": "Pacer Swan SOS Conservative (July) ETF",
-      "price": 31.154
+      "price": 31.1
     },
     "PSCM": {
       "name": "Invesco S&P SmallCap Materials ETF",
@@ -26243,7 +26239,7 @@
     },
     "PSCQ": {
       "name": "Pacer Swan SOS Conservative (October) ETF",
-      "price": 30.539
+      "price": 30.465
     },
     "PSCT": {
       "name": "Invesco S&P SmallCap Information Technology ETF",
@@ -26347,7 +26343,7 @@
     },
     "PSMJ": {
       "name": "Pacer Swan SOS Moderate (July) ETF",
-      "price": 33.28
+      "price": 33.24
     },
     "PSMO": {
       "name": "Pacer Swan SOS Moderate (October) ETF",
@@ -26411,7 +26407,7 @@
     },
     "PSTG": {
       "name": "Everpure Inc.",
-      "price": 71.62
+      "price": 72.75
     },
     "PSTP": {
       "name": "Innovator ETFs Trust Innovator Power Buffer Step-Up Strategy E",
@@ -26571,7 +26567,7 @@
     },
     "PWER": {
       "name": "Nomura Energy Transition ETF",
-      "price": 42.905
+      "price": 42.797
     },
     "PWP": {
       "name": "Perella Weinberg Partners",
@@ -26875,7 +26871,7 @@
     },
     "QH": {
       "name": "Quhuo Limited",
-      "price": 2.9
+      "price": 2.99
     },
     "QHDG": {
       "name": "Innovator Hedged Nasdaq-100 ETF",
@@ -26895,7 +26891,7 @@
     },
     "QIG": {
       "name": "WisdomTree U.S. Corporate Bond Fund",
-      "price": 44.415
+      "price": 44.26
     },
     "QINT": {
       "name": "American Century Quality Diversified International ETF",
@@ -26903,7 +26899,7 @@
     },
     "QIS": {
       "name": "Simplify Exchange Traded Funds Simplify Multi-QIS Alternative",
-      "price": 13.36
+      "price": 13.849
     },
     "QJUN": {
       "name": "FT Vest Nasdaq-100 Buffer ETF - June",
@@ -27239,7 +27235,7 @@
     },
     "QULL": {
       "name": "ETRACS 2x Leveraged MSCI US Quality Factor TR ETN",
-      "price": 60.56
+      "price": 59.828
     },
     "QUMS": {
       "name": "Quantumsphere Acquisition Corp.",
@@ -27267,7 +27263,7 @@
     },
     "QVCGA": {
       "name": "QVC Group Inc.",
-      "price": 0.3336
+      "price": 0.28
     },
     "QVML": {
       "name": "Invesco S&P 500 QVM Multi-factor ETF",
@@ -27279,7 +27275,7 @@
     },
     "QVMS": {
       "name": "Invesco S&P SmallCap 600 QVM Multi-factor ETF",
-      "price": 32.199
+      "price": 31.84
     },
     "QVMT": {
       "name": "Invesco S&P 500 Concentrated QVM ETF",
@@ -27407,7 +27403,7 @@
     },
     "RB": {
       "name": "ProShares Trust ProShares Russell 2000 Dynamic Buffer ETF",
-      "price": 45.862
+      "price": 45.785
     },
     "RBA": {
       "name": "RB Global Inc.",
@@ -27795,7 +27791,7 @@
     },
     "RFFC": {
       "name": "ALPS Active Equity Opportunity ETF",
-      "price": 72.041
+      "price": 71.601
     },
     "RFG": {
       "name": "Invesco S&P MidCap 400 Pure Growth ETF",
@@ -27907,7 +27903,7 @@
     },
     "RHTX": {
       "name": "RH Tactical Outlook ETF",
-      "price": 19.894
+      "price": 19.735
     },
     "RIBB": {
       "name": "Ribbon Acquisition Corp",
@@ -28387,7 +28383,7 @@
     },
     "RSMR": {
       "name": "First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Equa",
-      "price": 22.96
+      "price": 22.865
     },
     "RSMV": {
       "name": "Listed Funds Trust Relative Strength Managed Volatility Strate",
@@ -28855,11 +28851,11 @@
     },
     "SAWG": {
       "name": "ETF Series Solutions AAM Sawgrass US Large Cap Quality Growth",
-      "price": 22.982
+      "price": 22.913
     },
     "SAWS": {
       "name": "ETF Series Solutions AAM Sawgrass US Small Cap Quality Growth",
-      "price": 23.685
+      "price": 23.517
     },
     "SB": {
       "name": "Safe Bulkers Inc Common Stock ($0.001 par value)",
@@ -28927,7 +28923,7 @@
     },
     "SBLX": {
       "name": "StableX Technologies Inc.",
-      "price": 2.74
+      "price": 2.94
     },
     "SBND": {
       "name": "Columbia Short Duration Bond ETF",
@@ -28979,7 +28975,7 @@
     },
     "SCDL": {
       "name": "ETRACS 2x Leveraged US Dividend Factor TR ETN",
-      "price": 52.905
+      "price": 51.67
     },
     "SCDS": {
       "name": "JPMorgan Fundamental Data Science Small Core ETF",
@@ -29195,7 +29191,7 @@
     },
     "SDCP": {
       "name": "Virtus ETF Trust II Virtus Newfleet Short Duration Core Plus B",
-      "price": 25.635
+      "price": 25.625
     },
     "SDD": {
       "name": "ProShares UltraShort SmallCap600",
@@ -29415,7 +29411,7 @@
     },
     "SEPP": {
       "name": "PGIM S&P 500 Buffer 12 ETF - September",
-      "price": 31.775
+      "price": 31.722
     },
     "SEPT": {
       "name": "AIM ETF Products Trust AllianzIM U.S. Large Cap Buffer10 Sep E",
@@ -29583,7 +29579,7 @@
     },
     "SHDG": {
       "name": "Trust For Advised Portfolios Soundwatch Hedged Equity ETF",
-      "price": 32.184
+      "price": 32.16
     },
     "SHE": {
       "name": "State Street SPDR MSCI USA Gender Diversity ETF",
@@ -29647,7 +29643,7 @@
     },
     "SHUS": {
       "name": "Exchange Listed Funds Trust Stratified LargeCap Hedged ETF",
-      "price": 48.684
+      "price": 48.363
     },
     "SHV": {
       "name": "iShares Trust iShares 0-1 Year Treasury Bond ETF",
@@ -29675,7 +29671,7 @@
     },
     "SIFI": {
       "name": "Harbor Ares Systematic Multi-Sector Income ETF",
-      "price": 43.6
+      "price": 43.5
     },
     "SIHY": {
       "name": "Harbor Ares Systematic High Yield ETF",
@@ -29731,7 +29727,7 @@
     },
     "SIXD": {
       "name": "AllianzIM U.S. Large Cap 6 Month Buffer10 Jun/Dec ETF",
-      "price": 30.154
+      "price": 30.07
     },
     "SIXF": {
       "name": "AIM ETF Products Trust AllianzIM U.S. Large Cap 6 Month Buffer",
@@ -29739,7 +29735,7 @@
     },
     "SIXG": {
       "name": "Defiance Connective Technologies ETF",
-      "price": 85.0137
+      "price": 84.9939
     },
     "SIXH": {
       "name": "ETC 6 Meridian Hedged Equity Index Option ETF",
@@ -29839,7 +29835,7 @@
     },
     "SLNZ": {
       "name": "TCW Senior Loan ETF",
-      "price": 45.385
+      "price": 45.505
     },
     "SLON": {
       "name": "ProShares Trust ProShares Ultra Solana ETF",
@@ -29943,7 +29939,7 @@
     },
     "SMDX": {
       "name": "Tidal Trust III Intech S&P Small-Mid Cap Diversified Alpha ETF",
-      "price": 25.701
+      "price": 25.469
     },
     "SMH": {
       "name": "VanEck Semiconductor ETF",
@@ -30019,7 +30015,7 @@
     },
     "SMQ": {
       "name": "Investment Managers Series Trust II Tradr 1X Short Innovation",
-      "price": 45.337
+      "price": 45.464
     },
     "SMRI": {
       "name": "Bushido Capital US Equity ETF",
@@ -30065,6 +30061,10 @@
       "name": "Schneider National Inc.",
       "price": 29.96
     },
+    "SNDK": {
+      "name": "SanDisk Corporation",
+      "price": 1255.86
+    },
     "SNES": {
       "name": "SenesTech Inc.",
       "price": 1.5
@@ -30095,7 +30095,7 @@
     },
     "SNPG": {
       "name": "Xtrackers S&P 500 Growth Scored & Screened ETF",
-      "price": 53.523
+      "price": 53.559
     },
     "SNSR": {
       "name": "Global X Internet of Things ETF",
@@ -30127,7 +30127,7 @@
     },
     "SOLR": {
       "name": "Guinness Atkinson Sustainable Energy ETF",
-      "price": 34.582
+      "price": 34.18
     },
     "SOLT": {
       "name": "2x Solana ETF",
@@ -30227,7 +30227,7 @@
     },
     "SPCZ": {
       "name": "Listed Funds Trust RiverNorth Enhanced Pre-Merger SPAC ETF",
-      "price": 25.737
+      "price": 25.703
     },
     "SPD": {
       "name": "Simplify Exchange Traded Funds Simplify US Equity PLUS Downsid",
@@ -30431,7 +30431,7 @@
     },
     "SPXE": {
       "name": "ProShares S&P 500 Ex-Energy ETF",
-      "price": 77.576
+      "price": 77.168
     },
     "SPXL": {
       "name": "Direxion Daily S&P 500 Bull 3X ETF",
@@ -30463,7 +30463,7 @@
     },
     "SPYA": {
       "name": "The RBB Fund Trust Twin Oak Endure ETF",
-      "price": 29.109
+      "price": 28.87
     },
     "SPYC": {
       "name": "Simplify Exchange Traded Funds Simplify US Equity PLUS Convexi",
@@ -30531,7 +30531,7 @@
     },
     "SRHR": {
       "name": "Elevation Series Trust SRH REIT Covered Call ETF",
-      "price": 56.351
+      "price": 55.69
     },
     "SRLN": {
       "name": "State Street Blackstone Senior Loan ETF",
@@ -30539,7 +30539,7 @@
     },
     "SROI": {
       "name": "Calamos ETF Trust Calamos Antetokounmpo Global Sustainable Equ",
-      "price": 36.11
+      "price": 35.859
     },
     "SRPU": {
       "name": "Investment Managers Series Trust II Tradr 2X Long SRPT Daily E",
@@ -30603,7 +30603,7 @@
     },
     "STAX": {
       "name": "Nomura Tax-Free USA Short Term ETF",
-      "price": 25.4
+      "price": 25.39
     },
     "STBF": {
       "name": "Trust for Professional Managers Performance Trust Short Term B",
@@ -30711,7 +30711,7 @@
     },
     "SUPL": {
       "name": "ProShares Trust ProShares Supply Chain Logistics ETF",
-      "price": 45.576
+      "price": 43.712
     },
     "SUPP": {
       "name": "TCW Transform Supply Chain ETF",
@@ -30719,7 +30719,7 @@
     },
     "SURE": {
       "name": "AdvisorShares Insider Advantage ETF",
-      "price": 137.18
+      "price": 136.01
     },
     "SURG": {
       "name": "SurgePays Inc.",
@@ -30779,7 +30779,7 @@
     },
     "SXQG": {
       "name": "ETC 6 Meridian Quality Growth ETF",
-      "price": 31.796
+      "price": 31.718
     },
     "SXT": {
       "name": "Sensient Technologies Corporation",
@@ -31091,7 +31091,7 @@
     },
     "TEMX": {
       "name": "Touchstone ETF Trust Touchstone Sands Capital Emerging Markets",
-      "price": 34.305
+      "price": 34.42
     },
     "TENB": {
       "name": "Tenable Holdings Inc.",
@@ -31291,7 +31291,7 @@
     },
     "TINT": {
       "name": "ProShares Smart Materials ETF",
-      "price": 39.979
+      "price": 38.226
     },
     "TINY": {
       "name": "ProShares Nanotechnology ETF",
@@ -31303,19 +31303,19 @@
     },
     "TIPA": {
       "name": "Northern Funds Northern Trust 2030 Inflation-Linked Distributi",
-      "price": 101.24
+      "price": 101.29
     },
     "TIPB": {
       "name": "Northern Funds Northern Trust 2035 Inflation-Linked Distributi",
-      "price": 101.112
+      "price": 101.051
     },
     "TIPC": {
       "name": "Northern Funds Northern Trust 2045 Inflation-Linked Distributi",
-      "price": 100.985
+      "price": 100.723
     },
     "TIPD": {
       "name": "Northern Funds Northern Trust 2055 Inflation-Linked Distributi",
-      "price": 100.631
+      "price": 100.244
     },
     "TIPT": {
       "name": "Tiptree Inc.",
@@ -31339,11 +31339,11 @@
     },
     "TIVC": {
       "name": "Tivic Health Systems Inc.",
-      "price": 0.92
+      "price": 1.045
     },
     "TJAN": {
       "name": "Innovator ETFs Trust Innovator Equity Defined Protection ETF -",
-      "price": 27.831
+      "price": 27.82
     },
     "TJGC": {
       "name": "TJGC Group Limited",
@@ -31355,7 +31355,7 @@
     },
     "TJUN": {
       "name": "First Trust Exchange-Traded Fund VIII FT Vest Emerging Markets",
-      "price": 23.44
+      "price": 23.45
     },
     "TJX": {
       "name": "TJX Companies Inc.",
@@ -31671,7 +31671,7 @@
     },
     "TOT": {
       "name": "Advisor Managed Portfolios LionShares U.S. Equity Total Return",
-      "price": 22.663
+      "price": 22.555
     },
     "TOTL": {
       "name": "State Street DoubleLine Total Return Tactical ETF",
@@ -31955,7 +31955,7 @@
     },
     "TSEP": {
       "name": "First Trust Exchange-Traded Fund VIII FT Vest Emerging Market",
-      "price": 25.55
+      "price": 25.555
     },
     "TSHA": {
       "name": "Taysha Gene Therapies Inc.",
@@ -32339,7 +32339,7 @@
     },
     "TYLD": {
       "name": "Cambria ETF Trust Cambria Tactical Yield ETF",
-      "price": 25.18
+      "price": 25.215
     },
     "TYLG": {
       "name": "Global X Funds Global X Information Technology Covered Call &",
@@ -32755,7 +32755,7 @@
     },
     "UOKA": {
       "name": "MDJM LTD",
-      "price": 0.0917
+      "price": 0.0934
     },
     "UONE": {
       "name": "Urban One Inc.",
@@ -32819,7 +32819,7 @@
     },
     "UPV": {
       "name": "ProShares Ultra FTSE Europe",
-      "price": 95.21
+      "price": 91.48
     },
     "UPW": {
       "name": "ProShares Ultra Utilities",
@@ -32999,7 +32999,7 @@
     },
     "USML": {
       "name": "ETRACS 2x Leveraged MSCI US Minimum Volatility Factor TR ETN",
-      "price": 41.851
+      "price": 41.615
     },
     "USMV": {
       "name": "iShares MSCI USA Min Vol Factor ETF",
@@ -33015,7 +33015,7 @@
     },
     "USNZ": {
       "name": "DBX ETF Trust Xtrackers Net Zero Pathway Paris Aligned US Equi",
-      "price": 45.27
+      "price": 45.032
     },
     "USO": {
       "name": "United States Oil Fund",
@@ -33183,7 +33183,7 @@
     },
     "UXJL": {
       "name": "First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Unca",
-      "price": 34.938
+      "price": 34.723
     },
     "UXOC": {
       "name": "First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Unca",
@@ -33279,7 +33279,7 @@
     },
     "VBIX": {
       "name": "Viewbix Inc.",
-      "price": 3.0
+      "price": 3.12
     },
     "VBK": {
       "name": "Vanguard Small-Cap Growth ETF",
@@ -33415,7 +33415,7 @@
     },
     "VERS": {
       "name": "ProShares Trust ProShares Metaverse ETF",
-      "price": 68.498
+      "price": 68.228
     },
     "VERU": {
       "name": "Veru Inc.",
@@ -33679,7 +33679,7 @@
     },
     "VMAX": {
       "name": "Lattice Strategies Trust Hartford US Value ETF",
-      "price": 59.915
+      "price": 59.424
     },
     "VMBS": {
       "name": "Vanguard Mortgage-Backed Securities ETF",
@@ -33715,7 +33715,7 @@
     },
     "VNIE": {
       "name": "The Advisors Inner Circle Fund II Vontobel International Equit",
-      "price": 26.335
+      "price": 25.925
     },
     "VNLA": {
       "name": "Janus Henderson Short Duration Income ETF",
@@ -33747,7 +33747,7 @@
     },
     "VNSE": {
       "name": "Natixis Vaughan Nelson Select ETF",
-      "price": 40.828
+      "price": 40.676
     },
     "VNT": {
       "name": "Vontier Corporation",
@@ -34204,6 +34204,10 @@
     "WAFU": {
       "name": "Wah Fu Education Group Limited",
       "price": 1.6
+    },
+    "WAI": {
+      "name": "Top KingWin Ltd",
+      "price": 2.3201
     },
     "WAL": {
       "name": "Western Alliance Bancorporation",
@@ -34955,7 +34959,7 @@
     },
     "XCLR": {
       "name": "Global X Funds Global X S&P 500 Collar 95-110 ETF",
-      "price": 27.112
+      "price": 27.054
     },
     "XCNY": {
       "name": "State Street SPDR S&P Emerging Markets ex-China ETF",
@@ -35063,7 +35067,7 @@
     },
     "XHYC": {
       "name": "BondBloxx ETF Trust BondBloxx USD High Yield Bond Consumer Cyc",
-      "price": 36.905
+      "price": 36.815
     },
     "XHYD": {
       "name": "BondBloxx ETF Trust BondBloxx USD High Yield Bond Consumer Non",
@@ -35083,7 +35087,7 @@
     },
     "XHYI": {
       "name": "BondBloxx ETF Trust BondBloxx USD High Yield Bond Industrial S",
-      "price": 37.625
+      "price": 37.53
     },
     "XHYT": {
       "name": "BondBloxx ETF Trust BondBloxx USD High Yield Bond Telecom Med",
@@ -35255,7 +35259,7 @@
     },
     "XOEX": {
       "name": "Xtrackers S&P 100 Ex Top 20 ETF",
-      "price": 38.065
+      "price": 37.646
     },
     "XOM": {
       "name": "Exxon Mobil Corporation",
@@ -35335,7 +35339,7 @@
     },
     "XRLX": {
       "name": "FundX Investment Trust FundX Conservative ETF",
-      "price": 47.672
+      "price": 47.449
     },
     "XRMI": {
       "name": "Global X Funds Global X S&P 500 Risk Managed Income ETF",
@@ -35791,7 +35795,7 @@
     },
     "ZENV": {
       "name": "Zenvia Inc.",
-      "price": 0.1509
+      "price": 0.1664
     },
     "ZEO": {
       "name": "Zeo Energy Corporation",
@@ -35815,7 +35819,7 @@
     },
     "ZGM": {
       "name": "Zenta Group Company Limited",
-      "price": 2.39
+      "price": 2.32
     },
     "ZGN": {
       "name": "Ermenegildo Zegna N.V.",
@@ -35823,7 +35827,7 @@
     },
     "ZHDG": {
       "name": "ZEGA Buy and Hedge ETF",
-      "price": 22.806
+      "price": 22.732
     },
     "ZHOG": {
       "name": "F/m Opportunistic Income ETF",
@@ -35911,7 +35915,7 @@
     },
     "ZSB": {
       "name": "USCF ETF Trust USCF Sustainable Battery Metals Strategy Fund",
-      "price": 23.49
+      "price": 23.29
     },
     "ZSC": {
       "name": "USCF ETF Trust USCF Sustainable Commodity Strategy Fund",
@@ -35935,7 +35939,7 @@
     },
     "ZTAX": {
       "name": "X-Square Municipal Income ETF",
-      "price": 25.37
+      "price": 25.575
     },
     "ZTEK": {
       "name": "Zentek Ltd.",
@@ -35993,9 +35997,9 @@
       "name": "Zymeworks Inc.",
       "price": 26.78
     },
-    "WAI": {
-      "name": "Top KingWin Ltd",
-      "price": 2.3201
+    "ACA": {
+      "name": "Arcosa Inc.",
+      "price": 123.19
     }
   }
 }
