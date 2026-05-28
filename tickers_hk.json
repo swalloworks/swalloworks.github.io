@@ -8072,10 +8072,6 @@
     "name": "MP CARDIO-B-OLD"
   },
   {
-    "ticker": "2921.HK",
-    "name": "MINTH GROUP-2K"
-  },
-  {
     "ticker": "2923.HK",
     "name": "CCT FORTIS-OLD"
   },
@@ -8146,10 +8142,6 @@
   {
     "ticker": "3020.HK",
     "name": "X TRMSCIUSA"
-  },
-  {
-    "ticker": "3021.HK",
-    "name": "FB FTSE TAIWAN"
   },
   {
     "ticker": "3024.HK",
@@ -8740,10 +8732,6 @@
     "name": "CAM MSCIINDIA"
   },
   {
-    "ticker": "3405.HK",
-    "name": "FB ASIA EGY STR"
-  },
-  {
     "ticker": "3406.HK",
     "name": "PA TECHSELECT"
   },
@@ -8802,10 +8790,6 @@
   {
     "ticker": "3426.HK",
     "name": "A DOO WEB3"
-  },
-  {
-    "ticker": "3427.HK",
-    "name": "FB MULTIASSET"
   },
   {
     "ticker": "3430.HK",
@@ -9398,10 +9382,6 @@
   {
     "ticker": "4338.HK",
     "name": "MICROSOFT-T"
-  },
-  {
-    "ticker": "4621.HK",
-    "name": "CINDA 21USDPREF"
   },
   {
     "ticker": "6030.HK",
@@ -11348,10 +11328,6 @@
     "name": "ZHONGHUAGAS-OLD"
   },
   {
-    "ticker": "8598.HK",
-    "name": "INTELLIMARK-20K"
-  },
-  {
     "ticker": "8601.HK",
     "name": "BOLTEK"
   },
@@ -11640,10 +11616,6 @@
     "name": "CAM MSCIINDIA-U"
   },
   {
-    "ticker": "9406.HK",
-    "name": "PA TECHSELECT-U"
-  },
-  {
     "ticker": "9411.HK",
     "name": "PP ASIA IGUSD-U"
   },
@@ -11662,10 +11634,6 @@
   {
     "ticker": "9430.HK",
     "name": "MBC BTC-U"
-  },
-  {
-    "ticker": "9434.HK",
-    "name": "EFUND DIGITAL-U"
   },
   {
     "ticker": "9437.HK",
@@ -11702,10 +11670,6 @@
   {
     "ticker": "9472.HK",
     "name": "A CAM USDTMMF-U"
-  },
-  {
-    "ticker": "9477.HK",
-    "name": "PA EW SELECT-U"
   },
   {
     "ticker": "9478.HK",
