@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-28T19:12:44.527183-04:00",
+  "updated_at": "2026-05-28T20:23:45.228585-04:00",
   "prices": {
     "A": {
       "name": "Agilent Technologies Inc.",
@@ -511,7 +511,7 @@
     },
     "AGAE": {
       "name": "Allied Gaming & Entertainment Inc.",
-      "price": 0.574
+      "price": 0.551
     },
     "AGBK": {
       "name": "AGI Inc Class A",
@@ -531,7 +531,7 @@
     },
     "AGH": {
       "name": "Aureus Greenway Holdings Inc.",
-      "price": 3.67
+      "price": 4.31
     },
     "AGI": {
       "name": "Alamos Gold Inc.",
@@ -1927,7 +1927,7 @@
     },
     "ASGN": {
       "name": "ASGN Incorporated",
-      "price": 20.05
+      "price": 20.9
     },
     "ASH": {
       "name": "Ashland Inc.",
@@ -2163,7 +2163,7 @@
     },
     "ATON": {
       "name": "AlphaTON Capital Corp.",
-      "price": 0.4433
+      "price": 0.4398
     },
     "ATOS": {
       "name": "Atossa Therapeutics Inc.",
@@ -3651,7 +3651,7 @@
     },
     "BITF": {
       "name": "Bitfarms Ltd.",
-      "price": 5.505
+      "price": 5.615
     },
     "BITI": {
       "name": "ProShares Short Bitcoin ETF",
@@ -3743,7 +3743,7 @@
     },
     "BK": {
       "name": "The Bank of New York Mellon Corporation",
-      "price": 139.74
+      "price": 140.56
     },
     "BKAG": {
       "name": "BNY Mellon Core Bond ETF",
@@ -4779,7 +4779,7 @@
     },
     "BTM": {
       "name": "Bitcoin Depot Inc.",
-      "price": 0.2499
+      "price": 0.1652
     },
     "BTMD": {
       "name": "Biote Corp.",
@@ -5295,7 +5295,7 @@
     },
     "CAPT": {
       "name": "Captivision Inc.",
-      "price": 0.0055
+      "price": 0.0021
     },
     "CAQ": {
       "name": "Cambridge Acquisition Corp.",
@@ -6483,7 +6483,7 @@
     },
     "CMBM": {
       "name": "Cambium Networks Corporation",
-      "price": 0.35
+      "price": 0.4
     },
     "CMBO": {
       "name": "Wayfinder Dynamic U.S. Interest Rate ETF",
@@ -11097,6 +11097,10 @@
       "name": "Morgan Stanley ETF Trust Eaton Vance Intermediate Municipal In",
       "price": 52.93
     },
+    "EVLN": {
+      "name": "Morgan Stanley ETF Trust Eaton Vance Floating-Rate ETF",
+      "price": 49.0
+    },
     "EVLU": {
       "name": "iShares Trust iShares MSCI Emerging Markets Value Factor ETF",
       "price": 41.9043
@@ -11112,6 +11116,10 @@
     "EVMO": {
       "name": "Morgan Stanley ETF Trust Eaton Vance Mortgage Opportunities ET",
       "price": 50.39
+    },
+    "EVMT": {
+      "name": "Invesco Electric Vehicle Metals Commodity Strategy No K-1 ETF",
+      "price": 19.31
     },
     "EVNT": {
       "name": "AltShares Event-Driven ETF",
@@ -11133,9 +11141,17 @@
       "name": "Evergy Inc.",
       "price": 82.85
     },
+    "EVSB": {
+      "name": "Morgan Stanley ETF Trust Eaton Vance Ultra-Short Income ETF",
+      "price": 50.96
+    },
     "EVSD": {
       "name": "Eaton Vance Short Duration Income ETF",
       "price": 51.105
+    },
+    "EVSM": {
+      "name": "Morgan Stanley ETF Trust Eaton Vance Short Duration Municipal",
+      "price": 50.34
     },
     "EVTC": {
       "name": "Evertec Inc.",
@@ -11160,6 +11176,14 @@
     "EVX": {
       "name": "VanEck Environmental Services ETF",
       "price": 39.1609
+    },
+    "EVYM": {
+      "name": "Eaton Vance High Income Municipal ETF",
+      "price": 50.625
+    },
+    "EW": {
+      "name": "Edwards Lifesciences Corporation",
+      "price": 85.96
     },
     "EWA": {
       "name": "iShares MSCI Australia Index Fund",
@@ -11241,6 +11265,10 @@
       "name": "iShares MSCI United Kingdom ETF",
       "price": 47.0
     },
+    "EWUS": {
+      "name": "iShares MSCI United Kingdom Small Cap ETF",
+      "price": 43.0
+    },
     "EWV": {
       "name": "ProShares UltraShort MSCI Japan",
       "price": 18.51
@@ -11311,7 +11339,7 @@
     },
     "EXPI": {
       "name": "eXp World Holdings Inc.",
-      "price": 4.745
+      "price": 4.89
     },
     "EXPO": {
       "name": "Exponent Inc.",
@@ -11372,6 +11400,10 @@
     "EZM": {
       "name": "WisdomTree U.S. MidCap Fund",
       "price": 73.475
+    },
+    "EZMO": {
+      "name": "AlphaDroid Broad Markets Momentum ETF",
+      "price": 26.68
     },
     "EZPW": {
       "name": "EZCORP Inc.",
@@ -12239,7 +12271,7 @@
     },
     "FIHL": {
       "name": "Fidelis Insurance Holdings Limited",
-      "price": 22.03
+      "price": 21.67
     },
     "FIIG": {
       "name": "First Trust Exchange-Traded Fund IV First Trust Intermediate D",
@@ -15867,7 +15899,7 @@
     },
     "HOTH": {
       "name": "Hoth Therapeutics Inc.",
-      "price": 1.37
+      "price": 1.7
     },
     "HOUR": {
       "name": "Hour Loop Inc.",
@@ -17151,7 +17183,7 @@
     },
     "IINN": {
       "name": "Inspira Technologies Oxy B.H.N. Ltd.",
-      "price": 2.0901
+      "price": 3.02
     },
     "IIPR": {
       "name": "Innovative Industrial Properties Inc.",
@@ -17651,7 +17683,7 @@
     },
     "IOBT": {
       "name": "IO Biotech Inc.",
-      "price": 0.0017
+      "price": 0.0026
     },
     "IOCT": {
       "name": "Innovator International Developed Power Buffer ETF - October",
@@ -17771,7 +17803,7 @@
     },
     "IPOD": {
       "name": "Dune Acquisition Corporation",
-      "price": 10.5
+      "price": 10.38
     },
     "IPOS": {
       "name": "Renaissance Capital Greenwich Fund",
@@ -18091,7 +18123,7 @@
     },
     "ITRM": {
       "name": "Iterum Therapeutics plc",
-      "price": 0.0671
+      "price": 0.0501
     },
     "ITRN": {
       "name": "Ituran Location and Control Ltd.",
@@ -18655,7 +18687,7 @@
     },
     "JFBR": {
       "name": "Jeffs' Brands Ltd",
-      "price": 1.1
+      "price": 1.17
     },
     "JFLI": {
       "name": "J.P. Morgan Exchange-Traded Fund Trust JPMorgan Flexible Incom",
@@ -19339,7 +19371,7 @@
     },
     "KFS": {
       "name": "Kingsway Financial Services Inc.",
-      "price": 9.99
+      "price": 9.96
     },
     "KFY": {
       "name": "Korn Ferry",
@@ -20311,7 +20343,7 @@
     },
     "LGCB": {
       "name": "Linkage Global Inc.",
-      "price": 0.8351
+      "price": 0.81
     },
     "LGCF": {
       "name": "Themes US Cash Flow Champions ETF",
@@ -21291,7 +21323,7 @@
     },
     "MAXN": {
       "name": "Maxeon Solar Technologies Ltd.",
-      "price": 0.5499
+      "price": 0.48
     },
     "MAYM": {
       "name": "First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Max",
@@ -21639,7 +21671,7 @@
     },
     "MEG": {
       "name": "Montrose Environmental Group Inc.",
-      "price": 15.43
+      "price": 15.66
     },
     "MEGL": {
       "name": "Magic Empire Global Limited",
@@ -21951,7 +21983,7 @@
     },
     "MIGI": {
       "name": "Mawson Infrastructure Group Inc.",
-      "price": 6.66
+      "price": 7.1
     },
     "MILK": {
       "name": "Pacer Funds Trust Pacer US Cash Cows Bond ETF",
@@ -27239,7 +27271,7 @@
     },
     "PSTG": {
       "name": "Everpure Inc.",
-      "price": 85.74
+      "price": 73.04
     },
     "PSTP": {
       "name": "Innovator ETFs Trust Innovator Power Buffer Step-Up Strategy E",
@@ -28123,7 +28155,7 @@
     },
     "QVCGA": {
       "name": "QVC Group Inc.",
-      "price": 0.1854
+      "price": 0.2073
     },
     "QVML": {
       "name": "Invesco S&P 500 QVM Multi-factor ETF",
@@ -29851,7 +29883,7 @@
     },
     "SBLX": {
       "name": "StableX Technologies Inc.",
-      "price": 5.67
+      "price": 5.54
     },
     "SBND": {
       "name": "Columbia Short Duration Bond ETF",
@@ -31639,7 +31671,7 @@
     },
     "STSS": {
       "name": "Sharps Technology Inc.",
-      "price": 1.84
+      "price": 1.76
     },
     "STT": {
       "name": "State Street Corporation",
@@ -33661,6 +33693,10 @@
       "name": "VictoryShares Core Intermediate Bond ETF",
       "price": 46.8071
     },
+    "UIVM": {
+      "name": "VictoryShares International Value Momentum ETF",
+      "price": 73.4529
+    },
     "UJAN": {
       "name": "Innovator U.S. Equity Ultra Buffer ETF - January",
       "price": 45.2401
@@ -33680,6 +33716,10 @@
     "UK": {
       "name": "Ucommune International Ltd",
       "price": 2.89
+    },
+    "ULBI": {
+      "name": "Ultralife Corporation",
+      "price": 7.76
     },
     "ULCC": {
       "name": "Frontier Group Holdings Inc.",
@@ -33917,6 +33957,10 @@
       "name": "UroGen Pharma Ltd.",
       "price": 28.69
     },
+    "URI": {
+      "name": "United Rentals Inc.",
+      "price": 988.42
+    },
     "URNJ": {
       "name": "Sprott Junior Uranium Miners ETF",
       "price": 28.26
@@ -33968,6 +34012,10 @@
     "USCB": {
       "name": "USCB Financial Holdings Inc.",
       "price": 18.54
+    },
+    "USCI": {
+      "name": "United States Commodity Index Fund ETV",
+      "price": 98.61
     },
     "USCL": {
       "name": "iShares Climate Conscious & Transition MSCI USA ETF",
@@ -34473,6 +34521,10 @@
       "name": "Veracyte Inc.",
       "price": 47.99
     },
+    "VDC": {
+      "name": "Vanguard Consumer Staples ETF",
+      "price": 228.13
+    },
     "VDE": {
       "name": "Vanguard Energy ETF",
       "price": 160.72
@@ -34572,6 +34624,14 @@
     "VFH": {
       "name": "Vanguard Financials ETF",
       "price": 125.91
+    },
+    "VFLO": {
+      "name": "VictoryShares Free Cash Flow ETF",
+      "price": 44.93
+    },
+    "VFMF": {
+      "name": "Vanguard U.S. Multifactor ETF",
+      "price": 171.751
     },
     "VFMO": {
       "name": "Vanguard U.S. Momentum Factor ETF",
@@ -34777,6 +34837,10 @@
       "name": "Valens Semiconductor Ltd.",
       "price": 3.5
     },
+    "VLO": {
+      "name": "Valero Energy Corporation",
+      "price": 244.85
+    },
     "VLTO": {
       "name": "Veralto Corp",
       "price": 83.48
@@ -34808,6 +34872,10 @@
     "VMC": {
       "name": "Vulcan Materials Company (Holding Company)",
       "price": 276.75
+    },
+    "VMD": {
+      "name": "Viemed Healthcare Inc.",
+      "price": 10.01
     },
     "VMET": {
       "name": "Versamet Royalties Corporation",
@@ -35005,6 +35073,10 @@
       "name": "Invesco Variable Rate Preferred ETF",
       "price": 24.36
     },
+    "VRRM": {
+      "name": "Verra Mobility Corporation",
+      "price": 4.13
+    },
     "VRSK": {
       "name": "Verisk Analytics Inc.",
       "price": 172.82
@@ -35120,6 +35192,10 @@
     "VT": {
       "name": "Vanguard Total World Stock Index ETF",
       "price": 157.87
+    },
+    "VTC": {
+      "name": "Vanguard Total Corporate Bond ETF",
+      "price": 76.9546
     },
     "VTEB": {
       "name": "Vanguard Tax-Exempt Bond ETF",
@@ -36773,6 +36849,10 @@
       "name": "Youxin Technology Ltd",
       "price": 0.8998
     },
+    "YALL": {
+      "name": "God Bless America ETF",
+      "price": 43.76
+    },
     "YANG": {
       "name": "Direxion Daily FTSE China Bear 3X ETF",
       "price": 31.11
@@ -36877,6 +36957,10 @@
       "name": "Direxion Daily FTSE China Bull 3X ETF",
       "price": 29.46
     },
+    "YJ": {
+      "name": "Yunji Inc.",
+      "price": 1.5701
+    },
     "YJUN": {
       "name": "FT Vest International Equity Moderate Buffer ETF - June",
       "price": 26.825
@@ -36921,6 +37005,10 @@
       "name": "Concorde International Group Ltd",
       "price": 0.65
     },
+    "YORW": {
+      "name": "York Water Company (The)",
+      "price": 29.79
+    },
     "YOU": {
       "name": "Clear Secure Inc.",
       "price": 56.72
@@ -36957,6 +37045,10 @@
       "name": "Yatra Online Inc.",
       "price": 0.8847
     },
+    "YUM": {
+      "name": "Yum! Brands Inc.",
+      "price": 150.03
+    },
     "YUMC": {
       "name": "Yum China Holdings Inc.",
       "price": 43.04
@@ -36964,6 +37056,10 @@
     "YXI": {
       "name": "ProShares Short FTSE China 50",
       "price": 22.3045
+    },
+    "YXT": {
+      "name": "YXT.COM GROUP HOLDING LIMITED",
+      "price": 0.4274
     },
     "YYAI": {
       "name": "AiRWA Inc.",
@@ -36995,7 +37091,7 @@
     },
     "ZBAI": {
       "name": "ATIF Holdings Limited",
-      "price": 7.645
+      "price": 8.0
     },
     "ZBH": {
       "name": "Zimmer Biomet Holdings Inc.",
@@ -37051,7 +37147,7 @@
     },
     "ZGM": {
       "name": "Zenta Group Company Limited",
-      "price": 2.67
+      "price": 2.85
     },
     "ZGN": {
       "name": "Ermenegildo Zegna N.V.",
@@ -37108,6 +37204,10 @@
     "ZM": {
       "name": "Zoom Communications Inc.",
       "price": 100.46
+    },
+    "ZMAR": {
+      "name": "Innovator ETFs Trust Innovator Equity Defined Protection ETF -",
+      "price": 28.195
     },
     "ZMAY": {
       "name": "Innovator ETFs Trust Innovator Equity Defined Protection ETF -",
@@ -37233,105 +37333,1353 @@
       "name": "Zymeworks Inc.",
       "price": 25.48
     },
-    "EVLN": {
-      "name": "Morgan Stanley ETF Trust Eaton Vance Floating-Rate ETF",
-      "price": 49.0
+    "T": {
+      "name": "AT&T Inc.",
+      "price": 24.88
     },
-    "EVMT": {
-      "name": "Invesco Electric Vehicle Metals Commodity Strategy No K-1 ETF",
-      "price": 19.31
+    "EURKR": {
+      "name": "Eureka Acquisition Corp Right",
+      "price": 0.3077
     },
-    "EVSB": {
-      "name": "Morgan Stanley ETF Trust Eaton Vance Ultra-Short Income ETF",
-      "price": 50.96
+    "INACR": {
+      "name": "Indigo Acquisition Corp.",
+      "price": 0.13
     },
-    "EVSM": {
-      "name": "Morgan Stanley ETF Trust Eaton Vance Short Duration Municipal",
-      "price": 50.34
+    "SFIX": {
+      "name": "Stitch Fix Inc.",
+      "price": 3.69
     },
-    "EVYM": {
-      "name": "Eaton Vance High Income Municipal ETF",
-      "price": 50.625
+    "SFNC": {
+      "name": "Simmons First National Corporation",
+      "price": 21.48
     },
-    "EW": {
-      "name": "Edwards Lifesciences Corporation",
-      "price": 85.96
+    "SFST": {
+      "name": "Southern First Bancshares Inc.",
+      "price": 57.81
     },
-    "EWUS": {
-      "name": "iShares MSCI United Kingdom Small Cap ETF",
-      "price": 43.0
+    "SFWL": {
+      "name": "Shengfeng Development Limited",
+      "price": 0.8916
     },
-    "EZMO": {
-      "name": "AlphaDroid Broad Markets Momentum ETF",
-      "price": 26.68
+    "SG": {
+      "name": "Sweetgreen Inc.",
+      "price": 10.21
     },
-    "UIVM": {
-      "name": "VictoryShares International Value Momentum ETF",
-      "price": 73.4529
+    "SGA": {
+      "name": "Saga Communications Inc.",
+      "price": 9.63
     },
-    "ULBI": {
-      "name": "Ultralife Corporation",
-      "price": 7.76
+    "SGC": {
+      "name": "Superior Group of Companies Inc.",
+      "price": 13.25
     },
-    "URI": {
-      "name": "United Rentals Inc.",
-      "price": 988.42
+    "SGHT": {
+      "name": "Sight Sciences Inc.",
+      "price": 5.06
     },
-    "USCI": {
-      "name": "United States Commodity Index Fund ETV",
-      "price": 98.61
+    "SGI": {
+      "name": "Somnigroup International Inc.",
+      "price": 71.36
     },
-    "VDC": {
-      "name": "Vanguard Consumer Staples ETF",
-      "price": 228.13
+    "SGLY": {
+      "name": "Singularity Future Technology Ltd.",
+      "price": 0.3869
     },
-    "VFLO": {
-      "name": "VictoryShares Free Cash Flow ETF",
-      "price": 44.93
+    "SGML": {
+      "name": "Sigma Lithium Corporation",
+      "price": 15.86
     },
-    "VFMF": {
-      "name": "Vanguard U.S. Multifactor ETF",
-      "price": 171.751
+    "SGRP": {
+      "name": "SPAR Group Inc.",
+      "price": 0.7394
     },
-    "VLO": {
-      "name": "Valero Energy Corporation",
-      "price": 244.85
+    "SGU": {
+      "name": "Star Group L.P.",
+      "price": 12.76
     },
-    "VMD": {
-      "name": "Viemed Healthcare Inc.",
-      "price": 10.01
+    "SHAZ": {
+      "name": "SharonAI Holdings Inc.",
+      "price": 74.82
     },
-    "VRRM": {
-      "name": "Verra Mobility Corporation",
-      "price": 4.13
+    "SHEN": {
+      "name": "Shenandoah Telecommunications Co",
+      "price": 16.08
     },
-    "VTC": {
-      "name": "Vanguard Total Corporate Bond ETF",
-      "price": 76.9546
+    "SHIP": {
+      "name": "Seanergy Maritime Holdings Corp.",
+      "price": 14.15
     },
-    "YALL": {
-      "name": "God Bless America ETF",
+    "SHMD": {
+      "name": "SCHMID Group N.V.",
+      "price": 6.91
+    },
+    "SHO": {
+      "name": "Sunstone Hotel Investors Inc.",
+      "price": 10.91
+    },
+    "SHOO": {
+      "name": "Steven Madden Ltd.",
+      "price": 43.4
+    },
+    "SHW": {
+      "name": "Sherwin-Williams Company (The)",
+      "price": 305.14
+    },
+    "SI": {
+      "name": "Shoulder Innovations Inc.",
+      "price": 15.13
+    },
+    "SIBN": {
+      "name": "SI-BONE Inc.",
+      "price": 14.41
+    },
+    "SID": {
+      "name": "Companhia Siderurgica Nacional S.A.",
+      "price": 1.36
+    },
+    "SIDU": {
+      "name": "Sidus Space Inc.",
+      "price": 5.18
+    },
+    "SIEB": {
+      "name": "Siebert Financial Corp.",
+      "price": 1.94
+    },
+    "SIG": {
+      "name": "Signet Jewelers Limited",
+      "price": 86.99
+    },
+    "SIGA": {
+      "name": "SIGA Technologies Inc.",
+      "price": 4.76
+    },
+    "SIGI": {
+      "name": "Selective Insurance Group Inc.",
+      "price": 87.29
+    },
+    "SILC": {
+      "name": "Silicom Ltd",
       "price": 43.76
     },
-    "YJ": {
-      "name": "Yunji Inc.",
-      "price": 1.5701
+    "SILO": {
+      "name": "Silo Pharma Inc.",
+      "price": 0.424
     },
-    "YORW": {
-      "name": "York Water Company (The)",
-      "price": 29.79
+    "SIMA": {
+      "name": "SIM Acquisition Corp.",
+      "price": 10.79
     },
-    "YUM": {
-      "name": "Yum! Brands Inc.",
-      "price": 150.03
+    "SITC": {
+      "name": "SITE Centers Corp.",
+      "price": 5.2
     },
-    "YXT": {
-      "name": "YXT.COM GROUP HOLDING LIMITED",
-      "price": 0.4274
+    "SITE": {
+      "name": "SiteOne Landscape Supply Inc.",
+      "price": 111.72
     },
-    "ZMAR": {
-      "name": "Innovator ETFs Trust Innovator Equity Defined Protection ETF -",
-      "price": 28.195
+    "SITM": {
+      "name": "SiTime Corporation",
+      "price": 729.51
+    },
+    "SJ": {
+      "name": "Scienjoy Holding Corporation",
+      "price": 1.19
+    },
+    "SJM": {
+      "name": "The J.M. Smucker Company",
+      "price": 104.28
+    },
+    "SKE": {
+      "name": "Skeena Resources Limited",
+      "price": 29.43
+    },
+    "SKIL": {
+      "name": "Skillsoft Corp.",
+      "price": 7.43
+    },
+    "SKIN": {
+      "name": "SkinHealth Systems Inc.",
+      "price": 0.7856
+    },
+    "SKLZ": {
+      "name": "Skillz Inc.",
+      "price": 8.88
+    },
+    "SKM": {
+      "name": "SK Telecom Co. Ltd.",
+      "price": 36.8
+    },
+    "SKT": {
+      "name": "Tanger Inc.",
+      "price": 36.62
+    },
+    "SKWD": {
+      "name": "Skyward Specialty Insurance Group Inc.",
+      "price": 44.77
+    },
+    "SKY": {
+      "name": "Champion Homes Inc.",
+      "price": 73.05
+    },
+    "SKYE": {
+      "name": "Skye Bioscience Inc.",
+      "price": 0.8499
+    },
+    "SKYH": {
+      "name": "Sky Harbour Group Corporation",
+      "price": 9.15
+    },
+    "SKYQ": {
+      "name": "Sky Quarry Inc.",
+      "price": 2.35
+    },
+    "SKYW": {
+      "name": "SkyWest Inc.",
+      "price": 86.22
+    },
+    "SKYX": {
+      "name": "SKYX Platforms Corp.",
+      "price": 1.12
+    },
+    "SLB": {
+      "name": "SLB Limited",
+      "price": 55.12
+    },
+    "SLDB": {
+      "name": "Solid Biosciences Inc.",
+      "price": 7.07
+    },
+    "SLDE": {
+      "name": "Slide Insurance Holdings Inc.",
+      "price": 18.28
+    },
+    "SLDP": {
+      "name": "Solid Power Inc.",
+      "price": 3.39
+    },
+    "SLE": {
+      "name": "Super League Enterprise Inc.",
+      "price": 3.41
+    },
+    "SLF": {
+      "name": "Sun Life Financial Inc.",
+      "price": 71.89
+    },
+    "SLG": {
+      "name": "SL Green Realty Corp",
+      "price": 45.35
+    },
+    "SLGB": {
+      "name": "Smart Logistics Global Limited",
+      "price": 0.5221
+    },
+    "SLGL": {
+      "name": "Sol-Gel Technologies Ltd.",
+      "price": 75.28
+    },
+    "SLGN": {
+      "name": "Silgan Holdings Inc.",
+      "price": 38.0
+    },
+    "SLM": {
+      "name": "SLM Corporation",
+      "price": 21.88
+    },
+    "SLMT": {
+      "name": "Brera Holdings PLC",
+      "price": 6.14
+    },
+    "SLN": {
+      "name": "Silence Therapeutics Plc American Depository Share",
+      "price": 6.86
+    },
+    "SLNG": {
+      "name": "Stabilis Solutions Inc.",
+      "price": 3.87
+    },
+    "SLP": {
+      "name": "Simulations Plus Inc.",
+      "price": 16.71
+    },
+    "SLQT": {
+      "name": "SelectQuote Inc.",
+      "price": 1.06
+    },
+    "SLRC": {
+      "name": "SLR Investment Corp.",
+      "price": 13.18
+    },
+    "SLS": {
+      "name": "SELLAS Life Sciences Group Inc.",
+      "price": 9.18
+    },
+    "SLSN": {
+      "name": "Solesence Inc.",
+      "price": 1.32
+    },
+    "SLVM": {
+      "name": "Sylvamo Corporation",
+      "price": 39.42
+    },
+    "SLXN": {
+      "name": "Silexion Therapeutics Corp",
+      "price": 0.4276
+    },
+    "SM": {
+      "name": "SM Energy Company",
+      "price": 31.16
+    },
+    "SMA": {
+      "name": "SmartStop Self Storage REIT Inc.",
+      "price": 31.53
+    },
+    "SMBC": {
+      "name": "Southern Missouri Bancorp Inc.",
+      "price": 69.21
+    },
+    "SMBK": {
+      "name": "SmartFinancial Inc.",
+      "price": 41.73
+    },
+    "SMG": {
+      "name": "Scotts Miracle-Gro Company (The)",
+      "price": 60.48
+    },
+    "SMID": {
+      "name": "Smith-Midland Corporation",
+      "price": 32.42
+    },
+    "SMP": {
+      "name": "Standard Motor Products Inc.",
+      "price": 40.59
+    },
+    "SMPL": {
+      "name": "The Simply Good Foods Company",
+      "price": 11.8
+    },
+    "SMR": {
+      "name": "NuScale Power Corporation",
+      "price": 12.19
+    },
+    "SMRT": {
+      "name": "SmartRent Inc.",
+      "price": 1.31
+    },
+    "SMTC": {
+      "name": "Semtech Corporation",
+      "price": 166.33
+    },
+    "SMWB": {
+      "name": "Similarweb Ltd.",
+      "price": 4.19
+    },
+    "SMX": {
+      "name": "SMX (Security Matters) Public Limited Company",
+      "price": 6.75
+    },
+    "SMXT": {
+      "name": "Solarmax Technology Inc.",
+      "price": 0.56
+    },
+    "SN": {
+      "name": "SharkNinja Inc.",
+      "price": 119.48
+    },
+    "SNA": {
+      "name": "Snap-On Incorporated",
+      "price": 374.46
+    },
+    "SNAL": {
+      "name": "Snail Inc.",
+      "price": 0.9079
+    },
+    "SNAP": {
+      "name": "Snap Inc.",
+      "price": 5.91
+    },
+    "SNBR": {
+      "name": "Sleep Number Corporation",
+      "price": 1.82
+    },
+    "SND": {
+      "name": "Smart Sand Inc.",
+      "price": 4.64
+    },
+    "SNDA": {
+      "name": "Sonida Senior Living Inc.",
+      "price": 36.07
+    },
+    "SNDL": {
+      "name": "SNDL Inc.",
+      "price": 1.49
+    },
+    "SNDX": {
+      "name": "Syndax Pharmaceuticals Inc.",
+      "price": 19.75
+    },
+    "SNFCA": {
+      "name": "Security National Financial Corporation",
+      "price": 9.45
+    },
+    "SNGX": {
+      "name": "Soligenix Inc.",
+      "price": 0.9726
+    },
+    "SNN": {
+      "name": "Smith & Nephew SNATS Inc.",
+      "price": 29.77
+    },
+    "SNOA": {
+      "name": "Sonoma Pharmaceuticals Inc.",
+      "price": 1.11
+    },
+    "SNOW": {
+      "name": "Snowflake Inc.",
+      "price": 239.2
+    },
+    "SNPS": {
+      "name": "Synopsys Inc.",
+      "price": 480.64
+    },
+    "SNSE": {
+      "name": "Sensei Biotherapeutics Inc.",
+      "price": 17.59
+    },
+    "SNT": {
+      "name": "Senstar Technologies Corporation",
+      "price": 2.63
+    },
+    "SNTG": {
+      "name": "Sentage Holdings Inc.",
+      "price": 1.9516
+    },
+    "SNTI": {
+      "name": "Senti Biosciences Holdings Inc.",
+      "price": 1.0
+    },
+    "SNWV": {
+      "name": "SANUWAVE Health Inc.",
+      "price": 16.66
+    },
+    "SNX": {
+      "name": "TD SYNNEX Corporation",
+      "price": 246.22
+    },
+    "SNY": {
+      "name": "Sanofi ADS",
+      "price": 44.29
+    },
+    "SNYR": {
+      "name": "Synergy CHC Corp.",
+      "price": 0.2782
+    },
+    "SOBO": {
+      "name": "South Bow Corporation",
+      "price": 37.06
+    },
+    "SOBR": {
+      "name": "SOBR Safe Inc.",
+      "price": 1.24
+    },
+    "SOC": {
+      "name": "Sable Offshore Corp.",
+      "price": 14.69
+    },
+    "SOCA": {
+      "name": "Solarius Capital Acquisition Corp.",
+      "price": 10.25
+    },
+    "SOFI": {
+      "name": "SoFi Technologies Inc.",
+      "price": 16.97
+    },
+    "SOLS": {
+      "name": "Solstice Advanced Materials Inc.",
+      "price": 84.57
+    },
+    "SOLV": {
+      "name": "Solventum Corporation",
+      "price": 75.94
+    },
+    "SON": {
+      "name": "Sonoco Products Company",
+      "price": 49.52
+    },
+    "SONM": {
+      "name": "DNA X Inc.",
+      "price": 4.24
+    },
+    "SONO": {
+      "name": "Sonos Inc.",
+      "price": 15.85
+    },
+    "SOR": {
+      "name": "Source Capital Inc.",
+      "price": 45.41
+    },
+    "SORA": {
+      "name": "AsiaStrategy",
+      "price": 2.8
+    },
+    "SORN": {
+      "name": "Soren Acquisition Corp.",
+      "price": 9.92
+    },
+    "SORNU": {
+      "name": "Soren Acquisition Corp.",
+      "price": 9.99
+    },
+    "SOTK": {
+      "name": "Sono-Tek Corporation",
+      "price": 4.86
+    },
+    "SOUL": {
+      "name": "Soulpower Acquisition Corporation",
+      "price": 10.33
+    },
+    "SOUN": {
+      "name": "SoundHound AI Inc",
+      "price": 8.56
+    },
+    "SOWG": {
+      "name": "Sow Good Inc.",
+      "price": 1.58
+    },
+    "SPCB": {
+      "name": "SuperCom Ltd. Ordinary Shares (Israel)",
+      "price": 11.09
+    },
+    "SPCE": {
+      "name": "Virgin Galactic Holdings Inc.",
+      "price": 4.53
+    },
+    "SPEG": {
+      "name": "Silver Pegasus Acquisition Corp",
+      "price": 10.24
+    },
+    "SPEGU": {
+      "name": "Silver Pegasus Acquisition Corp Unit",
+      "price": 10.45
+    },
+    "SPFI": {
+      "name": "South Plains Financial Inc.",
+      "price": 40.44
+    },
+    "SPGI": {
+      "name": "S&P Global Inc.",
+      "price": 417.68
+    },
+    "SPHL": {
+      "name": "Springview Holdings Ltd",
+      "price": 2.62
+    },
+    "SPHR": {
+      "name": "Sphere Entertainment Co.",
+      "price": 133.75
+    },
+    "SPKL": {
+      "name": "Spark I Acquisition Corp.",
+      "price": 12.01
+    },
+    "SPMC": {
+      "name": "Sound Point Meridian Capital Inc.",
+      "price": 11.17
+    },
+    "SPOK": {
+      "name": "Spok Holdings Inc.",
+      "price": 10.56
+    },
+    "SPOT": {
+      "name": "Spotify Technology S.A.",
+      "price": 516.71
+    },
+    "SPPL": {
+      "name": "SIMPPLE LTD.",
+      "price": 2.65
+    },
+    "SPRB": {
+      "name": "Spruce Biosciences Inc.",
+      "price": 49.19
+    },
+    "SPRC": {
+      "name": "SciSparc Ltd.",
+      "price": 10.55
+    },
+    "SPRU": {
+      "name": "Spruce Power Holding Corporation",
+      "price": 2.86
+    },
+    "SPRY": {
+      "name": "ARS Pharmaceuticals Inc.",
+      "price": 9.4
+    },
+    "SPSC": {
+      "name": "SPS Commerce Inc.",
+      "price": 53.52
+    },
+    "SPT": {
+      "name": "Sprout Social Inc",
+      "price": 6.99
+    },
+    "SPWH": {
+      "name": "Sportsman's Warehouse Holdings Inc.",
+      "price": 1.34
+    },
+    "SQM": {
+      "name": "Sociedad Quimica y Minera S.A.",
+      "price": 84.05
+    },
+    "SR": {
+      "name": "Spire Inc.",
+      "price": 83.65
+    },
+    "SRAD": {
+      "name": "Sportradar Group AG",
+      "price": 13.05
+    },
+    "SRBK": {
+      "name": "SR Bancorp Inc.",
+      "price": 18.82
+    },
+    "SRCE": {
+      "name": "1st Source Corporation",
+      "price": 73.56
+    },
+    "SRE": {
+      "name": "DBA Sempra",
+      "price": 90.03
+    },
+    "SRFM": {
+      "name": "Surf Air Mobility Inc.",
+      "price": 1.29
+    },
+    "SRG": {
+      "name": "Seritage Growth Properties",
+      "price": 2.72
+    },
+    "SRI": {
+      "name": "Stoneridge Inc.",
+      "price": 7.82
+    },
+    "SRPT": {
+      "name": "Sarepta Therapeutics Inc.",
+      "price": 17.3
+    },
+    "SRRK": {
+      "name": "Scholar Rock Holding Corporation",
+      "price": 49.82
+    },
+    "SRTA": {
+      "name": "Strata Critical Medical Inc.",
+      "price": 6.47
+    },
+    "SRTS": {
+      "name": "Sensus Healthcare Inc.",
+      "price": 3.18
+    },
+    "SRZN": {
+      "name": "Surrozen Inc.",
+      "price": 26.16
+    },
+    "SSAC": {
+      "name": "SPACSphere Acquisition Corp.",
+      "price": 9.96
+    },
+    "SSB": {
+      "name": "SouthState Bank Corporation",
+      "price": 94.69
+    },
+    "SSD": {
+      "name": "Simpson Manufacturing Company Inc.",
+      "price": 191.21
+    },
+    "SSEAU": {
+      "name": "Starry Sea Acquisition Corp Unit",
+      "price": 10.35
+    },
+    "SSII": {
+      "name": "SS Innovations International Inc.",
+      "price": 3.95
+    },
+    "SSM": {
+      "name": "Sono Group N.V.",
+      "price": 3.72
+    },
+    "SSNC": {
+      "name": "SS&C Technologies Holdings Inc.",
+      "price": 66.11
+    },
+    "SSRM": {
+      "name": "SSR Mining Inc.",
+      "price": 30.15
+    },
+    "SSSS": {
+      "name": "SuRo Capital Corp.",
+      "price": 13.76
+    },
+    "SST": {
+      "name": "System1 Inc.",
+      "price": 2.87
+    },
+    "SSTI": {
+      "name": "SoundThinking Inc.",
+      "price": 7.23
+    },
+    "SSTK": {
+      "name": "Shutterstock Inc.",
+      "price": 15.54
+    },
+    "SSYS": {
+      "name": "Stratasys Ltd. Ordinary Shares (Israel)",
+      "price": 10.02
+    },
+    "ST": {
+      "name": "Sensata Technologies Holding plc",
+      "price": 50.38
+    },
+    "STAG": {
+      "name": "Stag Industrial Inc.",
+      "price": 37.99
+    },
+    "STAK": {
+      "name": "STAK Inc.",
+      "price": 0.96
+    },
+    "STBA": {
+      "name": "S&T Bancorp Inc.",
+      "price": 44.92
+    },
+    "STC": {
+      "name": "Stewart Information Services Corporation",
+      "price": 66.11
+    },
+    "STE": {
+      "name": "STERIS plc (Ireland)",
+      "price": 215.4
+    },
+    "STEM": {
+      "name": "Stem Inc.",
+      "price": 10.21
+    },
+    "STEP": {
+      "name": "StepStone Group Inc.",
+      "price": 50.09
+    },
+    "STEX": {
+      "name": "Streamex Corp.",
+      "price": 1.51
+    },
+    "STFS": {
+      "name": "Star Fashion Culture Holdings Limited",
+      "price": 10.81
+    },
+    "STGW": {
+      "name": "Stagwell Inc.",
+      "price": 7.01
+    },
+    "STHO": {
+      "name": "Star Holdings Shares of Beneficial Interest",
+      "price": 8.85
+    },
+    "STIM": {
+      "name": "Neuronetics Inc.",
+      "price": 1.54
+    },
+    "STKE": {
+      "name": "Sol Strategies Inc.",
+      "price": 1.52
+    },
+    "STKS": {
+      "name": "The ONE Group Hospitality Inc.",
+      "price": 2.02
+    },
+    "STLA": {
+      "name": "Stellantis N.V.",
+      "price": 8.2
+    },
+    "STLD": {
+      "name": "Steel Dynamics Inc.",
+      "price": 260.75
+    },
+    "STN": {
+      "name": "Stantec Inc",
+      "price": 75.66
+    },
+    "STNE": {
+      "name": "StoneCo Ltd. Class A",
+      "price": 11.33
+    },
+    "STNG": {
+      "name": "Scorpio Tankers Inc.",
+      "price": 74.6
+    },
+    "STRA": {
+      "name": "Strategic Education Inc.",
+      "price": 77.2
+    },
+    "STRL": {
+      "name": "Sterling Infrastructure Inc.",
+      "price": 842.96
+    },
+    "STRR": {
+      "name": "Star Equity Holdings Inc.",
+      "price": 11.55
+    },
+    "STRS": {
+      "name": "Stratus Properties Inc.",
+      "price": 29.01
+    },
+    "STRT": {
+      "name": "STRATTEC SECURITY CORPORATION",
+      "price": 79.22
+    },
+    "STRZ": {
+      "name": "Starz Entertainment Corp.",
+      "price": 24.33
+    },
+    "STTK": {
+      "name": "Shattuck Labs Inc.",
+      "price": 5.97
+    },
+    "STUB": {
+      "name": "StubHub Holdings Inc.",
+      "price": 9.8
+    },
+    "STVN": {
+      "name": "Stevanato Group S.p.A.",
+      "price": 18.66
+    },
+    "STX": {
+      "name": "Seagate Technology Holdings PLC Ordinary Shares (Ireland)",
+      "price": 880.72
+    },
+    "STZ": {
+      "name": "Constellation Brands Inc.",
+      "price": 142.13
+    },
+    "SU": {
+      "name": "Suncor Energy  Inc.",
+      "price": 63.31
+    },
+    "SUGP": {
+      "name": "SU Group Holdings Limited",
+      "price": 1.49
+    },
+    "SUIG": {
+      "name": "Sui Group Holdings Limited",
+      "price": 1.54
+    },
+    "SUNB": {
+      "name": "Sunbelt Rentals Holdings Inc.",
+      "price": 77.84
+    },
+    "SUNE": {
+      "name": "SUNation Energy Inc.",
+      "price": 1.33
+    },
+    "SUPN": {
+      "name": "Supernus Pharmaceuticals Inc.",
+      "price": 46.85
+    },
+    "SUPX": {
+      "name": "SuperX AI Technology Limited",
+      "price": 10.02
+    },
+    "SUUN": {
+      "name": "PowerBank Corporation",
+      "price": 1.04
+    },
+    "SVAC": {
+      "name": "Spring Valley Acquisition Corp.",
+      "price": 10.57
+    },
+    "SVAQ": {
+      "name": "Silicon Valley Acquisition Corp.",
+      "price": 9.96
+    },
+    "SVCC": {
+      "name": "Stellar V Capital Corp.",
+      "price": 10.56
+    },
+    "SVCO": {
+      "name": "Silvaco Group Inc.",
+      "price": 9.67
+    },
+    "SVIV": {
+      "name": "Spring Valley Acquisition Corp.",
+      "price": 10.05
+    },
+    "SVRA": {
+      "name": "Savara Inc.",
+      "price": 5.09
+    },
+    "SVRN": {
+      "name": "OceanPal Inc.",
+      "price": 10.4
+    },
+    "SVV": {
+      "name": "Savers Value Village Inc.",
+      "price": 9.01
+    },
+    "SW": {
+      "name": "Smurfit WestRock plc",
+      "price": 41.02
+    },
+    "SWAG": {
+      "name": "Stran & Company Inc.",
+      "price": 1.97
+    },
+    "SWBI": {
+      "name": "Smith & Wesson Brands Inc.",
+      "price": 15.22
+    },
+    "SWK": {
+      "name": "Stanley Black & Decker Inc.",
+      "price": 79.27
+    },
+    "SWKS": {
+      "name": "Skyworks Solutions Inc.",
+      "price": 81.41
+    },
+    "SWMR": {
+      "name": "Swarmer Inc",
+      "price": 56.79
+    },
+    "SWVL": {
+      "name": "Swvl Holdings Corp Class A",
+      "price": 1.57
+    },
+    "SWX": {
+      "name": "Southwest Gas Holdings Inc.",
+      "price": 86.73
+    },
+    "SXC": {
+      "name": "SunCoke Energy Inc.",
+      "price": 9.25
+    },
+    "SXI": {
+      "name": "Standex International Corporation",
+      "price": 275.48
+    },
+    "SXTC": {
+      "name": "China SXT Pharmaceuticals Inc.",
+      "price": 1.56
+    },
+    "SXTP": {
+      "name": "60 Degrees Pharmaceuticals Inc.",
+      "price": 1.49
+    },
+    "SY": {
+      "name": "So-Young International Inc.",
+      "price": 1.95
+    },
+    "SYBT": {
+      "name": "Stock Yards Bancorp Inc.",
+      "price": 71.31
+    },
+    "SYF": {
+      "name": "Synchrony Financial",
+      "price": 71.47
+    },
+    "SYK": {
+      "name": "Stryker Corporation",
+      "price": 307.63
+    },
+    "SYM": {
+      "name": "Symbotic Inc.",
+      "price": 48.81
+    },
+    "SYNA": {
+      "name": "Synaptics Incorporated Common Stock $0.001 Par Value",
+      "price": 143.26
+    },
+    "SYRE": {
+      "name": "Spyre Therapeutics Inc.",
+      "price": 72.11
+    },
+    "SZZL": {
+      "name": "Sizzle Acquisition Corp.",
+      "price": 10.33
+    },
+    "SZZLR": {
+      "name": "Sizzle Acquisition Corp.",
+      "price": 0.16
+    },
+    "SZZLU": {
+      "name": "Sizzle Acquisition Corp.",
+      "price": 10.46
+    },
+    "TAC": {
+      "name": "TransAlta Corporation",
+      "price": 14.03
+    },
+    "TACH": {
+      "name": "Titan Acquisition Corp.",
+      "price": 10.37
+    },
+    "TACO": {
+      "name": "Berto Acquisition Corp.",
+      "price": 10.49
+    },
+    "TACOU": {
+      "name": "Berto Acquisition Corp.",
+      "price": 11.1
+    },
+    "TACT": {
+      "name": "TransAct Technologies Incorporated",
+      "price": 4.36
+    },
+    "TALK": {
+      "name": "Talkspace Inc.",
+      "price": 5.19
+    },
+    "TALO": {
+      "name": "Talos Energy Inc.",
+      "price": 14.74
+    },
+    "TAOX": {
+      "name": "Tao Synergies Inc.",
+      "price": 4.38
+    },
+    "TAP": {
+      "name": "Molson Coors Beverage Company",
+      "price": 40.57
+    },
+    "TARA": {
+      "name": "Protara Therapeutics Inc.",
+      "price": 4.75
+    },
+    "TASK": {
+      "name": "TaskUs Inc.",
+      "price": 6.31
+    },
+    "TAVI": {
+      "name": "Tavia Acquisition Corp.",
+      "price": 10.63
+    },
+    "TAVIR": {
+      "name": "Tavia Acquisition Corp.",
+      "price": 0.0949
+    },
+    "TAYD": {
+      "name": "Taylor Devices Inc.",
+      "price": 53.7
+    },
+    "TBBB": {
+      "name": "BBB Foods Inc.",
+      "price": 32.73
+    },
+    "TBBK": {
+      "name": "The Bancorp Inc",
+      "price": 55.07
+    },
+    "TBCH": {
+      "name": "Turtle Beach Corporation",
+      "price": 12.8
+    },
+    "TBI": {
+      "name": "TrueBlue Inc.",
+      "price": 6.12
+    },
+    "TBLA": {
+      "name": "Taboola.com Ltd.",
+      "price": 5.0
+    },
+    "TBN": {
+      "name": "Tamboran Resources Corporation",
+      "price": 34.34
+    },
+    "TBPH": {
+      "name": "Theravance Biopharma Inc.",
+      "price": 16.21
+    },
+    "TBRG": {
+      "name": "TruBridge Inc.",
+      "price": 25.94
+    },
+    "TCBI": {
+      "name": "Texas Capital Bancshares Inc.",
+      "price": 99.73
+    },
+    "TCBK": {
+      "name": "TriCo Bancshares",
+      "price": 50.28
+    },
+    "TCBS": {
+      "name": "Texas Community Bancshares Inc.",
+      "price": 16.85
+    },
+    "TCBX": {
+      "name": "Third Coast Bancshares Inc.",
+      "price": 38.32
+    },
+    "TCI": {
+      "name": "Transcontinental Realty Investors Inc.",
+      "price": 38.5
+    },
+    "TCMD": {
+      "name": "Tactile Systems Technology Inc.",
+      "price": 25.55
+    },
+    "TCRT": {
+      "name": "Alaunos Therapeutics Inc.",
+      "price": 3.06
+    },
+    "TCX": {
+      "name": "Tucows Inc.",
+      "price": 15.1
+    },
+    "TD": {
+      "name": "Toronto Dominion Bank (The)",
+      "price": 113.34
+    },
+    "TDAC": {
+      "name": "Translational Development Acquisition Corp.",
+      "price": 10.76
+    },
+    "TDC": {
+      "name": "Teradata Corporation",
+      "price": 31.63
+    },
+    "TDG": {
+      "name": "Transdigm Group Incorporated",
+      "price": 1265.0601
+    },
+    "TDIC": {
+      "name": "Dreamland Limited",
+      "price": 0.4283
+    },
+    "TDOC": {
+      "name": "Teladoc Health Inc.",
+      "price": 7.51
+    },
+    "TDS": {
+      "name": "Telephone and Data Systems Inc.",
+      "price": 39.31
+    },
+    "TDTH": {
+      "name": "Trident Digital Tech Holdings Ltd",
+      "price": 3.06
+    },
+    "TDUP": {
+      "name": "ThredUp Inc.",
+      "price": 4.77
+    },
+    "TDW": {
+      "name": "Tidewater Inc.",
+      "price": 74.71
+    },
+    "TDY": {
+      "name": "Teledyne Technologies Incorporated",
+      "price": 634.06
+    },
+    "TE": {
+      "name": "T1 Energy Inc.",
+      "price": 10.82
+    },
+    "TEAD": {
+      "name": "Teads Holding Co.",
+      "price": 1.25
+    },
+    "TEAM": {
+      "name": "Atlassian Corporation",
+      "price": 93.29
+    },
+    "TECH": {
+      "name": "Bio-Techne Corp",
+      "price": 50.84
+    },
+    "TECK": {
+      "name": "Teck Resources Ltd",
+      "price": 66.09
+    },
+    "TECX": {
+      "name": "Tectonic Therapeutic Inc.",
+      "price": 29.78
+    },
+    "TEL": {
+      "name": "TE Connectivity plc",
+      "price": 210.33
+    },
+    "TELO": {
+      "name": "Telomir Pharmaceuticals Inc.",
+      "price": 1.28
+    },
+    "TEM": {
+      "name": "Tempus AI Inc.",
+      "price": 51.29
+    },
+    "TEN": {
+      "name": "Tsakos Energy Navigation Ltd",
+      "price": 38.01
+    },
+    "TENX": {
+      "name": "Tenax Therapeutics Inc.",
+      "price": 11.69
+    },
+    "TEO": {
+      "name": "Telecom Argentina SA",
+      "price": 13.81
+    },
+    "TER": {
+      "name": "Teradyne Inc.",
+      "price": 382.65
+    },
+    "TEX": {
+      "name": "Terex Corporation",
+      "price": 59.17
+    },
+    "TFC": {
+      "name": "Truist Financial Corporation",
+      "price": 47.8
+    },
+    "TFII": {
+      "name": "TFI International Inc.",
+      "price": 152.85
+    },
+    "TFPM": {
+      "name": "Triple Flag Precious Metals Corp.",
+      "price": 30.62
+    },
+    "TFSL": {
+      "name": "TFS Financial Corporation",
+      "price": 15.82
+    },
+    "TFX": {
+      "name": "Teleflex Incorporated",
+      "price": 129.66
+    },
+    "TG": {
+      "name": "Tredegar Corporation",
+      "price": 7.96
+    },
+    "TGE": {
+      "name": "The Generation Essentials Group",
+      "price": 1.08
+    },
+    "TGHL": {
+      "name": "The GrowHub Limited",
+      "price": 0.34
+    },
+    "TGL": {
+      "name": "Treasure Global Inc.",
+      "price": 4.3
+    },
+    "TGLS": {
+      "name": "Tecnoglass Inc.",
+      "price": 44.21
+    },
+    "TGS": {
+      "name": "Transportadora de Gas del Sur SA TGS",
+      "price": 30.78
+    },
+    "TGT": {
+      "name": "Target Corporation",
+      "price": 128.65
+    },
+    "TGTX": {
+      "name": "TG Therapeutics Inc.",
+      "price": 38.82
+    },
+    "TORO": {
+      "name": "Toro Corp.",
+      "price": 5.08
+    },
+    "TRNO": {
+      "name": "Terreno Realty Corporation",
+      "price": 66.85
+    },
+    "TTEC": {
+      "name": "TTEC Holdings Inc.",
+      "price": 2.71
+    },
+    "WETO": {
+      "name": "Wetour Robotics Limited",
+      "price": 1.04
+    },
+    "WGO": {
+      "name": "Winnebago Industries Inc.",
+      "price": 30.33
+    },
+    "WHF": {
+      "name": "WhiteHorse Finance Inc.",
+      "price": 6.7
+    },
+    "WMS": {
+      "name": "Advanced Drainage Systems Inc.",
+      "price": 140.05
+    },
+    "WNW": {
+      "name": "Meiwu Technology Company Limited",
+      "price": 3.16
+    },
+    "WPAC": {
+      "name": "White Pearl Acquisition Corp.",
+      "price": 9.97
+    },
+    "WPRT": {
+      "name": "Westport Fuel Systems Inc",
+      "price": 2.0
+    },
+    "WTM": {
+      "name": "White Mountains Insurance Group Ltd.",
+      "price": 2084.3101
+    },
+    "WU": {
+      "name": "Western Union Company (The)",
+      "price": 8.11
+    },
+    "XFOR": {
+      "name": "X4 Pharmaceuticals Inc.",
+      "price": 4.14
+    },
+    "XOS": {
+      "name": "Xos Inc.",
+      "price": 2.29
+    },
+    "XPOF": {
+      "name": "Xponential Fitness Inc.",
+      "price": 5.82
+    },
+    "XXI": {
+      "name": "Twenty One Capital Inc.",
+      "price": 7.33
+    },
+    "XZO": {
+      "name": "Exzeo Group Inc.",
+      "price": 13.64
+    },
+    "YEXT": {
+      "name": "Yext Inc.",
+      "price": 4.02
+    },
+    "YHNA": {
+      "name": "YHN Acquisition I Limited",
+      "price": 10.86
+    },
+    "Z": {
+      "name": "Zillow Group Inc.",
+      "price": 35.44
+    },
+    "ZBAO": {
+      "name": "Zhibao Technology Inc.",
+      "price": 0.989
+    },
+    "ZBIO": {
+      "name": "Zenas BioPharma Inc.",
+      "price": 18.56
+    },
+    "ZIP": {
+      "name": "ZipRecruiter Inc.",
+      "price": 3.23
+    },
+    "ZKIN": {
+      "name": "ZK International Group Co. Ltd",
+      "price": 1.38
+    },
+    "ZS": {
+      "name": "Zscaler Inc.",
+      "price": 130.04
     }
   }
 }
