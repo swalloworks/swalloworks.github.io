@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T22:40:05.353515-04:00",
+  "updated_at": "2026-06-15T23:31:57.317097-04:00",
   "prices": {
     "A": {
       "name": "Agilent Technologies Inc.",
@@ -704,6 +704,10 @@
     "AIP": {
       "name": "Arteris Inc.",
       "price": 43.63
+    },
+    "AIPO": {
+      "name": "Defiance AI & Power Infrastructure ETF",
+      "price": 32.57
     },
     "AIR": {
       "name": "AAR Corp.",
@@ -3995,7 +3999,7 @@
     },
     "BKYI": {
       "name": "BIO-key International Inc.",
-      "price": 4.14
+      "price": 4.16
     },
     "BL": {
       "name": "BlackLine Inc.",
@@ -30541,6 +30545,10 @@
       "name": "Global X Funds Global X Russell 2000 Covered Call & Growth ETF",
       "price": 24.4213
     },
+    "RYM": {
+      "name": "RYTHM Inc.",
+      "price": 28.0
+    },
     "RYN": {
       "name": "Rayonier Inc.",
       "price": 21.54
@@ -39739,7 +39747,7 @@
     },
     "ZSPC": {
       "name": "zSpace Inc.",
-      "price": 0.28
+      "price": 0.235
     },
     "ZSQR": {
       "name": "Z Squared Inc.",
@@ -39812,10 +39820,6 @@
     "ZYME": {
       "name": "Zymeworks Inc.",
       "price": 23.26
-    },
-    "RYM": {
-      "name": "RYTHM Inc.",
-      "price": 28.0
     }
   }
 }
