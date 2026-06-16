@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T18:45:28.248221-04:00",
+  "updated_at": "2026-06-15T21:06:48.811575-04:00",
   "prices": {
     "A": {
       "name": "Agilent Technologies Inc.",
@@ -1767,7 +1767,7 @@
     },
     "AREB": {
       "name": "American Rebel Holdings Inc.",
-      "price": 0.179
+      "price": 0.11
     },
     "AREC": {
       "name": "American Resources Corporation",
@@ -2055,7 +2055,7 @@
     },
     "ASNS": {
       "name": "Actelis Networks Inc.",
-      "price": 0.079
+      "price": 0.08
     },
     "ASO": {
       "name": "Academy Sports and Outdoors Inc.",
@@ -5443,7 +5443,7 @@
     },
     "CAPT": {
       "name": "Captivision Inc.",
-      "price": 0.0089
+      "price": 0.009
     },
     "CAQ": {
       "name": "Cambridge Acquisition Corp.",
@@ -18601,6 +18601,10 @@
       "name": "iShares S&P 500 Value ETF",
       "price": 228.75
     },
+    "IVES": {
+      "name": "Wedbush Series Trust Dan IVES Wedbush AI Revolution ETF",
+      "price": 38.31
+    },
     "IVF": {
       "name": "INVO Fertility Inc.",
       "price": 1.49
@@ -18612,6 +18616,10 @@
     "IVOG": {
       "name": "Vanguard S&P Mid-Cap 400 Growth ETF",
       "price": 143.92
+    },
+    "IVOL": {
+      "name": "Quadratic Interest Rate Volatility and Inflation Hedge ETF",
+      "price": 17.65
     },
     "IVOO": {
       "name": "Vanguard S&P Mid-Cap 400 ETF",
@@ -18629,9 +18637,25 @@
       "name": "iShares Trust iShares Future Metaverse Tech and Communications",
       "price": 32.18
     },
+    "IVSI": {
+      "name": "Applied Finance IVS International Large ETF",
+      "price": 28.8468
+    },
+    "IVSS": {
+      "name": "Applied Finance IVS US SMID ETF",
+      "price": 29.1426
+    },
+    "IVSX": {
+      "name": "Applied Finance IVS International SMID ETF",
+      "price": 24.795
+    },
     "IVV": {
       "name": "iShares Core S&P 500 ETF",
       "price": 756.35
+    },
+    "IVVB": {
+      "name": "iShares Large Cap Deep Quarterly Laddered ETF",
+      "price": 34.61
     },
     "IVVD": {
       "name": "Invivyd Inc.",
@@ -18652,6 +18676,10 @@
     "IVZ": {
       "name": "Invesco Ltd",
       "price": 29.1
+    },
+    "IWB": {
+      "name": "iShares Russell 1000 ETF",
+      "price": 411.73
     },
     "IWC": {
       "name": "iShares Microcap ETF",
@@ -18689,6 +18717,10 @@
       "name": "iShares Russell 2000 ETF",
       "price": 294.64
     },
+    "IWMI": {
+      "name": "NEOS ETF Trust NEOS Russell 2000 High Income ETF",
+      "price": 53.1
+    },
     "IWML": {
       "name": "ETRACS 2x Leveraged US Size Factor TR ETN",
       "price": 32.6
@@ -18696,6 +18728,10 @@
     "IWMW": {
       "name": "iShares Trust iShares Russell 2000 BuyWrite ETF",
       "price": 38.915
+    },
+    "IWMY": {
+      "name": "Defiance R2000 Weekly Distribution ETF",
+      "price": 19.74
     },
     "IWN": {
       "name": "iShares Russell 2000 Value ETF",
@@ -18713,6 +18749,10 @@
       "name": "iShares Russell Mid-Cap ETF",
       "price": 109.43
     },
+    "IWS": {
+      "name": "iShares Russell Mid-Cap Value ETF",
+      "price": 164.34
+    },
     "IWV": {
       "name": "iShares Russell 3000 ETF",
       "price": 427.83
@@ -18729,9 +18769,25 @@
       "name": "iShares Global Energy ETF",
       "price": 51.64
     },
+    "IXG": {
+      "name": "iShares Global Financial ETF",
+      "price": 123.98
+    },
     "IXHL": {
       "name": "Incannex Healthcare Inc.",
       "price": 3.67
+    },
+    "IXJ": {
+      "name": "iShares Global Healthcare ETF",
+      "price": 94.83
+    },
+    "IXN": {
+      "name": "iShares Global Tech ETF",
+      "price": 144.87
+    },
+    "IXP": {
+      "name": "iShares Global Comm Services ETF",
+      "price": 119.77
     },
     "IXUS": {
       "name": "iShares Core MSCI Total International Stock ETF",
@@ -18753,6 +18809,18 @@
       "name": "iShares U.S. Financial Services ETF",
       "price": 90.47
     },
+    "IYH": {
+      "name": "iShares U.S. Healthcare ETF",
+      "price": 64.02
+    },
+    "IYJ": {
+      "name": "iShares U.S. Industrials ETF",
+      "price": 161.0
+    },
+    "IYK": {
+      "name": "iShares U.S. Consumer Staples ETF",
+      "price": 73.16
+    },
     "IYLD": {
       "name": "iShares Morningstar Multi-Asset Income ETF",
       "price": 22.2605
@@ -18773,6 +18841,18 @@
       "name": "iShares Trust iShares U.S. Transportation ETF",
       "price": 86.51
     },
+    "IYW": {
+      "name": "iShares U.S. Technology ETF",
+      "price": 253.97
+    },
+    "IYY": {
+      "name": "iShares Dow Jones U.S. ETF",
+      "price": 183.47
+    },
+    "IYZ": {
+      "name": "iShares U.S. Telecommunications ETF",
+      "price": 43.26
+    },
     "IZEA": {
       "name": "IZEA Worldwide Inc.",
       "price": 3.72
@@ -18789,6 +18869,10 @@
       "name": "Jacobs Solutions Inc.",
       "price": 124.57
     },
+    "JAAA": {
+      "name": "Janus Henderson AAA CLO ETF",
+      "price": 50.62
+    },
     "JABS": {
       "name": "Janus Detroit Street Trust Janus Henderson Asset-Backed Securi",
       "price": 50.0
@@ -18801,21 +18885,49 @@
       "name": "Jackson Acquisition Company II",
       "price": 10.62
     },
+    "JADE": {
+      "name": "J.P. Morgan Exchange-Traded Fund Trust JPMorgan Active Develop",
+      "price": 80.5849
+    },
     "JAGU": {
       "name": "Jaguar Uranium Corp.",
       "price": 2.03
+    },
+    "JAGX": {
+      "name": "Jaguar Health Inc.",
+      "price": 2.47
+    },
+    "JAJL": {
+      "name": "Innovator Equity Defined Protection ETF - 6mo Jan/Jul",
+      "price": 29.86
     },
     "JAKK": {
       "name": "JAKKS Pacific Inc.",
       "price": 22.185
     },
+    "JAN": {
+      "name": "Janus Living Inc.",
+      "price": 25.19
+    },
     "JANH": {
       "name": "Innovator ETFs Trust Innovator Premium Income 20 Barrier ETF -",
       "price": 25.1101
     },
+    "JANJ": {
+      "name": "Innovator ETFs Trust Innovator Premium Income 30 Barrier ETF -",
+      "price": 25.0
+    },
     "JANM": {
       "name": "First Trust Exchange-Traded Fund VIII FT Vest U.S. Equity Max",
       "price": 33.765
+    },
+    "JANP": {
+      "name": "PGIM S&P 500 Buffer 12 ETF - January",
+      "price": 34.7486
+    },
+    "JANT": {
+      "name": "AllianzIM U.S. Large Cap Buffer10 Jan ETF",
+      "price": 44.0385
     },
     "JANU": {
       "name": "AIM ETF Products Trust AllianzIM U.S. Equity Buffer15 Uncapped",
@@ -18841,9 +18953,17 @@
       "name": "JATT II Acquisition Corp",
       "price": 10.48
     },
+    "JAVA": {
+      "name": "JPMorgan Active Value ETF",
+      "price": 79.7
+    },
     "JAZZ": {
       "name": "Jazz Pharmaceuticals plc Common Stock (Ireland)",
       "price": 230.59
+    },
+    "JBBB": {
+      "name": "Janus Detroit Street Trust Janus Henderson B-BBB CLO ETF",
+      "price": 47.75
     },
     "JBDI": {
       "name": "JBDI Holdings Limited",
@@ -18861,6 +18981,10 @@
       "name": "Janus International Group Inc.",
       "price": 5.28
     },
+    "JBIO": {
+      "name": "Jade Biosciences Inc.",
+      "price": 16.1
+    },
     "JBK": {
       "name": "Lehman ABS 3.50 3.50% Adjustable Corp Backed Tr Certs GS Cap I",
       "price": 26.05
@@ -18872,6 +18996,10 @@
     "JBLU": {
       "name": "JetBlue Airways Corporation",
       "price": 5.36
+    },
+    "JBND": {
+      "name": "J.P. Morgan Exchange-Traded Fund Trust JPMorgan Active Bond ET",
+      "price": 53.4
     },
     "JBS": {
       "name": "JBS N.V. Class A",
@@ -21599,7 +21727,7 @@
     },
     "MAPS": {
       "name": "WM Technology Inc.",
-      "price": 0.3899
+      "price": 0.384
     },
     "MAR": {
       "name": "Marriott International",
@@ -24323,7 +24451,7 @@
     },
     "NOTV": {
       "name": "Inotiv Inc.",
-      "price": 0.0799
+      "price": 0.036
     },
     "NOV": {
       "name": "NOV Inc.",
@@ -24335,7 +24463,7 @@
     },
     "NOVP": {
       "name": "PGIM S&P 500 Buffer 12 ETF - November",
-      "price": 32.288
+      "price": 32.1586
     },
     "NOVT": {
       "name": "Novanta Inc.",
@@ -30111,7 +30239,7 @@
     },
     "RVPH": {
       "name": "Reviva Pharmaceuticals Holdings Inc.",
-      "price": 0.69
+      "price": 0.7
     },
     "RVRB": {
       "name": "Advisors Series Trust Reverb ETF",
@@ -30739,7 +30867,7 @@
     },
     "SCVL": {
       "name": "Shoe Carnival Inc.",
-      "price": 17.4
+      "price": 16.85
     },
     "SCWO": {
       "name": "374Water Inc.",
@@ -30959,7 +31087,7 @@
     },
     "SELX": {
       "name": "Semilux International Ltd.",
-      "price": 0.1179
+      "price": 0.0828
     },
     "SEM": {
       "name": "Select Medical Holdings Corporation",
@@ -36055,7 +36183,7 @@
     },
     "USEG": {
       "name": "U.S. Energy Corp.",
-      "price": 1.045
+      "price": 1.02
     },
     "USEP": {
       "name": "Innovator U.S. Equity Ultra Buffer ETF - September",
@@ -37903,7 +38031,7 @@
     },
     "WORX": {
       "name": "SCWorx Corp.",
-      "price": 0.3
+      "price": 0.265
     },
     "WPAC": {
       "name": "White Pearl Acquisition Corp.",
@@ -39403,7 +39531,7 @@
     },
     "ZSPC": {
       "name": "zSpace Inc.",
-      "price": 0.22
+      "price": 0.28
     },
     "ZSQR": {
       "name": "Z Squared Inc.",
@@ -39476,134 +39604,6 @@
     "ZYME": {
       "name": "Zymeworks Inc.",
       "price": 23.26
-    },
-    "IVES": {
-      "name": "Wedbush Series Trust Dan IVES Wedbush AI Revolution ETF",
-      "price": 38.31
-    },
-    "IVOL": {
-      "name": "Quadratic Interest Rate Volatility and Inflation Hedge ETF",
-      "price": 17.65
-    },
-    "IVSI": {
-      "name": "Applied Finance IVS International Large ETF",
-      "price": 28.8468
-    },
-    "IVSS": {
-      "name": "Applied Finance IVS US SMID ETF",
-      "price": 29.1426
-    },
-    "IVSX": {
-      "name": "Applied Finance IVS International SMID ETF",
-      "price": 24.795
-    },
-    "IVVB": {
-      "name": "iShares Large Cap Deep Quarterly Laddered ETF",
-      "price": 34.61
-    },
-    "IWB": {
-      "name": "iShares Russell 1000 ETF",
-      "price": 411.73
-    },
-    "IWMI": {
-      "name": "NEOS ETF Trust NEOS Russell 2000 High Income ETF",
-      "price": 53.1
-    },
-    "IWMY": {
-      "name": "Defiance R2000 Weekly Distribution ETF",
-      "price": 19.74
-    },
-    "IWS": {
-      "name": "iShares Russell Mid-Cap Value ETF",
-      "price": 164.34
-    },
-    "IXG": {
-      "name": "iShares Global Financial ETF",
-      "price": 123.98
-    },
-    "IXJ": {
-      "name": "iShares Global Healthcare ETF",
-      "price": 94.83
-    },
-    "IXN": {
-      "name": "iShares Global Tech ETF",
-      "price": 144.87
-    },
-    "IXP": {
-      "name": "iShares Global Comm Services ETF",
-      "price": 119.77
-    },
-    "IYH": {
-      "name": "iShares U.S. Healthcare ETF",
-      "price": 64.02
-    },
-    "IYJ": {
-      "name": "iShares U.S. Industrials ETF",
-      "price": 161.0
-    },
-    "IYK": {
-      "name": "iShares U.S. Consumer Staples ETF",
-      "price": 73.16
-    },
-    "IYW": {
-      "name": "iShares U.S. Technology ETF",
-      "price": 253.97
-    },
-    "IYY": {
-      "name": "iShares Dow Jones U.S. ETF",
-      "price": 183.47
-    },
-    "IYZ": {
-      "name": "iShares U.S. Telecommunications ETF",
-      "price": 43.26
-    },
-    "JAAA": {
-      "name": "Janus Henderson AAA CLO ETF",
-      "price": 50.62
-    },
-    "JADE": {
-      "name": "J.P. Morgan Exchange-Traded Fund Trust JPMorgan Active Develop",
-      "price": 80.5849
-    },
-    "JAGX": {
-      "name": "Jaguar Health Inc.",
-      "price": 2.47
-    },
-    "JAJL": {
-      "name": "Innovator Equity Defined Protection ETF - 6mo Jan/Jul",
-      "price": 29.86
-    },
-    "JAN": {
-      "name": "Janus Living Inc.",
-      "price": 25.19
-    },
-    "JANJ": {
-      "name": "Innovator ETFs Trust Innovator Premium Income 30 Barrier ETF -",
-      "price": 25.0
-    },
-    "JANP": {
-      "name": "PGIM S&P 500 Buffer 12 ETF - January",
-      "price": 34.7486
-    },
-    "JANT": {
-      "name": "AllianzIM U.S. Large Cap Buffer10 Jan ETF",
-      "price": 44.0385
-    },
-    "JAVA": {
-      "name": "JPMorgan Active Value ETF",
-      "price": 79.7
-    },
-    "JBBB": {
-      "name": "Janus Detroit Street Trust Janus Henderson B-BBB CLO ETF",
-      "price": 47.75
-    },
-    "JBIO": {
-      "name": "Jade Biosciences Inc.",
-      "price": 16.1
-    },
-    "JBND": {
-      "name": "J.P. Morgan Exchange-Traded Fund Trust JPMorgan Active Bond ET",
-      "price": 53.4
     }
   }
 }
