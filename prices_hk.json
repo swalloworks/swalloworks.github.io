@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T17:17:15.064976+08:00",
+  "updated_at": "2026-06-24T17:19:02.699448+08:00",
   "prices": {
     "0001.HK": {
       "name": "CKH HOLDINGS",
@@ -4097,6 +4097,10 @@
       "name": "LEVER STYLE",
       "price": 1.28
     },
+    "1347.HK": {
+      "name": "HUA HONG GRACE",
+      "price": 192.0
+    },
     "1348.HK": {
       "name": "QUALI-SMART",
       "price": 0.26
@@ -4129,6 +4133,10 @@
       "name": "CHINA CINDA",
       "price": 1.0
     },
+    "1361.HK": {
+      "name": "361 DEGREES",
+      "price": 4.1
+    },
     "1362.HK": {
       "name": "SIS MOBILE",
       "price": 0.84
@@ -4144,6 +4152,10 @@
     "1370.HK": {
       "name": "AOWEI HOLDING",
       "price": 0.122
+    },
+    "1371.HK": {
+      "name": "CHINA ECOTOUR",
+      "price": 0.142
     },
     "1372.HK": {
       "name": "C CARBONNEUTRAL",
@@ -4189,6 +4201,10 @@
       "name": "EMBRY HOLDINGS",
       "price": 0.3
     },
+    "1389.HK": {
+      "name": "MAJOR HLDGS",
+      "price": 0.4
+    },
     "1392.HK": {
       "name": "HQVT",
       "price": 18.0
@@ -4212,6 +4228,10 @@
     "1398.HK": {
       "name": "ICBC",
       "price": 6.77
+    },
+    "1399.HK": {
+      "name": "VESON HLDG",
+      "price": 0.435
     },
     "1400.HK": {
       "name": "MOODY TECH HLDG",
@@ -4281,6 +4301,10 @@
       "name": "PROSP GP INTL",
       "price": 0.405
     },
+    "1425.HK": {
+      "name": "JUSTIN ALLEN H",
+      "price": 0.67
+    },
     "1426.HK": {
       "name": "SPRING REIT",
       "price": 1.29
@@ -4309,6 +4333,10 @@
       "name": "CIRTEK HLDGS",
       "price": 0.081
     },
+    "1440.HK": {
+      "name": "STAR SHINE HLDG",
+      "price": 14.99
+    },
     "1442.HK": {
       "name": "INFINITY L&T",
       "price": 0.32
@@ -4328,6 +4356,10 @@
     "1448.HK": {
       "name": "FU SHOU YUAN",
       "price": 2.64
+    },
+    "1449.HK": {
+      "name": "LEADER EDU",
+      "price": 0.285
     },
     "1450.HK": {
       "name": "BE FRIENDS HLDG",
@@ -12376,38 +12408,6 @@
     "9999.HK": {
       "name": "NTES-S",
       "price": 185.6
-    },
-    "1347.HK": {
-      "name": "HUA HONG GRACE",
-      "price": 192.0
-    },
-    "1361.HK": {
-      "name": "361 DEGREES",
-      "price": 4.1
-    },
-    "1371.HK": {
-      "name": "CHINA ECOTOUR",
-      "price": 0.142
-    },
-    "1389.HK": {
-      "name": "MAJOR HLDGS",
-      "price": 0.4
-    },
-    "1399.HK": {
-      "name": "VESON HLDG",
-      "price": 0.435
-    },
-    "1425.HK": {
-      "name": "JUSTIN ALLEN H",
-      "price": 0.67
-    },
-    "1440.HK": {
-      "name": "STAR SHINE HLDG",
-      "price": 14.99
-    },
-    "1449.HK": {
-      "name": "LEADER EDU",
-      "price": 0.285
     }
   }
 }
