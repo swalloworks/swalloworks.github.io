@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T17:33:58.066302-04:00",
+  "updated_at": "2026-10-01T07:31:23.134009-04:00",
   "prices": {
     "AAA-P.V": {
       "name": "First Tidal Acquisition Corp.",
@@ -63,7 +63,7 @@
     },
     "ABM.V": {
       "name": "Aben Gold Corp.",
-      "price": 0.155
+      "price": 0.16
     },
     "ABNB.TO": {
       "name": "Airbnb CDR (CAD Hedged)",
@@ -71,7 +71,7 @@
     },
     "ABR.V": {
       "name": "Arbor Metals Corp.",
-      "price": 0.075
+      "price": 0.08
     },
     "ABRA.TO": {
       "name": "AbraSilver Resource Corp.",
@@ -88,6 +88,10 @@
     "ABXU.TO": {
       "name": "SavvyLong (2X) Barrick ETF",
       "price": 26.42
+    },
+    "ABXX.TO": {
+      "name": "Abaxx Technologies Inc.",
+      "price": 16.08
     },
     "ABZ.V": {
       "name": "AsiaBaseMetals Inc.",
@@ -132,6 +136,10 @@
     "ACS.V": {
       "name": "Archon Minerals Limited",
       "price": 0.085
+    },
+    "ACT.TO": {
+      "name": "Aduro Clean Technologies Inc.",
+      "price": 17.72
     },
     "ACU.V": {
       "name": "Aurora Solar Technologies Inc.",
@@ -191,7 +199,7 @@
     },
     "AEF.V": {
       "name": "AE Fuels Corporation",
-      "price": 0.18
+      "price": 0.19
     },
     "AEG.TO": {
       "name": "Aegis Brands Inc.",
@@ -203,15 +211,23 @@
     },
     "AEMC.V": {
       "name": "Alaska Energy Metals Corporation",
-      "price": 0.045
+      "price": 0.05
     },
     "AEME.TO": {
       "name": "Harvest Agnico Eagle Enhanced High Income Shares ETF",
       "price": 12.06
     },
+    "AENP.TO": {
+      "name": "AGF Enhanced U.S. Income Plus Fund",
+      "price": 25.21
+    },
     "AEP.V": {
       "name": "Atlas Engineered Products Ltd.",
-      "price": 0.6
+      "price": 0.58
+    },
+    "AFC-P.V": {
+      "name": "AF3 Capital Corp.",
+      "price": 0.18
     },
     "AFE.V": {
       "name": "Africa Energy Corp.",
@@ -333,6 +349,10 @@
       "name": "AI Artificial Intelligence Ventures Inc.",
       "price": 0.17
     },
+    "AKT.TO": {
+      "name": "Akita Drilling Ltd.",
+      "price": 3.66
+    },
     "ALA.TO": {
       "name": "AltaGas Ltd.",
       "price": 52.26
@@ -348,6 +368,10 @@
     "ALC.TO": {
       "name": "Algoma Central Corporation",
       "price": 23.7
+    },
+    "ALCH.V": {
+      "name": "Alchemy Labs Inc.",
+      "price": 0.89
     },
     "ALDE.V": {
       "name": "Aldebaran Resources Inc.",
@@ -375,7 +399,7 @@
     },
     "ALPU.TO": {
       "name": "SavvyLong (2X) GOOGL ETF",
-      "price": 17.7
+      "price": 17.35
     },
     "ALS.TO": {
       "name": "Altius Minerals Corporation",
@@ -383,11 +407,11 @@
     },
     "ALT.V": {
       "name": "Alturas Minerals Corp.",
-      "price": 0.015
+      "price": 0.02
     },
     "ALTA.V": {
       "name": "Altamira Gold Corp.",
-      "price": 0.265
+      "price": 0.27
     },
     "ALTN.V": {
       "name": "Aeonian Resources Corp.",
@@ -411,7 +435,15 @@
     },
     "ALZ.TO": {
       "name": "Allianz CDR (CAD Hedged)",
-      "price": 31.94
+      "price": 31.81
+    },
+    "ALZI.V": {
+      "name": "Alzai Health Corp.",
+      "price": 0.37
+    },
+    "AMAP.TO": {
+      "name": "Amapá Minerals Holdings Inc.",
+      "price": 1.02
     },
     "AMAT.TO": {
       "name": "Applied Materials CDR (CAD Hedged)",
@@ -432,6 +464,10 @@
     "AMD.TO": {
       "name": "Advanced Micro Devices CDR (CAD Hedged)",
       "price": 110.45
+    },
+    "AMDU.TO": {
+      "name": "SavvyLong (2X) AMD ETF",
+      "price": 26.32
     },
     "AMDY.TO": {
       "name": "Harvest AMD Enhanced High Income Shares ETF",
@@ -470,12 +506,12 @@
       "price": 0.21
     },
     "AMX.V": {
-      "name": "Amex Exploration Inc.",
+      "name": "Amex Gold Mining Inc.",
       "price": 4.1
     },
     "AMY.V": {
       "name": "RecycLiCo Battery Materials Inc.",
-      "price": 0.045
+      "price": 0.05
     },
     "AMYA-P.V": {
       "name": "Amaya Big Sky Capital Corp.",
@@ -507,7 +543,7 @@
     },
     "ANOR.V": {
       "name": "AnorTech Inc.",
-      "price": 0.125
+      "price": 0.13
     },
     "ANRG.TO": {
       "name": "Anaergia Inc.",
@@ -569,9 +605,13 @@
       "name": "Automotive Properties Real Estate Investment Trust",
       "price": 11.58
     },
+    "APTX.TO": {
+      "name": "Apotex Health Corp.",
+      "price": 31.13
+    },
     "APX.V": {
       "name": "Apex Resources Inc.",
-      "price": 0.085
+      "price": 0.09
     },
     "AQN.TO": {
       "name": "Algonquin Power & Utilities Corp.",
@@ -621,6 +661,10 @@
       "name": "Aurum Lake Mining Corporation",
       "price": 0.04
     },
+    "ARN.TO": {
+      "name": "Asarian Energy Limited",
+      "price": 0.33
+    },
     "AROC-P.V": {
       "name": "Argo Opportunity Corp.",
       "price": 0.05
@@ -648,6 +692,10 @@
     "ASG.V": {
       "name": "Aurora Spine Corporation",
       "price": 0.14
+    },
+    "ASHR.TO": {
+      "name": "Mulvihill Split Capital Share ETF",
+      "price": 19.03
     },
     "ASL.V": {
       "name": "Argentum Silver Corp.",
@@ -692,6 +740,10 @@
     "ATLH-P.V": {
       "name": "Atlantic Horizon Capital Corp.",
       "price": 0.06
+    },
+    "ATOI.V": {
+      "name": "Asiatel Outsourcing Inc.",
+      "price": 0.15
     },
     "ATOM.V": {
       "name": "Atomic Minerals Corporation",
@@ -759,11 +811,15 @@
     },
     "AUQ.V": {
       "name": "AuQ Gold Mining Inc.",
-      "price": 0.295
+      "price": 0.3
     },
     "AURA.V": {
       "name": "Auranova Resources Inc.",
       "price": 0.25
+    },
+    "AURO.V": {
+      "name": "Auro Metals Inc.",
+      "price": 1.62
     },
     "AUTO.V": {
       "name": "Agereh Technologies Inc.",
@@ -855,7 +911,7 @@
     },
     "AXL.V": {
       "name": "Arrow Exploration Corp.",
-      "price": 0.665
+      "price": 0.67
     },
     "AXO.V": {
       "name": "Axo Metals Corp.",
@@ -887,7 +943,7 @@
     },
     "AZR.V": {
       "name": "Azarga Metals Corp.",
-      "price": 0.165
+      "price": 0.17
     },
     "AZS.V": {
       "name": "Arizona Gold & Silver Inc.",
@@ -931,7 +987,7 @@
     },
     "BARU.V": {
       "name": "Baru Gold Corp.",
-      "price": 0.055
+      "price": 0.06
     },
     "BASE.TO": {
       "name": "Evolve Global Materials & Mining Enhanced Yield Index ETF",
@@ -959,7 +1015,7 @@
     },
     "BBBB.TO": {
       "name": "Brompton Wellington Square Investment Grade CLO ETF",
-      "price": 19.15
+      "price": 18.99
     },
     "BBD-A.TO": {
       "name": "Bombardier Inc.",
@@ -983,7 +1039,7 @@
     },
     "BCHI.TO": {
       "name": "Ninepoint BCE HighShares ETF",
-      "price": 7.25
+      "price": 7.23
     },
     "BCHT.TO": {
       "name": "Birchtech Corp.",
@@ -1051,7 +1107,7 @@
     },
     "BEPR.TO": {
       "name": "Brompton Flaherty & Crumrine Enhanced Investment Grade Preferred ETF",
-      "price": 8.035
+      "price": 8.04
     },
     "BES.V": {
       "name": "Braille Energy Systems Inc.",
@@ -1071,7 +1127,7 @@
     },
     "BFIN.TO": {
       "name": "Brompton North American Financials Dividend ETF",
-      "price": 27.69
+      "price": 27.37
     },
     "BFM.V": {
       "name": "Bedford Metals Corp.",
@@ -1083,15 +1139,15 @@
     },
     "BGC.TO": {
       "name": "Bristol Gate Concentrated Canadian Equity ETF",
-      "price": 36.75
+      "price": 36.82
     },
     "BGD.V": {
-      "name": "Bullion Gold Resources Corp.",
+      "name": "Bullion Gold Discoveries Corp.",
       "price": 0.08
     },
     "BGF.V": {
       "name": "Beauce Gold Fields Inc.",
-      "price": 0.025
+      "price": 0.03
     },
     "BGI-UN.TO": {
       "name": "Brookfield Global Infrastructure Securities Income Fund",
@@ -1111,7 +1167,7 @@
     },
     "BHS.V": {
       "name": "Bayhorse Silver Inc.",
-      "price": 0.055
+      "price": 0.06
     },
     "BIG.V": {
       "name": "Hercules Metals Corp.",
@@ -1151,11 +1207,11 @@
     },
     "BIVC.TO": {
       "name": "Capstone Biblically Informed Canadian Equity Fund",
-      "price": 23.9142
+      "price": 23.47
     },
     "BIVU.TO": {
       "name": "Capstone Biblically Informed U.S. Equity Fund",
-      "price": 20.0041
+      "price": 19.54
     },
     "BK.TO": {
       "name": "Canadian Banc Corp.",
@@ -1171,7 +1227,7 @@
     },
     "BKI.TO": {
       "name": "Black Iron Inc.",
-      "price": 0.075
+      "price": 0.08
     },
     "BKM.V": {
       "name": "Pacific Booker Minerals Inc.",
@@ -1191,7 +1247,7 @@
     },
     "BLCK.TO": {
       "name": "First Trust Indxx Innovative Transaction and Process ETF",
-      "price": 47.31
+      "price": 46.84
     },
     "BLCO.TO": {
       "name": "Bausch + Lomb Corporation",
@@ -1239,7 +1295,7 @@
     },
     "BMET.V": {
       "name": "Bemetals Corp.",
-      "price": 0.385
+      "price": 0.39
     },
     "BMM.V": {
       "name": "Black Mammoth Metals Corporation",
@@ -1279,7 +1335,7 @@
     },
     "BNG.TO": {
       "name": "Bengal Energy Ltd.",
-      "price": 0.025
+      "price": 0.03
     },
     "BNK.TO": {
       "name": "Big Banc Split Corp.",
@@ -1295,7 +1351,7 @@
     },
     "BNKU.TO": {
       "name": "MegaLong (3X) Canadian Banks Daily Leveraged Alternative ETF",
-      "price": 20.46
+      "price": 21.23
     },
     "BNS.TO": {
       "name": "Bank of Nova Scotia (The)",
@@ -1348,6 +1404,10 @@
     "BPF-UN.TO": {
       "name": "Boston Pizza Royalties Income Fund",
       "price": 19.76
+    },
+    "BPR.V": {
+      "name": "Black Pine Resources Corp.",
+      "price": 0.085
     },
     "BPRF.TO": {
       "name": "Brompton Flaherty & Crumrine Investment Grade Preferred ETF",
@@ -1407,7 +1467,7 @@
     },
     "BRW.V": {
       "name": "Brunswick Exploration Inc.",
-      "price": 0.245
+      "price": 0.25
     },
     "BRY.TO": {
       "name": "Bri-Chem Corp.",
@@ -1471,11 +1531,11 @@
     },
     "BTT.V": {
       "name": "Bitterroot Resources Ltd.",
-      "price": 0.125
+      "price": 0.13
     },
     "BTU.V": {
       "name": "BTU Metals Corp.",
-      "price": 0.035
+      "price": 0.04
     },
     "BU.TO": {
       "name": "Burcon Nutrascience Corporation",
@@ -1484,6 +1544,10 @@
     "BUFF.V": {
       "name": "Buffalo Potash Corporation",
       "price": 0.89
+    },
+    "BUSH-P.V": {
+      "name": "Bushido Capital Corp.",
+      "price": 0.1
     },
     "BUZ-P.V": {
       "name": "Buzz Capital Inc.",
@@ -1519,7 +1583,7 @@
     },
     "BYL.TO": {
       "name": "Baylin Technologies Inc.",
-      "price": 0.215
+      "price": 0.22
     },
     "BYN.V": {
       "name": "Banyan Gold Corp.",
@@ -1549,6 +1613,10 @@
       "name": "Avantis CIBC International Equity ETF",
       "price": 21.92
     },
+    "CADY.TO": {
+      "name": "Cadillac Mines Corporation",
+      "price": 6.09
+    },
     "CAE.TO": {
       "name": "CAE Inc.",
       "price": 34.23
@@ -1573,17 +1641,29 @@
       "name": "CI Canadian Aggregate Bond Index ETF",
       "price": 42.9
     },
+    "CAGR.TO": {
+      "name": "Avantis CIBC Growth Asset Allocation ETF",
+      "price": 19.89
+    },
     "CAGS.TO": {
       "name": "CI Canadian Short-Term Aggregate Bond Index ETF",
-      "price": 46.83
+      "price": 46.82
+    },
+    "CAGX.TO": {
+      "name": "Avantis CIBC World Equity ETF",
+      "price": 20.05
     },
     "CAI.V": {
       "name": "Capitan Investment Ltd.",
       "price": 0.02
     },
+    "CAKE.TO": {
+      "name": "Avantis CIBC Balanced Asset Allocation ETF",
+      "price": 19.91
+    },
     "CALB.TO": {
       "name": "CIBC Canadian Government Long-Term Bond ETF",
-      "price": 17.95
+      "price": 17.76
     },
     "CALL.TO": {
       "name": "Evolve US Banks Enhanced Yield Fund",
@@ -1600,6 +1680,10 @@
     "CAMB.V": {
       "name": "Cambria Gold Mines Inc.",
       "price": 0.76
+    },
+    "CAMO.TO": {
+      "name": "Evolve Global Defense & Aerospace Index ETF",
+      "price": 17.94
     },
     "CAN.V": {
       "name": "Canadian Gold Resources Ltd.",
@@ -1637,13 +1721,25 @@
       "name": "Capital Group Multi-Sector Income Select ETFTM (Canada)",
       "price": 23.44
     },
+    "CAPN.TO": {
+      "name": "Capital Group International Developed Equity Select ETF (Canada)",
+      "price": 25.52
+    },
+    "CAPQ.TO": {
+      "name": "Capital Group Global Developed Equity Select ETF (Canada)",
+      "price": 25.54
+    },
     "CAPT.V": {
       "name": "Capitan Silver Corp.",
       "price": 2.07
     },
+    "CAPU.TO": {
+      "name": "Capital Group U.S. Equity Select ETF (Canada)",
+      "price": 25.48
+    },
     "CAPW.TO": {
       "name": "Capital Group World Bond Select ETFTM (Canada)",
-      "price": 23.1
+      "price": 23.07
     },
     "CAR-UN.TO": {
       "name": "Canadian Apartment Properties Real Estate Investment Trust",
@@ -1687,7 +1783,7 @@
     },
     "CBAL.TO": {
       "name": "CI Balanced Asset Allocation ETF",
-      "price": 27.57
+      "price": 27.54
     },
     "CBAP.TO": {
       "name": "CI Balanced+ Asset Allocation ETF Fund",
@@ -1699,7 +1795,7 @@
     },
     "CBCX.TO": {
       "name": "CI Galaxy Blockchain Index ETF",
-      "price": 46.08
+      "price": 45.63
     },
     "CBG.V": {
       "name": "Chibougamau Independent Mines Inc.",
@@ -1727,11 +1823,11 @@
     },
     "CBL.TO": {
       "name": "Franklin Core ETF Portfolio",
-      "price": 24.8017
+      "price": 25.01
     },
     "CBLN.TO": {
       "name": "CIBC Balanced ETF Portfolio",
-      "price": 21.47
+      "price": 21.56
     },
     "CBLT.V": {
       "name": "CBLT Inc.",
@@ -1759,7 +1855,7 @@
     },
     "CBUG.TO": {
       "name": "CI Digital Security Index ETF",
-      "price": 45.43
+      "price": 45.33
     },
     "CCA.TO": {
       "name": "Cogeco Communications Inc.",
@@ -1775,11 +1871,11 @@
     },
     "CCBI.TO": {
       "name": "CIBC Canadian Bond Index ETF",
-      "price": 17.52
+      "price": 17.53
     },
     "CCCB.TO": {
       "name": "CIBC Canadian Banks Covered Call ETF",
-      "price": 28.81
+      "price": 28.48
     },
     "CCCM.V": {
       "name": "C3 Metals Inc.",
@@ -1787,7 +1883,7 @@
     },
     "CCCX.TO": {
       "name": "CI Galaxy Core Multi-Crypto ETF",
-      "price": 6.49
+      "price": 6.51
     },
     "CCD.V": {
       "name": "Cascadero Copper Corporation",
@@ -1809,6 +1905,10 @@
       "name": "CIBC MSCI Canada Equity Index ETF",
       "price": 38.25
     },
+    "CCGP.TO": {
+      "name": "Counterpoint Global CIBC Global Permanence ETF",
+      "price": 21.09
+    },
     "CCHI.TO": {
       "name": "Ninepoint Cameco HighShares ETF",
       "price": 9.33
@@ -1816,6 +1916,10 @@
     "CCIC-P.V": {
       "name": "Chicane Capital I Corp.",
       "price": 0.09
+    },
+    "CCIP.TO": {
+      "name": "Counterpoint Global CIBC International Permanence ETF",
+      "price": 20.78
     },
     "CCL-A.TO": {
       "name": "CCL Industries Inc.",
@@ -1839,7 +1943,7 @@
     },
     "CCNS.TO": {
       "name": "CIBC Conservative Fixed Income Pool",
-      "price": 17.68
+      "price": 17.7
     },
     "CCNV.TO": {
       "name": "CI Conservative Asset Allocation ETF",
@@ -1859,7 +1963,7 @@
     },
     "CCON.TO": {
       "name": "CIBC Conservative ETF Portfolio",
-      "price": 20.638
+      "price": 20.6
     },
     "CCOU.TO": {
       "name": "SavvyLong (2X) Cameco ETF",
@@ -1869,9 +1973,17 @@
       "name": "CIBC Core Fixed Income Pool",
       "price": 17.35
     },
+    "CCUL.TO": {
+      "name": "Counterpoint Global CIBC U.S. Large Cap Growth ETF",
+      "price": 22.05
+    },
+    "CCUS.TO": {
+      "name": "Counterpoint Global CIBC U.S. Small Cap Growth ETF",
+      "price": 21.03
+    },
     "CD.V": {
       "name": "Cantex Mine Development Corp.",
-      "price": 0.285
+      "price": 0.29
     },
     "CDA.V": {
       "name": "Canuc Resources Corporation",
@@ -1887,7 +1999,7 @@
     },
     "CDEF.TO": {
       "name": "Manulife Smart Defensive Equity ETF",
-      "price": 14.8
+      "price": 14.54
     },
     "CDIV.TO": {
       "name": "Manulife Smart Dividend ETF",
@@ -1935,7 +2047,11 @@
     },
     "CEMX.TO": {
       "name": "CEMATRIX Corporation",
-      "price": 0.485
+      "price": 0.49
+    },
+    "CENT.V": {
+      "name": "Centauri Minerals Inc.",
+      "price": 1.4
     },
     "CEQ.V": {
       "name": "Criterium Energy Ltd.",
@@ -1943,15 +2059,15 @@
     },
     "CEQP.TO": {
       "name": "CI Equity+ Asset Allocation ETF Fund",
-      "price": 21.99
+      "price": 22.01
     },
     "CEQT.TO": {
       "name": "CI Equity Asset Allocation ETF",
-      "price": 35.33
+      "price": 35.36
     },
     "CEQY.TO": {
       "name": "CIBC All-Equity ETF Portfolio",
-      "price": 24.5
+      "price": 24.51
     },
     "CERT.V": {
       "name": "Cerrado Gold Inc.",
@@ -1975,7 +2091,11 @@
     },
     "CFF.TO": {
       "name": "Conifex Timber Inc.",
-      "price": 0.105
+      "price": 0.11
+    },
+    "CFIN.TO": {
+      "name": "Evolve Canadian Financials Yield Fund",
+      "price": 19.65
     },
     "CFLX.TO": {
       "name": "CIBC Flexible Yield ETF (CAD-Hedged)",
@@ -2031,7 +2151,7 @@
     },
     "CGDV.TO": {
       "name": "CI Global Minimum Downside Volatility Index Fund",
-      "price": 25.13
+      "price": 24.99
     },
     "CGG.TO": {
       "name": "China Gold International Resources Corp. Ltd.",
@@ -2059,7 +2179,7 @@
     },
     "CGM.V": {
       "name": "Canadian Goldfields Discovery Corp.",
-      "price": 0.195
+      "price": 0.2
     },
     "CGMD.TO": {
       "name": "MegaShort (-3X) Canadian Gold Miners Daily Leveraged Alternative ETF",
@@ -2067,7 +2187,7 @@
     },
     "CGMU.TO": {
       "name": "MegaLong (3X) Canadian Gold Miners Daily Leveraged Alternative ETF",
-      "price": 8.74
+      "price": 9.05
     },
     "CGNT.V": {
       "name": "Copper Giant Resources Corp.",
@@ -2079,7 +2199,7 @@
     },
     "CGQD-B.TO": {
       "name": "CI Global Quality Dividend Growth Index ETF",
-      "price": 25.95
+      "price": 25.91
     },
     "CGR.TO": {
       "name": "iShares Global Real Estate Index ETF",
@@ -2095,7 +2215,7 @@
     },
     "CGRE.TO": {
       "name": "CI Global REIT Private Pool",
-      "price": 21.52
+      "price": 21.49
     },
     "CGRN.TO": {
       "name": "CI Global Sustainable Infrastructure Fund",
@@ -2103,11 +2223,11 @@
     },
     "CGRO.TO": {
       "name": "CI Growth Asset Allocation ETF",
-      "price": 31.6
+      "price": 31.4
     },
     "CGRW.TO": {
       "name": "CIBC Balanced Growth ETF Portfolio",
-      "price": 22.1
+      "price": 22.06
     },
     "CGX.TO": {
       "name": "Cineplex Inc.",
@@ -2115,14 +2235,14 @@
     },
     "CGXF.TO": {
       "name": "CI Gold+ Giants Covered Call ETF",
-      "price": 17.785
+      "price": 17.79
     },
     "CGY.TO": {
       "name": "Calian Group Ltd.",
       "price": 81.52
     },
     "CH.V": {
-      "name": "Charbone Hydrogen Corporation",
+      "name": "Charbone Corporation",
       "price": 0.145
     },
     "CHER.V": {
@@ -2133,9 +2253,13 @@
       "name": "Chicane Capital II Corp.",
       "price": 0.07
     },
+    "CHLT.TO": {
+      "name": "Custom Health Holdings Inc.",
+      "price": 7.98
+    },
     "CHNA-B.TO": {
       "name": "CI ICBCUBS S&P China 500 Index ETF",
-      "price": 28.22
+      "price": 28.25
     },
     "CHP-UN.TO": {
       "name": "Choice Properties Real Estate Investment Trust",
@@ -2203,7 +2327,7 @@
     },
     "CINV.TO": {
       "name": "CI Global Alpha Innovators ETF",
-      "price": 40.98
+      "price": 40.62
     },
     "CIO.V": {
       "name": "Central Iron Ore Limited",
@@ -2219,7 +2343,7 @@
     },
     "CJR-B.TO": {
       "name": "Corus Entertainment Inc.",
-      "price": 0.035
+      "price": 0.04
     },
     "CJT.TO": {
       "name": "Cargojet Inc.",
@@ -2227,7 +2351,7 @@
     },
     "CKG.V": {
       "name": "Chesapeake Gold Corp.",
-      "price": 2.895
+      "price": 2.9
     },
     "CKI.TO": {
       "name": "Clarke Inc.",
@@ -2247,7 +2371,7 @@
     },
     "CLG.TO": {
       "name": "iShares 1-10 Year Laddered Government Bond Index ETF",
-      "price": 17.015
+      "price": 17.02
     },
     "CLHI.TO": {
       "name": "Ninepoint Celestica HighShares ETF",
@@ -2283,7 +2407,7 @@
     },
     "CLZ.V": {
       "name": "Canasil Resources Inc.",
-      "price": 0.045
+      "price": 0.05
     },
     "CM.TO": {
       "name": "Canadian Imperial Bank Of Commerce",
@@ -2295,7 +2419,7 @@
     },
     "CMAR.TO": {
       "name": "CI Marret Alternative Absolute Return Bond Fund",
-      "price": 17.37
+      "price": 17.36
     },
     "CMAX.TO": {
       "name": "Hamilton Canadian Equity YIELD MAXIMIZER TM ETF",
@@ -2303,19 +2427,27 @@
     },
     "CMC.V": {
       "name": "Cielo Waste Solutions Corp.",
-      "price": 0.055
+      "price": 0.06
+    },
+    "CMCC.TO": {
+      "name": "Global X All-In-One Commodity Producers Equity Covered Call ETF",
+      "price": 18.14
     },
     "CMCG.V": {
       "name": "Chilean Metals Inc.",
       "price": 0.315
     },
+    "CMCL.TO": {
+      "name": "Global X Enhanced All-In-One Commodity Producers Equity Covered Call ETF",
+      "price": 17.3
+    },
     "CMCX.TO": {
       "name": "CI Galaxy Multi-Crypto Navigator ETF",
-      "price": 8.61
+      "price": 8.64
     },
     "CMDO.TO": {
       "name": "CI Alternative Diversified Opportunities Fund",
-      "price": 19.63
+      "price": 19.62
     },
     "CMEY.TO": {
       "name": "CI Marret Alternative Enhanced Yield Fund",
@@ -2339,7 +2471,7 @@
     },
     "CMIL.V": {
       "name": "Capella Minerals Limited",
-      "price": 0.065
+      "price": 0.07
     },
     "CMNY.TO": {
       "name": "CI Money Market ETF",
@@ -2367,7 +2499,7 @@
     },
     "CNAO.TO": {
       "name": "CI Alternative North American Opportunities Fund",
-      "price": 38.19
+      "price": 38.54
     },
     "CNC.V": {
       "name": "Canada Nickel Company Inc.",
@@ -2375,11 +2507,11 @@
     },
     "CNCC.TO": {
       "name": "Global X S&P/TSX  60 Covered Call ETF",
-      "price": 14.395
+      "price": 14.4
     },
     "CNCL.TO": {
       "name": "Global X Enhanced S&P/TSX 60 Covered Call ETF",
-      "price": 23.87
+      "price": 23.89
     },
     "CNDD.TO": {
       "name": "BetaPro S&P/TSX 60 -2x Daily Bear ETF",
@@ -2407,7 +2539,7 @@
     },
     "CNO.V": {
       "name": "California Nanotechnologies Corp.",
-      "price": 0.395
+      "price": 0.4
     },
     "CNQ.TO": {
       "name": "Canadian Natural Resources Limited",
@@ -2443,7 +2575,7 @@
     },
     "CNV.TO": {
       "name": "Franklin Conservative Income ETF Portfolio",
-      "price": 22.0
+      "price": 21.94
     },
     "CNVI.V": {
       "name": "Conavi Medical Corp.",
@@ -2459,7 +2591,7 @@
     },
     "COID.TO": {
       "name": "SavvyShort (-2X) COIN ETF",
-      "price": 3.8
+      "price": 3.69
     },
     "COIL.TO": {
       "name": "All-Canadian Oil & Gas ETF",
@@ -2470,7 +2602,7 @@
       "price": 11.23
     },
     "COIU.TO": {
-      "name": "LFG Daily (2X) COIN Long ETF",
+      "name": "SavvyLong (2X) COIN ETF",
       "price": 26.52
     },
     "COLA.TO": {
@@ -2487,7 +2619,11 @@
     },
     "COMU.TO": {
       "name": "SavvyLong 2X CIBC (CM) Equity-Linked ETF",
-      "price": 36.28
+      "price": 37.45
+    },
+    "COMX.TO": {
+      "name": "Global X All-In-One Commodity Producers Equity ETF",
+      "price": 18.92
     },
     "CONE.V": {
       "name": "Canada One Mining Corp.",
@@ -2571,7 +2707,7 @@
     },
     "CPI.V": {
       "name": "Carlton Precious Inc.",
-      "price": 0.105
+      "price": 0.11
     },
     "CPKR.TO": {
       "name": "Canada Packers Inc.",
@@ -2599,7 +2735,7 @@
     },
     "CQR.V": {
       "name": "Conquest Resources Limited",
-      "price": 0.065
+      "price": 0.07
     },
     "CRB.V": {
       "name": "Cariboo Rose Resources Ltd.",
@@ -2623,7 +2759,7 @@
     },
     "CRED.TO": {
       "name": "CI Alternative Investment Grade Credit Fund",
-      "price": 19.94
+      "price": 19.92
     },
     "CRG.V": {
       "name": "Crossroads Gold Corp.",
@@ -2715,7 +2851,7 @@
     },
     "CSMD.TO": {
       "name": "CI U.S. Small/Mid Cap Equity Private Pool",
-      "price": 21.7698
+      "price": 21.8152
     },
     "CSOC-A.V": {
       "name": "Canso Select Opportunities Corporation",
@@ -2735,7 +2871,7 @@
     },
     "CSUC.TO": {
       "name": "Ninepoint Constellation Software CoreShares ETF",
-      "price": 12.07
+      "price": 11.98
     },
     "CSUU.TO": {
       "name": "SavvyLong (2X) Constellation Software ETF",
@@ -2744,6 +2880,10 @@
     "CSW-A.TO": {
       "name": "Corby Spirit and Wine Limited",
       "price": 15.65
+    },
+    "CSX.V": {
+      "name": "Clean Seed Capital Group Ltd.",
+      "price": 0.08
     },
     "CTA.V": {
       "name": "Centaurus Energy Inc.",
@@ -2771,7 +2911,7 @@
     },
     "CTM.V": {
       "name": "Canterra Minerals Corporation",
-      "price": 0.135
+      "price": 0.14
     },
     "CTMA.TO": {
       "name": "CI Target 2028 Investment Grade Bond Fund",
@@ -2815,11 +2955,11 @@
     },
     "CUD.TO": {
       "name": "iShares US Dividend Growers Index ETF (CAD-Hedged)",
-      "price": 56.76
+      "price": 56.85
     },
     "CUDC.TO": {
       "name": "CIBC U.S. High Dividend Covered Call ETF",
-      "price": 18.805
+      "price": 18.93
     },
     "CUDV.TO": {
       "name": "CI U.S. Minimum Downside Volatility Index ETF",
@@ -2853,6 +2993,10 @@
       "name": "CIBC USD Premium Cash Management ETF",
       "price": 50.05
     },
+    "CUTE.TO": {
+      "name": "Evolve Canadian Utilities Yield Fund",
+      "price": 17.19
+    },
     "CUTL.TO": {
       "name": "CI Utilities Giants Covered Call ETF",
       "price": 19.55
@@ -2863,7 +3007,7 @@
     },
     "CVB.V": {
       "name": "Compass Gold Corporation",
-      "price": 0.13
+      "price": 0.14
     },
     "CVD.TO": {
       "name": "iShares Convertible Bond Index ETF",
@@ -2901,9 +3045,13 @@
       "name": "CVW Sustainable Royalties Inc.",
       "price": 0.75
     },
+    "CVX.TO": {
+      "name": "Chevron CDR (CAD Hedged)",
+      "price": 26.31
+    },
     "CWEB.TO": {
       "name": "Charlotte's Web Holdings, Inc.",
-      "price": 0.385
+      "price": 0.39
     },
     "CWIN.TO": {
       "name": "HAMILTON CHAMPIONS TM Enhanced Canadian Dividend ETF",
@@ -2965,6 +3113,18 @@
       "name": "Dream Office Real Estate Investment Trust",
       "price": 17.05
     },
+    "DACL.TO": {
+      "name": "Desjardins Canadian Equity Leaders ETF",
+      "price": 20.25
+    },
+    "DACU.TO": {
+      "name": "Desjardins Active Canadian Bond Universe ETF",
+      "price": 19.43
+    },
+    "DAGL.TO": {
+      "name": "Desjardins Global Opportunities ETF",
+      "price": 20.84
+    },
     "DAMG.TO": {
       "name": "Desjardins Absolute Return Global Equity Markets ETF",
       "price": 22.04
@@ -2991,7 +3151,7 @@
     },
     "DAU.V": {
       "name": "Desert Gold Ventures Inc.",
-      "price": 0.135
+      "price": 0.14
     },
     "DB.V": {
       "name": "Decibel Cannabis Company Inc.",
@@ -3023,7 +3183,7 @@
     },
     "DCC.TO": {
       "name": "Desjardins 1-5 year Laddered Canadian Corporate Bond Index ETF",
-      "price": 18.73
+      "price": 18.76
     },
     "DCG.TO": {
       "name": "Desjardins 1-5 year Laddered Canadian Government Bond Index ETF",
@@ -3067,7 +3227,7 @@
     },
     "DEC.V": {
       "name": "Decade Resources Ltd.",
-      "price": 0.125
+      "price": 0.13
     },
     "DEER.TO": {
       "name": "Deere CDR (CAD Hedged)",
@@ -3075,7 +3235,7 @@
     },
     "DEF.V": {
       "name": "Defiance Silver Corp.",
-      "price": 0.165
+      "price": 0.17
     },
     "DEFN.V": {
       "name": "Defense Metals Corp.",
@@ -3113,13 +3273,17 @@
       "name": "Daura Gold Corp.",
       "price": 0.245
     },
+    "DGGB.TO": {
+      "name": "Desjardins Global Government Bond Index ETF",
+      "price": 19.27
+    },
     "DGL-P.V": {
       "name": "DGL Investments No.1 Inc",
       "price": 0.11
     },
     "DGLM.TO": {
       "name": "Desjardins Global Macro ETF",
-      "price": 23.12
+      "price": 23.18
     },
     "DGR.TO": {
       "name": "CI U.S. Quality Dividend Growth Index ETF",
@@ -3187,7 +3351,7 @@
     },
     "DLR.TO": {
       "name": "Global X US Dollar Currency ETF",
-      "price": 14.355
+      "price": 14.36
     },
     "DLTA.V": {
       "name": "Delta Resources Limited",
@@ -3195,7 +3359,7 @@
     },
     "DM.V": {
       "name": "Datametrex AI Limited",
-      "price": 0.03
+      "price": 0.035
     },
     "DMCU.V": {
       "name": "Domestic Metals Corp.",
@@ -3203,7 +3367,7 @@
     },
     "DME.V": {
       "name": "Desert Mountain Energy Corp.",
-      "price": 0.175
+      "price": 0.18
     },
     "DMEC.TO": {
       "name": "Desjardins Canadian Equity Index ETF",
@@ -3283,15 +3447,15 @@
     },
     "DRCU.TO": {
       "name": "Desjardins RI Active Canadian Bond - Net-Zero Emissions Pathway ETF",
-      "price": 18.12
+      "price": 18.1
     },
     "DRFC.TO": {
       "name": "Desjardins RI Canada Multifactor - Net-Zero Emissions Pathway ETF",
-      "price": 45.69
+      "price": 45.86
     },
     "DRFD.TO": {
       "name": "DesjardinsRIDeveloped ex-USAex-Canada Multifactor-Net-ZeroEmissionsPathwayETF",
-      "price": 33.25
+      "price": 33.24
     },
     "DRFE.TO": {
       "name": "Desjardins RI Emerging Markets Multifactor - Net-Zero Emissions Pathway ETF",
@@ -3299,7 +3463,7 @@
     },
     "DRFG.TO": {
       "name": "Desjardins RI Global Multifactor - Fossil Fuel Reserves Free ETF",
-      "price": 44.36
+      "price": 44.13
     },
     "DRFU.TO": {
       "name": "Desjardins RI USA Multifactor - Net-Zero Emissions Pathway ETF",
@@ -3315,7 +3479,7 @@
     },
     "DRMD.TO": {
       "name": "Desjardins RI Developed ex-USA ex-Canada - Net-Zero Emissions Pathway ETF",
-      "price": 36.45
+      "price": 36.53
     },
     "DRME.TO": {
       "name": "Desjardins RI Emerging Markets - Net-Zero Emissions Pathway ETF",
@@ -3323,7 +3487,7 @@
     },
     "DRMU.TO": {
       "name": "Desjardins RI USA - Net-Zero Emissions Pathway ETF",
-      "price": 57.23
+      "price": 57.31
     },
     "DRT.TO": {
       "name": "DIRTT Environmental Solutions Ltd.",
@@ -3346,7 +3510,7 @@
       "price": 115.12
     },
     "DSV.TO": {
-      "name": "Discovery Silver Corp.",
+      "name": "Discovery Mining Ltd.",
       "price": 12.28
     },
     "DSY.V": {
@@ -3365,13 +3529,17 @@
       "name": "D2 Lithium Corp.",
       "price": 0.04
     },
+    "DUIG.TO": {
+      "name": "Desjardins US Investment Grade Corporate Bond Index ETF",
+      "price": 18.84
+    },
     "DWS.V": {
       "name": "Diamond Estates Wines & Spirits Inc.",
       "price": 0.14
     },
     "DXAU.TO": {
       "name": "Dynamic Active Global Gold ETF",
-      "price": 61.71
+      "price": 62.38
     },
     "DXB.TO": {
       "name": "Dynamic Active Tactical Bond ETF",
@@ -3379,7 +3547,7 @@
     },
     "DXBB.TO": {
       "name": "Dynamic Active Bond ETF",
-      "price": 19.19
+      "price": 19.16
     },
     "DXBC.TO": {
       "name": "Dynamic Active Canadian Bond ETF",
@@ -3391,7 +3559,7 @@
     },
     "DXBU.TO": {
       "name": "Dynamic Active U.S. Investment Grade Corporate Bond ETF",
-      "price": 20.46
+      "price": 20.5
     },
     "DXC.TO": {
       "name": "Dynamic Active Canadian Dividend ETF",
@@ -3399,7 +3567,7 @@
     },
     "DXCB.TO": {
       "name": "Dynamic Active Corporate Bond ETF",
-      "price": 19.89
+      "price": 19.85
     },
     "DXCO.TO": {
       "name": "Dynamic Credit Opportunities Fund",
@@ -3415,15 +3583,15 @@
     },
     "DXDU-U.TO": {
       "name": "Dynamic Active U.S. Discount Bond ETF",
-      "price": 18.98
+      "price": 18.97
     },
     "DXEM.TO": {
       "name": "Dynamic Active Emerging Markets ETF",
-      "price": 17.94
+      "price": 18.0
     },
     "DXF.TO": {
       "name": "Dynamic Active Global Financial Services ETF",
-      "price": 52.4
+      "price": 52.29
     },
     "DXG.TO": {
       "name": "Dynamic Active Global Dividend ETF",
@@ -3447,11 +3615,11 @@
     },
     "DXN.TO": {
       "name": "Dynamic Active Global Infrastructure ETF",
-      "price": 24.69
+      "price": 24.6
     },
     "DXO.TO": {
       "name": "Dynamic Active Crossover Bond ETF",
-      "price": 18.9
+      "price": 18.87
     },
     "DXP.TO": {
       "name": "Dynamic Active Preferred Shares ETF",
@@ -3463,11 +3631,11 @@
     },
     "DXR.TO": {
       "name": "Dynamic Retirement Income Fund",
-      "price": 25.11
+      "price": 25.24
     },
     "DXRE.TO": {
       "name": "Dynamic Active Real Estate ETF",
-      "price": 22.3
+      "price": 22.35
     },
     "DXT.TO": {
       "name": "Dexterra Group Inc.",
@@ -3475,11 +3643,11 @@
     },
     "DXU.TO": {
       "name": "Dynamic Active U.S. Dividend ETF",
-      "price": 82.91
+      "price": 82.96
     },
     "DXUS.TO": {
       "name": "Dynamic Active U.S. Equity ETF",
-      "price": 37.48
+      "price": 37.39
     },
     "DXV.TO": {
       "name": "Dynamic Active Ultra Short Term Bond ETF",
@@ -3487,7 +3655,7 @@
     },
     "DXW.TO": {
       "name": "Dynamic Active International Dividend ETF",
-      "price": 29.29
+      "price": 29.17
     },
     "DXZ.TO": {
       "name": "Dynamic Active U.S. Mid-Cap ETF",
@@ -3502,7 +3670,7 @@
       "price": 0.13
     },
     "E.TO": {
-      "name": "Enterprise Group, Inc.",
+      "name": "Evolution PowerX Corp.",
       "price": 1.68
     },
     "EAGR.TO": {
@@ -3577,9 +3745,13 @@
       "name": "Element 29 Resources Inc.",
       "price": 1.79
     },
+    "EDCU.TO": {
+      "name": "Edge Copper Corporation",
+      "price": 0.48
+    },
     "EDDY.V": {
       "name": "Edison Lithium Corp.",
-      "price": 0.085
+      "price": 0.09
     },
     "EDG.V": {
       "name": "Endurance Gold Corporation",
@@ -3591,7 +3763,7 @@
     },
     "EDGF.TO": {
       "name": "Brompton European Dividend Growth ETF",
-      "price": 11.33
+      "price": 11.37
     },
     "EDM.V": {
       "name": "EDM Resources Inc.",
@@ -3635,7 +3807,11 @@
     },
     "EGIF.TO": {
       "name": "Exemplar Growth and Income Fund",
-      "price": 28.131
+      "price": 28.2
+    },
+    "EGLT.V": {
+      "name": "EGL Technology Inc.",
+      "price": 0.14
     },
     "EGLX.TO": {
       "name": "Enthusiast Gaming Holdings Inc.",
@@ -3651,7 +3827,7 @@
     },
     "EHE.TO": {
       "name": "CI Europe Hedged Equity Index ETF",
-      "price": 39.35
+      "price": 39.21
     },
     "EIF.TO": {
       "name": "Exchange Income Corporation",
@@ -3660,6 +3836,10 @@
     "EIRE-P.V": {
       "name": "Monaghan Capital Fund Ltd.",
       "price": 0.025
+    },
+    "EK.V": {
+      "name": "Everkind Wellness Inc.",
+      "price": 0.67
     },
     "EKG.V": {
       "name": "CardioComm Solutions, Inc.",
@@ -3687,7 +3867,7 @@
     },
     "ELEF.TO": {
       "name": "Silver Elephant Mining Corp.",
-      "price": 0.135
+      "price": 0.14
     },
     "ELF.TO": {
       "name": "E-L Financial Corporation Limited",
@@ -3703,7 +3883,7 @@
     },
     "ELR.TO": {
       "name": "Eastern Platinum Limited",
-      "price": 0.305
+      "price": 0.31
     },
     "ELVA.TO": {
       "name": "Electrovaya Inc.",
@@ -3751,7 +3931,7 @@
     },
     "EMR.V": {
       "name": "Emergent Metals Corp.",
-      "price": 0.115
+      "price": 0.12
     },
     "EMV-B.TO": {
       "name": "CI Emerging Markets Dividend Index ETF",
@@ -3815,7 +3995,7 @@
     },
     "EOX.V": {
       "name": "Euromax Resources Ltd.",
-      "price": 0.065
+      "price": 0.07
     },
     "EPF.V": {
       "name": "Everyday People Financial Corp.",
@@ -3846,7 +4026,7 @@
       "price": 25.46
     },
     "EQL.TO": {
-      "name": "Invesco S&P 500 Equal Weight Index ETF",
+      "name": "CI Invesco S&P 500 Equal Weight Index ETF",
       "price": 44.9
     },
     "EQLI.TO": {
@@ -3854,12 +4034,12 @@
       "price": 21.99
     },
     "EQLT.TO": {
-      "name": "Invesco S&P/TSX 60 Equal Weight Index ETF",
+      "name": "CI S&P/TSX 60 Equal Weight Index ETF",
       "price": 26.01
     },
     "EQTY.V": {
       "name": "Equity Metals Corporation",
-      "price": 0.115
+      "price": 0.12
     },
     "EQX.TO": {
       "name": "Equinox Gold Corp.",
@@ -3867,7 +4047,7 @@
     },
     "EQY.TO": {
       "name": "Franklin All-Equity ETF",
-      "price": 30.4785
+      "price": 30.57
     },
     "ERA.V": {
       "name": "Elcora Advanced Materials Corp.",
@@ -3876,6 +4056,10 @@
     "ERD.TO": {
       "name": "Erdene Resource Development Corporation",
       "price": 5.97
+    },
+    "ERDA.V": {
+      "name": "Erda Resource Opportunities Inc.",
+      "price": 0.13
     },
     "ERO.TO": {
       "name": "Ero Copper Corp.",
@@ -3890,19 +4074,19 @@
       "price": 0.08
     },
     "ESG.TO": {
-      "name": "Invesco S&P 500 ESG Index ETF",
+      "name": "CI S&P 500 ESG Index ETF",
       "price": 57.76
     },
     "ESGA.TO": {
       "name": "BMO MSCI Canada Selection Equity Index ETF",
-      "price": 56.46
+      "price": 56.21
     },
     "ESGB.TO": {
       "name": "BMO ESG Corporate Bond Index ETF",
-      "price": 27.07
+      "price": 27.03
     },
     "ESGC.TO": {
-      "name": "Invesco S&P/TSX Composite ESG Index ETF",
+      "name": "CI S&P/TSX Composite ESG Index ETF",
       "price": 41.81
     },
     "ESGE.TO": {
@@ -3911,7 +4095,7 @@
     },
     "ESGF.TO": {
       "name": "BMO ESG US Corporate Bond Hedged to CAD Index ETF",
-      "price": 22.25
+      "price": 22.23
     },
     "ESGG.TO": {
       "name": "BMO MSCI Global Selection Equity Index ETF",
@@ -3959,7 +4143,7 @@
     },
     "ETF.V": {
       "name": "Eastfield Resources Ltd.",
-      "price": 0.045
+      "price": 0.05
     },
     "ETG.TO": {
       "name": "Entree Resources Ltd.",
@@ -3971,7 +4155,7 @@
     },
     "ETHI.TO": {
       "name": "Global X Global Sustainability Leaders Index ETF",
-      "price": 62.03
+      "price": 62.08
     },
     "ETHO-B.TO": {
       "name": "Purpose Core Ether ETF",
@@ -3999,7 +4183,7 @@
     },
     "ETP.TO": {
       "name": "First Trust Global Risk Managed Income Index ETF",
-      "price": 18.43
+      "price": 18.32
     },
     "ETSX.TO": {
       "name": "Evolve S&P/TSX 60 Enhanced Yield Fund",
@@ -4024,6 +4208,10 @@
     "EVNI.V": {
       "name": "EV Nickel Inc.",
       "price": 0.14
+    },
+    "EVNT.V": {
+      "name": "Eventer Technologies Ltd.",
+      "price": 1.06
     },
     "EVO.TO": {
       "name": "Evovest Global Equity ETF",
@@ -4091,7 +4279,7 @@
     },
     "FAUS.TO": {
       "name": "Fidelity Advanced U.S. Equity Fund",
-      "price": 29.77
+      "price": 29.75
     },
     "FBF.V": {
       "name": "Fab-Form Industries Ltd.",
@@ -4103,7 +4291,7 @@
     },
     "FBT.TO": {
       "name": "First Trust NYSE Arca Biotechnology ETF",
-      "price": 48.72
+      "price": 48.6
     },
     "FBTC.TO": {
       "name": "Fidelity Advantage Bitcoin ETF",
@@ -4159,7 +4347,7 @@
     },
     "FCLI.V": {
       "name": "Full Circle Lithium Corp.",
-      "price": 0.355
+      "price": 0.385
     },
     "FCQH.TO": {
       "name": "Fidelity U.S. High Quality Currency Neutral ETF",
@@ -4171,11 +4359,11 @@
     },
     "FCRC.TO": {
       "name": "Franklin Canadian Core Equity Fund",
-      "price": 27.38
+      "price": 27.48
     },
     "FCRI.TO": {
       "name": "Franklin International Core Equity Fund",
-      "price": 25.16
+      "price": 25.33
     },
     "FCRR.TO": {
       "name": "Fidelity U.S. Dividend for Rising Rates ETF",
@@ -4183,7 +4371,7 @@
     },
     "FCRU.TO": {
       "name": "Franklin U.S. Core Equity Fund",
-      "price": 26.69
+      "price": 26.54
     },
     "FCUB.TO": {
       "name": "Fidelity Core U.S. Bond ETF",
@@ -4195,7 +4383,7 @@
     },
     "FCUH.TO": {
       "name": "Fidelity U.S. High Dividend Currency Neutral ETF",
-      "price": 36.18
+      "price": 36.13
     },
     "FCUQ.TO": {
       "name": "Fidelity U.S. High Quality ETF",
@@ -4207,7 +4395,7 @@
     },
     "FCVH.TO": {
       "name": "Fidelity U.S. Value Currency Neutral ETF",
-      "price": 23.83
+      "price": 23.85
     },
     "FCXS.TO": {
       "name": "Freeport-McMoRan CDR (CAD Hedged",
@@ -4215,15 +4403,15 @@
     },
     "FDI.V": {
       "name": "Findev Inc.",
-      "price": 0.285
+      "price": 0.29
     },
     "FDL.TO": {
       "name": "First Trust Morningstar Dividend Leaders ETF (CAD-Hedged)",
-      "price": 40.08
+      "price": 39.54
     },
     "FDN.TO": {
       "name": "First Trust Dow Jones Internet ETF",
-      "price": 32.89
+      "price": 33.12
     },
     "FDR.V": {
       "name": "Founders Metals Inc.",
@@ -4235,11 +4423,15 @@
     },
     "FEBB-F.TO": {
       "name": "First Trust Vest U.S. Equity Buffer ETF - February",
-      "price": 56.81
+      "price": 56.79
     },
     "FEC.TO": {
       "name": "Frontera Energy Corporation",
       "price": 8.39
+    },
+    "FEMO.TO": {
+      "name": "Fidelity Emerging Markets Opportunities Fund",
+      "price": 10.39
     },
     "FEO.V": {
       "name": "Oceanic Iron Ore Corp.",
@@ -4247,7 +4439,7 @@
     },
     "FETH.TO": {
       "name": "Fidelity Advantage Ether ETF",
-      "price": 50.5
+      "price": 50.6
     },
     "FEX.V": {
       "name": "Fjordland Exploration Inc.",
@@ -4256,6 +4448,10 @@
     "FF.TO": {
       "name": "First Mining Gold Corp.",
       "price": 0.79
+    },
+    "FFAB.TO": {
+      "name": "Fidelity Alternative Bond Fund",
+      "price": 9.88
     },
     "FFC-P.V": {
       "name": "Fife Capital Corp.",
@@ -4287,11 +4483,15 @@
     },
     "FG.V": {
       "name": "Falcon Gold Corp.",
-      "price": 0.0325
+      "price": 0.033
     },
     "FGBL.TO": {
       "name": "Forstrong Global Balanced ETF",
       "price": 22.02
+    },
+    "FGCV.TO": {
+      "name": "Fidelity Global Concentrated Value Fund",
+      "price": 10.79
     },
     "FGEB.TO": {
       "name": "Fidelity Global Equity+ Balanced Fund",
@@ -4307,7 +4507,7 @@
     },
     "FGOV.TO": {
       "name": "Franklin Canadian Government Bond Fund",
-      "price": 20.0359
+      "price": 19.99
     },
     "FGRW.TO": {
       "name": "Forstrong Global Growth ETF",
@@ -4315,7 +4515,7 @@
     },
     "FGSM.TO": {
       "name": "Fidelity Global Small-Mid Cap Equity Fund",
-      "price": 10.89
+      "price": 10.9
     },
     "FHG.TO": {
       "name": "First Trust AlphaDEX U.S. Industrials Sector Index ETF",
@@ -4323,7 +4523,7 @@
     },
     "FHH.TO": {
       "name": "First Trust AlphaDEX U.S. Health Care Sector Index ETF",
-      "price": 50.28
+      "price": 50.08
     },
     "FHI.TO": {
       "name": "CI Health Care Giants Covered Call ETF",
@@ -4347,7 +4547,7 @@
     },
     "FIE.TO": {
       "name": "iShares Canadian Financial Monthly Income ETF",
-      "price": 10.945
+      "price": 10.95
     },
     "FIG.TO": {
       "name": "CI Investment Grade Bond ETF",
@@ -4363,7 +4563,7 @@
     },
     "FINC.TO": {
       "name": "Forstrong Global Income ETF",
-      "price": 22.68
+      "price": 22.7
     },
     "FINO.TO": {
       "name": "Franklin Innovation Fund",
@@ -4371,7 +4571,7 @@
     },
     "FINT.TO": {
       "name": "First Trust International Capital Strength ETF",
-      "price": 37.76
+      "price": 37.74
     },
     "FINV-P.V": {
       "name": "Faction Investment Group Corp.",
@@ -4435,11 +4635,15 @@
     },
     "FLX.TO": {
       "name": "Purpose Global Flexible Credit Fund",
-      "price": 6.56
+      "price": 6.6
     },
     "FM.TO": {
       "name": "First Quantum Minerals Ltd.",
       "price": 38.23
+    },
+    "FMAB.TO": {
+      "name": "Fidelity Multi-Alt Balanced Fund",
+      "price": 10.33
     },
     "FMAE.TO": {
       "name": "Fidelity Multi-Alt Equity Fund",
@@ -4471,7 +4675,7 @@
     },
     "FMPI.TO": {
       "name": "Fidelity Global Income Portfolio",
-      "price": 26.99
+      "price": 26.97
     },
     "FMR.TO": {
       "name": "Future Mineral Resources Inc.",
@@ -4479,7 +4683,7 @@
     },
     "FMS.V": {
       "name": "Focus Graphite Inc.",
-      "price": 0.415
+      "price": 0.42
     },
     "FNR.V": {
       "name": "49 North Resources Inc.",
@@ -4488,6 +4692,10 @@
     "FNV.TO": {
       "name": "Franco-Nevada Corporation",
       "price": 338.8
+    },
+    "FOBI.V": {
+      "name": "Fobi AI Inc.",
+      "price": 0.025
     },
     "FONC-P.V": {
       "name": "Florence One Capital Inc.",
@@ -4511,7 +4719,7 @@
     },
     "FOXT.V": {
       "name": "Fox Tungsten Ltd.",
-      "price": 0.175
+      "price": 0.18
     },
     "FP.V": {
       "name": "FP Newspapers Inc.",
@@ -4523,11 +4731,11 @@
     },
     "FPR.TO": {
       "name": "CI Preferred Share ETF",
-      "price": 26.36
+      "price": 26.3
     },
     "FPX.V": {
       "name": "FPX Nickel Corp.",
-      "price": 0.275
+      "price": 0.28
     },
     "FRAS-P.V": {
       "name": "Fraser Big Sky Capital Corp.",
@@ -4548,6 +4756,10 @@
     "FRNT.V": {
       "name": "FRNT Financial Inc.",
       "price": 0.035
+    },
+    "FROG.V": {
+      "name": "Bullfrog Gold Corporation",
+      "price": 0.19
     },
     "FRSH.V": {
       "name": "The Fresh Factory B.C. Ltd.",
@@ -4571,11 +4783,15 @@
     },
     "FSL.TO": {
       "name": "First Trust Senior Loan ETF (CAD-Hedged)",
-      "price": 15.84
+      "price": 15.77
     },
     "FST.TO": {
       "name": "First Trust Canadian Capital Strength ETF",
       "price": 79.8
+    },
+    "FSTV-P.V": {
+      "name": "Falconstar Ventures Inc.",
+      "price": 0.32
     },
     "FSV.TO": {
       "name": "FirstService Corporation",
@@ -4587,7 +4803,7 @@
     },
     "FT.TO": {
       "name": "Fortune Minerals Limited",
-      "price": 0.115
+      "price": 0.12
     },
     "FTEC.V": {
       "name": "Fintech Select Ltd.",
@@ -4607,7 +4823,7 @@
     },
     "FTLS.TO": {
       "name": "First Trust Long/Short Equity ETF",
-      "price": 24.09
+      "price": 23.93
     },
     "FTN.TO": {
       "name": "Financial 15 Split Corp.",
@@ -4639,7 +4855,7 @@
     },
     "FUD.TO": {
       "name": "First Trust Value Line Dividend Index ETF (CAD-Hedged)",
-      "price": 36.95
+      "price": 36.82
     },
     "FUN-P.V": {
       "name": "Fountainhall Capital Corp.",
@@ -4651,7 +4867,7 @@
     },
     "FUSE.V": {
       "name": "Fuse Battery Metals Inc.",
-      "price": 0.025
+      "price": 0.03
     },
     "FUU.V": {
       "name": "F3 Uranium Corp.",
@@ -4662,7 +4878,7 @@
       "price": 16.0
     },
     "FVL.TO": {
-      "name": "Freegold Ventures Limited",
+      "name": "Freegold Limited",
       "price": 1.07
     },
     "FWTC.V": {
@@ -4679,7 +4895,7 @@
     },
     "FYL.V": {
       "name": "Finlay Minerals Ltd.",
-      "price": 0.105
+      "price": 0.11
     },
     "GAL.V": {
       "name": "Galantas Gold Corporation",
@@ -4691,11 +4907,11 @@
     },
     "GASD.TO": {
       "name": "SavvyShort Geared Natural Gas ETF",
-      "price": 4.76
+      "price": 5.15
     },
     "GASU.TO": {
       "name": "SavvyLong Geared Natural Gas ETF",
-      "price": 5.65
+      "price": 5.6
     },
     "GASX.TO": {
       "name": "NG Energy International Corp.",
@@ -4723,11 +4939,11 @@
     },
     "GBU.V": {
       "name": "Gabriel Resources Ltd.",
-      "price": 0.11
+      "price": 0.12
     },
     "GBUL.TO": {
       "name": "Ninepoint Gold Bullion Fund",
-      "price": 25.58
+      "price": 25.64
     },
     "GCBD.TO": {
       "name": "Guardian Canadian Bond Fund",
@@ -4739,7 +4955,7 @@
     },
     "GCFE.TO": {
       "name": "Guardian Canadian Focused Equity Fund",
-      "price": 37.21
+      "price": 37.09
     },
     "GCN.V": {
       "name": "Goldcliff Resource Corporation",
@@ -4747,7 +4963,7 @@
     },
     "GCNS.TO": {
       "name": "iShares ESG Conservative Balanced ETF Portfolio",
-      "price": 51.07
+      "price": 51.25
     },
     "GCOM.V": {
       "name": "Green Shift Commodities Ltd.",
@@ -4765,6 +4981,10 @@
       "name": "Gunnison Copper Corp",
       "price": 0.46
     },
+    "GCV.V": {
+      "name": "Golden Star Capital Ventures Inc.",
+      "price": 0.28
+    },
     "GDC.TO": {
       "name": "Genesis Land Development Corp.",
       "price": 3.37
@@ -4775,7 +4995,7 @@
     },
     "GDP.V": {
       "name": "Golden Pursuit Resources Ltd.",
-      "price": 0.285
+      "price": 0.29
     },
     "GDV.TO": {
       "name": "Global Dividend Growth Split Corp.",
@@ -4829,6 +5049,10 @@
       "name": "iShares ESG Equity ETF Portfolio",
       "price": 89.82
     },
+    "GERA.V": {
+      "name": "Goldera Exploration Ltd.",
+      "price": 0.17
+    },
     "GEV.TO": {
       "name": "GE Vernova CDR (CAD Hedged)",
       "price": 63.61
@@ -4857,6 +5081,10 @@
       "name": "Greenfire Resources Ltd.",
       "price": 8.0
     },
+    "GFTA.V": {
+      "name": "Grafta Nanotech Corp.",
+      "price": 0.135
+    },
     "GG.V": {
       "name": "Golconda Gold Ltd.",
       "price": 3.0
@@ -4871,7 +5099,7 @@
     },
     "GGEP.TO": {
       "name": "Guardian Directed Equity Path Portfolio",
-      "price": 18.49
+      "price": 18.45
     },
     "GGI.V": {
       "name": "Garibaldi Resources Corp.",
@@ -4883,7 +5111,7 @@
     },
     "GGM.V": {
       "name": "Granada Gold Mine Inc.",
-      "price": 0.035
+      "price": 0.04
     },
     "GGO.V": {
       "name": "Galleon Gold Corp.",
@@ -4891,7 +5119,7 @@
     },
     "GGPY.TO": {
       "name": "Guardian Directed Premium Yield Portfolio",
-      "price": 17.93
+      "price": 18.01
     },
     "GGRO.TO": {
       "name": "iShares ESG Growth ETF Portfolio",
@@ -4909,9 +5137,17 @@
       "name": "Greenheart Gold Inc.",
       "price": 0.69
     },
+    "GIAI.TO": {
+      "name": "Guardian i3 AI Technology and Innovation Fund",
+      "price": 22.28
+    },
     "GIB-A.TO": {
       "name": "CGI Inc.",
       "price": 96.75
+    },
+    "GICD.TO": {
+      "name": "Guardian i3 Canadian Dividend Growth Fund",
+      "price": 20.55
     },
     "GIDY.TO": {
       "name": "Guardian i3 Global Dividend Premium Yield Fund",
@@ -4932,6 +5168,14 @@
     "GIGC.TO": {
       "name": "Guardian Investment Grade Corporate Bond Fund",
       "price": 21.2
+    },
+    "GIGD.TO": {
+      "name": "Guardian i3 Global Dividend Growth Fund",
+      "price": 20.67
+    },
+    "GIGF.TO": {
+      "name": "Guardian i3 Global Core Equity Fund",
+      "price": 41.62
     },
     "GIII.V": {
       "name": "ReGen III Corp.",
@@ -4999,7 +5243,7 @@
     },
     "GLO.TO": {
       "name": "Global Atomic Corporation",
-      "price": 0.385
+      "price": 0.39
     },
     "GMA.V": {
       "name": "Geomega Resources Inc.",
@@ -5023,7 +5267,7 @@
     },
     "GNG.V": {
       "name": "Golden Goliath Resources Ltd.",
-      "price": 0.065
+      "price": 0.07
     },
     "GO-U.TO": {
       "name": "GO Residential Real Estate Investment Trust",
@@ -5060,6 +5304,10 @@
     "GOOS.TO": {
       "name": "Canada Goose Holdings Inc.",
       "price": 11.1
+    },
+    "GORO.V": {
+      "name": "Goldgroup Mining Inc.",
+      "price": 4.52
     },
     "GOT.V": {
       "name": "Goliath Resources Limited",
@@ -5115,7 +5363,7 @@
     },
     "GRCC.TO": {
       "name": "Global X Growth Asset Allocation Covered Call ETF",
-      "price": 23.45
+      "price": 23.46
     },
     "GRD.V": {
       "name": "Grounded Lithium Corp.",
@@ -5155,7 +5403,7 @@
     },
     "GRO.TO": {
       "name": "Franklin Growth ETF Portfolio",
-      "price": 27.1111
+      "price": 27.23
     },
     "GRSL.V": {
       "name": "GR Silver Mining Ltd.",
@@ -5195,7 +5443,7 @@
     },
     "GSP.V": {
       "name": "Gensource Potash Corporation",
-      "price": 0.145
+      "price": 0.15
     },
     "GSPR.V": {
       "name": "GSP Resource Corp.",
@@ -5203,7 +5451,7 @@
     },
     "GSR.V": {
       "name": "Gold Strike Resources Corp.",
-      "price": 0.375
+      "price": 0.38
     },
     "GSS.V": {
       "name": "Gossan Resources Limited",
@@ -5219,7 +5467,7 @@
     },
     "GSVR.V": {
       "name": "Guanajuato Silver Company Ltd.",
-      "price": 0.395
+      "price": 0.4
     },
     "GSY.TO": {
       "name": "goeasy Ltd.",
@@ -5263,7 +5511,7 @@
     },
     "GVC.TO": {
       "name": "Glacier Media Inc.",
-      "price": 0.375
+      "price": 0.38
     },
     "GVR.V": {
       "name": "Grosvenor Resource Corporation",
@@ -5303,7 +5551,7 @@
     },
     "HAD.TO": {
       "name": "Global X Active Canadian Bond ETF",
-      "price": 8.74
+      "price": 8.7
     },
     "HAF.TO": {
       "name": "Global X Active Global Fixed Income ETF",
@@ -5319,7 +5567,7 @@
     },
     "HALO.TO": {
       "name": "Russell Investments Fallen Angels ETF",
-      "price": 18.83
+      "price": 18.76
     },
     "HAM.V": {
       "name": "Highwood Asset Management Ltd.",
@@ -5351,7 +5599,7 @@
     },
     "HAWK.V": {
       "name": "Hawkeye Gold & Diamond Inc.",
-      "price": 0.025
+      "price": 0.03
     },
     "HAY.V": {
       "name": "Hayasa Metals Inc.",
@@ -5367,7 +5615,7 @@
     },
     "HBAL.TO": {
       "name": "Global X Balanced Asset Allocation ETF",
-      "price": 18.62
+      "price": 18.63
     },
     "HBB.TO": {
       "name": "Global X Canadian Select Universe Bond Index Corporate Class ETF",
@@ -5415,7 +5663,7 @@
     },
     "HBOP.TO": {
       "name": "Humilis Fundamental Opportunities ETF",
-      "price": 23.0
+      "price": 23.03
     },
     "HBP.TO": {
       "name": "Helix BioPharma Corp.",
@@ -5499,7 +5747,7 @@
     },
     "HERO.TO": {
       "name": "Evolve E-Gaming Index ETF",
-      "price": 37.56
+      "price": 37.71
     },
     "HEVI.V": {
       "name": "Helium Evolution Incorporated",
@@ -5515,7 +5763,7 @@
     },
     "HFG.TO": {
       "name": "Hamilton Global Financials ETF",
-      "price": 33.93
+      "price": 33.72
     },
     "HFIN.TO": {
       "name": "Hamilton Enhanced Canadian Financials ETF",
@@ -5535,7 +5783,7 @@
     },
     "HGGG.TO": {
       "name": "Harvest Global Gold Giants Index ETF",
-      "price": 95.61
+      "price": 95.88
     },
     "HGR.TO": {
       "name": "Harvest REIT Leaders Income ETF",
@@ -5543,7 +5791,7 @@
     },
     "HGRW.TO": {
       "name": "Global X Growth Asset Allocation ETF",
-      "price": 31.685
+      "price": 31.65
     },
     "HGY.TO": {
       "name": "Global X Gold Yield ETF",
@@ -5560,6 +5808,10 @@
     "HHIH.TO": {
       "name": "Harvest High Income Equity Shares ETF",
       "price": 11.65
+    },
+    "HHII.TO": {
+      "name": "Harvest International High Income Shares ETF",
+      "price": 11.62
     },
     "HHIS.TO": {
       "name": "Harvest Diversified High Income Shares ETF",
@@ -5611,7 +5863,7 @@
     },
     "HLIT.TO": {
       "name": "Global X Lithium Producers Index ETF",
-      "price": 19.92
+      "price": 19.94
     },
     "HLPR.TO": {
       "name": "Global X Laddered Canadian Preferred Share Index Corporate Class ETF",
@@ -5640,6 +5892,10 @@
     "HMM-A.TO": {
       "name": "Hammond Manufacturing Company Limited",
       "price": 28.17
+    },
+    "HMMC.TO": {
+      "name": "Hemlo Mining Corp.",
+      "price": 6.15
     },
     "HMMJ.TO": {
       "name": "Global X Marijuana Life Sciences Index ETF",
@@ -5686,8 +5942,12 @@
       "price": 10.61
     },
     "HON.TO": {
-      "name": "Honeywell CDR (CAD Hedged)",
+      "name": "Honeywell Technologies CDR (CAD Hedged)",
       "price": 11.9
+    },
+    "HONA.TO": {
+      "name": "Honeywell Aerospace CDR (CAD Hedged)",
+      "price": 8.77
     },
     "HOOD.TO": {
       "name": "Robinhood CDR (CAD Hedged)",
@@ -5711,7 +5971,7 @@
     },
     "HPQ.V": {
       "name": "HPQ Silicon Inc.",
-      "price": 0.135
+      "price": 0.14
     },
     "HPR.TO": {
       "name": "Global X Active Preferred Share ETF",
@@ -5728,6 +5988,10 @@
     "HPYE.TO": {
       "name": "Harvest Premium Yield Enhanced ETF",
       "price": 12.38
+    },
+    "HPYG.TO": {
+      "name": "Harvest Premium Yield Gold ETF",
+      "price": 12.37
     },
     "HPYM.TO": {
       "name": "Harvest Premium Yield 7-10 Year Treasury ETF",
@@ -5803,7 +6067,7 @@
     },
     "HUM.TO": {
       "name": "Hamilton U.S. Mid-Cap Financials ETF",
-      "price": 35.94
+      "price": 35.63
     },
     "HUN.TO": {
       "name": "Global X Natural Gas ETF",
@@ -5835,7 +6099,7 @@
     },
     "HVG.V": {
       "name": "Harvest Gold Corp.",
-      "price": 0.045
+      "price": 0.05
     },
     "HVOI.TO": {
       "name": "Harvest Low Volatility Canadian Equity Income ETF",
@@ -5843,7 +6107,7 @@
     },
     "HVOL.TO": {
       "name": "Harvest Low Volatility Canadian Equity ETF",
-      "price": 15.31
+      "price": 15.06
     },
     "HWO.TO": {
       "name": "High Arctic Energy Services Inc.",
@@ -5875,7 +6139,7 @@
     },
     "HXF.TO": {
       "name": "Global X S&P/TSX Capped Financials Index Corporate Class ETF",
-      "price": 137.47
+      "price": 136.78
     },
     "HXH.TO": {
       "name": "Global X Canadian High Dividend Index Corporate Class ETF",
@@ -5925,13 +6189,17 @@
       "name": "IBM CDR (CAD Hedged)",
       "price": 32.38
     },
+    "IBQT.TO": {
+      "name": "iShares Equity + Bitcoin ETF Portfolio",
+      "price": 40.08
+    },
     "ICAE.TO": {
-      "name": "Invesco S&P/TSX Canadian Dividend Aristocrats ESG Index ETF",
+      "name": "CI S&P/TSX Canadian Dividend Aristocrats ESG Index ETF",
       "price": 30.46
     },
     "ICCB.TO": {
       "name": "Invesco Canadian Core Plus Bond ETF",
-      "price": 18.86
+      "price": 18.99
     },
     "ICE.TO": {
       "name": "Canlan Ice Sports Corp.",
@@ -5939,7 +6207,7 @@
     },
     "ICGB.TO": {
       "name": "Invesco Global Bond ETF",
-      "price": 18.59
+      "price": 18.5
     },
     "ICGH.V": {
       "name": "IC Group Holdings Inc.",
@@ -6011,7 +6279,7 @@
     },
     "IFRF.TO": {
       "name": "IA Clarington Loomis Floating Rate Income Fund",
-      "price": 7.51
+      "price": 7.49
     },
     "IGAF.TO": {
       "name": "IA Clarington Loomis Global Allocation Fund",
@@ -6027,15 +6295,15 @@
     },
     "IGCF.TO": {
       "name": "PIMCO Investment Grade Credit Fund (Canada)",
-      "price": 15.4
+      "price": 15.38
     },
     "IGEO.TO": {
       "name": "IA Clarington Loomis Global Equity Opportunities Fund",
       "price": 17.58
     },
     "IGET.TO": {
-      "name": "Invesco Morningstar Global Energy Transition Index ETF",
-      "price": 21.8933
+      "name": "CI Morningstar Global Energy Transition Index ETF",
+      "price": 22.07
     },
     "IGM.TO": {
       "name": "IGM Financial Inc.",
@@ -6046,19 +6314,19 @@
       "price": 0.155
     },
     "IIAE.TO": {
-      "name": "Invesco S&P International Developed Dividend Aristocrats ESG Index ETF",
-      "price": 31.0337
+      "name": "CI S&P International Developed Dividend Aristocrats ESG Index ETF",
+      "price": 31.11
     },
     "IICE.TO": {
-      "name": "Invesco S&P International Developed ESG Index ETF",
-      "price": 27.9845
+      "name": "CI S&P International Developed ESG Index ETF",
+      "price": 27.78
     },
     "III.TO": {
       "name": "Imperial Metals Corporation",
       "price": 8.47
     },
     "IIMF.TO": {
-      "name": "Invesco International Developed Dynamic-Multifactor Index ETF",
+      "name": "CI Invesco International Developed Multifactor Index ETF",
       "price": 29.82
     },
     "ILC.V": {
@@ -6118,8 +6386,8 @@
       "price": 0.095
     },
     "INAI.TO": {
-      "name": "Invesco Morningstar Global Next Gen AI Index ETF",
-      "price": 54.14
+      "name": "CI Morningstar Global Next Gen AI Index ETF",
+      "price": 54.46
     },
     "INC-UN.TO": {
       "name": "Income Financial Trust",
@@ -6143,11 +6411,11 @@
     },
     "INFR.TO": {
       "name": "Ninepoint Global Infrastructure Fund",
-      "price": 20.41
+      "price": 20.47
     },
     "INGS.TO": {
       "name": "ING CDR (CAD Hedged)",
-      "price": 44.74
+      "price": 44.51
     },
     "INHI.TO": {
       "name": "Ninepoint Intel HighShares ETF",
@@ -6163,7 +6431,7 @@
     },
     "INOC.TO": {
       "name": "Global X Inovestor Canadian Equity Index ETF",
-      "price": 20.22
+      "price": 20.21
     },
     "INTC.TO": {
       "name": "Intel CDR (CAD Hedged)",
@@ -6184,6 +6452,10 @@
     "INX.V": {
       "name": "Intouch Insight Ltd.",
       "price": 0.29
+    },
+    "INXS.V": {
+      "name": "Goldinxs Mining Corp.",
+      "price": 0.105
     },
     "IOT.V": {
       "name": "Innovotech Inc.",
@@ -6221,13 +6493,17 @@
       "name": "Inter-Rock Minerals Inc.",
       "price": 1.15
     },
+    "IRR.V": {
+      "name": "Irruptive Metals Corp.",
+      "price": 1.2
+    },
     "IS.TO": {
       "name": "Infrastructure Dividend Split Corp.",
       "price": 17.9
     },
     "ISCB.TO": {
       "name": "IA Clarington Strategic Corporate Bond Fund",
-      "price": 10.66
+      "price": 10.7
     },
     "ISGI.V": {
       "name": "Insuraguest Technologies Inc.",
@@ -6258,15 +6534,15 @@
       "price": 3.69
     },
     "IUAE.TO": {
-      "name": "Invesco S&P US Dividend Aristocrats ESG Index ETF",
-      "price": 27.09
+      "name": "CI S&P US Dividend Aristocrats ESG Index ETF",
+      "price": 27.0
     },
     "IUFR-U.TO": {
-      "name": "Invesco US Treasury Floating Rate Note Index ETF (USD)",
+      "name": "CI US Treasury Floating Rate Note Index ETF (USD)",
       "price": 20.18
     },
     "IUMF.TO": {
-      "name": "Invesco Russell 1000 Dynamic-Multifactor Index ETF",
+      "name": "CI Invesco Russell 1000 Multifactor Index ETF",
       "price": 30.21
     },
     "IVN.TO": {
@@ -6279,7 +6555,7 @@
     },
     "IVS.V": {
       "name": "Inventus Mining Corp.",
-      "price": 0.265
+      "price": 0.27
     },
     "IVX.V": {
       "name": "Inventronics Limited",
@@ -6287,7 +6563,7 @@
     },
     "IWEB.TO": {
       "name": "IA Wealth Enhanced Bond Pool",
-      "price": 10.4463
+      "price": 10.48
     },
     "IZN.V": {
       "name": "InZinc Mining Ltd.",
@@ -6317,13 +6593,17 @@
       "name": "JPMorgan US Value Active ETF",
       "price": 31.07
     },
+    "JAY.V": {
+      "name": "Blue Jay Gold Corp.",
+      "price": 0.8
+    },
     "JBND.TO": {
       "name": "JPMorgan US Bond Active ETF",
       "price": 23.305
     },
     "JCOR.TO": {
       "name": "JPMorgan US Core Active ETF",
-      "price": 30.93
+      "price": 30.94
     },
     "JDN.V": {
       "name": "Jayden Resources Inc.",
@@ -6367,7 +6647,7 @@
     },
     "JGRO.TO": {
       "name": "JPMorgan US Growth Active ETF",
-      "price": 31.77
+      "price": 31.5
     },
     "JIDE.TO": {
       "name": "JPMorgan International Developed Equity Active ETF",
@@ -6375,7 +6655,7 @@
     },
     "JJ.V": {
       "name": "Jackpot Digital Inc.",
-      "price": 0.045
+      "price": 0.05
     },
     "JJJJ.V": {
       "name": "J4 Ventures Resources Corp.",
@@ -6387,7 +6667,7 @@
     },
     "JNJY.TO": {
       "name": "Harvest JnJ Enhanced High Income Shares ETF",
-      "price": 14.66
+      "price": 14.7
     },
     "JOJO-P.V": {
       "name": "Jo-Jo Capital Canada Ltd.",
@@ -6400,6 +6680,10 @@
     "JPHE.TO": {
       "name": "Harvest JPHE Enhanced High Income Shares ETF",
       "price": 12.21
+    },
+    "JPIE.TO": {
+      "name": "JPMorgan Income Active ETF",
+      "price": 24.47
     },
     "JPM.TO": {
       "name": "JPMorgan CDR (CAD Hedged)",
@@ -6419,15 +6703,19 @@
     },
     "JTC.V": {
       "name": "Jemtec Inc.",
-      "price": 1.1
+      "price": 1.02
     },
     "JTWO.V": {
       "name": "J2 Metals Inc.",
-      "price": 0.12
+      "price": 0.115
     },
     "JUGR.V": {
       "name": "Juggernaut Exploration Ltd.",
       "price": 0.41
+    },
+    "JUN-A.V": {
+      "name": "Juno International Corporation",
+      "price": 4.5
     },
     "JVR-P.V": {
       "name": "JVR Ventures Inc.",
@@ -6635,7 +6923,7 @@
     },
     "KRN.TO": {
       "name": "Karnalyte Resources Inc.",
-      "price": 0.275
+      "price": 0.28
     },
     "KRY.V": {
       "name": "Koryx Copper S.A.",
@@ -6647,7 +6935,7 @@
     },
     "KSM.V": {
       "name": "Kirkstone Metals Corp.",
-      "price": 0.12
+      "price": 0.135
     },
     "KTN.V": {
       "name": "Kootenay Silver Inc.",
@@ -6679,7 +6967,7 @@
     },
     "LAB.V": {
       "name": "Labrador Gold Corp.",
-      "price": 0.055
+      "price": 0.06
     },
     "LABS.TO": {
       "name": "MediPharm Labs Corp.",
@@ -6719,7 +7007,7 @@
     },
     "LBIT.TO": {
       "name": "Evolve Levered Bitcoin ETF",
-      "price": 18.0
+      "price": 17.88
     },
     "LBNK.V": {
       "name": "LithiumBank Resources Corp.",
@@ -6731,7 +7019,7 @@
     },
     "LCE.V": {
       "name": "Century Lithium Corp.",
-      "price": 0.265
+      "price": 0.27
     },
     "LCFS.TO": {
       "name": "Tidewater Renewables Ltd.",
@@ -6763,7 +7051,7 @@
     },
     "LETH.TO": {
       "name": "Evolve Levered Ether ETF",
-      "price": 26.19
+      "price": 25.73
     },
     "LFC-P.V": {
       "name": "Left Field Capital Corp.",
@@ -6823,7 +7111,7 @@
     },
     "LIO.V": {
       "name": "Lion One Metals Limited",
-      "price": 0.185
+      "price": 0.19
     },
     "LIT.V": {
       "name": "Argentina Lithium & Energy Corp.",
@@ -6859,7 +7147,7 @@
     },
     "LME.V": {
       "name": "Laurion Mineral Exploration Inc.",
-      "price": 0.145
+      "price": 0.15
     },
     "LMG.V": {
       "name": "Lincoln Gold Mining Inc.",
@@ -6895,7 +7183,7 @@
     },
     "LONG.TO": {
       "name": "CI Global Longevity Economy Fund",
-      "price": 46.82
+      "price": 47.0
     },
     "LORD.V": {
       "name": "St. James Gold Corp.",
@@ -6915,7 +7203,7 @@
     },
     "LPAY.TO": {
       "name": "Global X Long-Term U.S. Treasury Premium Yield ETF",
-      "price": 21.69
+      "price": 21.74
     },
     "LPK.V": {
       "name": "Lupaka Gold Corp.",
@@ -6957,6 +7245,10 @@
       "name": "Lithium Ionic Corp.",
       "price": 0.51
     },
+    "LTNG.V": {
+      "name": "Lightning Resource Corp.",
+      "price": 0.39
+    },
     "LTV.V": {
       "name": "LeoNovus Inc.",
       "price": 0.04
@@ -6967,7 +7259,7 @@
     },
     "LUC.TO": {
       "name": "Lucara Diamond Corp.",
-      "price": 0.165
+      "price": 0.17
     },
     "LUCA.V": {
       "name": "Luca Mining Corp.",
@@ -6977,6 +7269,10 @@
       "name": "Lundin Gold Inc.",
       "price": 87.24
     },
+    "LUKA-P.V": {
+      "name": "Luka Capital Corp.",
+      "price": 0.2
+    },
     "LULU.TO": {
       "name": "lululemon CDR (CAD Hedged)",
       "price": 4.17
@@ -6984,6 +7280,10 @@
     "LUN.TO": {
       "name": "Lundin Mining Corporation",
       "price": 33.93
+    },
+    "LUNR.TO": {
+      "name": "LunR Royalties Corp.",
+      "price": 19.26
     },
     "LUXR.V": {
       "name": "Luxor Metals Ltd.",
@@ -7015,15 +7315,15 @@
     },
     "LYCT.TO": {
       "name": "Lysander-Canso Corporate Treasury ActivETF",
-      "price": 10.44
+      "price": 10.42
     },
     "LYFR.TO": {
       "name": "Lysander-Canso Floating Rate ActivETF",
-      "price": 10.12
+      "price": 10.1
     },
     "LYUV-U.TO": {
       "name": "Lysander-Canso U.S. Corporate Value Bond Fund",
-      "price": 9.64
+      "price": 9.63
     },
     "MA.TO": {
       "name": "Mastercard CDR (CAD Hedged)",
@@ -7031,7 +7331,7 @@
     },
     "MAAA.TO": {
       "name": "Mackenzie AAA CLO ETF",
-      "price": 49.27
+      "price": 49.24
     },
     "MACK.V": {
       "name": "Mackay Gold & Silver Corp.",
@@ -7039,15 +7339,19 @@
     },
     "MAEC.TO": {
       "name": "Middlefield ActivEnergy Dividend Class",
-      "price": 10.67
+      "price": 10.61
     },
     "MAGV.TO": {
       "name": "Mackenzie Global Value ETF",
-      "price": 21.81
+      "price": 21.84
     },
     "MAH.V": {
       "name": "Marksmen Energy Inc.",
       "price": 0.18
+    },
+    "MAI.TO": {
+      "name": "Mining Americas Inc.",
+      "price": 5.33
     },
     "MAK-U.TO": {
       "name": "MAK Acquisition Corp.",
@@ -7059,7 +7363,7 @@
     },
     "MALX.TO": {
       "name": "Mackenzie GQE US Alpha Extension ETF",
-      "price": 26.12
+      "price": 25.98
     },
     "MAN-P.V": {
       "name": "Mandala Capital Inc.",
@@ -7071,7 +7375,7 @@
     },
     "MANU.V": {
       "name": "Manhattan Uranium Discovery Corp.",
-      "price": 0.205
+      "price": 0.21
     },
     "MAP.V": {
       "name": "Maple Peak Investments Inc.",
@@ -7095,7 +7399,7 @@
     },
     "MASS.V": {
       "name": "Masivo Silver Corp.",
-      "price": 0.045
+      "price": 0.05
     },
     "MATA.V": {
       "name": "Matador Technologies Inc.",
@@ -7119,7 +7423,7 @@
     },
     "MAUV.TO": {
       "name": "Mackenzie US Value ETF",
-      "price": 22.93
+      "price": 22.95
     },
     "MAX.V": {
       "name": "MAX Resource Corp.",
@@ -7127,15 +7431,19 @@
     },
     "MAYB-F.TO": {
       "name": "First Trust Vest U.S. Equity Buffer ETF - May",
-      "price": 52.45
+      "price": 52.4
     },
     "MBAL.TO": {
       "name": "Mackenzie Balanced Allocation ETF",
-      "price": 30.23
+      "price": 30.24
     },
     "MBAP.TO": {
       "name": "Manulife Balanced ETF Portfolio",
       "price": 10.27
+    },
+    "MBNK.TO": {
+      "name": "Mulvihill Canadian Bank ETF",
+      "price": 19.8
     },
     "MBO.V": {
       "name": "Mobio Technologies Inc.",
@@ -7143,7 +7451,7 @@
     },
     "MBQG.TO": {
       "name": "Mackenzie GQE Global Balanced ETF",
-      "price": 21.6
+      "price": 21.47
     },
     "MBX.TO": {
       "name": "Microbix Biosystems Inc.",
@@ -7173,13 +7481,17 @@
       "name": "Michichi Capital Corp.",
       "price": 0.1
     },
+    "MCD.TO": {
+      "name": "McDonald's CDR (CAD Hedged)",
+      "price": 19.41
+    },
     "MCF.V": {
       "name": "MCF Energy Ltd.",
       "price": 0.015
     },
     "MCI.V": {
       "name": "Minnova Corp.",
-      "price": 0.165
+      "price": 0.17
     },
     "MCLC.TO": {
       "name": "Manulife Multifactor Canadian Large Cap Index ETF",
@@ -7187,7 +7499,7 @@
     },
     "MCLV.TO": {
       "name": "Mackenzie GQE Canada Low Volatility ETF",
-      "price": 30.39
+      "price": 30.52
     },
     "MCM-A.V": {
       "name": "Matachewan Consolidated Mines, Limited",
@@ -7195,11 +7507,11 @@
     },
     "MCON.TO": {
       "name": "Mackenzie Conservative Allocation ETF",
-      "price": 24.62
+      "price": 24.64
     },
     "MCOR.TO": {
       "name": "Manulife Core Plus Bond Fund",
-      "price": 9.8779
+      "price": 9.91
     },
     "MCS.V": {
       "name": "McChip Resources Inc.",
@@ -7211,7 +7523,7 @@
     },
     "MCSM.TO": {
       "name": "Manulife Multifactor Canadian SMID Cap Index ETF",
-      "price": 68.29
+      "price": 68.33
     },
     "MCT-P.V": {
       "name": "M3 Capital Corp.",
@@ -7231,7 +7543,7 @@
     },
     "MDEF.TO": {
       "name": "Mackenzie Defensive Tilt ETF",
-      "price": 21.51
+      "price": 21.39
     },
     "MDI.TO": {
       "name": "Major Drilling Group International Inc.",
@@ -7243,7 +7555,7 @@
     },
     "MDIV.TO": {
       "name": "Middlefield Global Dividend Growers ETF",
-      "price": 22.46
+      "price": 22.58
     },
     "MDK-P.V": {
       "name": "MDK Acquisition Inc.",
@@ -7271,7 +7583,7 @@
     },
     "MEDX.TO": {
       "name": "Global X Equal Weight Global Healthcare Index ETF",
-      "price": 23.44
+      "price": 23.45
     },
     "MEED-P.V": {
       "name": "Meed Growth Corp.",
@@ -7287,7 +7599,7 @@
     },
     "MEME-B.TO": {
       "name": "Manulife Multifactor Emerging Markets Index ETF",
-      "price": 45.42
+      "price": 45.0
     },
     "MENE.V": {
       "name": "Mene Inc.",
@@ -7321,8 +7633,12 @@
       "name": "Harvest Meta Enhanced High Income Shares ETF",
       "price": 9.5
     },
+    "METU.TO": {
+      "name": "SavvyLong (2X) META ETF",
+      "price": 24.81
+    },
     "MFA-P.V": {
-      "name": "Mayfair Acquisition Corporation",
+      "name": "Mayfair Acquisition Corp.",
       "price": 0.04
     },
     "MFC.TO": {
@@ -7351,11 +7667,11 @@
     },
     "MGA.TO": {
       "name": "Mega Uranium Ltd.",
-      "price": 0.495
+      "price": 0.5
     },
     "MGAB.TO": {
       "name": "Mackenzie Global Fixed Income Allocation ETF",
-      "price": 16.46
+      "price": 16.26
     },
     "MGAP.TO": {
       "name": "Manulife Growth ETF Portfolio",
@@ -7371,7 +7687,7 @@
     },
     "MGG.V": {
       "name": "Minaurum Silver Inc.",
-      "price": 0.3025
+      "price": 0.3
     },
     "MGM.V": {
       "name": "Maple Gold Mines Ltd.",
@@ -7399,15 +7715,15 @@
     },
     "MHCD.TO": {
       "name": "Middlefield Healthcare Dividend ETF",
-      "price": 12.34
+      "price": 12.37
     },
     "MHDC.TO": {
       "name": "Mackenzie Canadian High Dividend Yield ETF",
-      "price": 26.89
+      "price": 26.87
     },
     "MHDU.TO": {
       "name": "Mackenzie US High Dividend Yield ETF",
-      "price": 23.42
+      "price": 23.37
     },
     "MHUB.V": {
       "name": "Minehub Technologies Inc.",
@@ -7420,6 +7736,10 @@
     "MIDB.TO": {
       "name": "Evolve Enhanced Yield Mid Term Bond Fund",
       "price": 16.5
+    },
+    "MILE.V": {
+      "name": "Twenty Mile Metals Inc.",
+      "price": 0.145
     },
     "MIM.V": {
       "name": "MiMedia Holdings Inc.",
@@ -7439,7 +7759,7 @@
     },
     "MINT.TO": {
       "name": "Manulife Multifactor Developed International Index ETF",
-      "price": 47.8
+      "price": 47.94
     },
     "MIPC.TO": {
       "name": "Middlefield Income Plus Class",
@@ -7455,10 +7775,10 @@
     },
     "MIVG.TO": {
       "name": "Mackenzie Ivy Global Equity ETF",
-      "price": 40.51
+      "price": 40.5
     },
     "MIVO.V": {
-      "name": "Miivo Holdings Corp.",
+      "name": "Miivo AI Inc",
       "price": 0.42
     },
     "MIX.TO": {
@@ -7467,7 +7787,7 @@
     },
     "MJS.V": {
       "name": "Majestic Gold Corp.",
-      "price": 0.095
+      "price": 0.1
     },
     "MKA.V": {
       "name": "Mkango Resources Ltd.",
@@ -7491,7 +7811,7 @@
     },
     "MKT.V": {
       "name": "Prospect Prediction Markets Inc.",
-      "price": 0.285
+      "price": 0.29
     },
     "MKZ-UN.TO": {
       "name": "Mackenzie Master Limited Partnership",
@@ -7504,6 +7824,10 @@
     "MLP.V": {
       "name": "Millennial Potash Corp.",
       "price": 2.3
+    },
+    "MLRG.TO": {
+      "name": "Madison US Large Cap ETF",
+      "price": 19.72
     },
     "MMA.V": {
       "name": "Midnight Sun Mining Corp.",
@@ -7520,6 +7844,10 @@
     "MMG.V": {
       "name": "Metallic Minerals Corp.",
       "price": 0.2
+    },
+    "MMID.TO": {
+      "name": "Madison US Mid Cap ETF",
+      "price": 20.61
     },
     "MMM.V": {
       "name": "Minco Capital Corp.",
@@ -7543,7 +7871,7 @@
     },
     "MN.V": {
       "name": "Manganese X Energy Corp.",
-      "price": 0.095
+      "price": 0.1
     },
     "MNLX.V": {
       "name": "Miniluxe Holding Corp.",
@@ -7571,7 +7899,7 @@
     },
     "MNXT.TO": {
       "name": "Mackenzie Bluewater Next Gen Growth ETF",
-      "price": 25.36
+      "price": 25.39
     },
     "MNY.TO": {
       "name": "Purpose Cash Management Fund",
@@ -7584,6 +7912,10 @@
     "MOG.V": {
       "name": "Mogotes Metals Inc.",
       "price": 0.47
+    },
+    "MOGL.V": {
+      "name": "Mogul Mountain Ventures Corporation",
+      "price": 0.265
     },
     "MOLY.TO": {
       "name": "Greenland Resources Inc.",
@@ -7635,7 +7967,7 @@
     },
     "MPY.TO": {
       "name": "Mulvihill Premium Yield Fund",
-      "price": 10.27
+      "price": 10.5
     },
     "MQM.V": {
       "name": "Metalquest Mining Inc.",
@@ -7679,7 +8011,7 @@
     },
     "MRZ.V": {
       "name": "Mirasol Resources Ltd.",
-      "price": 0.315
+      "price": 0.32
     },
     "MRZL.V": {
       "name": "Mont Royal Resources Limited.",
@@ -7699,7 +8031,7 @@
     },
     "MSC.V": {
       "name": "Millennium Silver Corp.",
-      "price": 0.025
+      "price": 0.03
     },
     "MSCL.TO": {
       "name": "Satellos Bioscience Inc.",
@@ -7715,7 +8047,7 @@
     },
     "MSFU.TO": {
       "name": "SavvyLong (2X) MSFT ETF",
-      "price": 20.69
+      "price": 20.26
     },
     "MSG.V": {
       "name": "Mithril Silver and Gold Limited",
@@ -7738,7 +8070,7 @@
       "price": 10.4
     },
     "MSTU.TO": {
-      "name": "LFG Daily (2X) MSTR Long ETF",
+      "name": "SavvyLong (2X) MSTR ETF",
       "price": 39.93
     },
     "MSTY.TO": {
@@ -7795,11 +8127,11 @@
     },
     "MTT.V": {
       "name": "Magna Terra Minerals Inc.",
-      "price": 0.265
+      "price": 0.27
     },
     "MTX.V": {
       "name": "Metalex Ventures Ltd.",
-      "price": 0.015
+      "price": 0.02
     },
     "MTY.TO": {
       "name": "MTY Food Group Inc.",
@@ -7815,7 +8147,7 @@
     },
     "MULC.TO": {
       "name": "Manulife Multifactor U.S. Large Cap Index ETF",
-      "price": 64.82
+      "price": 64.79
     },
     "MULV.TO": {
       "name": "Mackenzie GQE US Low Volatility ETF",
@@ -7823,11 +8155,11 @@
     },
     "MUMC.TO": {
       "name": "Manulife Multifactor U.S. Mid Cap Index ETF",
-      "price": 51.59
+      "price": 51.5
     },
     "MUN.V": {
       "name": "Mundoro Capital Inc.",
-      "price": 0.35
+      "price": 0.37
     },
     "MUR.V": {
       "name": "Murchison Minerals Ltd.",
@@ -7843,11 +8175,15 @@
     },
     "MUSD-U.TO": {
       "name": "US Premium Cash Management Fund",
-      "price": 100.05
+      "price": 100.08
     },
     "MUSH.V": {
       "name": "Mercanto Holdings Inc.",
       "price": 0.125
+    },
+    "MUU.TO": {
+      "name": "SavvyLong (2X) Micron ETF",
+      "price": 18.37
     },
     "MUX.TO": {
       "name": "McEwen Inc.",
@@ -7867,11 +8203,15 @@
     },
     "MYID.V": {
       "name": "Reklaim Ltd.",
-      "price": 0.255
+      "price": 0.26
     },
     "NA.TO": {
       "name": "National Bank of Canada",
       "price": 203.11
+    },
+    "NACO.TO": {
+      "name": "Ninepoint Alternative Credit Opportunities Fund",
+      "price": 16.48
     },
     "NALT.TO": {
       "name": "NBI Liquid Alternatives ETF",
@@ -7879,11 +8219,15 @@
     },
     "NAM.V": {
       "name": "New Age Metals Inc.",
-      "price": 0.195
+      "price": 0.2
     },
     "NANO.TO": {
       "name": "Nano One Materials Corp.",
       "price": 0.89
+    },
+    "NAP.V": {
+      "name": "Napoleon Resources Inc.",
+      "price": 0.13
     },
     "NAQ-P.V": {
       "name": "Navigator Acquisition Corp.",
@@ -7903,7 +8247,7 @@
     },
     "NBAL.TO": {
       "name": "Ninepoint Balanced+ Fund",
-      "price": 23.13
+      "price": 23.14
     },
     "NBBX.TO": {
       "name": "NBI Canadian Bond Index Fund",
@@ -7915,7 +8259,7 @@
     },
     "NBCU.TO": {
       "name": "SavvyLong 2X NBC (NA) Equity-Linked ETF",
-      "price": 33.19
+      "price": 35.87
     },
     "NBCX.TO": {
       "name": "NBI Canadian Equity Index Fund",
@@ -7931,11 +8275,11 @@
     },
     "NBIE.TO": {
       "name": "NBI International Equity Fund",
-      "price": 10.83
+      "price": 10.9
     },
     "NBIV.TO": {
       "name": "NBI International Value Fund",
-      "price": 10.67
+      "price": 10.45
     },
     "NBIX.TO": {
       "name": "NBI International Equity Index Fund",
@@ -7945,9 +8289,17 @@
       "name": "Nobel Resources Corp.",
       "price": 0.02
     },
+    "NBLD.TO": {
+      "name": "NBI Balanced ETF Portfolio",
+      "price": 9.97
+    },
     "NBM.V": {
       "name": "NEO Battery Materials Ltd.",
       "price": 0.16
+    },
+    "NBND.TO": {
+      "name": "Ninepoint Diversified Bond Fund",
+      "price": 18.32
     },
     "NBQC.TO": {
       "name": "NBI Quebec Growth Fund",
@@ -7955,7 +8307,7 @@
     },
     "NBSC.TO": {
       "name": "NBI Global Small Cap Fund",
-      "price": 10.26
+      "price": 10.25
     },
     "NBUE.TO": {
       "name": "NBI U.S. Equity Fund",
@@ -7963,7 +8315,7 @@
     },
     "NBUX.TO": {
       "name": "NBI U.S. Equity Index Fund",
-      "price": 10.98
+      "price": 10.9
     },
     "NBVA.V": {
       "name": "Nubeva Technologies Ltd.",
@@ -7983,7 +8335,11 @@
     },
     "NCI.V": {
       "name": "NTG Clarity Networks Inc.",
-      "price": 0.345
+      "price": 0.35
+    },
+    "NCNS.TO": {
+      "name": "NBI Conservative ETF Portfolio",
+      "price": 9.87
     },
     "NCP.V": {
       "name": "Nickel Creek Platinum Corp.",
@@ -8021,13 +8377,17 @@
       "name": "Neo Performance Materials Inc.",
       "price": 31.63
     },
+    "NEQT.TO": {
+      "name": "NBI Equity ETF Portfolio",
+      "price": 10.07
+    },
     "NET-UN.V": {
       "name": "Canadian Net Real Estate Investment Trust",
       "price": 6.35
     },
     "NEV.V": {
       "name": "Nevada Sunrise Metals Corporation",
-      "price": 0.045
+      "price": 0.05
     },
     "NEXE.V": {
       "name": "Nexe Innovations Inc.",
@@ -8043,7 +8403,11 @@
     },
     "NEXT.TO": {
       "name": "NextSource Materials Inc.",
-      "price": 0.265
+      "price": 0.27
+    },
+    "NFGC.TO": {
+      "name": "New Found Gold Corp.",
+      "price": 2.34
     },
     "NFI.TO": {
       "name": "NFI Group Inc.",
@@ -8077,6 +8441,10 @@
       "name": "NBI Global Private Equity ETF",
       "price": 45.31
     },
+    "NGRW.TO": {
+      "name": "NBI Growth ETF Portfolio",
+      "price": 9.99
+    },
     "NHHH.V": {
       "name": "FuelPositive Corporation",
       "price": 0.07
@@ -8085,9 +8453,17 @@
       "name": "NBI High Yield Bond ETF",
       "price": 20.84
     },
+    "NICE.V": {
+      "name": "Ni-Co Energy Inc.",
+      "price": 0.42
+    },
     "NICN.V": {
       "name": "NICAN Limited",
       "price": 0.15
+    },
+    "NICU.TO": {
+      "name": "Magna Mining Inc.",
+      "price": 2.44
     },
     "NILI.V": {
       "name": "Surge Battery Metals Inc.",
@@ -8099,7 +8475,7 @@
     },
     "NINT.TO": {
       "name": "NBI Active International Equity ETF",
-      "price": 29.38
+      "price": 29.32
     },
     "NINV.TO": {
       "name": "NBI Innovators Fund",
@@ -8107,7 +8483,7 @@
     },
     "NIO.V": {
       "name": "Nio Strategic Metals Inc.",
-      "price": 0.125
+      "price": 0.13
     },
     "NKE.TO": {
       "name": "NIKE CDR (CAD Hedged)",
@@ -8133,6 +8509,10 @@
       "name": "NL2 Capital Inc.",
       "price": 0.06
     },
+    "NMB.V": {
+      "name": "NorthMin Corporation",
+      "price": 0.45
+    },
     "NMBL.TO": {
       "name": "Meritage Tactical ETF Balanced Portfolio",
       "price": 10.48
@@ -8155,11 +8535,15 @@
     },
     "NMMO.TO": {
       "name": "Meritage Tactical ETF Moderate Portfolio",
-      "price": 10.2299
+      "price": 10.2133
     },
     "NMNG.TO": {
       "name": "Ninepoint Mining Evolution Fund",
       "price": 11.61
+    },
+    "NNRG.TO": {
+      "name": "Ninepoint Energy Fund",
+      "price": 85.43
     },
     "NNX.V": {
       "name": "Nickel North Exploration Corp.",
@@ -8179,7 +8563,7 @@
     },
     "NOBL.V": {
       "name": "Noble Plains Uranium Corp.",
-      "price": 0.075
+      "price": 0.08
     },
     "NOC.TO": {
       "name": "Northrop Grumman CDR (CAD Hedged)",
@@ -8227,7 +8611,7 @@
     },
     "NPRF.TO": {
       "name": "NBI Active Canadian Preferred Shares ETF",
-      "price": 26.78
+      "price": 26.7
     },
     "NPS.TO": {
       "name": "Canadian Large Cap Leaders Split Corp.",
@@ -8237,17 +8621,29 @@
       "name": "Neupath Health Inc.",
       "price": 0.6
     },
+    "NPV.V": {
+      "name": "Next Phase Ventures Ltd.",
+      "price": 0.005
+    },
+    "NQC.V": {
+      "name": "Nordique Critical Metals Inc.",
+      "price": 0.06
+    },
     "NRC.V": {
       "name": "Nations Royalty Corp.",
       "price": 1.43
     },
     "NREA.TO": {
       "name": "NBI Global Real Assets Income Fund",
-      "price": 26.61
+      "price": 26.58
     },
     "NRGD.TO": {
       "name": "BetaPro S&P/TSX Capped Energy -2x Daily Bear ETF",
       "price": 6.2
+    },
+    "NRGI.TO": {
+      "name": "Ninepoint Energy Income Fund",
+      "price": 22.73
     },
     "NRGU.TO": {
       "name": "BetaPro S&P/TSX Capped Energy 2x Daily Bull ETF",
@@ -8263,7 +8659,7 @@
     },
     "NRN.V": {
       "name": "Northern Shield Resources Inc.",
-      "price": 0.045
+      "price": 0.05
     },
     "NRR-UN.TO": {
       "name": "Northview Residential REIT",
@@ -8272,6 +8668,10 @@
     "NRX.V": {
       "name": "NurExone Biologic Inc.",
       "price": 0.64
+    },
+    "NSAV.TO": {
+      "name": "Ninepoint Cash Management Fund",
+      "price": 50.32
     },
     "NSCB.TO": {
       "name": "NBI Sustainable Canadian Bond ETF",
@@ -8289,9 +8689,13 @@
       "name": "Nanalysis Scientific Corp.",
       "price": 0.115
     },
+    "NSDC.TO": {
+      "name": "NBI SmartData Canadian Equity Fund",
+      "price": 10.2
+    },
     "NSDG.TO": {
       "name": "NBI SmartData Global Equity Fund",
-      "price": 10.77
+      "price": 10.72
     },
     "NSDI.TO": {
       "name": "NBI SmartData International Equity Fund",
@@ -8299,7 +8703,7 @@
     },
     "NSDU.TO": {
       "name": "NBI SmartData U.S. Equity Fund",
-      "price": 11.81
+      "price": 11.78
     },
     "NSE.V": {
       "name": "New Stratus Energy Inc.",
@@ -8335,19 +8739,19 @@
     },
     "NTGB.TO": {
       "name": "NBI Target 2027 Investment Grade Bond Fund",
-      "price": 10.17
+      "price": 10.18
     },
     "NTGC.TO": {
       "name": "NBI Target 2028 Investment Grade Bond Fund",
-      "price": 10.14
+      "price": 10.13
     },
     "NTGD.TO": {
       "name": "NBI Target 2029 Investment Grade Bond Fund",
-      "price": 9.9
+      "price": 9.89
     },
     "NTGE.TO": {
       "name": "NBI Target 2030 Investment Grade Bond Fund",
-      "price": 9.87
+      "price": 9.86
     },
     "NTGF.TO": {
       "name": "NBI Target 2031 Investment Grade Bond Fund",
@@ -8355,7 +8759,11 @@
     },
     "NTH.V": {
       "name": "Nord Precious Metals Mining Inc.",
-      "price": 0.155
+      "price": 0.16
+    },
+    "NTHM.TO": {
+      "name": "NBI Thematic Rotation ETF",
+      "price": 9.53
     },
     "NTLX.V": {
       "name": "NeuroThera Labs Inc.",
@@ -8430,7 +8838,7 @@
       "price": 0.07
     },
     "NVRO.V": {
-      "name": "EnviroGold Global Limited",
+      "name": "NVRO Metals Limited",
       "price": 0.155
     },
     "NVS.TO": {
@@ -8451,7 +8859,7 @@
     },
     "NWST.V": {
       "name": "Northwest Copper Corp.",
-      "price": 0.2775
+      "price": 0.28
     },
     "NWX.V": {
       "name": "Newport Exploration Ltd.",
@@ -8467,11 +8875,11 @@
     },
     "NXG.V": {
       "name": "NexgenRx Inc.",
-      "price": 0.61
+      "price": 0.64
     },
     "NXH.V": {
       "name": "Next Hydrogen Solutions Inc.",
-      "price": 0.44
+      "price": 0.41
     },
     "NXLV.V": {
       "name": "NexLiving Communities Inc.",
@@ -8491,11 +8899,11 @@
     },
     "NYSX.TO": {
       "name": "Global X NYSE 100 Index ETF",
-      "price": 37.38
+      "price": 37.46
     },
     "NZ.V": {
       "name": "New Zealand Energy Corp.",
-      "price": 0.445
+      "price": 0.45
     },
     "OAC-P.V": {
       "name": "Oa Capital Corp.",
@@ -8505,17 +8913,17 @@
       "name": "OverActive Media Corp.",
       "price": 0.085
     },
-    "OBE.TO": {
-      "name": "Obsidian Energy Ltd.",
-      "price": 14.69
-    },
     "OBUL.V": {
       "name": "One Bullion Limited",
       "price": 0.47
     },
     "OC.V": {
       "name": "Olive Resource Capital Inc.",
-      "price": 0.115
+      "price": 0.12
+    },
+    "OCAL.V": {
+      "name": "OCAL Financial Inc.",
+      "price": 0.095
     },
     "OCAP-P.V": {
       "name": "Ocean Shore Capital Corp.",
@@ -8527,15 +8935,11 @@
     },
     "OCG.TO": {
       "name": "Outcrop Silver & Gold Corporation",
-      "price": 0.295
+      "price": 0.3
     },
     "OCI.V": {
       "name": "Orecap Invest Corp.",
       "price": 0.175
-    },
-    "OCO.V": {
-      "name": "Oroco Resource Corp.",
-      "price": 0.46
     },
     "OGC.TO": {
       "name": "OceanaGold Corporation",
@@ -8544,6 +8948,10 @@
     "OGD.TO": {
       "name": "Orbit Garant Drilling Inc.",
       "price": 1.1
+    },
+    "OGG.V": {
+      "name": "Osisko Gold Group Inc.",
+      "price": 4.0
     },
     "OGI.TO": {
       "name": "Organigram Global Inc.",
@@ -8563,11 +8971,11 @@
     },
     "OILD.TO": {
       "name": "SavvyShort Geared Crude Oil ETF",
-      "price": 13.1
+      "price": 13.47
     },
     "OILU.TO": {
       "name": "SavvyLong Geared Crude Oil ETF",
-      "price": 56.04
+      "price": 54.15
     },
     "OILY.TO": {
       "name": "Evolve Canadian Energy Enhanced Yield Index Fund",
@@ -8576,10 +8984,6 @@
     "OLV.V": {
       "name": "Olivut Resources Ltd.",
       "price": 0.04
-    },
-    "OLY.TO": {
-      "name": "Olympia Financial Group Inc.",
-      "price": 101.44
     },
     "OM.TO": {
       "name": "Osisko Metals Incorporated",
@@ -8593,17 +8997,9 @@
       "name": "Orosur Mining Inc.",
       "price": 0.31
     },
-    "OML.V": {
-      "name": "Omni-Lite Industries Canada Inc.",
-      "price": 2.92
-    },
     "OMM.V": {
       "name": "Omineca Mining and Metals Ltd.",
       "price": 0.055
-    },
-    "ONAU.V": {
-      "name": "OnGold Resources Ltd.",
-      "price": 0.62
     },
     "ONE.V": {
       "name": "01 Quantum Inc.",
@@ -8611,15 +9007,11 @@
     },
     "ONEB.TO": {
       "name": "CI North American Core Plus Bond ETF",
-      "price": 48.09
-    },
-    "ONEC.TO": {
-      "name": "Accelerate OneChoice Alternative Multi-Asset Fund",
-      "price": 26.12
+      "price": 48.03
     },
     "ONEQ.TO": {
       "name": "CI Global Core Plus Equity ETF",
-      "price": 59.03
+      "price": 58.93
     },
     "ONEX.TO": {
       "name": "ONEX Corporation",
@@ -8631,31 +9023,19 @@
     },
     "OOR.V": {
       "name": "Opus One Gold Corporation",
-      "price": 0.055
+      "price": 0.06
     },
     "OPHR.V": {
       "name": "Ophir Metals Corp.",
       "price": 0.04
     },
-    "OPW.V": {
-      "name": "Opawica Explorations Inc.",
-      "price": 0.14
-    },
-    "OR.TO": {
-      "name": "OR Royalties Inc.",
-      "price": 48.8
-    },
-    "ORAC.TO": {
-      "name": "Oracle CDR (CAD Hedged)",
-      "price": 6.77
+    "ORBU.TO": {
+      "name": "SavvyLong (2X) SpaceX ETF",
+      "price": 10.15
     },
     "ORBX.TO": {
       "name": "Global X Space Tech Index ETF",
       "price": 17.33
-    },
-    "ORC-A.V": {
-      "name": "Orca Energy Group Inc.",
-      "price": 20.0
     },
     "ORCL.V": {
       "name": "Oracle Commodity Holding Corp.",
@@ -8668,10 +9048,6 @@
     "ORE.TO": {
       "name": "Orezone Gold Corporation",
       "price": 3.17
-    },
-    "ORIO.TO": {
-      "name": "Orion Digital Corp.",
-      "price": 1.52
     },
     "ORS.V": {
       "name": "Orestone Mining Corp.",
@@ -8715,7 +9091,7 @@
     },
     "OYL.V": {
       "name": "CGX Energy Inc.",
-      "price": 0.215
+      "price": 0.22
     },
     "OZ.V": {
       "name": "Valkea Resources Corp.",
@@ -8731,11 +9107,7 @@
     },
     "PABF.TO": {
       "name": "Purpose Active Balanced Fund",
-      "price": 26.99
-    },
-    "PACF.TO": {
-      "name": "Purpose Active Conservative Fund",
-      "price": 24.85
+      "price": 27.04
     },
     "PAGF.TO": {
       "name": "Purpose Active Growth Fund",
@@ -8757,10 +9129,6 @@
       "name": "Palo Alto Networks CDR (CAD Hedged)",
       "price": 46.53
     },
-    "PAT.V": {
-      "name": "Patterson Metals Corp.",
-      "price": 1.56
-    },
     "PAVE.TO": {
       "name": "Global X U.S. Infrastructure Development Index ETF",
       "price": 26.91
@@ -8773,13 +9141,13 @@
       "name": "Brompton Global Equity HighPay ETF",
       "price": 25.9
     },
-    "PAYL.TO": {
-      "name": "Global X Long-Term Government Bond Premium Yield ETF",
-      "price": 16.105
+    "PAYI.TO": {
+      "name": "Brompton Utilities & Infrastructure HighPay ETF",
+      "price": 22.51
     },
     "PAYM.TO": {
       "name": "Global X Mid-Term Government Bond Premium Yield ETF",
-      "price": 17.255
+      "price": 17.2
     },
     "PAYS.TO": {
       "name": "Global X Short-Term Government Bond Premium Yield ETF",
@@ -8793,21 +9161,13 @@
       "name": "Purpose Total Return Bond Fund",
       "price": 15.81
     },
-    "PBH.TO": {
-      "name": "Premium Brands Holdings Corporation",
-      "price": 70.64
-    },
-    "PBI.TO": {
-      "name": "Purpose Best Ideas Fund",
-      "price": 56.6
-    },
-    "PBL.TO": {
-      "name": "Pollard Banknote Limited",
-      "price": 16.96
-    },
     "PBM.V": {
       "name": "Pacific Bay Minerals Ltd.",
       "price": 0.04
+    },
+    "PCA.TO": {
+      "name": "Phoenix Metals Corp.",
+      "price": 1.1
     },
     "PCAA-P.V": {
       "name": "PC 1 Corp.",
@@ -8825,33 +9185,21 @@
       "name": "PIMCO Managed Core Bond Pool",
       "price": 17.32
     },
-    "PCP-P.V": {
-      "name": "Pender Street Capital Corp.",
-      "price": 0.1
-    },
     "PCQ.V": {
       "name": "Petrolympic Ltd.",
-      "price": 0.17
+      "price": 0.13
     },
     "PCRX.V": {
       "name": "PharmaCorp Rx Inc.",
       "price": 0.41
-    },
-    "PCU.V": {
-      "name": "Pecoy Copper Corp.",
-      "price": 1.87
     },
     "PD.TO": {
       "name": "Precision Drilling Corporation",
       "price": 114.59
     },
     "PDC.TO": {
-      "name": "Invesco Canadian Dividend Index ETF",
+      "name": "CI Canadian Dividend Index ETF",
       "price": 48.13
-    },
-    "PDF.TO": {
-      "name": "Purpose Core Dividend Fund",
-      "price": 43.81
     },
     "PDI.TO": {
       "name": "Predictive Discovery Limited",
@@ -8909,10 +9257,6 @@
       "name": "Pet Valu Holdings Ltd.",
       "price": 17.95
     },
-    "PEX.V": {
-      "name": "Pacific Ridge Exploration Ltd.",
-      "price": 0.18
-    },
     "PEY.TO": {
       "name": "Peyto Exploration & Development Corp.",
       "price": 22.86
@@ -8929,17 +9273,9 @@
       "name": "PICTON Core Bond Fund",
       "price": 10.19
     },
-    "PFCO.TO": {
-      "name": "PICTON Credit Opportunities Alternative Fund",
-      "price": 9.02
-    },
     "PFE.TO": {
       "name": "Pfizer CDR (CAD Hedged)",
       "price": 12.7
-    },
-    "PFIA.TO": {
-      "name": "PICTON  Long Short Income  Alternative Fund",
-      "price": 9.78
     },
     "PFIG.TO": {
       "name": "PICTON Investment Grade Alternative Fund",
@@ -8950,7 +9286,7 @@
       "price": 9.49
     },
     "PFL.TO": {
-      "name": "Invesco Canadian Government Floating Rate Index ETF",
+      "name": "CI Canadian Government Floating Rate Index ETF",
       "price": 19.48
     },
     "PFLS.TO": {
@@ -8963,7 +9299,11 @@
     },
     "PFMS.TO": {
       "name": "PICTON Multi-Strategy Alternative Fund",
-      "price": 16.27
+      "price": 16.23
+    },
+    "PFRD.TO": {
+      "name": "Mulvihill Split Preferred Share ETF",
+      "price": 19.77
     },
     "PG.TO": {
       "name": "Procter & Gamble CDR (CAD Hedged)",
@@ -8975,11 +9315,11 @@
     },
     "PGDC.V": {
       "name": "Patagonia Gold Corp.",
-      "price": 0.425
+      "price": 0.43
     },
     "PGE.V": {
       "name": "Stillwater Critical Minerals Corp.",
-      "price": 0.405
+      "price": 0.41
     },
     "PGI-UN.TO": {
       "name": "PIMCO Global Income Opportunities Fund",
@@ -8997,21 +9337,17 @@
       "name": "Power Group Projects Corp.",
       "price": 0.02
     },
+    "PGRX.TO": {
+      "name": "Purpose Global Resource Fund",
+      "price": 10.92
+    },
     "PGX.V": {
       "name": "Prosper Gold Corp.",
       "price": 0.03
     },
-    "PGZ.V": {
-      "name": "Pan Global Resources Inc.",
-      "price": 0.185
-    },
-    "PHD.V": {
-      "name": "Providence Gold Mines Inc.",
-      "price": 0.045
-    },
     "PHE.TO": {
       "name": "Purpose Tactical Hedged Equity Fund",
-      "price": 41.54
+      "price": 41.42
     },
     "PHNM.V": {
       "name": "Phenom Resources Corp.",
@@ -9019,11 +9355,11 @@
     },
     "PHR.TO": {
       "name": "Purpose Real Estate Income Fund",
-      "price": 19.93
+      "price": 19.91
     },
     "PHW.TO": {
       "name": "Purpose International Enhanced Equity Income Fund",
-      "price": 22.36
+      "price": 22.3
     },
     "PHX.TO": {
       "name": "PHX Energy Services Corp.",
@@ -9047,11 +9383,11 @@
     },
     "PIN.TO": {
       "name": "Purpose Monthly Income Fund",
-      "price": 19.74
+      "price": 19.66
     },
     "PINC.TO": {
       "name": "Purpose Multi-Asset Income Fund",
-      "price": 21.48
+      "price": 21.52
     },
     "PINK.V": {
       "name": "Perimeter Medical Imaging AI, Inc.",
@@ -9060,10 +9396,6 @@
     "PINN.V": {
       "name": "Pinnacle Silver and Gold Corp.",
       "price": 0.095
-    },
-    "PINV.TO": {
-      "name": "Purpose Global Innovators Fund",
-      "price": 33.3
     },
     "PJX.V": {
       "name": "PJX Resources Inc.",
@@ -9077,25 +9409,17 @@
       "name": "Progressive Planet Solutions Inc.",
       "price": 0.345
     },
-    "PLDI.TO": {
-      "name": "PIMCO Low Duration Monthly Income Fund (Canada)",
-      "price": 18.07
-    },
     "PLHI.TO": {
       "name": "Ninepoint Palantir HighShares ETF",
       "price": 11.94
     },
-    "PLSR.V": {
-      "name": "Pulsar Helium Inc.",
-      "price": 1.17
-    },
-    "PLTE.TO": {
-      "name": "Harvest Palantir Enhanced High Income Shares ETF",
-      "price": 21.12
-    },
     "PLTR.TO": {
       "name": "Palantir CDR (CAD Hedged)",
       "price": 14.1
+    },
+    "PLTU.TO": {
+      "name": "SavvyLong (2X) PLTR ETF",
+      "price": 36.18
     },
     "PLUR.V": {
       "name": "Plurilock Security Inc.",
@@ -9113,10 +9437,6 @@
       "name": "Plaza Retail REIT",
       "price": 5.27
     },
-    "PME.TO": {
-      "name": "Sentry Select Primary Metals Corp.",
-      "price": 5.53
-    },
     "PMEI-UN.TO": {
       "name": "PIMCO Monthly Enhanced Income Fund",
       "price": 8.6
@@ -9129,10 +9449,6 @@
       "name": "Perseverance Metals Inc.",
       "price": 0.69
     },
-    "PMIF.TO": {
-      "name": "PIMCO Monthly Income Fund (Canada)",
-      "price": 17.055
-    },
     "PML.V": {
       "name": "Panoro Minerals Ltd.",
       "price": 1.61
@@ -9141,17 +9457,9 @@
       "name": "Purpose Multi-Strategy Market Neutral Fund",
       "price": 28.38
     },
-    "PMNT.TO": {
-      "name": "PIMCO Global Short Maturity Fund (Canada)",
-      "price": 18.59
-    },
     "PMX.V": {
       "name": "ProAm Explorations Corporation",
       "price": 0.1
-    },
-    "PMZ-UN.TO": {
-      "name": "Primaris Real Estate Investment Trust",
-      "price": 22.2
     },
     "PNC-A.TO": {
       "name": "Postmedia Network Canada Corp.",
@@ -9169,14 +9477,6 @@
       "name": "Pinetree Capital Ltd.",
       "price": 9.47
     },
-    "PNPN.V": {
-      "name": "Power Metallic Mines Inc.",
-      "price": 1.19
-    },
-    "PNTR.V": {
-      "name": "Pantera Silver Corp.",
-      "price": 0.35
-    },
     "POND.V": {
       "name": "Pond Technologies Holdings Inc.",
       "price": 0.01
@@ -9192,10 +9492,6 @@
     "POW.TO": {
       "name": "Power Corporation of Canada",
       "price": 90.03
-    },
-    "PPL.TO": {
-      "name": "Pembina Pipeline Corporation",
-      "price": 63.53
     },
     "PPLN.TO": {
       "name": "Global X Equal Weight Canadian Pipelines Index ETF",
@@ -9213,269 +9509,21 @@
       "name": "Prairie Provident Resources Inc.",
       "price": 0.31
     },
-    "PPTA.TO": {
-      "name": "Perpetua Resources Corp.",
-      "price": 30.69
-    },
-    "PPX.V": {
-      "name": "PPX Mining Corp.",
-      "price": 0.265
-    },
     "PR.TO": {
       "name": "Lysander-Slater Preferred Share ActivETF",
-      "price": 10.27
-    },
-    "PRA.TO": {
-      "name": "Purpose Diversified Real Asset Fund",
-      "price": 40.63
-    },
-    "PREF.TO": {
-      "name": "Quadravest Preferred Split Share ETF",
-      "price": 10.65
-    },
-    "PRG.V": {
-      "name": "Precipitate Gold Corp.",
-      "price": 0.14
-    },
-    "PRL.TO": {
-      "name": "Propel Holdings Inc.",
-      "price": 25.12
-    },
-    "PRM.TO": {
-      "name": "Big Pharma Split Corp.",
-      "price": 15.11
-    },
-    "PRN.TO": {
-      "name": "Profound Medical Corp.",
-      "price": 8.34
-    },
-    "PRP.TO": {
-      "name": "Purpose Conservative Income Fund",
-      "price": 19.88
-    },
-    "PRQ.TO": {
-      "name": "Petrus Resources Ltd.",
-      "price": 1.72
-    },
-    "PRU.TO": {
-      "name": "Perseus Mining Limited",
-      "price": 6.28
-    },
-    "PSA.TO": {
-      "name": "Purpose High Interest Savings Fund",
-      "price": 50.005
-    },
-    "PSB.TO": {
-      "name": "Invesco 1-5 Year Laddered Investment Grade Corporate Bond Index ETF",
-      "price": 17.81
-    },
-    "PSD.TO": {
-      "name": "Pulse Seismic Inc.",
-      "price": 2.9
-    },
-    "PSI.TO": {
-      "name": "Pason Systems Inc.",
-      "price": 13.85
-    },
-    "PSK.TO": {
-      "name": "PrairieSky Royalty Ltd.",
-      "price": 32.97
-    },
-    "PSLV.TO": {
-      "name": "Sprott Physical Silver Trust",
-      "price": 27.53
-    },
-    "PSU-U.TO": {
-      "name": "Purpose US Cash Fund",
-      "price": 100.02
-    },
-    "PTC.V": {
-      "name": "Petrox Resources Corp.",
-      "price": 0.105
-    },
-    "PTE.V": {
-      "name": "Pioneering Technology Corp.",
-      "price": 0.015
-    },
-    "PTEC.V": {
-      "name": "Principal Technologies Inc.",
-      "price": 0.2
-    },
-    "PTF.V": {
-      "name": "Pender Growth Fund Inc.",
-      "price": 14.75
-    },
-    "PTFY.V": {
-      "name": "Plantify Foods, Inc.",
-      "price": 0.085
-    },
-    "PTM.TO": {
-      "name": "Platinum Group Metals Ltd.",
-      "price": 1.8
+      "price": 10.19
     },
     "PTU.V": {
       "name": "Purepoint Uranium Group Inc.",
       "price": 0.28
     },
-    "PTX.V": {
-      "name": "PTX Metals Inc.",
-      "price": 0.08
-    },
-    "PUL.V": {
-      "name": "Pulse Oil Corp.",
-      "price": 0.01
-    },
-    "PUMA.V": {
-      "name": "Puma Exploration Inc.",
-      "price": 0.15
-    },
-    "PUR.V": {
-      "name": "Premier American Uranium Inc.",
-      "price": 0.32
-    },
-    "PVIS.V": {
-      "name": "Parvis Invest Inc.",
-      "price": 0.295
-    },
-    "PVT.V": {
-      "name": "Pivotree Inc.",
-      "price": 1.1
-    },
-    "PWER.V": {
-      "name": "Global Power Solutions Corp.",
-      "price": 0.25
-    },
-    "PWI.TO": {
-      "name": "Power & Infrastructure Split Corp.",
-      "price": 10.39
-    },
-    "PWM.V": {
-      "name": "Power Metals Corp.",
-      "price": 0.435
-    },
-    "PWRO.V": {
-      "name": "Power One Resources Corp.",
-      "price": 0.03
-    },
-    "PWRS.TO": {
-      "name": "Quanta Services CDR (CAD Hedged)",
-      "price": 24.3
-    },
-    "PX.V": {
-      "name": "Pelangio Exploration Inc.",
-      "price": 0.14
-    },
-    "PXC.TO": {
-      "name": "Invesco RAFI Canadian Index ETF",
-      "price": 63.22
-    },
-    "PXS.TO": {
-      "name": "Invesco RAFI U.S. Index ETF II",
-      "price": 67.77
-    },
-    "PXT.TO": {
-      "name": "Parex Resources Inc.",
-      "price": 26.68
-    },
-    "PXU-F.TO": {
-      "name": "Invesco RAFI U.S. Index ETF",
-      "price": 82.4
-    },
-    "PYF.TO": {
-      "name": "Purpose Premium Yield Fund",
-      "price": 16.555
-    },
-    "PYPL.TO": {
-      "name": "PayPal CDR (CAD Hedged)",
-      "price": 3.74
-    },
-    "PYR.TO": {
-      "name": "PyroGenesis Inc.",
-      "price": 0.3
-    },
-    "PZA.TO": {
-      "name": "Pizza Pizza Royalty Corp.",
-      "price": 10.57
-    },
-    "PZW.TO": {
-      "name": "Invesco RAFI Global Small-Mid ETF",
-      "price": 48.07
-    },
     "QAH.TO": {
       "name": "Mackenzie US Large Cap Equity Index ETF (CAD-Hedged)",
       "price": 245.99
     },
-    "QASH.TO": {
-      "name": "Mackenzie Canadian Ultra Short Bond Index ETF",
-      "price": 50.0
-    },
-    "QBB.TO": {
-      "name": "Mackenzie Canadian Aggregate Bond Index ETF",
-      "price": 90.77
-    },
-    "QBR-A.TO": {
-      "name": "Quebecor Inc.",
-      "price": 61.2
-    },
-    "QBTC.TO": {
-      "name": "Bitcoin Fund, The",
-      "price": 108.29
-    },
-    "QBTL.TO": {
-      "name": "AGF US Market Neutral Anti-Beta CAD-Hedged ETF",
-      "price": 12.5
-    },
-    "QCE.TO": {
-      "name": "Mackenzie Canadian Large Cap Equity Index ETF",
-      "price": 210.95
-    },
-    "QCLN.TO": {
-      "name": "First Trust NASDAQ Clean Edge Green Energy ETF",
-      "price": 22.37
-    },
-    "QCN.TO": {
-      "name": "Mackenzie Canadian Equity Index ETF",
-      "price": 215.29
-    },
-    "QCOM.TO": {
-      "name": "Qualcomm CDR (CAD Hedged)",
-      "price": 23.86
-    },
-    "QDX.TO": {
-      "name": "Mackenzie International Equity Index ETF",
-      "price": 163.48
-    },
     "QDXB.TO": {
       "name": "Mackenzie Developed ex-North America Aggregate Bond Index ETF (CAD-Hedged)",
       "price": 83.86
-    },
-    "QDXH.TO": {
-      "name": "Mackenzie International Equity Index ETF (CAD-Hedged)",
-      "price": 175.24
-    },
-    "QEBH.TO": {
-      "name": "Mackenzie Emerging Markets Bond Index ETF (CAD-Hedged)",
-      "price": 75.46
-    },
-    "QEBL.TO": {
-      "name": "Mackenzie Emerging Markets Local Currency Bond Index ETF",
-      "price": 79.15
-    },
-    "QEC.TO": {
-      "name": "Questerre Energy Corporation",
-      "price": 0.295
-    },
-    "QEE.TO": {
-      "name": "Mackenzie Emerging Markets Equity Index ETF",
-      "price": 149.16
-    },
-    "QETH-U.TO": {
-      "name": "The Ether Fund",
-      "price": 40.9
-    },
-    "QGR.V": {
-      "name": "Q-Gold Resources Ltd.",
-      "price": 0.18
     },
     "QHY.TO": {
       "name": "Mackenzie US High Yield Bond Index ETF (CAD-Hedged)",
@@ -9487,115 +9535,27 @@
     },
     "QLB.TO": {
       "name": "Mackenzie Canadian Government Long Bond Index ETF",
-      "price": 92.82
-    },
-    "QMAX.TO": {
-      "name": "Hamilton Technology YIELD MAXIMIZER TM ETF",
-      "price": 26.84
-    },
-    "QMC.V": {
-      "name": "QMC Quantum Minerals Corp.",
-      "price": 0.035
-    },
-    "QMVP.TO": {
-      "name": "HAMILTON CHAMPIONS TM U.S. Technology Index ETF",
-      "price": 21.24
-    },
-    "QNC.V": {
-      "name": "Quantum Emotion Corp.",
-      "price": 2.11
-    },
-    "QPT.V": {
-      "name": "Quest PharmaTech Inc.",
-      "price": 0.03
+      "price": 92.5
     },
     "QQC.TO": {
-      "name": "Invesco NASDAQ 100 Index ETF",
+      "name": "CI Invesco NASDAQ 100 Index ETF",
       "price": 51.46
-    },
-    "QQCC.TO": {
-      "name": "Global X Nasdaq-100 Covered Call ETF",
-      "price": 14.5
-    },
-    "QQCE.TO": {
-      "name": "Invesco ESG NASDAQ 100 Index ETF",
-      "price": 44.5
-    },
-    "QQCI.TO": {
-      "name": "Invesco NASDAQ 100 Income Advantage ETF",
-      "price": 25.99
-    },
-    "QQCL.TO": {
-      "name": "Global X Enhanced Nasdaq-100 Covered Call ETF",
-      "price": 27.91
-    },
-    "QQD.TO": {
-      "name": "BetaPro NASDAQ-100 -2x Daily Bear ETF",
-      "price": 22.2
-    },
-    "QQEQ.TO": {
-      "name": "Invesco NASDAQ 100 Equal Weight Index ETF",
-      "price": 36.89
     },
     "QQI.TO": {
       "name": "BetaPro Nasdaq-100 Daily Inverse ETF",
       "price": 15.91
     },
     "QQJR.TO": {
-      "name": "Invesco NASDAQ Next Gen 100 Index ETF",
+      "name": "CI Invesco NASDAQ Next Gen 100 Index ETF",
       "price": 32.32
-    },
-    "QQQD.TO": {
-      "name": "MegaShort (-3X) NASDAQ-100® Daily Leveraged Alternative ETF",
-      "price": 6.42
-    },
-    "QQQL.TO": {
-      "name": "Global X Enhanced Nasdaq-100 Index ETF",
-      "price": 37.81
-    },
-    "QQQQ.TO": {
-      "name": "Mackenzie NASDAQ 100 Index ETF",
-      "price": 134.49
-    },
-    "QQQT.TO": {
-      "name": "Evolve NASDAQ Technology Index Fund",
-      "price": 53.67
-    },
-    "QQQU.TO": {
-      "name": "MegaLong (3X) NASDAQ-100® Daily Leveraged Alternative ETF",
-      "price": 47.29
-    },
-    "QQQX.TO": {
-      "name": "Global X Nasdaq-100 Index ETF",
-      "price": 47.44
     },
     "QQQY.TO": {
       "name": "Evolve NASDAQ Technology Enhanced Yield Index Fund",
       "price": 30.8
     },
-    "QQU.TO": {
-      "name": "BetaPro NASDAQ-100 2x Daily Bull ETF",
-      "price": 40.15
-    },
-    "QRC.TO": {
-      "name": "Queen's Road Capital Investment Ltd.",
-      "price": 14.14
-    },
-    "QRET.TO": {
-      "name": "Mackenzie Developed Markets Real Estate Index ETF",
-      "price": 118.15
-    },
     "QRO.V": {
       "name": "Quadro Resources Ltd.",
       "price": 0.04
-    },
-    "QSB.TO": {
-      "name": "Mackenzie Canadian Short-Term Bond Index ETF",
-      "price": 98.37
-    },
-    "QSP-UN.TO": {
-      "name": "Restaurant Brands International Limited Partnership",
-      "price": 103.46
     },
     "QSR.TO": {
       "name": "Restaurant Brands International Inc.",
@@ -9635,7 +9595,7 @@
     },
     "QXM.TO": {
       "name": "CI Morningstar National Bank Quebec Index ETF",
-      "price": 39.24
+      "price": 39.64
     },
     "QYOU.V": {
       "name": "Qyou Media Inc.",
@@ -9647,7 +9607,7 @@
     },
     "RAAA.TO": {
       "name": "Corton Enhanced Income Fund",
-      "price": 25.1
+      "price": 25.03
     },
     "RAC-P.V": {
       "name": "Riverwalk Acquisition Corp.",
@@ -9697,6 +9657,10 @@
       "name": "RBC Canadian Bank Yield Index ETF",
       "price": 49.83
     },
+    "RBNU.TO": {
+      "name": "SavvyLong (2X) HOOD ETF",
+      "price": 37.31
+    },
     "RBO.TO": {
       "name": "RBC 1-5 Year Laddered Canadian Corporate Bond ETF",
       "price": 18.39
@@ -9715,7 +9679,7 @@
     },
     "RCAN.TO": {
       "name": "RBC Canadian Equity ETF",
-      "price": 21.65
+      "price": 21.63
     },
     "RCD.TO": {
       "name": "RBC Quant Canadian Dividend Leaders ETF",
@@ -9747,7 +9711,7 @@
     },
     "RCTR.TO": {
       "name": "First Trust Bloomberg Nuclear Power ETF",
-      "price": 17.88
+      "price": 17.93
     },
     "RDBH.TO": {
       "name": "RBC U.S. Discount Bond (CAD Hedged) ETF",
@@ -9771,7 +9735,7 @@
     },
     "RDU.V": {
       "name": "Radius Gold Inc.",
-      "price": 0.155
+      "price": 0.16
     },
     "RE.V": {
       "name": "RE Royalties Ltd.",
@@ -9800,6 +9764,10 @@
     "REG.V": {
       "name": "Regulus Resources Inc.",
       "price": 5.13
+    },
+    "REH.V": {
+      "name": "Responsible Energy Corporation",
+      "price": 1.4
     },
     "REI-UN.TO": {
       "name": "RioCan Real Estate Investment Trust",
@@ -9839,7 +9807,7 @@
     },
     "RGBM.TO": {
       "name": "Return Stacked® Global Balanced & Macro ETF",
-      "price": 28.89
+      "price": 28.84
     },
     "RGC.V": {
       "name": "Relevant Gold Corp.",
@@ -9867,7 +9835,7 @@
     },
     "RGQS.TO": {
       "name": "RBC Target 2030 Canadian Government Bond ETF",
-      "price": 21.23
+      "price": 21.25
     },
     "RGQT.TO": {
       "name": "RBC Target 2031 Canadian Government Bond ETF",
@@ -9895,7 +9863,7 @@
     },
     "RIFI.TO": {
       "name": "Russell Investments Fixed Income Pool",
-      "price": 17.16
+      "price": 17.18
     },
     "RIGE.TO": {
       "name": "Russell Investments Global Equity Pool",
@@ -9903,7 +9871,7 @@
     },
     "RIIN.TO": {
       "name": "Russell Investments Global Infrastructure Pool",
-      "price": 22.46
+      "price": 22.52
     },
     "RING.TO": {
       "name": "Global X Equal Weight Canadian Telecommunications Index ETF",
@@ -9915,7 +9883,7 @@
     },
     "RIRA.TO": {
       "name": "Russell Investments Real Assets",
-      "price": 20.62
+      "price": 20.55
     },
     "RIT.TO": {
       "name": "CI Canadian REIT ETF",
@@ -9995,11 +9963,15 @@
     },
     "RNCL.TO": {
       "name": "Global X Enhanced Equal Weight Canadian Telecommunications Covered Call ETF",
-      "price": 14.8
+      "price": 14.45
     },
     "ROAR.V": {
       "name": "Lion Rock Resources Inc.",
-      "price": 0.255
+      "price": 0.26
+    },
+    "ROB.V": {
+      "name": "Robinson Energy Limited",
+      "price": 3.67
     },
     "ROCK.V": {
       "name": "Trident Resources Corp.",
@@ -10019,7 +9991,7 @@
     },
     "ROMJ.V": {
       "name": "Rubicon Organics Inc.",
-      "price": 0.4875
+      "price": 0.49
     },
     "ROOF.V": {
       "name": "Northstar Clean Technologies Inc.",
@@ -10031,15 +10003,11 @@
     },
     "ROS.V": {
       "name": "Roscan Gold Corporation",
-      "price": 0.185
-    },
-    "ROSH-P.V": {
-      "name": "Roshni Capital Inc.",
-      "price": 0.13
+      "price": 0.19
     },
     "ROX.V": {
       "name": "Canstar Resources Inc.",
-      "price": 0.055
+      "price": 0.06
     },
     "RPD.TO": {
       "name": "RBC Quant European Dividend Leaders ETF",
@@ -10047,7 +10015,7 @@
     },
     "RPDH.TO": {
       "name": "RBC Quant European Dividend Leaders (CAD Hedged) ETF",
-      "price": 37.16
+      "price": 37.05
     },
     "RPF.TO": {
       "name": "RBC Canadian Preferred Share ETF",
@@ -10095,7 +10063,7 @@
     },
     "RQU.TO": {
       "name": "RBC Target 2032 Canadian Corporate Bond ETF",
-      "price": 19.61
+      "price": 19.66
     },
     "RQUS.TO": {
       "name": "Russell Investments Multi-Factor US Equity Pool",
@@ -10104,10 +10072,6 @@
     "RRCC-P.V": {
       "name": "Raging Rhino Capital Corp.",
       "price": 0.055
-    },
-    "RRI.V": {
-      "name": "Riverside Resources Inc.",
-      "price": 0.425
     },
     "RRR-UN.V": {
       "name": "R&R Real Estate Investment Trust",
@@ -10133,10 +10097,6 @@
       "name": "Resouro Strategic Metals Inc.",
       "price": 0.25
     },
-    "RSMX.V": {
-      "name": "Regency Silver Corp.",
-      "price": 0.12
-    },
     "RSS.V": {
       "name": "Resaas Services Inc.",
       "price": 0.67
@@ -10147,7 +10107,7 @@
     },
     "RTG.TO": {
       "name": "RTG Mining Inc.",
-      "price": 0.045
+      "price": 0.05
     },
     "RTH.V": {
       "name": "Rathdowney Resources Ltd.",
@@ -10179,35 +10139,23 @@
     },
     "RUDB.TO": {
       "name": "RBC U.S. Discount Bond ETF",
-      "price": 22.08
-    },
-    "RUDC.TO": {
-      "name": "RBC U.S. Dividend Covered Call ETF",
-      "price": 24.61
+      "price": 22.12
     },
     "RUDH.TO": {
       "name": "RBC Quant U.S. Dividend Leaders (CAD Hedged) ETF",
-      "price": 30.4
+      "price": 30.39
     },
     "RUM.V": {
       "name": "Rocky Mountain Liquor Inc.",
       "price": 0.07
     },
-    "RUQO.TO": {
-      "name": "RBC Target 2026 U.S. Corporate Bond ETF",
-      "price": 20.97
-    },
     "RUQP.TO": {
       "name": "RBC Target 2027 U.S. Corporate Bond ETF",
       "price": 21.76
     },
-    "RUQQ.TO": {
-      "name": "RBC Target 2028 U.S. Corporate Bond ETF",
-      "price": 21.59
-    },
     "RUQR.TO": {
       "name": "RBC Target 2029 U.S. Corporate Bond ETF",
-      "price": 21.38
+      "price": 21.23
     },
     "RUQS.TO": {
       "name": "RBC Target 2030 U.S. Corporate Bond ETF",
@@ -10216,10 +10164,6 @@
     "RUQT.TO": {
       "name": "RBC Target 2031 U.S. Corporate Bond ETF",
       "price": 19.57
-    },
-    "RUQU.TO": {
-      "name": "RBC Target 2032 U.S. Corporate Bond ETF",
-      "price": 19.51
     },
     "RUS.TO": {
       "name": "Russel Metals Inc.",
@@ -10231,15 +10175,15 @@
     },
     "RUSB.TO": {
       "name": "RBC Short Term U.S. Corporate Bond ETF",
-      "price": 21.47
+      "price": 21.49
     },
     "RUSH.V": {
       "name": "Carolina Rush Corporation",
-      "price": 0.105
+      "price": 0.11
     },
     "RUST.TO": {
       "name": "RBC Canadian Ultra Short Term Bond ETF",
-      "price": 49.72
+      "price": 49.71
     },
     "RV.V": {
       "name": "Pathfinder Ventures Inc.",
@@ -10275,7 +10219,7 @@
     },
     "RYO.V": {
       "name": "Rio Silver Inc.",
-      "price": 0.335
+      "price": 0.34
     },
     "RYR.V": {
       "name": "Royal Road Minerals Limited",
@@ -10297,21 +10241,9 @@
       "name": "Sable Resources Ltd.",
       "price": 0.41
     },
-    "SAFE.TO": {
-      "name": "Global X Equal Weight Canadian Insurance Index ETF",
-      "price": 27.44
-    },
-    "SAG.V": {
-      "name": "Sterling Metals Corp.",
-      "price": 1.11
-    },
     "SAGA.V": {
       "name": "Saga Metals Corp.",
       "price": 0.39
-    },
-    "SAGE.V": {
-      "name": "Sage Potash Corp.",
-      "price": 0.13
     },
     "SALT.V": {
       "name": "Atlas Salt Inc.",
@@ -10319,7 +10251,7 @@
     },
     "SAM.TO": {
       "name": "Starcore International Mines Ltd.",
-      "price": 0.395
+      "price": 0.4
     },
     "SAO.V": {
       "name": "South Atlantic Gold Inc.",
@@ -10371,7 +10303,7 @@
     },
     "SBLI.TO": {
       "name": "SLGI MFS Blended Research Low Vol International Fund",
-      "price": 21.37
+      "price": 21.43
     },
     "SBMI.V": {
       "name": "Silver Bullet Mines Corp.",
@@ -10380,10 +10312,6 @@
     "SBT.TO": {
       "name": "Purpose Silver Bullion Fund",
       "price": 29.33
-    },
-    "SBUL.TO": {
-      "name": "Ninepoint Silver Bullion Fund",
-      "price": 32.34
     },
     "SBUX.TO": {
       "name": "Starbucks CDR (CAD Hedged)",
@@ -10407,7 +10335,7 @@
     },
     "SCHW.TO": {
       "name": "Charles Schwab CDR (CAD Hedged)",
-      "price": 29.0
+      "price": 29.23
     },
     "SCLT.V": {
       "name": "Searchlight Resources Inc.",
@@ -10425,10 +10353,6 @@
       "name": "Scottie Resources Corp.",
       "price": 2.71
     },
-    "SCR.TO": {
-      "name": "Strathcona Resources Ltd.",
-      "price": 38.78
-    },
     "SCY.V": {
       "name": "Scandium International Mining Corp.",
       "price": 0.15
@@ -10436,14 +10360,6 @@
     "SCZ.V": {
       "name": "Santacruz Silver Mining Ltd.",
       "price": 12.75
-    },
-    "SDE.TO": {
-      "name": "Spartan Delta Corp.",
-      "price": 12.45
-    },
-    "SDI.V": {
-      "name": "Stampede Drilling Inc.",
-      "price": 0.22
     },
     "SDR.V": {
       "name": "Stroud Resources Ltd.",
@@ -10461,10 +10377,6 @@
       "name": "Seegnal Inc.",
       "price": 0.28
     },
-    "SEI.V": {
-      "name": "Sintana Energy Inc.",
-      "price": 0.345
-    },
     "SEND.V": {
       "name": "Sendero Resources Corp.",
       "price": 0.67
@@ -10477,14 +10389,6 @@
       "name": "Seva Mining Corp.",
       "price": 0.44
     },
-    "SEVN-P.V": {
-      "name": "Seven Oaks Capital Corp.",
-      "price": 0.1
-    },
-    "SF.V": {
-      "name": "Safi Silver Corp.",
-      "price": 0.315
-    },
     "SFC.TO": {
       "name": "Sagicor Financial Company Ltd.",
       "price": 8.35
@@ -10493,13 +10397,9 @@
       "name": "NXT Energy Solutions Inc.",
       "price": 0.3
     },
-    "SFI.TO": {
-      "name": "Solution Financial Inc.",
-      "price": 0.265
-    },
     "SFR.V": {
       "name": "Sandfire Resources America Inc.",
-      "price": 0.305
+      "price": 0.31
     },
     "SGC.V": {
       "name": "Solstice Gold Corp.",
@@ -10513,6 +10413,10 @@
       "name": "Strategem Capital Corporation",
       "price": 0.65
     },
+    "SGLD.V": {
+      "name": "Scorpio Gold Corporation",
+      "price": 0.25
+    },
     "SGML.V": {
       "name": "Sigma Lithium Corporation",
       "price": 13.85
@@ -10520,10 +10424,6 @@
     "SGO.V": {
       "name": "Sonoro Gold Corp.",
       "price": 0.175
-    },
-    "SGQ.V": {
-      "name": "SouthGobi Resources Ltd",
-      "price": 0.29
     },
     "SGR-U.TO": {
       "name": "Slate Grocery REIT",
@@ -10541,10 +10441,6 @@
       "name": "Surge Energy Inc.",
       "price": 11.01
     },
-    "SGZ.V": {
-      "name": "Sego Resources Inc.",
-      "price": 0.03
-    },
     "SHHI.TO": {
       "name": "Ninepoint Shopify HighShares ETF",
       "price": 7.83
@@ -10552,10 +10448,6 @@
     "SHK-P.V": {
       "name": "Sparrowhawk Opportunity Corp.",
       "price": 0.06
-    },
-    "SHL.V": {
-      "name": "Homeland Nickel Inc.",
-      "price": 0.47
     },
     "SHLD.TO": {
       "name": "Global X Defence Tech Index ETF",
@@ -10577,10 +10469,6 @@
       "name": "SavvyShort (-2X) Shopify ETF",
       "price": 5.55
     },
-    "SHPE.TO": {
-      "name": "Harvest Shopify Enhanced High Income Shares ETF",
-      "price": 9.03
-    },
     "SHPU.TO": {
       "name": "SavvyLong (2X) Shopify ETF",
       "price": 10.86
@@ -10600,10 +10488,6 @@
     "SICO.V": {
       "name": "Silverco Mining Ltd.",
       "price": 9.01
-    },
-    "SIEN.V": {
-      "name": "Sienna Resources Inc.",
-      "price": 0.09
     },
     "SIG.V": {
       "name": "Sitka Gold Corp.",
@@ -10637,10 +10521,6 @@
       "name": "Skeena Resources Limited",
       "price": 42.32
     },
-    "SKEL.V": {
-      "name": "Skeleton Coast Uranium Corp.",
-      "price": 0.13
-    },
     "SKK.V": {
       "name": "Strikewell Energy Corp.",
       "price": 0.115
@@ -10659,15 +10539,7 @@
     },
     "SKYY.TO": {
       "name": "First Trust Cloud Computing ETF",
-      "price": 40.41
-    },
-    "SLCA.TO": {
-      "name": "Sun Life Core Advantage Credit Private Pool",
-      "price": 18.7
-    },
-    "SLF.TO": {
-      "name": "Sun Life Financial Inc.",
-      "price": 110.92
+      "price": 40.45
     },
     "SLG.V": {
       "name": "San Lorenzo Gold Corp.",
@@ -10697,13 +10569,13 @@
       "name": "Saltire Capital Ltd.",
       "price": 2.25
     },
-    "SLVD.TO": {
-      "name": "BetaPro Silver -2x Daily Bear ETF",
-      "price": 35.15
-    },
     "SLVU.TO": {
       "name": "BetaPro Silver 2x Daily Bull ETF",
       "price": 14.86
+    },
+    "SLVX.TO": {
+      "name": "Global X Silver Miners Index ETF",
+      "price": 18.6
     },
     "SLX-P.V": {
       "name": "Searchlight Innovations Inc.",
@@ -10741,13 +10613,9 @@
       "name": "Southstone Minerals Limited",
       "price": 0.035
     },
-    "SMN.V": {
-      "name": "Sun Summit Minerals Corp.",
-      "price": 0.14
-    },
     "SMNS.TO": {
       "name": "Siemens CDR (CAD Hedged)",
-      "price": 33.63
+      "price": 33.79
     },
     "SMP.V": {
       "name": "Southern Empire Resources Corp.",
@@ -10760,6 +10628,10 @@
     "SMVP.TO": {
       "name": "HAMILTON CHAMPIONS TM U.S. Dividend Index ETF",
       "price": 17.09
+    },
+    "SMWE.V": {
+      "name": "Smartwell Technology Corp.",
+      "price": 0.135
     },
     "SMY.V": {
       "name": "Search Minerals Inc.",
@@ -10785,10 +10657,6 @@
       "name": "Sanofi CDR (CAD Hedged)",
       "price": 18.61
     },
-    "SOBO.TO": {
-      "name": "South Bow Corporation",
-      "price": 47.14
-    },
     "SOFY.TO": {
       "name": "Harvest SoFi Enhanced High Income Shares ETF",
       "price": 4.44
@@ -10805,10 +10673,6 @@
       "name": "Evolve Solana ETF",
       "price": 8.67
     },
-    "SOLI-P.V": {
-      "name": "Solid Impact Investments Corp.",
-      "price": 0.06
-    },
     "SOLL.TO": {
       "name": "Purpose Solana ETF",
       "price": 8.905
@@ -10819,7 +10683,7 @@
     },
     "SOLX.TO": {
       "name": "CI Galaxy Solana ETF",
-      "price": 5.79
+      "price": 5.81
     },
     "SOMA.V": {
       "name": "Soma Gold Corp.",
@@ -10831,11 +10695,7 @@
     },
     "SOU.V": {
       "name": "Southern Energy Corp.",
-      "price": 0.055
-    },
-    "SOXD.TO": {
-      "name": "MegaShort (-3X) US Semiconductors Daily Leveraged Alternative ETF",
-      "price": 11.42
+      "price": 0.06
     },
     "SOXU.TO": {
       "name": "MegaLong (3X) US Semiconductors Daily Leveraged Alternative ETF",
@@ -10843,7 +10703,11 @@
     },
     "SPA.V": {
       "name": "Spanish Mountain Gold Ltd.",
-      "price": 0.305
+      "price": 0.31
+    },
+    "SPAR.V": {
+      "name": "Spartacus Metals Inc.",
+      "price": 0.24
     },
     "SPAY.TO": {
       "name": "Global X Short-Term U.S. Treasury Premium Yield ETF",
@@ -10856,6 +10720,10 @@
     "SPC.V": {
       "name": "SPC Nickel Corp.",
       "price": 0.08
+    },
+    "SPCX.TO": {
+      "name": "SpaceX CDR (CAD Hedged)",
+      "price": 25.1
     },
     "SPD.V": {
       "name": "Silver Predator Corp.",
@@ -10871,7 +10739,7 @@
     },
     "SPI.V": {
       "name": "Canadian Spirit Resources Inc.",
-      "price": 0.015
+      "price": 0.02
     },
     "SPLT.TO": {
       "name": "Brompton Split Corp. Preferred Share ETF",
@@ -10905,9 +10773,9 @@
       "name": "Stellar AfricaGold Inc.",
       "price": 0.11
     },
-    "SPXD.TO": {
-      "name": "BetaPro S&P 500 -2x Daily Bear ETF",
-      "price": 8.95
+    "SPXE.TO": {
+      "name": "Harvest SpaceX Enhanced High Income Shares ETF",
+      "price": 10.03
     },
     "SPXI.TO": {
       "name": "BetaPro S&P 500 Daily Inverse ETF",
@@ -10943,19 +10811,19 @@
     },
     "SRA.V": {
       "name": "Stria Lithium Inc.",
-      "price": 0.95
+      "price": 1.0
     },
     "SRC.V": {
       "name": "Stakeholder Gold Corp.",
       "price": 1.59
     },
+    "SRGE.V": {
+      "name": "Surge Digital Inc.",
+      "price": 0.29
+    },
     "SRI.V": {
       "name": "Sparton Resources Inc.",
       "price": 0.02
-    },
-    "SRL.V": {
-      "name": "Salazar Resources Limited",
-      "price": 0.35
     },
     "SRQ.V": {
       "name": "SRQ Resources Inc.",
@@ -10967,7 +10835,7 @@
     },
     "SRSL.TO": {
       "name": "BetaPro -3x Russell 2000 Daily Leveraged Bear Alternative ETF",
-      "price": 11.44
+      "price": 11.26
     },
     "SRU-UN.TO": {
       "name": "SmartCentres Real Estate Investment Trust",
@@ -10983,15 +10851,11 @@
     },
     "SSE.V": {
       "name": "Silver Spruce Resources Inc.",
-      "price": 0.065
+      "price": 0.07
     },
     "SSPX.TO": {
       "name": "BetaPro -3x S&P 500 Daily Leveraged Bear Alternative ETF",
       "price": 10.03
-    },
-    "SSRM.TO": {
-      "name": "SSR Mining Inc.",
-      "price": 47.44
     },
     "SSSS-P.V": {
       "name": "Shooting Star Acquisition Corp.",
@@ -11008,10 +10872,6 @@
     "STC.TO": {
       "name": "Sangoma Technologies Corporation",
       "price": 6.97
-    },
-    "STCK.TO": {
-      "name": "Stack Capital Group Inc.",
-      "price": 17.1
     },
     "STE.V": {
       "name": "Starr Peak Mining Ltd.",
@@ -11065,10 +10925,6 @@
       "name": "Constellation Brands CDR (CAD Hedged)",
       "price": 8.94
     },
-    "SU.TO": {
-      "name": "Suncor Energy Inc.",
-      "price": 96.5
-    },
     "SUGR.V": {
       "name": "Sucro Limited",
       "price": 9.75
@@ -11079,7 +10935,7 @@
     },
     "SUHI.TO": {
       "name": "Ninepoint Suncor HighShares ETF",
-      "price": 15.21
+      "price": 15.12
     },
     "SUI.V": {
       "name": "Superior Mining International Corporation",
@@ -11103,11 +10959,19 @@
     },
     "SVA.TO": {
       "name": "Sernova Biotherapeutics Inc.",
-      "price": 0.105
+      "price": 0.11
     },
     "SVB.TO": {
       "name": "Silver Bull Resources, Inc.",
       "price": 0.12
+    },
+    "SVCC.TO": {
+      "name": "Global X Silver Miners Covered Call ETF",
+      "price": 17.72
+    },
+    "SVCL.TO": {
+      "name": "Global X Enhanced Silver Miners Covered Call ETF",
+      "price": 15.41
     },
     "SVE.V": {
       "name": "Silver One Resources Inc.",
@@ -11157,6 +11021,10 @@
       "name": "Southern Cross Gold Consolidated Ltd.",
       "price": 11.5
     },
+    "SXHI.TO": {
+      "name": "Ninepoint SpaceX HighShares ETF",
+      "price": 6.88
+    },
     "SXL.V": {
       "name": "SLAM Exploration Ltd.",
       "price": 0.07
@@ -11171,7 +11039,7 @@
     },
     "SYH.V": {
       "name": "Skyharbour Resources Ltd.",
-      "price": 0.355
+      "price": 0.36
     },
     "SYK.TO": {
       "name": "Stryker CDR (CAD Hedged)",
@@ -11201,6 +11069,10 @@
       "name": "PetroTal Corp.",
       "price": 0.56
     },
+    "TALA.TO": {
+      "name": "Talamore Mining Corp.",
+      "price": 7.78
+    },
     "TAO.V": {
       "name": "TAG Oil Ltd.",
       "price": 0.09
@@ -11223,15 +11095,19 @@
     },
     "TBCH.TO": {
       "name": "TD Target 2028 Investment Grade Bond ETF",
-      "price": 25.58
+      "price": 25.56
     },
     "TBCI.TO": {
       "name": "TD Target 2029 Investment Grade Bond ETF",
-      "price": 25.26
+      "price": 25.23
     },
     "TBCJ.TO": {
       "name": "TD Target 2030 Investment Grade Bond ETF",
-      "price": 25.419
+      "price": 25.4
+    },
+    "TBCK.TO": {
+      "name": "TD Target 2031 Investment Grade Bond Fund",
+      "price": 24.83
     },
     "TBIL.TO": {
       "name": "Harvest Canadian T-Bill ETF",
@@ -11243,7 +11119,7 @@
     },
     "TBK.V": {
       "name": "Trailbreaker Resources Ltd.",
-      "price": 0.385
+      "price": 0.39
     },
     "TBL.TO": {
       "name": "Taiga Building Products Ltd.",
@@ -11263,11 +11139,11 @@
     },
     "TBUF-U.TO": {
       "name": "TD Target 2026 U.S. Investment Grade Bond ETF",
-      "price": 25.93
+      "price": 25.87
     },
     "TBUG-U.TO": {
       "name": "TD Target 2027 U.S. Investment Grade Bond ETF",
-      "price": 26.16
+      "price": 26.09
     },
     "TC.TO": {
       "name": "Tucows Inc.",
@@ -11275,11 +11151,15 @@
     },
     "TCCA.TO": {
       "name": "Trading Central Quant Canada 50 Equity Index ETF",
-      "price": 22.22
+      "price": 22.16
     },
     "TCCB.TO": {
       "name": "TD Canadian Corporate Bond Fund",
-      "price": 9.87
+      "price": 9.86
+    },
+    "TCCM.V": {
+      "name": "Three Crowns Critical Metals Inc.",
+      "price": 0.27
     },
     "TCEU.TO": {
       "name": "Trading Central Quant Europe 50 Equity Index ETF",
@@ -11303,7 +11183,7 @@
     },
     "TCLV.TO": {
       "name": "TD Q Canadian Low Volatility ETF",
-      "price": 26.99
+      "price": 27.05
     },
     "TCND.TO": {
       "name": "BetaPro 3x S&P/TSX 60 Daily Leveraged Bull Alternative ETF",
@@ -11343,7 +11223,7 @@
     },
     "TCWW.TO": {
       "name": "Trading Central Quant Global 50 Equity Index ETF",
-      "price": 22.13
+      "price": 22.42
     },
     "TD.TO": {
       "name": "Toronto-Dominion Bank (The)",
@@ -11401,6 +11281,10 @@
       "name": "TD Global Technology Leaders CAD Hedged Index ETF",
       "price": 41.0
     },
+    "TECY.TO": {
+      "name": "Evolve NASDAQ Technology UltraYield ETF",
+      "price": 26.06
+    },
     "TEHE.TO": {
       "name": "Harvest TELUS Enhanced High Income Shares ETF",
       "price": 5.2
@@ -11423,7 +11307,7 @@
     },
     "TERP.TO": {
       "name": "TRU.X Exogenous Risk Pool",
-      "price": 10.81
+      "price": 10.84
     },
     "TES.V": {
       "name": "Tesoro Minerals Corp.",
@@ -11507,7 +11391,7 @@
     },
     "THX.V": {
       "name": "Thor Explorations Ltd.",
-      "price": 1.175
+      "price": 1.18
     },
     "THY-P.V": {
       "name": "Thermopylae Capital Inc.",
@@ -11525,13 +11409,13 @@
       "name": "Coloured Ties Capital Inc.",
       "price": 0.83
     },
+    "TIF.TO": {
+      "name": "Ninepoint Target Income Fund",
+      "price": 19.62
+    },
     "TIG.V": {
       "name": "Triumph Gold Corp.",
       "price": 0.67
-    },
-    "TIGR.V": {
-      "name": "Tiger Gold Corp.",
-      "price": 0.72
     },
     "TIH.TO": {
       "name": "Toromont Industries Ltd.",
@@ -11540,10 +11424,6 @@
     "TILV.TO": {
       "name": "TD Q International Low Volatility ETF",
       "price": 21.47
-    },
-    "TINF.TO": {
-      "name": "TD Active Global Infrastructure Equity ETF",
-      "price": 24.23
     },
     "TINY.TO": {
       "name": "Tiny Ltd.",
@@ -11566,7 +11446,7 @@
       "price": 28.9
     },
     "TKO.TO": {
-      "name": "Taseko Mines Limited",
+      "name": "Trekor Metals Limited",
       "price": 12.64
     },
     "TLA.V": {
@@ -11593,13 +11473,13 @@
       "name": "Tilray Brands, Inc.",
       "price": 5.34
     },
-    "TLTX.TO": {
-      "name": "Global X 20+ Year U.S. Treasury Bond Index ETF",
-      "price": 44.14
+    "TLT.V": {
+      "name": "Theralase Technologies Inc.",
+      "price": 0.18
     },
     "TLV.TO": {
-      "name": "Invesco S&P/TSX Composite Low Volatility Index ETF",
-      "price": 42.8
+      "name": "CI S&P/TSX Composite Low Volatility Index ETF",
+      "price": 42.53
     },
     "TMET.V": {
       "name": "Torr Metals Inc.",
@@ -11649,10 +11529,6 @@
       "name": "Global X Tokenization Ecosystem Index ETF",
       "price": 19.7
     },
-    "TOM.V": {
-      "name": "Trinity One Metals Ltd.",
-      "price": 0.16
-    },
     "TOP-P.V": {
       "name": "Transition Opportunities Corp.",
       "price": 0.035
@@ -11696,10 +11572,6 @@
     "TPRF.TO": {
       "name": "TD Active Preferred Share ETF",
       "price": 12.76
-    },
-    "TPU.TO": {
-      "name": "TD U.S. Equity Index ETF",
-      "price": 62.11
     },
     "TPX-A.TO": {
       "name": "Molson Coors Canada Inc.",
@@ -11783,11 +11655,11 @@
     },
     "TRVI.TO": {
       "name": "Harvest Travel & Leisure Income ETF",
-      "price": 18.54
+      "price": 18.57
     },
     "TRVL.TO": {
       "name": "Harvest Travel & Leisure Index ETF",
-      "price": 34.12
+      "price": 34.11
     },
     "TRX.TO": {
       "name": "TRX Gold Corporation",
@@ -11851,7 +11723,7 @@
     },
     "TSTB.TO": {
       "name": "TD Short Term Bond Fund",
-      "price": 9.93
+      "price": 9.87
     },
     "TSTX.TO": {
       "name": "Global X 1-3 Year U.S. Treasury Bond Index ETF",
@@ -11867,7 +11739,7 @@
     },
     "TTES.TO": {
       "name": "TotalEnergies CDR (CAD Hedged)",
-      "price": 33.5
+      "price": 33.217
     },
     "TTG.V": {
       "name": "Trans Canada Gold Corp.",
@@ -11891,7 +11763,7 @@
     },
     "TTTX.TO": {
       "name": "Global X Innovative Bluechip Top 10 Index ETF",
-      "price": 33.48
+      "price": 33.39
     },
     "TTZ.V": {
       "name": "Total Telcom Inc.",
@@ -11900,14 +11772,6 @@
     "TUD.V": {
       "name": "Tudor Gold Corp.",
       "price": 0.82
-    },
-    "TUED.TO": {
-      "name": "TD Active U.S. Enhanced Dividend ETF",
-      "price": 36.77
-    },
-    "TUEX.TO": {
-      "name": "TD Active U.S. Enhanced Dividend CAD Hedged ETF",
-      "price": 31.3
     },
     "TUF.V": {
       "name": "Honey Badger Silver Inc.",
@@ -11929,6 +11793,10 @@
       "name": "TD Q U.S. Low Volatility ETF",
       "price": 23.49
     },
+    "TUNG.V": {
+      "name": "American Tungsten Corp.",
+      "price": 1.79
+    },
     "TUO.V": {
       "name": "Teuton Resources Corp.",
       "price": 1.59
@@ -11939,11 +11807,11 @@
     },
     "TUSD-U.TO": {
       "name": "TD U.S. Cash Management ETF",
-      "price": 49.96
+      "price": 49.95
     },
     "TUST.TO": {
       "name": "TD Ultra Short Term Bond Fund",
-      "price": 9.985
+      "price": 9.99
     },
     "TVA-B.TO": {
       "name": "TVA Group Inc.",
@@ -11997,21 +11865,17 @@
       "name": "Sprott Physical Uranium Trust",
       "price": 18.72
     },
-    "UBER.TO": {
-      "name": "Uber CDR (CAD Hedged)",
-      "price": 10.03
-    },
     "UBIL-U.TO": {
       "name": "Global X 0-3 Month U.S. T-Bill ETF",
       "price": 50.01
     },
     "UBNK.TO": {
       "name": "Global X Equal Weight U.S. Banks Index ETF",
-      "price": 30.75
+      "price": 31.0
     },
     "UBSS.TO": {
       "name": "UBS CDR (CAD Hedged)",
-      "price": 31.94
+      "price": 32.13
     },
     "UCSH-U.TO": {
       "name": "Global X USD High Interest Savings ETF",
@@ -12042,20 +11906,16 @@
       "price": 0.035
     },
     "ULV-C.TO": {
-      "name": "Invesco S&P 500 Low Volatility Index ETF",
-      "price": 36.8138
+      "name": "CI Invesco S&P 500 Low Volatility Index ETF",
+      "price": 36.87
     },
     "UMAX.TO": {
       "name": "Hamilton Utilities YIELD MAXIMIZER TM ETF",
       "price": 12.035
     },
-    "UMI.TO": {
-      "name": "CI U.S. MidCap Dividend Index ETF",
-      "price": 34.73
-    },
     "UMNY-U.TO": {
       "name": "CI U.S. Money Market ETF",
-      "price": 50.04
+      "price": 50.08
     },
     "UMRT.TO": {
       "name": "Global X Equal Weight U.S. Groceries & Staples Index ETF",
@@ -12093,6 +11953,10 @@
       "name": "Urbana Corporation",
       "price": 8.71
     },
+    "URCC.TO": {
+      "name": "Global X Uranium Covered Call ETF",
+      "price": 13.87
+    },
     "URE.TO": {
       "name": "Ur-Energy Inc.",
       "price": 1.56
@@ -12127,7 +11991,7 @@
     },
     "USSL.TO": {
       "name": "Global X Enhanced S&P 500 Index ETF",
-      "price": 33.07
+      "price": 32.99
     },
     "USSX.TO": {
       "name": "Global X S&P 500 Index ETF",
@@ -12205,10 +12069,6 @@
       "name": "Vitreous Glass Inc.",
       "price": 6.99
     },
-    "VCIP.TO": {
-      "name": "Vanguard Conservative Income ETF Portfolio",
-      "price": 26.94
-    },
     "VCM.TO": {
       "name": "Vecima Networks Inc.",
       "price": 13.38
@@ -12220,10 +12080,6 @@
     "VCNS.TO": {
       "name": "Vanguard Conservative ETF Portfolio",
       "price": 32.57
-    },
-    "VCT.V": {
-      "name": "Volt Carbon Technologies Inc.",
-      "price": 0.035
     },
     "VCU.V": {
       "name": "Vizsla Copper Corp.",
@@ -12275,7 +12131,11 @@
     },
     "VG.V": {
       "name": "Volcanic Gold Mines Inc",
-      "price": 0.075
+      "price": 0.08
+    },
+    "VGC.TO": {
+      "name": "Valor Gold Corp.",
+      "price": 3.58
     },
     "VGD.V": {
       "name": "Visible Gold Mines Inc.",
@@ -12317,9 +12177,13 @@
       "name": "Vanguard FTSE Developed ex North America High Dividend Yield Index ETF",
       "price": 47.38
     },
+    "VIGG.TO": {
+      "name": "Vanguard Developed ex-North America Dividend Appreciation Index ETF",
+      "price": 26.6
+    },
     "VIO.V": {
       "name": "Vior Gold Corporation Inc.",
-      "price": 0.085
+      "price": 0.09
     },
     "VIPR.V": {
       "name": "Silver Viper Minerals Corp.",
@@ -12367,7 +12231,11 @@
     },
     "VLI.V": {
       "name": "Vision Lithium Inc.",
-      "price": 0.135
+      "price": 0.14
+    },
+    "VLLC.V": {
+      "name": "Argentina Metals Corp.",
+      "price": 0.415
     },
     "VLN.TO": {
       "name": "Velan Inc.",
@@ -12375,7 +12243,7 @@
     },
     "VLX.V": {
       "name": "Velox Energy Materials Inc.",
-      "price": 0.025
+      "price": 0.03
     },
     "VM.V": {
       "name": "Voyageur Pharmaceuticals Ltd.",
@@ -12407,7 +12275,7 @@
     },
     "VO.V": {
       "name": "Valore Metals Corp.",
-      "price": 0.065
+      "price": 0.07
     },
     "VOLX.TO": {
       "name": "BetaPro S&P 500 VIX Short-Term Futures ETF",
@@ -12423,7 +12291,7 @@
     },
     "VPT.V": {
       "name": "VentriPoint Diagnostics Ltd.",
-      "price": 0.085
+      "price": 0.09
     },
     "VQS.V": {
       "name": "VIQ Solutions Inc.",
@@ -12481,20 +12349,24 @@
       "name": "Vertex Resource Group Ltd.",
       "price": 0.19
     },
+    "VUDH.TO": {
+      "name": "Vanguard U.S. High Dividend Yield Index ETF (CAD-hedged)",
+      "price": 24.57
+    },
     "VUDV.TO": {
       "name": "Vanguard U.S. High Dividend Yield Index ETF",
       "price": 27.45
     },
     "VUL.V": {
       "name": "Vulcan Minerals Inc.",
-      "price": 0.345
+      "price": 0.35
     },
     "VUN.TO": {
-      "name": "Vanguard U.S. Total Market Index ETF",
+      "name": "Vanguard Morningstar U.S. Total Market Index ETF",
       "price": 144.8
     },
     "VUS.TO": {
-      "name": "Vanguard U.S. Total Market Index ETF (CAD-hedged)",
+      "name": "Vanguard Morningstar U.S. Total Market Index ETF (CAD-hedged)",
       "price": 128.44
     },
     "VUX.V": {
@@ -12551,15 +12423,11 @@
     },
     "WAAV.TO": {
       "name": "WaveFront All-Weather Alternative Fund",
-      "price": 21.04
+      "price": 20.96
     },
     "WAM.V": {
       "name": "Alaska Silver Corp.",
       "price": 0.68
-    },
-    "WAST.TO": {
-      "name": "Waste Management CDR (CAD Hedged)",
-      "price": 19.22
     },
     "WAT-P.V": {
       "name": "Whatcom Capital II Corp",
@@ -12611,11 +12479,11 @@
     },
     "WEC.V": {
       "name": "Winchester Equity Corporation",
-      "price": 0.015
+      "price": 0.02
     },
     "WED.V": {
       "name": "The Westaim Corporation",
-      "price": 20.2
+      "price": 20.1
     },
     "WEED.TO": {
       "name": "Canopy Growth Corporation",
@@ -12647,7 +12515,7 @@
     },
     "WGF.V": {
       "name": "Wescan Goldfields Inc.",
-      "price": 0.135
+      "price": 0.14
     },
     "WGLD.V": {
       "name": "Western Gold Exploration Ltd.",
@@ -12668,10 +12536,6 @@
     "WHN.V": {
       "name": "Westhaven Gold Corp.",
       "price": 0.34
-    },
-    "WHY.V": {
-      "name": "West High Yield (W.H.Y.) Resources Ltd.",
-      "price": 0.28
     },
     "WI.V": {
       "name": "The Western Investment Company of Canada Limited",
@@ -12709,10 +12573,6 @@
       "name": "Whitemud Resources Inc.",
       "price": 0.14
     },
-    "WML.V": {
-      "name": "Wealth Minerals Ltd.",
-      "price": 0.095
-    },
     "WMS.V": {
       "name": "Western Metallica Resources Corp.",
       "price": 0.1
@@ -12725,17 +12585,9 @@
       "name": "George Weston Limited",
       "price": 101.21
     },
-    "WOLF.V": {
-      "name": "Grey Wolf Animal Health Corp.",
-      "price": 1.75
-    },
     "WOOD-P.V": {
       "name": "Woodbridge Ventures II Inc.",
       "price": 0.065
-    },
-    "WP.V": {
-      "name": "Western Pacific Trust Company",
-      "price": 0.15
     },
     "WPG.V": {
       "name": "West Point Gold Corp.",
@@ -12750,7 +12602,7 @@
       "price": 190.05
     },
     "WPR.V": {
-      "name": "CANPR Technology  LTD.",
+      "name": "CANPR Technology LTD.",
       "price": 0.04
     },
     "WPRT.TO": {
@@ -12817,13 +12669,9 @@
       "name": "TMX Group Limited",
       "price": 52.25
     },
-    "XAD.TO": {
-      "name": "iShares U.S. Aerospace & Defense Index ETF",
-      "price": 95.65
-    },
     "XAGG.TO": {
       "name": "iShares U.S. Aggregate Bond Index ETF",
-      "price": 37.0
+      "price": 36.93
     },
     "XAGH.TO": {
       "name": "iShares U.S. Aggregate Bond Index ETF (CAD-Hedged)",
@@ -12863,7 +12711,7 @@
     },
     "XCBG.TO": {
       "name": "iShares ESG Advanced Canadian Corporate Bond Index ETF",
-      "price": 36.79
+      "price": 36.73
     },
     "XCBU.TO": {
       "name": "iShares U.S. IG Corporate Bond Index ETF",
@@ -12871,7 +12719,7 @@
     },
     "XCD.TO": {
       "name": "iShares S&P Global Consumer Discretionary Index ETF (CAD-Hedged)",
-      "price": 53.69
+      "price": 53.59
     },
     "XCG.TO": {
       "name": "iShares Canadian Growth Index ETF",
@@ -12909,21 +12757,13 @@
       "name": "iShares Core MSCI Global Quality Dividend Index ETF",
       "price": 33.17
     },
-    "XDGH.TO": {
-      "name": "iShares Core MSCI Global Quality Dividend Index ETF (CAD-Hedged)",
-      "price": 31.8
-    },
     "XDIV.TO": {
       "name": "iShares Core MSCI Canadian Quality Dividend Index ETF",
       "price": 45.12
     },
-    "XDNA.TO": {
-      "name": "iShares Genomics Immunology and Healthcare Index ETF",
-      "price": 62.71
-    },
     "XDRV.TO": {
       "name": "iShares Global Electric and Autonomous Vehicles Index ETF",
-      "price": 45.75
+      "price": 45.76
     },
     "XDSR.TO": {
       "name": "iShares ESG Advanced MSCI EAFE Index ETF",
@@ -12935,7 +12775,7 @@
     },
     "XDUH.TO": {
       "name": "iShares Core MSCI US Quality Dividend Index ETF (CAD-Hedged)",
-      "price": 31.19
+      "price": 31.23
     },
     "XDV.TO": {
       "name": "iShares Canadian Select Dividend Index ETF",
@@ -12957,10 +12797,6 @@
       "name": "iShares S&P/TSX Capped Energy Index ETF",
       "price": 28.01
     },
-    "XEH.TO": {
-      "name": "iShares MSCI Europe IMI Index ETF (CAD-Hedged)",
-      "price": 40.43
-    },
     "XEI.TO": {
       "name": "iShares S&P/TSX Composite High Dividend Index ETF",
       "price": 38.78
@@ -12977,10 +12813,6 @@
       "name": "iShares Jantzi Social Index ETF",
       "price": 53.63
     },
-    "XEQT.TO": {
-      "name": "iShares Core Equity ETF Portfolio",
-      "price": 45.57
-    },
     "XESG.TO": {
       "name": "iShares ESG Aware MSCI Canada Index ETF",
       "price": 43.09
@@ -12995,7 +12827,7 @@
     },
     "XEXP.TO": {
       "name": "iShares Exponential Technologies Index ETF",
-      "price": 76.35
+      "price": 76.03
     },
     "XFH.TO": {
       "name": "iShares Core MSCI EAFE IMI Index ETF (CAD-Hedged)",
@@ -13003,7 +12835,7 @@
     },
     "XFLB.TO": {
       "name": "iShares Core Canadian 15+ Year Federal Bond Index ETF",
-      "price": 41.12
+      "price": 41.05
     },
     "XFLI.TO": {
       "name": "iShares Flexible Monthly Income ETF",
@@ -13019,7 +12851,7 @@
     },
     "XFR.TO": {
       "name": "iShares Floating Rate Index ETF",
-      "price": 20.055
+      "price": 20.06
     },
     "XGB.TO": {
       "name": "iShares Core Canadian Government Bond Index ETF",
@@ -13035,7 +12867,7 @@
     },
     "XGI.TO": {
       "name": "iShares S&P Global Industrials Index ETF(CAD-Hedged)",
-      "price": 68.5
+      "price": 68.56
     },
     "XGRO.TO": {
       "name": "iShares Core Growth ETF Portfolio",
@@ -13075,7 +12907,7 @@
     },
     "XIG.TO": {
       "name": "iShares U.S. IG Corporate Bond Index ETF (CAD-Hedged)",
-      "price": 18.105
+      "price": 18.11
     },
     "XIGS.TO": {
       "name": "iShares 1-5 Year U.S. IG Corporate Bond Index ETF (CAD-Hedged)",
@@ -13092,6 +12924,10 @@
     "XINC.TO": {
       "name": "iShares Core Income Balanced ETF Portfolio",
       "price": 21.02
+    },
+    "XINT.TO": {
+      "name": "iShares Core MSCI All-International Equity Index ETF",
+      "price": 40.08
     },
     "XIT.TO": {
       "name": "iShares S&P/TSX Capped Information Technology Index ETF",
@@ -13139,7 +12975,7 @@
     },
     "XML.TO": {
       "name": "iShares MSCI Min Vol EAFE Index ETF (CAD-Hedged)",
-      "price": 34.04
+      "price": 33.7
     },
     "XMM.TO": {
       "name": "iShares MSCI Min Vol Emerging Markets Index ETF",
@@ -13147,7 +12983,7 @@
     },
     "XMS.TO": {
       "name": "iShares MSCI Min Vol USA Index ETF (CAD-Hedged)",
-      "price": 38.96
+      "price": 39.1
     },
     "XMTM.TO": {
       "name": "iShares MSCI USA Momentum Factor Index ETF",
@@ -13167,7 +13003,7 @@
     },
     "XMY.TO": {
       "name": "iShares MSCI Min Vol Global Index ETF (CAD-Hedged)",
-      "price": 34.13
+      "price": 34.02
     },
     "XNDU.TO": {
       "name": "Xanadu Quantum Technologies Limited",
@@ -13203,7 +13039,7 @@
     },
     "XQQU.TO": {
       "name": "iShares NASDAQ 100 Index ETF",
-      "price": 103.42
+      "price": 102.35
     },
     "XRB.TO": {
       "name": "iShares Canadian Real Return Bond Index ETF",
@@ -13239,7 +13075,7 @@
     },
     "XSE.TO": {
       "name": "iShares Conservative Strategic Fixed Income ETF",
-      "price": 16.78
+      "price": 16.77
     },
     "XSEA.TO": {
       "name": "iShares ESG Aware MSCI EAFE Index ETF",
@@ -13255,19 +13091,19 @@
     },
     "XSHG.TO": {
       "name": "iShares ESG Advanced 1-5 Year Canadian Corporate Bond Index ETF",
-      "price": 38.71
+      "price": 38.73
     },
     "XSHU.TO": {
       "name": "iShares 1-5 Year U.S. IG Corporate Bond Index ETF",
-      "price": 42.95
+      "price": 42.8
     },
     "XSI.TO": {
       "name": "iShares Short Term Strategic Fixed Income ETF",
       "price": 16.18
     },
     "XSMB.TO": {
-      "name": "iShares Core Canadian Short-Mid Term Universe Bond Index ETF",
-      "price": 39.3
+      "name": "iShares Core Canadian 1-10 Year Bond Index ETF",
+      "price": 39.0
     },
     "XSMC.TO": {
       "name": "iShares S&P U.S. Small-Cap Index ETF",
@@ -13291,7 +13127,7 @@
     },
     "XSTB.TO": {
       "name": "iShares ESG Aware Canadian Short Term Bond Index ETF",
-      "price": 19.49
+      "price": 19.5
     },
     "XSTH.TO": {
       "name": "iShares 0-5 Year TIPS Bond Index ETF (CAD-Hedged)",
@@ -13367,7 +13203,7 @@
     },
     "XUSF.TO": {
       "name": "iShares S&P U.S. Financials Index ETF",
-      "price": 81.82
+      "price": 82.36
     },
     "XUSR.TO": {
       "name": "iShares ESG Advanced MSCI USA Index ETF",
@@ -13405,17 +13241,13 @@
       "name": "Pirate Gold Corp.",
       "price": 0.19
     },
-    "YAY.V": {
-      "name": "THS Maple Holdings Ltd.",
-      "price": 0.125
-    },
     "YCM.TO": {
       "name": "Commerce Split Corp.",
       "price": 10.95
     },
     "YEG.V": {
       "name": "Yorkton Equity Group Inc.",
-      "price": 0.1
+      "price": 0.105
     },
     "YES.V": {
       "name": "Char Technologies Ltd.",
@@ -13431,15 +13263,11 @@
     },
     "YGT.V": {
       "name": "Gold Terra Resource Corp.",
-      "price": 0.195
+      "price": 0.2
     },
     "YNV.V": {
       "name": "Ynvisible Interactive Inc.",
       "price": 0.06
-    },
-    "YOO.V": {
-      "name": "Yangaroo Inc.",
-      "price": 0.1
     },
     "YRB.TO": {
       "name": "Yorbeau Resources Inc.",
@@ -13452,6 +13280,10 @@
     "YTY.V": {
       "name": "Wi2Wi Corporation",
       "price": 0.09
+    },
+    "ZABS.TO": {
+      "name": "BMO Asset-Backed Securities ETF",
+      "price": 30.26
     },
     "ZAC.V": {
       "name": "Zacatecas Silver Corp.",
@@ -13468,10 +13300,6 @@
     "ZAU.V": {
       "name": "Zodiac Gold Inc.",
       "price": 0.315
-    },
-    "ZBAL.TO": {
-      "name": "BMO Balanced ETF",
-      "price": 15.97
     },
     "ZBI.TO": {
       "name": "BMO Canadian Bank Income Index ETF",
@@ -13493,9 +13321,9 @@
       "name": "BMO Corporate Bond Index ETF",
       "price": 45.81
     },
-    "ZCDB.TO": {
-      "name": "BMO Corporate Discount Bond ETF",
-      "price": 31.02
+    "ZCDX.TO": {
+      "name": "BMO Credit Stress Opportunities ETF",
+      "price": 30.3
     },
     "ZCH.TO": {
       "name": "BMO MSCI China Selection Equity Index ETF",
@@ -13519,11 +13347,7 @@
     },
     "ZCS.TO": {
       "name": "BMO Short Corporate Bond Index ETF",
-      "price": 13.745
-    },
-    "ZCT.V": {
-      "name": "Zero Candida Technologies Inc.",
-      "price": 0.15
+      "price": 13.75
     },
     "ZDB.TO": {
       "name": "BMO Discount Bond Index ETF",
@@ -13533,17 +13357,9 @@
       "name": "Zedcor Inc.",
       "price": 5.31
     },
-    "ZDH.TO": {
-      "name": "BMO International Dividend Hedged to CAD ETF",
-      "price": 35.28
-    },
     "ZDI.TO": {
       "name": "BMO International Dividend ETF",
       "price": 32.5
-    },
-    "ZDIV.TO": {
-      "name": "BMO MSCI Canada IMI High Dividend Yield Index ETF",
-      "price": 34.71
     },
     "ZDJ.TO": {
       "name": "BMO Dow Jones Industrial Average Hedged to CAD Index ETF",
@@ -13577,21 +13393,9 @@
       "name": "BMO MSCI Emerging Markets Index ETF",
       "price": 34.16
     },
-    "ZEN.V": {
-      "name": "Zentek Ltd.",
-      "price": 0.72
-    },
     "ZENI-P.V": {
       "name": "Zenith Capital Corporation",
       "price": 0.06
-    },
-    "ZEO.TO": {
-      "name": "BMO Equal Weight Oil & Gas Index ETF",
-      "price": 106.24
-    },
-    "ZEQ.TO": {
-      "name": "BMO MSCI Europe High Quality Hedged to CAD Index ETF",
-      "price": 31.68
     },
     "ZEQL.TO": {
       "name": "BMO MSCI USA Equal Weight Index ETF",
@@ -13617,10 +13421,6 @@
       "name": "BMO Floating Rate High Yield ETF",
       "price": 14.95
     },
-    "ZFL.TO": {
-      "name": "BMO Long Federal Bond Index ETF",
-      "price": 11.19
-    },
     "ZFM.TO": {
       "name": "BMO Mid Federal Bond Index ETF",
       "price": 14.27
@@ -13645,21 +13445,9 @@
       "name": "BMO Equal Weight Global Gold Index ETF",
       "price": 30.92
     },
-    "ZGI.TO": {
-      "name": "BMO Global Infrastructure Index ETF",
-      "price": 54.18
-    },
     "ZGLD.TO": {
       "name": "BMO Gold Bullion ETF",
       "price": 63.37
-    },
-    "ZGLH.TO": {
-      "name": "BMO Gold Bullion Hedged to CAD ETF",
-      "price": 56.51
-    },
-    "ZGQ.TO": {
-      "name": "BMO MSCI All Country World High Quality Index ETF",
-      "price": 91.89
     },
     "ZGRO.TO": {
       "name": "BMO Growth ETF",
@@ -13677,37 +13465,21 @@
       "name": "BMO High Yield US Corporate Bond Hedged to CAD Index ETF",
       "price": 10.41
     },
-    "ZIC.TO": {
-      "name": "BMO Mid-Term US IG Corporate Bond Index ETF",
-      "price": 17.82
-    },
     "ZID.TO": {
       "name": "BMO MSCI India Selection Equity Index ETF",
       "price": 40.76
     },
     "ZIN.TO": {
       "name": "BMO Equal Weight Industrials Index ETF",
-      "price": 59.97
+      "price": 60.11
     },
     "ZIQ.TO": {
       "name": "BMO MSCI EAFE High Quality Index ETF",
       "price": 36.09
     },
-    "ZIU.TO": {
-      "name": "BMO S&P/TSX 60 Index ETF",
-      "price": 79.95
-    },
     "ZJG.TO": {
       "name": "BMO Junior Gold Index ETF",
       "price": 25.02
-    },
-    "ZJK.TO": {
-      "name": "BMO High Yield US Corporate Bond Index ETF",
-      "price": 18.5
-    },
-    "ZJPN.TO": {
-      "name": "BMO Japan Index ETF",
-      "price": 52.47
     },
     "ZLB.TO": {
       "name": "BMO Low Volatility Canadian Equity ETF",
@@ -13733,13 +13505,9 @@
       "name": "BMO Low Volatility International Equity ETF",
       "price": 29.96
     },
-    "ZLSC.TO": {
-      "name": "BMO Long Short Canadian Equity ETF",
-      "price": 48.715
-    },
     "ZLSU.TO": {
       "name": "BMO Long Short US Equity ETF",
-      "price": 48.92
+      "price": 48.63
     },
     "ZLTO.V": {
       "name": "BULGOLD Inc.",
@@ -13753,10 +13521,6 @@
       "name": "ZoomAway Technologies Inc.",
       "price": 0.07
     },
-    "ZMBS.TO": {
-      "name": "BMO Canadian MBS Index ETF",
-      "price": 30.35
-    },
     "ZMI.TO": {
       "name": "BMO Monthly Income ETF",
       "price": 19.69
@@ -13768,10 +13532,6 @@
     "ZMMK.TO": {
       "name": "BMO Money Market Fund",
       "price": 49.83
-    },
-    "ZMP.TO": {
-      "name": "BMO Mid Provincial Bond Index ETF",
-      "price": 13.7
     },
     "ZMT.TO": {
       "name": "BMO Equal Weight Global Base Metals Hedged to CAD Index ETF",
@@ -13791,11 +13551,11 @@
     },
     "ZNX.V": {
       "name": "Zincx Resources Corp.",
-      "price": 0.285
+      "price": 0.29
     },
     "ZOMD.V": {
       "name": "Zoomd Technologies Ltd.",
-      "price": 0.3825
+      "price": 0.383
     },
     "ZON.V": {
       "name": "Zonte Metals Inc.",
@@ -13823,7 +13583,7 @@
     },
     "ZPS.TO": {
       "name": "BMO Short Provincial Bond Index ETF",
-      "price": 12.195
+      "price": 12.2
     },
     "ZPW.TO": {
       "name": "BMO US Put Write ETF",
@@ -13831,7 +13591,7 @@
     },
     "ZQB.TO": {
       "name": "BMO High Quality Corporate Bond Index ETF",
-      "price": 28.44
+      "price": 28.41
     },
     "ZQQ.TO": {
       "name": "BMO Nasdaq 100 Equity Hedged To CAD Index ETF",
@@ -13851,7 +13611,7 @@
     },
     "ZSDB.TO": {
       "name": "BMO Short-Term Discount Bond ETF",
-      "price": 31.32
+      "price": 31.36
     },
     "ZSML.TO": {
       "name": "BMO S&P US Small Cap Index ETF",
@@ -13871,7 +13631,7 @@
     },
     "ZTIP.TO": {
       "name": "BMO Short-Term US TIPS Index ETF",
-      "price": 32.77
+      "price": 32.63
     },
     "ZUAG.TO": {
       "name": "BMO US Aggregate Bond Index ETF",
@@ -13939,7 +13699,7 @@
     },
     "ZWEN.TO": {
       "name": "BMO Covered Call Energy ETF",
-      "price": 37.01
+      "price": 37.03
     },
     "ZWG.TO": {
       "name": "BMO Global High Dividend Covered Call ETF",
@@ -13947,7 +13707,7 @@
     },
     "ZWGD.TO": {
       "name": "BMO Covered Call Spread Gold Bullion ETF",
-      "price": 34.6
+      "price": 34.71
     },
     "ZWH.TO": {
       "name": "BMO US High Dividend Covered Call ETF",
@@ -13983,7 +13743,7 @@
     },
     "ZXCO.TO": {
       "name": "BMO Target 2027 Canadian Corporate Bond ETF",
-      "price": 9.926
+      "price": 9.91
     },
     "ZXCP.TO": {
       "name": "BMO Target 2028 Canadian Corporate Bond ETF",
@@ -13991,15 +13751,15 @@
     },
     "ZXCQ.TO": {
       "name": "BMO Target 2029 Canadian Corporate Bond ETF",
-      "price": 9.808
+      "price": 9.91
     },
     "ZXLB.TO": {
       "name": "BMO SPDR Materials Select Sector Index ETF",
-      "price": 32.83
+      "price": 32.59
     },
     "ZXLC.TO": {
       "name": "BMO SPDR Communication Services Select Sector Index ETF",
-      "price": 31.77
+      "price": 31.87
     },
     "ZXLE.TO": {
       "name": "BMO SPDR Energy Select Sector Index ETF",
@@ -14007,7 +13767,7 @@
     },
     "ZXLF.TO": {
       "name": "BMO SPDR Financials Select Sector Index ETF",
-      "price": 31.21
+      "price": 31.14
     },
     "ZXLI.TO": {
       "name": "BMO SPDR Industrials Select Sector Index ETF",
@@ -14019,11 +13779,11 @@
     },
     "ZXLP.TO": {
       "name": "BMO SPDR Consumer Staples Select Sector Index ETF",
-      "price": 30.96
+      "price": 30.95
     },
     "ZXLR.TO": {
       "name": "BMO SPDR Real Estate Select Sector Index ETF",
-      "price": 29.66
+      "price": 29.55
     },
     "ZXLU.TO": {
       "name": "BMO SPDR Utilities Select Sector Index ETF",
@@ -14048,6 +13808,782 @@
     "ZZZD.TO": {
       "name": "BMO Tactical Dividend ETF Fund",
       "price": 31.85
+    },
+    "OBE.TO": {
+      "name": "Obsidian Energy Ltd.",
+      "price": 14.69
+    },
+    "OCO.V": {
+      "name": "Oroco Resource Corp.",
+      "price": 0.46
+    },
+    "OLY.TO": {
+      "name": "Olympia Financial Group Inc.",
+      "price": 101.44
+    },
+    "OML.V": {
+      "name": "Omni-Lite Industries Canada Inc.",
+      "price": 2.92
+    },
+    "ONAU.V": {
+      "name": "OnGold Resources Ltd.",
+      "price": 0.62
+    },
+    "ONEC.TO": {
+      "name": "Accelerate OneChoice Alternative Multi-Asset Fund",
+      "price": 26.12
+    },
+    "OPW.V": {
+      "name": "Opawica Explorations Inc.",
+      "price": 0.14
+    },
+    "OR.TO": {
+      "name": "OR Royalties Inc.",
+      "price": 48.8
+    },
+    "ORAC.TO": {
+      "name": "Oracle CDR (CAD Hedged)",
+      "price": 6.77
+    },
+    "ORC-A.V": {
+      "name": "Orca Energy Group Inc.",
+      "price": 20.0
+    },
+    "ORIO.TO": {
+      "name": "Orion Digital Corp.",
+      "price": 1.52
+    },
+    "PACF.TO": {
+      "name": "Purpose Active Conservative Fund",
+      "price": 24.85
+    },
+    "PAT.V": {
+      "name": "Patterson Metals Corp.",
+      "price": 1.56
+    },
+    "PAYL.TO": {
+      "name": "Global X Long-Term Government Bond Premium Yield ETF",
+      "price": 15.97
+    },
+    "PAYU.TO": {
+      "name": "Brompton U.S. Equity HighPay ETF",
+      "price": 23.75
+    },
+    "PBH.TO": {
+      "name": "Premium Brands Holdings Corporation",
+      "price": 70.64
+    },
+    "PBY.TO": {
+      "name": "Lysander-Canso Credit Income ActivETF",
+      "price": 16.1
+    },
+    "PCP-P.V": {
+      "name": "Pender Street Capital Corp.",
+      "price": 0.1
+    },
+    "PCU.V": {
+      "name": "Pecoy Copper Corp.",
+      "price": 1.87
+    },
+    "PFCO.TO": {
+      "name": "PICTON Credit Opportunities Alternative Fund",
+      "price": 9.04
+    },
+    "PFIA.TO": {
+      "name": "PICTON  Long Short Income  Alternative Fund",
+      "price": 9.78
+    },
+    "PGZ.V": {
+      "name": "Pan Global Resources Inc.",
+      "price": 0.185
+    },
+    "PHD.V": {
+      "name": "Providence Gold Mines Inc.",
+      "price": 0.045
+    },
+    "PINV.TO": {
+      "name": "Purpose Global Innovators Fund",
+      "price": 33.3
+    },
+    "PLDI.TO": {
+      "name": "PIMCO Low Duration Monthly Income Fund (Canada)",
+      "price": 18.07
+    },
+    "PLSR.V": {
+      "name": "Pulsar Helium Inc.",
+      "price": 1.17
+    },
+    "PME.TO": {
+      "name": "Sentry Select Primary Metals Corp.",
+      "price": 5.53
+    },
+    "PMIF.TO": {
+      "name": "PIMCO Monthly Income Fund (Canada)",
+      "price": 17.055
+    },
+    "PMNT.TO": {
+      "name": "PIMCO Global Short Maturity Fund (Canada)",
+      "price": 18.58
+    },
+    "PMZ-UN.TO": {
+      "name": "Primaris Real Estate Investment Trust",
+      "price": 22.2
+    },
+    "PNPN.V": {
+      "name": "Power Metallic Mines Inc.",
+      "price": 1.19
+    },
+    "PNTR.V": {
+      "name": "Pantera Silver Corp.",
+      "price": 0.35
+    },
+    "PPL.TO": {
+      "name": "Pembina Pipeline Corporation",
+      "price": 63.53
+    },
+    "PPTA.TO": {
+      "name": "Perpetua Resources Corp.",
+      "price": 30.69
+    },
+    "PPX.V": {
+      "name": "PPX Mining Corp.",
+      "price": 0.27
+    },
+    "PRA.TO": {
+      "name": "Purpose Diversified Real Asset Fund",
+      "price": 40.63
+    },
+    "PREF.TO": {
+      "name": "Quadravest Preferred Split Share ETF",
+      "price": 10.65
+    },
+    "PRL.TO": {
+      "name": "Propel Holdings Inc.",
+      "price": 25.12
+    },
+    "PRM.TO": {
+      "name": "Big Pharma Split Corp.",
+      "price": 15.11
+    },
+    "PRN.TO": {
+      "name": "Profound Medical Corp.",
+      "price": 8.34
+    },
+    "PRP.TO": {
+      "name": "Purpose Conservative Income Fund",
+      "price": 19.8
+    },
+    "PRQ.TO": {
+      "name": "Petrus Resources Ltd.",
+      "price": 1.72
+    },
+    "PRU.TO": {
+      "name": "Perseus Mining Limited",
+      "price": 6.28
+    },
+    "PSA.TO": {
+      "name": "Purpose High Interest Savings Fund",
+      "price": 50.005
+    },
+    "PSB.TO": {
+      "name": "CI 1-5 Year Laddered Investment Grade Corporate Bond Index ETF",
+      "price": 17.8
+    },
+    "PSD.TO": {
+      "name": "Pulse Seismic Inc.",
+      "price": 2.9
+    },
+    "PSK.TO": {
+      "name": "PrairieSky Royalty Ltd.",
+      "price": 32.97
+    },
+    "PSU-U.TO": {
+      "name": "Purpose US Cash Fund",
+      "price": 100.02
+    },
+    "PSY.TO": {
+      "name": "Purpose Structured Equity Yield Fund",
+      "price": 10.02
+    },
+    "PTC.V": {
+      "name": "Petrox Resources Corp.",
+      "price": 0.105
+    },
+    "PTE.V": {
+      "name": "Pioneering Technology Corp.",
+      "price": 0.02
+    },
+    "PTF.V": {
+      "name": "Pender Growth Fund Inc.",
+      "price": 14.75
+    },
+    "PTFY.V": {
+      "name": "Plantify Foods, Inc.",
+      "price": 0.085
+    },
+    "PTX.V": {
+      "name": "PTX Metals Inc.",
+      "price": 0.08
+    },
+    "PUL.V": {
+      "name": "Pulse Oil Corp.",
+      "price": 0.01
+    },
+    "PUR.V": {
+      "name": "Premier American Uranium Inc.",
+      "price": 0.32
+    },
+    "PURO.V": {
+      "name": "Platauro Metals Corp.",
+      "price": 0.16
+    },
+    "PVIS.V": {
+      "name": "Parvis Invest Inc.",
+      "price": 0.295
+    },
+    "PVT.V": {
+      "name": "Pivotree Inc.",
+      "price": 1.1
+    },
+    "PWER.V": {
+      "name": "Global Power Solutions Corp.",
+      "price": 0.25
+    },
+    "PWI.TO": {
+      "name": "Power & Infrastructure Split Corp.",
+      "price": 10.39
+    },
+    "PWRO.V": {
+      "name": "Power One Resources Corp.",
+      "price": 0.03
+    },
+    "PWRS.TO": {
+      "name": "Quanta Services CDR (CAD Hedged)",
+      "price": 24.3
+    },
+    "PX.V": {
+      "name": "Pelangio Exploration Inc.",
+      "price": 0.14
+    },
+    "PXC.TO": {
+      "name": "CI RAFI Canadian Index ETF",
+      "price": 63.22
+    },
+    "PXT.TO": {
+      "name": "Parex Resources Inc.",
+      "price": 26.68
+    },
+    "PXU-F.TO": {
+      "name": "CI Invesco RAFI U.S. Index ETF",
+      "price": 82.4
+    },
+    "PYF.TO": {
+      "name": "Purpose Premium Yield Fund",
+      "price": 16.555
+    },
+    "QASH.TO": {
+      "name": "Mackenzie Canadian Ultra Short Bond Index ETF",
+      "price": 50.0
+    },
+    "QBB.TO": {
+      "name": "Mackenzie Canadian Aggregate Bond Index ETF",
+      "price": 90.77
+    },
+    "QBTC.TO": {
+      "name": "Bitcoin Fund, The",
+      "price": 108.29
+    },
+    "QBTL.TO": {
+      "name": "AGF US Market Neutral Anti-Beta CAD-Hedged ETF",
+      "price": 12.5
+    },
+    "QCE.TO": {
+      "name": "Mackenzie Canadian Large Cap Equity Index ETF",
+      "price": 210.95
+    },
+    "QCLN.TO": {
+      "name": "First Trust NASDAQ Clean Edge Green Energy ETF",
+      "price": 22.37
+    },
+    "QCOM.TO": {
+      "name": "Qualcomm CDR (CAD Hedged)",
+      "price": 23.86
+    },
+    "QDX.TO": {
+      "name": "Mackenzie International Equity Index ETF",
+      "price": 163.48
+    },
+    "QDXH.TO": {
+      "name": "Mackenzie International Equity Index ETF (CAD-Hedged)",
+      "price": 174.39
+    },
+    "QEBH.TO": {
+      "name": "Mackenzie Emerging Markets Bond Index ETF (CAD-Hedged)",
+      "price": 75.46
+    },
+    "QEBL.TO": {
+      "name": "Mackenzie Emerging Markets Local Currency Bond Index ETF",
+      "price": 79.15
+    },
+    "QEC.TO": {
+      "name": "Questerre Energy Corporation",
+      "price": 0.3
+    },
+    "QETH-U.TO": {
+      "name": "The Ether Fund",
+      "price": 40.9
+    },
+    "QMVP.TO": {
+      "name": "HAMILTON CHAMPIONS TM U.S. Technology Index ETF",
+      "price": 21.24
+    },
+    "QNC.V": {
+      "name": "Quantum Emotion Corp.",
+      "price": 2.11
+    },
+    "QQCC.TO": {
+      "name": "Global X Nasdaq-100 Covered Call ETF",
+      "price": 14.5
+    },
+    "QQCE.TO": {
+      "name": "CI ESG NASDAQ 100 Index ETF",
+      "price": 44.5
+    },
+    "QQCI.TO": {
+      "name": "Invesco NASDAQ 100 Income Advantage ETF",
+      "price": 25.99
+    },
+    "QQCL.TO": {
+      "name": "Global X Enhanced Nasdaq-100 Covered Call ETF",
+      "price": 27.91
+    },
+    "QQD.TO": {
+      "name": "BetaPro NASDAQ-100 -2x Daily Bear ETF",
+      "price": 22.2
+    },
+    "QQQQ.TO": {
+      "name": "Mackenzie NASDAQ 100 Index ETF",
+      "price": 132.6
+    },
+    "QQQU.TO": {
+      "name": "MegaLong (3X) NASDAQ-100® Daily Leveraged Alternative ETF",
+      "price": 47.29
+    },
+    "QQU.TO": {
+      "name": "BetaPro NASDAQ-100 2x Daily Bull ETF",
+      "price": 40.15
+    },
+    "QRC.TO": {
+      "name": "Queen's Road Capital Investment Ltd.",
+      "price": 14.14
+    },
+    "QRET.TO": {
+      "name": "Mackenzie Developed Markets Real Estate Index ETF",
+      "price": 118.15
+    },
+    "QSB.TO": {
+      "name": "Mackenzie Canadian Short-Term Bond Index ETF",
+      "price": 98.37
+    },
+    "QSP-UN.TO": {
+      "name": "Restaurant Brands International Limited Partnership",
+      "price": 103.46
+    },
+    "RRI.V": {
+      "name": "Riverside Resources Inc.",
+      "price": 0.43
+    },
+    "RUDC.TO": {
+      "name": "RBC U.S. Dividend Covered Call ETF",
+      "price": 24.61
+    },
+    "RUQO.TO": {
+      "name": "RBC Target 2026 U.S. Corporate Bond ETF",
+      "price": 20.97
+    },
+    "RUQQ.TO": {
+      "name": "RBC Target 2028 U.S. Corporate Bond ETF",
+      "price": 21.59
+    },
+    "RUQU.TO": {
+      "name": "RBC Target 2032 U.S. Corporate Bond ETF",
+      "price": 19.51
+    },
+    "SAFE.TO": {
+      "name": "Global X Equal Weight Canadian Insurance Index ETF",
+      "price": 27.44
+    },
+    "SAG.V": {
+      "name": "Sterling Metals Corp.",
+      "price": 1.11
+    },
+    "SBUL.TO": {
+      "name": "Ninepoint Silver Bullion Fund",
+      "price": 32.8
+    },
+    "SCR.TO": {
+      "name": "Strathcona Resources Ltd.",
+      "price": 38.78
+    },
+    "SDE.TO": {
+      "name": "Spartan Delta Corp.",
+      "price": 12.45
+    },
+    "SEI.V": {
+      "name": "Sintana Energy Inc.",
+      "price": 0.345
+    },
+    "SFI.TO": {
+      "name": "Solution Financial Inc.",
+      "price": 0.265
+    },
+    "SHL.V": {
+      "name": "Homeland Nickel Inc.",
+      "price": 0.47
+    },
+    "SHPE.TO": {
+      "name": "Harvest Shopify Enhanced High Income Shares ETF",
+      "price": 9.03
+    },
+    "SIEN.V": {
+      "name": "Sienna Resources Inc.",
+      "price": 0.09
+    },
+    "SLCA.TO": {
+      "name": "Sun Life Core Advantage Credit Private Pool",
+      "price": 18.7
+    },
+    "SLF.TO": {
+      "name": "Sun Life Financial Inc.",
+      "price": 110.92
+    },
+    "SLVD.TO": {
+      "name": "BetaPro Silver -2x Daily Bear ETF",
+      "price": 35.15
+    },
+    "SOLI-P.V": {
+      "name": "Solid Impact Investments Corp.",
+      "price": 0.06
+    },
+    "SOXD.TO": {
+      "name": "MegaShort (-3X) US Semiconductors Daily Leveraged Alternative ETF",
+      "price": 11.42
+    },
+    "SU.TO": {
+      "name": "Suncor Energy Inc.",
+      "price": 96.5
+    },
+    "TINF.TO": {
+      "name": "TD Active Global Infrastructure Equity ETF",
+      "price": 24.23
+    },
+    "TLTX.TO": {
+      "name": "Global X 20+ Year U.S. Treasury Bond Index ETF",
+      "price": 45.36
+    },
+    "TPU.TO": {
+      "name": "TD U.S. Equity Index ETF",
+      "price": 62.11
+    },
+    "TUED.TO": {
+      "name": "TD Active U.S. Enhanced Dividend ETF",
+      "price": 36.77
+    },
+    "VCIP.TO": {
+      "name": "Vanguard Conservative Income ETF Portfolio",
+      "price": 26.94
+    },
+    "VCT.V": {
+      "name": "Volt Carbon Technologies Inc.",
+      "price": 0.04
+    },
+    "WHY.V": {
+      "name": "West High Yield (W.H.Y.) Resources Ltd.",
+      "price": 0.28
+    },
+    "WML.V": {
+      "name": "Wealth Minerals Ltd.",
+      "price": 0.1
+    },
+    "WOLF.V": {
+      "name": "Grey Wolf Health Corp.",
+      "price": 1.75
+    },
+    "WP.V": {
+      "name": "Western Pacific Trust Company",
+      "price": 0.15
+    },
+    "XDGH.TO": {
+      "name": "iShares Core MSCI Global Quality Dividend Index ETF (CAD-Hedged)",
+      "price": 31.8
+    },
+    "XDNA.TO": {
+      "name": "iShares Genomics Immunology and Healthcare Index ETF",
+      "price": 62.71
+    },
+    "XEH.TO": {
+      "name": "iShares MSCI Europe IMI Index ETF (CAD-Hedged)",
+      "price": 40.43
+    },
+    "XEQT.TO": {
+      "name": "iShares Core Equity ETF Portfolio",
+      "price": 45.57
+    },
+    "YAY.V": {
+      "name": "THS Maple Holdings Ltd.",
+      "price": 0.125
+    },
+    "ZCDB.TO": {
+      "name": "BMO Corporate Discount Bond ETF",
+      "price": 31.02
+    },
+    "ZCT.V": {
+      "name": "Zero Candida Technologies Inc.",
+      "price": 0.15
+    },
+    "ZDH.TO": {
+      "name": "BMO International Dividend Hedged to CAD ETF",
+      "price": 35.28
+    },
+    "ZEN.V": {
+      "name": "Zentek Ltd.",
+      "price": 0.72
+    },
+    "ZGI.TO": {
+      "name": "BMO Global Infrastructure Index ETF",
+      "price": 54.18
+    },
+    "ZGLH.TO": {
+      "name": "BMO Gold Bullion Hedged to CAD ETF",
+      "price": 56.51
+    },
+    "ZGQ.TO": {
+      "name": "BMO MSCI All Country World High Quality Index ETF",
+      "price": 91.89
+    },
+    "ZIC.TO": {
+      "name": "BMO Mid-Term US IG Corporate Bond Index ETF",
+      "price": 17.82
+    },
+    "ZJK.TO": {
+      "name": "BMO High Yield US Corporate Bond Index ETF",
+      "price": 18.5
+    },
+    "ZLSC.TO": {
+      "name": "BMO Long Short Canadian Equity ETF",
+      "price": 48.8
+    },
+    "ZMBS.TO": {
+      "name": "BMO Canadian MBS Index ETF",
+      "price": 30.27
+    },
+    "ZMP.TO": {
+      "name": "BMO Mid Provincial Bond Index ETF",
+      "price": 13.7
+    },
+    "PBI.TO": {
+      "name": "Purpose Best Ideas Fund",
+      "price": 56.6
+    },
+    "PBL.TO": {
+      "name": "Pollard Banknote Limited",
+      "price": 16.96
+    },
+    "PDF.TO": {
+      "name": "Purpose Core Dividend Fund",
+      "price": 43.81
+    },
+    "PEX.V": {
+      "name": "Pacific Ridge Exploration Ltd.",
+      "price": 0.18
+    },
+    "PLTE.TO": {
+      "name": "Harvest Palantir Enhanced High Income Shares ETF",
+      "price": 21.12
+    },
+    "PRG.V": {
+      "name": "Precipitate Gold Corp.",
+      "price": 0.14
+    },
+    "PSI.TO": {
+      "name": "Pason Systems Inc.",
+      "price": 13.85
+    },
+    "PSLV.TO": {
+      "name": "Sprott Physical Silver Trust",
+      "price": 27.53
+    },
+    "PSVA.V": {
+      "name": "Prospectiva Resources Ltd.",
+      "price": 0.5
+    },
+    "PUMA.V": {
+      "name": "Puma Exploration Inc.",
+      "price": 0.15
+    },
+    "PWM.V": {
+      "name": "Power Metals Corp.",
+      "price": 0.44
+    },
+    "PXS.TO": {
+      "name": "CI Invesco RAFI U.S. Index ETF II",
+      "price": 67.42
+    },
+    "PYR.TO": {
+      "name": "PyroGenesis Inc.",
+      "price": 0.3
+    },
+    "PZA.TO": {
+      "name": "Pizza Pizza Royalty Corp.",
+      "price": 10.57
+    },
+    "PZW.TO": {
+      "name": "CI Invesco RAFI Global Small-Mid ETF",
+      "price": 47.81
+    },
+    "QBR-A.TO": {
+      "name": "Quebecor Inc.",
+      "price": 61.2
+    },
+    "QEE.TO": {
+      "name": "Mackenzie Emerging Markets Equity Index ETF",
+      "price": 149.75
+    },
+    "QGR.V": {
+      "name": "Q-Gold Resources Ltd.",
+      "price": 0.18
+    },
+    "QMAX.TO": {
+      "name": "Hamilton Technology YIELD MAXIMIZER TM ETF",
+      "price": 26.84
+    },
+    "QMC.V": {
+      "name": "QMC Quantum Minerals Corp.",
+      "price": 0.035
+    },
+    "QPT.V": {
+      "name": "Quest PharmaTech Inc.",
+      "price": 0.03
+    },
+    "QQEQ.TO": {
+      "name": "CI NASDAQ 100 Equal Weight Index ETF",
+      "price": 36.96
+    },
+    "QQQD.TO": {
+      "name": "MegaShort (-3X) NASDAQ-100® Daily Leveraged Alternative ETF",
+      "price": 6.42
+    },
+    "QQQT.TO": {
+      "name": "Evolve NASDAQ Technology Index Fund",
+      "price": 53.67
+    },
+    "QQQX.TO": {
+      "name": "Global X Nasdaq-100 Index ETF",
+      "price": 47.44
+    },
+    "ROSH-P.V": {
+      "name": "Roshni Capital Inc.",
+      "price": 0.13
+    },
+    "RSMX.V": {
+      "name": "Regency Silver Corp.",
+      "price": 0.12
+    },
+    "SAGE.V": {
+      "name": "Sage Potash Corp.",
+      "price": 0.13
+    },
+    "SDI.V": {
+      "name": "Stampede Drilling Inc.",
+      "price": 0.22
+    },
+    "SEVN-P.V": {
+      "name": "Seven Oaks Capital Corp.",
+      "price": 0.1
+    },
+    "SF.V": {
+      "name": "Safi Silver Corp.",
+      "price": 0.315
+    },
+    "SGQ.V": {
+      "name": "SouthGobi Resources Ltd",
+      "price": 0.29
+    },
+    "SKEL.V": {
+      "name": "Skeleton Coast Uranium Corp.",
+      "price": 0.13
+    },
+    "SMN.V": {
+      "name": "Sun Summit Minerals Corp.",
+      "price": 0.14
+    },
+    "SPXD.TO": {
+      "name": "BetaPro S&P 500 -2x Daily Bear ETF",
+      "price": 8.95
+    },
+    "SRL.V": {
+      "name": "Salazar Resources Limited",
+      "price": 0.35
+    },
+    "SSRM.TO": {
+      "name": "SSR Mining Inc.",
+      "price": 47.44
+    },
+    "STCK.TO": {
+      "name": "Stack Capital Group Inc.",
+      "price": 17.1
+    },
+    "TIGR.V": {
+      "name": "Tiger Gold Corp.",
+      "price": 0.72
+    },
+    "TOM.V": {
+      "name": "Trinity One Metals Ltd.",
+      "price": 0.16
+    },
+    "TUEX.TO": {
+      "name": "TD Active U.S. Enhanced Dividend CAD Hedged ETF",
+      "price": 31.13
+    },
+    "UBER.TO": {
+      "name": "Uber CDR (CAD Hedged)",
+      "price": 10.03
+    },
+    "UMI.TO": {
+      "name": "CI U.S. MidCap Dividend Index ETF",
+      "price": 34.62
+    },
+    "WAST.TO": {
+      "name": "Waste Management CDR (CAD Hedged)",
+      "price": 19.22
+    },
+    "XAD.TO": {
+      "name": "iShares U.S. Aerospace & Defense Index ETF",
+      "price": 95.65
+    },
+    "ZBAL.TO": {
+      "name": "BMO Balanced ETF",
+      "price": 15.97
+    },
+    "ZDIV.TO": {
+      "name": "BMO MSCI Canada IMI High Dividend Yield Index ETF",
+      "price": 34.71
+    },
+    "ZEO.TO": {
+      "name": "BMO Equal Weight Oil & Gas Index ETF",
+      "price": 106.24
+    },
+    "ZEQ.TO": {
+      "name": "BMO MSCI Europe High Quality Hedged to CAD Index ETF",
+      "price": 31.68
+    },
+    "ZFL.TO": {
+      "name": "BMO Long Federal Bond Index ETF",
+      "price": 11.19
+    },
+    "ZJPN.TO": {
+      "name": "BMO Japan Index ETF",
+      "price": 52.47
     }
   }
 }
