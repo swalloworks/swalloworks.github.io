@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T16:03:11.520964+09:00",
+  "updated_at": "2026-10-27T21:25:30.574075+09:00",
   "prices": {
     "1301.T": {
       "name": "極洋",
@@ -4588,7 +4588,7 @@
       "price_source": "Yahoo"
     },
     "2683.T": {
-      "name": "魚喜",
+      "name": "ＵＯＧｒｏｕｐ",
       "price": 990.0,
       "price_date": "2026-10-27",
       "price_source": "Yahoo"
@@ -4606,7 +4606,7 @@
       "price_source": "Yahoo"
     },
     "2689.T": {
-      "name": "オルバヘルスケアホールディングス",
+      "name": "オルバディーブイエックスヘルスケア",
       "price": 1931.0,
       "price_date": "2026-10-27",
       "price_source": "Yahoo"
@@ -8614,7 +8614,7 @@
       "price_source": "Yahoo"
     },
     "3840.T": {
-      "name": "パス",
+      "name": "ヴィクトン",
       "price": 51.0,
       "price_date": "2026-10-27",
       "price_source": "Yahoo"
@@ -26281,6 +26281,168 @@
       "name": "両毛システムズ",
       "price": 5160.0,
       "price_date": "2026-10-08",
+      "price_source": "Yahoo"
+    },
+    "607A.T": {
+      "name": "エブリー",
+      "price": 225.0,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "613A.T": {
+      "name": "ｉＦｒｅｅＥＴＦ　ドイツ０－３カ月短期国債",
+      "price": 1895.0,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "614A.T": {
+      "name": "山八商事",
+      "price": 1468.0,
+      "price_date": "2026-10-26",
+      "price_source": "Yahoo"
+    },
+    "615A.T": {
+      "name": "インターパーク",
+      "price": 305.0,
+      "price_date": "2026-10-26",
+      "price_source": "Yahoo"
+    },
+    "616A.T": {
+      "name": "数理技研",
+      "price": 568.0,
+      "price_date": "2026-10-26",
+      "price_source": "Yahoo"
+    },
+    "617A.T": {
+      "name": "レイシャス",
+      "price": 2679.0,
+      "price_date": "2026-10-26",
+      "price_source": "Yahoo"
+    },
+    "618A.T": {
+      "name": "ＫＯＭＰＥＩＴＯ",
+      "price": 2134.0,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "619A.T": {
+      "name": "オリバー",
+      "price": 306.0,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "620A.T": {
+      "name": "応研",
+      "price": 3500.0,
+      "price_date": "2026-10-26",
+      "price_source": "Yahoo"
+    },
+    "621A.T": {
+      "name": "オーディオストック",
+      "price": 1227.0,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "622A.T": {
+      "name": "テクノクラフト",
+      "price": 473.0,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "623A.T": {
+      "name": "ベルテックス",
+      "price": 530.0,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "625A.T": {
+      "name": "Ｓｋｙｆａｌｌ",
+      "price": 1360.0,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "626A.T": {
+      "name": "ｉＦｒｅｅＥＴＦ　ゴールドプラスインカム",
+      "price": 1800.0,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "627A.T": {
+      "name": "ａｋｉｐｐａ",
+      "price": 1250.0,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "628A.T": {
+      "name": "カドー",
+      "price": 2680.0,
+      "price_date": "2026-10-26",
+      "price_source": "Yahoo"
+    },
+    "630A.T": {
+      "name": "ニッセイＥＴＦ　ＴＯＰＩＸ（年４回決算型）",
+      "price": 1478.0,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "632A.T": {
+      "name": "グローバルＸ　日経２２５　ＥＴＦ",
+      "price": 63520.0,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "633A.T": {
+      "name": "グローバルＸ　韓国半導体・トップ１０　ＥＴＦ",
+      "price": 835.0,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "634A.T": {
+      "name": "レイヤード",
+      "price": 2437.0,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "635A.T": {
+      "name": "ＳＭＢＣ　Ｐｒｉｍｅ　日本短期債券ＥＴＦ（毎月決算型）",
+      "price": 901.5,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "636A.T": {
+      "name": "ＳＭＢＣ　Ｐｒｉｍｅ　日本短期債券ＥＴＦ（年１回決算型）",
+      "price": 900.1,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "637A.T": {
+      "name": "オーリーズ",
+      "price": 145.0,
+      "price_date": "2026-10-26",
+      "price_source": "Yahoo"
+    },
+    "639A.T": {
+      "name": "ＮＥＸＴ　ＦＵＮＤＳ　Ｓｏｌａｃｔｉｖｅグローバル・メモリ指数連動型上場投信",
+      "price": 169.3,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "643A.T": {
+      "name": "データセンターインフラ　日本株（ネットリターン）ＥＴＮ",
+      "price": 8999.0,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "644A.T": {
+      "name": "防衛フォーカス　日本株（ネットリターン）ＥＴＮ",
+      "price": 9671.0,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "646A.T": {
+      "name": "クラサスケミカル",
+      "price": 205.7,
+      "price_date": "2026-10-27",
       "price_source": "Yahoo"
     }
   }
