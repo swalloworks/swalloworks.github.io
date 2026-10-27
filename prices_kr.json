@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T16:11:09.052834+09:00",
+  "updated_at": "2026-10-27T21:32:22.440345+09:00",
   "prices": {
     "000020": {
       "name": "동화약품",
@@ -248,7 +248,7 @@
       "price_source": "Yahoo"
     },
     "000640": {
-      "name": "동아쏘시오홀딩스",
+      "name": "동아제약",
       "price": 88500.0,
       "price_date": "2026-10-27",
       "price_source": "Yahoo"
@@ -416,7 +416,7 @@
       "price_source": "Yahoo"
     },
     "001080": {
-      "name": "만호제강",
+      "name": "MH머트리얼즈",
       "price": 3765.0,
       "price_date": "2026-10-27",
       "price_source": "Yahoo"
@@ -2594,7 +2594,7 @@
       "price_source": "Yahoo"
     },
     "009140": {
-      "name": "경인전자",
+      "name": "케이아이이",
       "price": 10100.0,
       "price_date": "2026-10-27",
       "price_source": "Yahoo"
@@ -6386,7 +6386,7 @@
       "price_source": "Yahoo"
     },
     "038060": {
-      "name": "루멘스",
+      "name": "루멘스바이오스",
       "price": 1001.0,
       "price_date": "2026-10-27",
       "price_source": "Yahoo"
@@ -8816,7 +8816,7 @@
       "price_source": "Yahoo"
     },
     "078130": {
-      "name": "국일제지",
+      "name": "에스엠국일",
       "price": 3395.0,
       "price_date": "2026-10-27",
       "price_source": "Yahoo"
@@ -9626,7 +9626,7 @@
       "price_source": "Yahoo"
     },
     "091340": {
-      "name": "S&K폴리텍",
+      "name": "S&K글로벌",
       "price": 2565.0,
       "price_date": "2026-10-27",
       "price_source": "Yahoo"
@@ -9837,7 +9837,7 @@
     },
     "094800": {
       "name": "맵스리얼티",
-      "price": 11537.96,
+      "price": 6710.0,
       "price_date": "2026-10-26",
       "price_source": "Yahoo"
     },
@@ -11360,7 +11360,7 @@
       "price_source": "Yahoo"
     },
     "134580": {
-      "name": "탑코미디어",
+      "name": "엔키AX",
       "price": 1690.0,
       "price_date": "2026-10-27",
       "price_source": "Yahoo"
@@ -13022,7 +13022,7 @@
       "price_source": "Yahoo"
     },
     "210120": {
-      "name": "캔버스엔",
+      "name": "빅텐츠",
       "price": 2345.0,
       "price_date": "2026-10-26",
       "price_source": "Yahoo"
@@ -14036,7 +14036,7 @@
       "price_source": "Yahoo"
     },
     "242040": {
-      "name": "나무에이엑스",
+      "name": "나무AX",
       "price": 2615.0,
       "price_date": "2026-10-27",
       "price_source": "Yahoo"
@@ -15290,7 +15290,7 @@
       "price_source": "Yahoo"
     },
     "282880": {
-      "name": "코윈테크",
+      "name": "코윈로보틱스",
       "price": 9600.0,
       "price_date": "2026-10-27",
       "price_source": "Yahoo"
@@ -17870,7 +17870,7 @@
       "price_source": "Yahoo"
     },
     "381970": {
-      "name": "케이카",
+      "name": "KG모빌리티플랫폼",
       "price": 5860.0,
       "price_date": "2026-10-27",
       "price_source": "Yahoo"
@@ -18248,7 +18248,7 @@
       "price_source": "Yahoo"
     },
     "396300": {
-      "name": "세아메카닉스",
+      "name": "HT로보틱스",
       "price": 9530.0,
       "price_date": "2026-10-27",
       "price_source": "Yahoo"
@@ -20102,7 +20102,7 @@
       "price_source": "Yahoo"
     },
     "457600": {
-      "name": "벡트",
+      "name": "벡트로보틱스",
       "price": 3760.0,
       "price_date": "2026-10-27",
       "price_source": "Yahoo"
@@ -22451,6 +22451,168 @@
       "name": "유안타제15호스팩",
       "price": 2105.0,
       "price_date": "2026-10-08",
+      "price_source": "Yahoo"
+    },
+    "0227L0": {
+      "name": "HANARO 미국에이전틱AI TOP2+",
+      "price": 9955.0,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "0236J0": {
+      "name": "마이티 미국피지컬AI액티브",
+      "price": 9885.0,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "0238C0": {
+      "name": "IBK 한미대표기업TOP2+채권혼합50액티브",
+      "price": 9470.0,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "0238F0": {
+      "name": "KODEX 미국AI메모리TOP2플러스",
+      "price": 8350.0,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "0238P0": {
+      "name": "TIGER 미국S&P500미국채혼합50",
+      "price": 9870.0,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "0239Y0": {
+      "name": "PLUS 코리아HBM반도체",
+      "price": 8225.0,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "0239Z0": {
+      "name": "PLUS AI반도체소부장액티브",
+      "price": 10135.0,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "0240J0": {
+      "name": "RISE 삼성SK그룹",
+      "price": 8635.0,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "0241D0": {
+      "name": "KODEX 미국AI에이전트액티브",
+      "price": 8915.0,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "0241R0": {
+      "name": "TIGER 현대차LG전자고정피지컬AI밸류체인",
+      "price": 8190.0,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "0242S0": {
+      "name": "파워 SK그룹",
+      "price": 8715.0,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "0243M0": {
+      "name": "DS AI반도체액티브",
+      "price": 7910.0,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "0246X0": {
+      "name": "SOL 글로벌DRAM반도체플러스",
+      "price": 7790.0,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "0247S0": {
+      "name": "KIWOOM 글로벌MLCC&AI기판TOP4+",
+      "price": 7315.0,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "0252V0": {
+      "name": "ACE 미국CPU반도체TOP3+",
+      "price": 9955.0,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "0254C0": {
+      "name": "KODEX 27-12 금융채(AA-이상)액티브",
+      "price": 100135.0,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "0254H0": {
+      "name": "RISE 반도체소부장액티브",
+      "price": 8180.0,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "0254S0": {
+      "name": "KODEX 미국배당다우존스액티브",
+      "price": 10175.0,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "0254W0": {
+      "name": "ACE 29-11 회사채(AA-이상)액티브",
+      "price": 10050.0,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "0255E0": {
+      "name": "TIGER 글로벌MLCC&기판",
+      "price": 9365.0,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "0256C0": {
+      "name": "1Q 엔비디아고정미국AI반도체",
+      "price": 10000.0,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "179880": {
+      "name": "멜콘",
+      "price": 15830.0,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "250030": {
+      "name": "진코스텍",
+      "price": 10300.0,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "266690": {
+      "name": "덕산넵코어스",
+      "price": 8700.0,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "386380": {
+      "name": "스카이랩스",
+      "price": 11010.0,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "468670": {
+      "name": "브릴스",
+      "price": 20450.0,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "486510": {
+      "name": "글로벌테크놀로지",
+      "price": 9000.0,
+      "price_date": "2026-10-27",
       "price_source": "Yahoo"
     }
   }
