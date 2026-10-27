@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T19:54:52.094392-04:00",
+  "updated_at": "2026-10-26T20:30:53.174265-04:00",
   "prices": {
     "AAA-P.V": {
       "name": "First Tidal Acquisition Corp.",
@@ -758,7 +758,7 @@
       "price_source": "Yahoo"
     },
     "AMX.V": {
-      "name": "Amex Gold Mining Inc.",
+      "name": "Amex Exploration Inc.",
       "price": 3.7,
       "price_date": "2026-10-26",
       "price_source": "Yahoo"
@@ -1712,7 +1712,7 @@
       "price_source": "Yahoo"
     },
     "BGD.V": {
-      "name": "Bullion Gold Discoveries Corp.",
+      "name": "Bullion Gold Resources Corp.",
       "price": 0.06,
       "price_date": "2026-10-26",
       "price_source": "Yahoo"
@@ -3358,7 +3358,7 @@
       "price_source": "Yahoo"
     },
     "CH.V": {
-      "name": "Charbone Corporation",
+      "name": "Charbone Hydrogen Corporation",
       "price": 0.13,
       "price_date": "2026-10-26",
       "price_source": "Yahoo"
@@ -3898,7 +3898,7 @@
       "price_source": "Yahoo"
     },
     "COIU.TO": {
-      "name": "SavvyLong (2X) COIN ETF",
+      "name": "LFG Daily (2X) COIN Long ETF",
       "price": 19.11,
       "price_date": "2026-10-23",
       "price_source": "Yahoo"
@@ -5260,7 +5260,7 @@
       "price_source": "Yahoo"
     },
     "DSV.TO": {
-      "name": "Discovery Mining Ltd.",
+      "name": "Discovery Silver Corp.",
       "price": 10.1,
       "price_date": "2026-10-26",
       "price_source": "Yahoo"
@@ -5500,7 +5500,7 @@
       "price_source": "Yahoo"
     },
     "E.TO": {
-      "name": "Evolution PowerX Corp.",
+      "name": "Enterprise Group, Inc.",
       "price": 1.67,
       "price_date": "2026-10-26",
       "price_source": "Yahoo"
@@ -6034,7 +6034,7 @@
       "price_source": "Yahoo"
     },
     "EQL.TO": {
-      "name": "CI Invesco S&P 500 Equal Weight Index ETF",
+      "name": "Invesco S&P 500 Equal Weight Index ETF",
       "price": 46.19,
       "price_date": "2026-10-26",
       "price_source": "Yahoo"
@@ -6046,7 +6046,7 @@
       "price_source": "Yahoo"
     },
     "EQLT.TO": {
-      "name": "CI S&P/TSX 60 Equal Weight Index ETF",
+      "name": "Invesco S&P/TSX 60 Equal Weight Index ETF",
       "price": 26.98,
       "price_date": "2026-10-26",
       "price_source": "Yahoo"
@@ -6106,7 +6106,7 @@
       "price_source": "Yahoo"
     },
     "ESG.TO": {
-      "name": "CI S&P 500 ESG Index ETF",
+      "name": "Invesco S&P 500 ESG Index ETF",
       "price": 56.59,
       "price_date": "2026-10-26",
       "price_source": "Yahoo"
@@ -6124,7 +6124,7 @@
       "price_source": "Yahoo"
     },
     "ESGC.TO": {
-      "name": "CI S&P/TSX Composite ESG Index ETF",
+      "name": "Invesco S&P/TSX Composite ESG Index ETF",
       "price": 41.61,
       "price_date": "2026-10-23",
       "price_source": "Yahoo"
@@ -7312,7 +7312,7 @@
       "price_source": "Yahoo"
     },
     "FVL.TO": {
-      "name": "Freegold Limited",
+      "name": "Freegold Ventures Limited",
       "price": 0.82,
       "price_date": "2026-10-26",
       "price_source": "Yahoo"
@@ -8908,7 +8908,7 @@
       "price_source": "Yahoo"
     },
     "HON.TO": {
-      "name": "Honeywell Technologies CDR (CAD Hedged)",
+      "name": "Honeywell CDR (CAD Hedged)",
       "price": 12.345,
       "price_date": "2026-10-26",
       "price_source": "Yahoo"
@@ -9286,7 +9286,7 @@
       "price_source": "Yahoo"
     },
     "ICAE.TO": {
-      "name": "CI S&P/TSX Canadian Dividend Aristocrats ESG Index ETF",
+      "name": "Invesco S&P/TSX Canadian Dividend Aristocrats ESG Index ETF",
       "price": 31.36,
       "price_date": "2026-10-23",
       "price_source": "Yahoo"
@@ -9448,7 +9448,7 @@
       "price_source": "Yahoo"
     },
     "IGET.TO": {
-      "name": "CI Morningstar Global Energy Transition Index ETF",
+      "name": "Invesco Morningstar Global Energy Transition Index ETF",
       "price": 21.39,
       "price_date": "2026-10-23",
       "price_source": "Yahoo"
@@ -9466,13 +9466,13 @@
       "price_source": "Yahoo"
     },
     "IIAE.TO": {
-      "name": "CI S&P International Developed Dividend Aristocrats ESG Index ETF",
+      "name": "Invesco S&P International Developed Dividend Aristocrats ESG Index ETF",
       "price": 31.32,
       "price_date": "2026-10-23",
       "price_source": "Yahoo"
     },
     "IICE.TO": {
-      "name": "CI S&P International Developed ESG Index ETF",
+      "name": "Invesco S&P International Developed ESG Index ETF",
       "price": 27.17,
       "price_date": "2026-10-26",
       "price_source": "Yahoo"
@@ -9484,7 +9484,7 @@
       "price_source": "Yahoo"
     },
     "IIMF.TO": {
-      "name": "CI Invesco International Developed Multifactor Index ETF",
+      "name": "Invesco International Developed Dynamic-Multifactor Index ETF",
       "price": 29.13,
       "price_date": "2026-10-23",
       "price_source": "Yahoo"
@@ -9574,7 +9574,7 @@
       "price_source": "Yahoo"
     },
     "INAI.TO": {
-      "name": "CI Morningstar Global Next Gen AI Index ETF",
+      "name": "Invesco Morningstar Global Next Gen AI Index ETF",
       "price": 49.72,
       "price_date": "2026-10-26",
       "price_source": "Yahoo"
@@ -9796,19 +9796,19 @@
       "price_source": "Yahoo"
     },
     "IUAE.TO": {
-      "name": "CI S&P US Dividend Aristocrats ESG Index ETF",
+      "name": "Invesco S&P US Dividend Aristocrats ESG Index ETF",
       "price": 28.44,
       "price_date": "2026-10-23",
       "price_source": "Yahoo"
     },
     "IUFR-U.TO": {
-      "name": "CI US Treasury Floating Rate Note Index ETF (USD)",
+      "name": "Invesco US Treasury Floating Rate Note Index ETF (USD)",
       "price": 20.25,
       "price_date": "2026-10-23",
       "price_source": "Yahoo"
     },
     "IUMF.TO": {
-      "name": "CI Invesco Russell 1000 Multifactor Index ETF",
+      "name": "Invesco Russell 1000 Dynamic-Multifactor Index ETF",
       "price": 30.18,
       "price_date": "2026-10-23",
       "price_source": "Yahoo"
@@ -11448,7 +11448,7 @@
       "price_source": "Yahoo"
     },
     "MFA-P.V": {
-      "name": "Mayfair Acquisition Corp.",
+      "name": "Mayfair Acquisition Corporation",
       "price": 0.05,
       "price_date": "2026-10-23",
       "price_source": "Yahoo"
@@ -11658,7 +11658,7 @@
       "price_source": "Yahoo"
     },
     "MIVO.V": {
-      "name": "Miivo AI Inc",
+      "name": "Miivo Holdings Corp.",
       "price": 0.4,
       "price_date": "2026-10-26",
       "price_source": "Yahoo"
@@ -12096,7 +12096,7 @@
       "price_source": "Yahoo"
     },
     "MSTU.TO": {
-      "name": "SavvyLong (2X) MSTR ETF",
+      "name": "LFG Daily (2X) MSTR Long ETF",
       "price": 30.95,
       "price_date": "2026-10-26",
       "price_source": "Yahoo"
@@ -13248,7 +13248,7 @@
       "price_source": "Yahoo"
     },
     "NVRO.V": {
-      "name": "NVRO Metals Limited",
+      "name": "EnviroGold Global Limited",
       "price": 0.12,
       "price_date": "2026-10-26",
       "price_source": "Yahoo"
@@ -13788,7 +13788,7 @@
       "price_source": "Yahoo"
     },
     "PDC.TO": {
-      "name": "CI Canadian Dividend Index ETF",
+      "name": "Invesco Canadian Dividend Index ETF",
       "price": 49.68,
       "price_date": "2026-10-23",
       "price_source": "Yahoo"
@@ -13920,7 +13920,7 @@
       "price_source": "Yahoo"
     },
     "PFL.TO": {
-      "name": "CI Canadian Government Floating Rate Index ETF",
+      "name": "Invesco Canadian Government Floating Rate Index ETF",
       "price": 19.5,
       "price_date": "2026-10-26",
       "price_source": "Yahoo"
@@ -14298,7 +14298,7 @@
       "price_source": "Yahoo"
     },
     "QQC.TO": {
-      "name": "CI Invesco NASDAQ 100 Index ETF",
+      "name": "Invesco NASDAQ 100 Index ETF",
       "price": 48.76,
       "price_date": "2026-10-26",
       "price_source": "Yahoo"
@@ -14310,7 +14310,7 @@
       "price_source": "Yahoo"
     },
     "QQJR.TO": {
-      "name": "CI Invesco NASDAQ Next Gen 100 Index ETF",
+      "name": "Invesco NASDAQ Next Gen 100 Index ETF",
       "price": 31.89,
       "price_date": "2026-10-26",
       "price_source": "Yahoo"
@@ -17150,7 +17150,7 @@
       "price_source": "Yahoo"
     },
     "TKO.TO": {
-      "name": "Trekor Metals Limited",
+      "name": "Taseko Mines Limited",
       "price": 10.71,
       "price_date": "2026-10-26",
       "price_source": "Yahoo"
@@ -17198,7 +17198,7 @@
       "price_source": "Yahoo"
     },
     "TLV.TO": {
-      "name": "CI S&P/TSX Composite Low Volatility Index ETF",
+      "name": "Invesco S&P/TSX Composite Low Volatility Index ETF",
       "price": 43.79,
       "price_date": "2026-10-23",
       "price_source": "Yahoo"
@@ -17840,7 +17840,7 @@
       "price_source": "Yahoo"
     },
     "ULV-C.TO": {
-      "name": "CI Invesco S&P 500 Low Volatility Index ETF",
+      "name": "Invesco S&P 500 Low Volatility Index ETF",
       "price": 38.58,
       "price_date": "2026-10-26",
       "price_source": "Yahoo"
@@ -18524,13 +18524,13 @@
       "price_source": "Yahoo"
     },
     "VUN.TO": {
-      "name": "Vanguard Morningstar U.S. Total Market Index ETF",
+      "name": "Vanguard U.S. Total Market Index ETF",
       "price": 143.08,
       "price_date": "2026-10-26",
       "price_source": "Yahoo"
     },
     "VUS.TO": {
-      "name": "Vanguard Morningstar U.S. Total Market Index ETF (CAD-hedged)",
+      "name": "Vanguard U.S. Total Market Index ETF (CAD-hedged)",
       "price": 128.35,
       "price_date": "2026-10-26",
       "price_source": "Yahoo"
@@ -18884,7 +18884,7 @@
       "price_source": "Yahoo"
     },
     "WPR.V": {
-      "name": "CANPR Technology LTD.",
+      "name": "CANPR Technology  LTD.",
       "price": 0.04,
       "price_date": "2026-10-23",
       "price_source": "Yahoo"
@@ -19632,7 +19632,7 @@
       "price_source": "Yahoo"
     },
     "XSMB.TO": {
-      "name": "iShares Core Canadian 1-10 Year Bond Index ETF",
+      "name": "iShares Core Canadian Short-Mid Term Universe Bond Index ETF",
       "price": 39.32,
       "price_date": "2026-10-26",
       "price_source": "Yahoo"
@@ -20958,7 +20958,7 @@
       "price_source": "Yahoo"
     },
     "PSB.TO": {
-      "name": "CI 1-5 Year Laddered Investment Grade Corporate Bond Index ETF",
+      "name": "Invesco 1-5 Year Laddered Investment Grade Corporate Bond Index ETF",
       "price": 17.85,
       "price_date": "2026-10-26",
       "price_source": "Yahoo"
@@ -21078,7 +21078,7 @@
       "price_source": "Yahoo"
     },
     "PXC.TO": {
-      "name": "CI RAFI Canadian Index ETF",
+      "name": "Invesco RAFI Canadian Index ETF",
       "price": 65.68,
       "price_date": "2026-10-26",
       "price_source": "Yahoo"
@@ -21090,7 +21090,7 @@
       "price_source": "Yahoo"
     },
     "PXU-F.TO": {
-      "name": "CI Invesco RAFI U.S. Index ETF",
+      "name": "Invesco RAFI U.S. Index ETF",
       "price": 84.31,
       "price_date": "2026-10-23",
       "price_source": "Yahoo"
@@ -21198,7 +21198,7 @@
       "price_source": "Yahoo"
     },
     "QQCE.TO": {
-      "name": "CI ESG NASDAQ 100 Index ETF",
+      "name": "Invesco ESG NASDAQ 100 Index ETF",
       "price": 42.14,
       "price_date": "2026-10-26",
       "price_source": "Yahoo"
@@ -21436,7 +21436,7 @@
       "price_source": "Yahoo"
     },
     "WOLF.V": {
-      "name": "Grey Wolf Health Corp.",
+      "name": "Grey Wolf Animal Health Corp.",
       "price": 1.65,
       "price_date": "2026-10-23",
       "price_source": "Yahoo"
@@ -21616,7 +21616,7 @@
       "price_source": "Yahoo"
     },
     "PXS.TO": {
-      "name": "CI Invesco RAFI U.S. Index ETF II",
+      "name": "Invesco RAFI U.S. Index ETF II",
       "price": 68.41,
       "price_date": "2026-10-26",
       "price_source": "Yahoo"
@@ -21634,7 +21634,7 @@
       "price_source": "Yahoo"
     },
     "PZW.TO": {
-      "name": "CI Invesco RAFI Global Small-Mid ETF",
+      "name": "Invesco RAFI Global Small-Mid ETF",
       "price": 47.13,
       "price_date": "2026-10-26",
       "price_source": "Yahoo"
@@ -21676,7 +21676,7 @@
       "price_source": "Yahoo"
     },
     "QQEQ.TO": {
-      "name": "CI NASDAQ 100 Equal Weight Index ETF",
+      "name": "Invesco NASDAQ 100 Equal Weight Index ETF",
       "price": 35.94,
       "price_date": "2026-10-26",
       "price_source": "Yahoo"
