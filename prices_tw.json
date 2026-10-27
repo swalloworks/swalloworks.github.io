@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T13:59:02.762194+08:00",
+  "updated_at": "2026-10-27T20:07:09.830461+08:00",
   "prices": {
     "00400A.TW": {
       "name": "主動國泰動能高息",
@@ -92,7 +92,7 @@
       "price_source": "Yahoo"
     },
     "0053.TW": {
-      "name": "元大電子",
+      "name": "元大科技市值",
       "price": 237.4,
       "price_date": "2026-10-27",
       "price_source": "Yahoo"
@@ -3248,7 +3248,7 @@
       "price_source": "Yahoo"
     },
     "1721.TW": {
-      "name": "三晃",
+      "name": "國慶科技",
       "price": 23.05,
       "price_date": "2026-10-27",
       "price_source": "Yahoo"
@@ -3752,7 +3752,7 @@
       "price_source": "Yahoo"
     },
     "2072.TW": {
-      "name": "世紀風電",
+      "name": "世紀能源",
       "price": 121.5,
       "price_date": "2026-10-27",
       "price_source": "Yahoo"
@@ -13340,7 +13340,7 @@
       "price_source": "Yahoo"
     },
     "8472.TWO": {
-      "name": "夠麻吉",
+      "name": "納維康",
       "price": 66.8,
       "price_date": "2026-10-27",
       "price_source": "Yahoo"
@@ -13811,6 +13811,90 @@
       "name": "精星",
       "price": 28.2,
       "price_date": "2026-10-05",
+      "price_source": "Yahoo"
+    },
+    "00412A.TW": {
+      "name": "主動安聯亞半導體",
+      "price": 8.75,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "00415A.TW": {
+      "name": "主動群益核心50",
+      "price": 9.14,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "00992B.TWO": {
+      "name": "街口優息非投債",
+      "price": 9.89,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "2249.TWO": {
+      "name": "湧盛",
+      "price": 66.1,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "2938.TWO": {
+      "name": "床的世界",
+      "price": 17.95,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "6467.TW": {
+      "name": "泰合",
+      "price": 203.5,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "6604.TWO": {
+      "name": "儒億",
+      "price": 24.1,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "6898.TWO": {
+      "name": "程曦資訊",
+      "price": 67.2,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "6938.TWO": {
+      "name": "藍新資訊",
+      "price": 79.9,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "7710.TW": {
+      "name": "東擎科技",
+      "price": 128.5,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "7806.TWO": {
+      "name": "精華生醫",
+      "price": 54.5,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "7825.TWO": {
+      "name": "和亞智慧",
+      "price": 65.9,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "7856.TWO": {
+      "name": "漢測",
+      "price": 3335.0,
+      "price_date": "2026-10-27",
+      "price_source": "Yahoo"
+    },
+    "8908.TW": {
+      "name": "欣雄",
+      "price": 40.4,
+      "price_date": "2026-10-27",
       "price_source": "Yahoo"
     }
   }
