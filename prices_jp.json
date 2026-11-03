@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T18:11:30.056734+09:00",
+  "updated_at": "2026-11-03T16:01:49.182542+09:00",
   "prices": {
     "1301.T": {
       "name": "極洋",
@@ -46,13 +46,13 @@
     "1319.T": {
       "name": "ＮＥＸＴ　ＦＵＮＤＳ　日経３００株価指数連動型上場投信",
       "price": 800.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "131A.T": {
       "name": "ＣＣＮグループ",
       "price": 1737.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "1320.T": {
@@ -100,7 +100,7 @@
     "132A.T": {
       "name": "アイエヌホールディングス",
       "price": 220.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "1330.T": {
@@ -154,13 +154,13 @@
     "1349.T": {
       "name": "ＡＢＦ汎アジア債券インデックス・ファンド",
       "price": 17425.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "134A.T": {
       "name": "アプライズ",
       "price": 1500.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "1356.T": {
@@ -316,7 +316,7 @@
     "139A.T": {
       "name": "東日本地所",
       "price": 3350.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "1401.T": {
@@ -424,7 +424,7 @@
     "1438.T": {
       "name": "岐阜造園",
       "price": 1967.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "143A.T": {
@@ -460,7 +460,7 @@
     "144A.T": {
       "name": "エネルギーパワー",
       "price": 450.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "1450.T": {
@@ -562,7 +562,7 @@
     "1479.T": {
       "name": "ｉＦｒｅｅＥＴＦ　ＭＳＣＩ日本株人材設備投資指数",
       "price": 50600.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "147A.T": {
@@ -574,7 +574,7 @@
     "1480.T": {
       "name": "ＮＥＸＴ　ＦＵＮＤＳ　野村企業価値分配指数連動型上場投信",
       "price": 38850.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "1481.T": {
@@ -604,7 +604,7 @@
     "1485.T": {
       "name": "ＭＡＸＩＳ　ＪＡＰＡＮ　設備・人材積極投資企業２００上場投信",
       "price": 54000.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "1486.T": {
@@ -640,7 +640,7 @@
     "1490.T": {
       "name": "上場インデックスファンドＭＳＣＩ日本株高配当低ボラティリティ（βヘッジ）",
       "price": 7965.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "1491.T": {
@@ -730,7 +730,7 @@
     "152A.T": {
       "name": "オプティ",
       "price": 1186.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "153A.T": {
@@ -784,7 +784,7 @@
     "154A.T": {
       "name": "ＧＡＩＡ",
       "price": 6610.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "1550.T": {
@@ -796,7 +796,7 @@
     "1551.T": {
       "name": "東証スタンダードＴＯＰ２０ＥＴＦ",
       "price": 6536.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "1554.T": {
@@ -922,7 +922,7 @@
     "1585.T": {
       "name": "ｉＦｒｅｅＥＴＦ　ＴＯＰＩＸ　Ｅｘ－Ｆｉｎａｎｃｉａｌｓ",
       "price": 2637.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "1586.T": {
@@ -934,7 +934,7 @@
     "158A.T": {
       "name": "エクセリ",
       "price": 2227.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "1591.T": {
@@ -1024,7 +1024,7 @@
     "161A.T": {
       "name": "三葉",
       "price": 1125.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "1620.T": {
@@ -1126,7 +1126,7 @@
     "164A.T": {
       "name": "アップルパーク",
       "price": 1980.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "1651.T": {
@@ -1138,13 +1138,13 @@
     "1652.T": {
       "name": "ｉＦｒｅｅＥＴＦ　ＭＳＣＩ日本株女性活躍指数（ＷＩＮ）",
       "price": 4941.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "1653.T": {
       "name": "ｉＦｒｅｅＥＴＦ　ＭＳＣＩジャパンＥＳＧセレクト・リーダーズ指数",
       "price": 5046.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "1654.T": {
@@ -1258,7 +1258,7 @@
     "1679.T": {
       "name": "Ｓｉｍｐｌｅ－Ｘ　ＮＹ　ダウ・ジョーンズ・インデックス上場投信",
       "price": 66550.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "167A.T": {
@@ -1318,7 +1318,7 @@
     "168A.T": {
       "name": "イタミアート",
       "price": 1036.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "1690.T": {
@@ -1420,7 +1420,7 @@
     "171A.T": {
       "name": "ゼロジャパン",
       "price": 2167.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "1720.T": {
@@ -1450,7 +1450,7 @@
     "172A.T": {
       "name": "ネオホーム",
       "price": 2234.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "1736.T": {
@@ -1768,7 +1768,7 @@
     "185A.T": {
       "name": "リサイクルテック・ジャパン",
       "price": 886.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "1860.T": {
@@ -2182,7 +2182,7 @@
     "199A.T": {
       "name": "メディエア",
       "price": 1350.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "2001.T": {
@@ -2332,7 +2332,7 @@
     "203A.T": {
       "name": "シュンビン",
       "price": 160.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "2040.T": {
@@ -2386,7 +2386,7 @@
     "204A.T": {
       "name": "タイヨーパッケージ",
       "price": 1250.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "2050.T": {
@@ -2434,31 +2434,31 @@
     "2070.T": {
       "name": "スマートＥＳＧ３０女性活躍（ネットリターン）ＥＴＮ",
       "price": 17560.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "2071.T": {
       "name": "スマートＥＳＧ３０総合（ネットリターン）ＥＴＮ",
       "price": 20540.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "2072.T": {
       "name": "トップシェアインデックス（ネットリターン）ＥＴＮ",
       "price": 21670.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "2073.T": {
       "name": "スマートＥＳＧ３０低カーボンリスク（ネットリターン）ＥＴＮ",
       "price": 16955.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "207A.T": {
       "name": "ライジングコーポレーション",
       "price": 1400.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "2080.T": {
@@ -2511,8 +2511,8 @@
     },
     "2088.T": {
       "name": "ＮＺＡＭ　上場投信　ＮＹダウ３０（為替ヘッジあり）",
-      "price": 2596.0,
-      "price_date": "2026-10-30",
+      "price": 2606.0,
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "2089.T": {
@@ -2584,7 +2584,7 @@
     "209A.T": {
       "name": "小野谷機工",
       "price": 780.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "2108.T": {
@@ -2716,7 +2716,7 @@
     "2152.T": {
       "name": "幼児活動研究会",
       "price": 1500.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "2153.T": {
@@ -2788,7 +2788,7 @@
     "216A.T": {
       "name": "ライフクリエイト",
       "price": 1250.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "2170.T": {
@@ -2818,7 +2818,7 @@
     "217A.T": {
       "name": "サポート",
       "price": 382.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "2181.T": {
@@ -2992,7 +2992,7 @@
     "222A.T": {
       "name": "ＮＩＣＳ",
       "price": 60.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "2235.T": {
@@ -3064,7 +3064,7 @@
     "2245.T": {
       "name": "ＮＥＸＴ　ＦＵＮＤＳ　ブルームバーグ・ドイツ国債（７－１０年）インデックス（為替ヘッジあり）連動型上場投信",
       "price": 693.4,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "2247.T": {
@@ -3184,7 +3184,7 @@
     "226A.T": {
       "name": "勝美ジャパン",
       "price": 600.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "2270.T": {
@@ -3196,7 +3196,7 @@
     "227A.T": {
       "name": "ＩＮＳＩＧＨＴ　ＬＡＢ",
       "price": 1230.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "2281.T": {
@@ -3262,7 +3262,7 @@
     "229A.T": {
       "name": "アスミホールディングス",
       "price": 760.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "2300.T": {
@@ -3568,7 +3568,7 @@
     "239A.T": {
       "name": "バレッグス",
       "price": 450.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "2404.T": {
@@ -3682,7 +3682,7 @@
     "243A.T": {
       "name": "トップス",
       "price": 1122.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "2440.T": {
@@ -3874,7 +3874,7 @@
     "249A.T": {
       "name": "ヒューマンアジャスト",
       "price": 340.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "2501.T": {
@@ -3964,7 +3964,7 @@
     "251A.T": {
       "name": "ニューロマジック",
       "price": 256.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "2520.T": {
@@ -3988,7 +3988,7 @@
     "2523.T": {
       "name": "ＭＡＸＩＳトピックス（除く金融）上場投信",
       "price": 3199.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "2524.T": {
@@ -4030,7 +4030,7 @@
     "252A.T": {
       "name": "ウェッジ",
       "price": 2566.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "2530.T": {
@@ -4414,7 +4414,7 @@
     "263A.T": {
       "name": "デジタルキューブ",
       "price": 800.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "2640.T": {
@@ -4467,8 +4467,8 @@
     },
     "2649.T": {
       "name": "ｉシェアーズ　米国政府系機関ジニーメイＭＢＳ　ＥＴＦ（為替ヘッジあり）",
-      "price": 561.8,
-      "price_date": "2026-10-30",
+      "price": 569.6,
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "264A.T": {
@@ -4546,7 +4546,7 @@
     "266A.T": {
       "name": "グローカルマーケティング",
       "price": 1350.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "2670.T": {
@@ -4582,7 +4582,7 @@
     "267A.T": {
       "name": "トワライズ",
       "price": 1709.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "2681.T": {
@@ -4678,7 +4678,7 @@
     "271A.T": {
       "name": "アクセリア",
       "price": 1500.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "2721.T": {
@@ -4906,7 +4906,7 @@
     "2795.T": {
       "name": "日本プリメックス",
       "price": 980.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "2796.T": {
@@ -4924,7 +4924,7 @@
     "279A.T": {
       "name": "インターグ",
       "price": 1550.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "2801.T": {
@@ -5056,7 +5056,7 @@
     "2838.T": {
       "name": "ＭＡＸＩＳ米国国債７－１０年上場投信（為替ヘッジなし）",
       "price": 8541.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "2839.T": {
@@ -5134,7 +5134,7 @@
     "284A.T": {
       "name": "フクヤ建設",
       "price": 2335.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "2851.T": {
@@ -5152,7 +5152,7 @@
     "2853.T": {
       "name": "ｉシェアーズ　気候リスク調整世界国債　ＥＴＦ（除く日本・為替ヘッジあり）",
       "price": 596.5,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "2854.T": {
@@ -5356,7 +5356,7 @@
     "2903.T": {
       "name": "シノブフーズ",
       "price": 1501.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "2904.T": {
@@ -5409,8 +5409,8 @@
     },
     "2916.T": {
       "name": "仙波糖化工業",
-      "price": 722.0,
-      "price_date": "2026-10-30",
+      "price": 727.0,
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "2917.T": {
@@ -5470,7 +5470,7 @@
     "292A.T": {
       "name": "エスアイイー",
       "price": 680.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "2930.T": {
@@ -5530,7 +5530,7 @@
     "293A.T": {
       "name": "ＢＡＢＹ　ＪＯＢ",
       "price": 950.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "294A.T": {
@@ -5656,7 +5656,7 @@
     "2990.T": {
       "name": "アイダ設計",
       "price": 262.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "2991.T": {
@@ -5740,7 +5740,7 @@
     "301A.T": {
       "name": "インデックス",
       "price": 550.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "3020.T": {
@@ -5775,8 +5775,8 @@
     },
     "302A.T": {
       "name": "ビースタイルホールディングス",
-      "price": 579.0,
-      "price_date": "2026-10-30",
+      "price": 587.0,
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "3030.T": {
@@ -5896,7 +5896,7 @@
     "305A.T": {
       "name": "ダブルツリー",
       "price": 1146.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "3063.T": {
@@ -5968,7 +5968,7 @@
     "307A.T": {
       "name": "ハウジング・スタッフ",
       "price": 800.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "3080.T": {
@@ -6016,7 +6016,7 @@
     "308A.T": {
       "name": "ぽすとめいとホールディングス",
       "price": 1310.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "3091.T": {
@@ -6058,7 +6058,7 @@
     "309A.T": {
       "name": "コスモス調剤",
       "price": 700.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "3101.T": {
@@ -6106,7 +6106,7 @@
     "310A.T": {
       "name": "サーティーフォー",
       "price": 1440.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "3110.T": {
@@ -6148,7 +6148,7 @@
     "312A.T": {
       "name": "シンコーホールディングス",
       "price": 1542.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "3131.T": {
@@ -6370,7 +6370,7 @@
     "317A.T": {
       "name": "エス・エム・エス・データテック",
       "price": 1350.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "3180.T": {
@@ -6514,13 +6514,13 @@
     "320A.T": {
       "name": "Ｄ＆Ｉ",
       "price": 500.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "321A.T": {
       "name": "ヒューマンステージホールディングス",
       "price": 785.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "3221.T": {
@@ -6556,7 +6556,7 @@
     "322A.T": {
       "name": "ヒメジ理化",
       "price": 765.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "3231.T": {
@@ -6682,7 +6682,7 @@
     "326A.T": {
       "name": "ａｅｒｏ　ｌａｂ　ｉｎｔｅｒｎａｔｉｏｎａｌ",
       "price": 1620.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "3276.T": {
@@ -6814,7 +6814,7 @@
     "329A.T": {
       "name": "ジールアソシエイツ",
       "price": 211.6,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "3300.T": {
@@ -6910,7 +6910,7 @@
     "333A.T": {
       "name": "テクノスマイル",
       "price": 6240.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "3349.T": {
@@ -7227,8 +7227,8 @@
     },
     "3437.T": {
       "name": "特殊電極",
-      "price": 2550.0,
-      "price_date": "2026-10-30",
+      "price": 2554.0,
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "3439.T": {
@@ -7438,7 +7438,7 @@
     "347A.T": {
       "name": "ＧＲＯＷＴＨ　ＰＯＷＥＲ",
       "price": 530.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "3481.T": {
@@ -7564,7 +7564,7 @@
     "351A.T": {
       "name": "アクシスＩＴパートナーズ",
       "price": 1760.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "3521.T": {
@@ -7702,7 +7702,7 @@
     "355A.T": {
       "name": "ナウビレッジ",
       "price": 350.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "3560.T": {
@@ -7768,7 +7768,7 @@
     "357A.T": {
       "name": "エフアンドエフ",
       "price": 6240.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "3580.T": {
@@ -7786,7 +7786,7 @@
     "358A.T": {
       "name": "ゼン・ランド",
       "price": 310.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "3591.T": {
@@ -7810,13 +7810,13 @@
     "359A.T": {
       "name": "ＮＥＸＴ　ＳＴＡＧＥ",
       "price": 1600.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "3600.T": {
       "name": "フジックス",
       "price": 1780.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "3607.T": {
@@ -7852,7 +7852,7 @@
     "361A.T": {
       "name": "リビングハウス",
       "price": 1588.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "3622.T": {
@@ -7900,7 +7900,7 @@
     "362A.T": {
       "name": "エクシオホールディングス",
       "price": 495.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "3632.T": {
@@ -8236,7 +8236,7 @@
     "370A.T": {
       "name": "リバイブル",
       "price": 1296.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "3710.T": {
@@ -8260,7 +8260,7 @@
     "371A.T": {
       "name": "デージーネット",
       "price": 420.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "3723.T": {
@@ -8320,7 +8320,7 @@
     "374A.T": {
       "name": "樋口総合研究所",
       "price": 240.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "3750.T": {
@@ -8344,7 +8344,7 @@
     "375A.T": {
       "name": "ＹＡＫホールディングス",
       "price": 2125.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "3760.T": {
@@ -8392,7 +8392,7 @@
     "376A.T": {
       "name": "ＮＥＸＴ　ＦＵＮＤＳ　ブルームバーグ米国国債（７－１０年）インデックス（７５％為替ヘッジあり）連動型上場投信",
       "price": 4788.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "3771.T": {
@@ -8692,7 +8692,7 @@
     "385A.T": {
       "name": "山本通産",
       "price": 2450.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "3861.T": {
@@ -8776,7 +8776,7 @@
     "389A.T": {
       "name": "八光オートメーション",
       "price": 2380.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "3900.T": {
@@ -8998,7 +8998,7 @@
     "393A.T": {
       "name": "ＲｉｔａＸ",
       "price": 2000.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "3940.T": {
@@ -9220,7 +9220,7 @@
     "398A.T": {
       "name": "リアルクオリティ",
       "price": 1350.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "3991.T": {
@@ -9406,7 +9406,7 @@
     "403A.T": {
       "name": "北條組",
       "price": 2415.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "4040.T": {
@@ -9520,7 +9520,7 @@
     "405A.T": {
       "name": "コヤマ・ミライエ",
       "price": 3500.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "4060.T": {
@@ -9568,7 +9568,7 @@
     "406A.T": {
       "name": "環境のミカタホールディングス",
       "price": 5450.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "4071.T": {
@@ -9760,7 +9760,7 @@
     "411A.T": {
       "name": "日本マリタイムバンク",
       "price": 370.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "4120.T": {
@@ -9988,7 +9988,7 @@
     "419A.T": {
       "name": "ラングローブ",
       "price": 2700.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "4202.T": {
@@ -10090,7 +10090,7 @@
     "422A.T": {
       "name": "ｔａｎｅ　ＣＲＥＡＴＩＶＥ",
       "price": 2450.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "4231.T": {
@@ -10366,7 +10366,7 @@
     "430A.T": {
       "name": "ネクストハンズ",
       "price": 2480.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "4310.T": {
@@ -10420,7 +10420,7 @@
     "432A.T": {
       "name": "クリニファー",
       "price": 1450.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "4331.T": {
@@ -10450,7 +10450,7 @@
     "433A.T": {
       "name": "ＭＪＥ",
       "price": 710.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "4341.T": {
@@ -10492,7 +10492,7 @@
     "434A.T": {
       "name": "ＬＯＯＰＬＡＣＥ",
       "price": 930.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "4350.T": {
@@ -10510,7 +10510,7 @@
     "4356.T": {
       "name": "応用技術",
       "price": 1595.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "435A.T": {
@@ -10630,7 +10630,7 @@
     "437A.T": {
       "name": "ジェイウェイブ",
       "price": 1024.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "4380.T": {
@@ -10744,7 +10744,7 @@
     "439A.T": {
       "name": "アクトビ",
       "price": 5000.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "4401.T": {
@@ -10870,7 +10870,7 @@
     "4426.T": {
       "name": "パスロジ",
       "price": 163.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "4427.T": {
@@ -11014,7 +11014,7 @@
     "444A.T": {
       "name": "アイテル",
       "price": 1945.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "4450.T": {
@@ -11032,7 +11032,7 @@
     "445A.T": {
       "name": "東洋コーポレーション",
       "price": 274.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "4461.T": {
@@ -11422,7 +11422,7 @@
     "455A.T": {
       "name": "バリューソフトホールディングス",
       "price": 5970.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "4563.T": {
@@ -11518,7 +11518,7 @@
     "457A.T": {
       "name": "ルリアン",
       "price": 4130.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "4582.T": {
@@ -11560,7 +11560,7 @@
     "458A.T": {
       "name": "プラン・ドゥ",
       "price": 1387.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "4591.T": {
@@ -12004,7 +12004,7 @@
     "470A.T": {
       "name": "ローカル",
       "price": 501.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "4712.T": {
@@ -12328,7 +12328,7 @@
     "481A.T": {
       "name": "ＪＳｅｃｕｒｉｔｙ",
       "price": 750.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "4820.T": {
@@ -12424,7 +12424,7 @@
     "484A.T": {
       "name": "ニューズドテック",
       "price": 430.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "485A.T": {
@@ -12574,7 +12574,7 @@
     "490A.T": {
       "name": "センス・トラスト",
       "price": 15750.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "4911.T": {
@@ -12663,8 +12663,8 @@
     },
     "492A.T": {
       "name": "Ｏｎｅ　ＥＴＦ　日本国債　高クーポン（平均残存１０年未満）",
-      "price": 970.9,
-      "price_date": "2026-10-30",
+      "price": 975.3,
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "4931.T": {
@@ -12712,13 +12712,13 @@
     "493A.T": {
       "name": "Ｏｎｅ　ＥＴＦ　日本国債　１－３年",
       "price": 997.7,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "494A.T": {
       "name": "Ｏｎｅ　ＥＴＦ　日本国債　３－７年",
       "price": 989.4,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "4951.T": {
@@ -12741,8 +12741,8 @@
     },
     "495A.T": {
       "name": "Ｏｎｅ　ＥＴＦ　日本国債　７－１０年",
-      "price": 974.5,
-      "price_date": "2026-10-30",
+      "price": 977.3,
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "4960.T": {
@@ -12946,7 +12946,7 @@
     "501A.T": {
       "name": "プレシャスパートナーズ",
       "price": 1750.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "5020.T": {
@@ -13042,7 +13042,7 @@
     "503A.T": {
       "name": "ベルチャイルド",
       "price": 2290.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "504A.T": {
@@ -13060,7 +13060,7 @@
     "506A.T": {
       "name": "シンカナース",
       "price": 1010.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "5071.T": {
@@ -13090,7 +13090,7 @@
     "5078.T": {
       "name": "セレコーポレーション",
       "price": 4495.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "5079.T": {
@@ -13102,7 +13102,7 @@
     "507A.T": {
       "name": "デジタル・ナレッジ",
       "price": 2156.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "509A.T": {
@@ -13132,7 +13132,7 @@
     "510A.T": {
       "name": "ハートアップ",
       "price": 1712.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "5110.T": {
@@ -13144,7 +13144,7 @@
     "511A.T": {
       "name": "ヴァンガードスミス",
       "price": 11710.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "5121.T": {
@@ -13246,7 +13246,7 @@
     "514A.T": {
       "name": "孫の手",
       "price": 469.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "515A.T": {
@@ -13270,7 +13270,7 @@
     "516A.T": {
       "name": "ｉＦｒｅｅＥＴＦ　米ドル・ブル（１倍）",
       "price": 2058.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "517A.T": {
@@ -13402,7 +13402,7 @@
     "522A.T": {
       "name": "ＣＯＥＬ",
       "price": 2970.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "5232.T": {
@@ -13474,13 +13474,13 @@
     "5249.T": {
       "name": "あさかわシステムズ",
       "price": 1253.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "524A.T": {
       "name": "田村ビルズグループ",
       "price": 1988.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "5250.T": {
@@ -13534,7 +13534,7 @@
     "525A.T": {
       "name": "ｍａｎｅｂｉ",
       "price": 1663.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "5261.T": {
@@ -13588,7 +13588,7 @@
     "527A.T": {
       "name": "ＮＯＳＥ　ＳＨＯＰ",
       "price": 1673.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "5280.T": {
@@ -13606,7 +13606,7 @@
     "5283.T": {
       "name": "高見澤",
       "price": 3090.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "5284.T": {
@@ -13636,7 +13636,7 @@
     "528A.T": {
       "name": "フリースタイル",
       "price": 1080.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "5290.T": {
@@ -14038,7 +14038,7 @@
     "551A.T": {
       "name": "ＩＺＵＭＩグループ",
       "price": 811.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "5527.T": {
@@ -14098,7 +14098,7 @@
     "555A.T": {
       "name": "北王ＧＲＯＵＰ",
       "price": 2000.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "5563.T": {
@@ -14122,7 +14122,7 @@
     "5571.T": {
       "name": "エキサイトホールディングス",
       "price": 1020.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "5572.T": {
@@ -14158,7 +14158,7 @@
     "557A.T": {
       "name": "フェリエスト",
       "price": 2150.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "5580.T": {
@@ -14170,7 +14170,7 @@
     "5581.T": {
       "name": "カイテクノロジー",
       "price": 193.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "5582.T": {
@@ -14236,7 +14236,7 @@
     "5598.T": {
       "name": "Ｙｏｔｔａｖｉａｓ",
       "price": 3200.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "5599.T": {
@@ -14272,7 +14272,7 @@
     "560A.T": {
       "name": "オカダコーポレーション",
       "price": 1123.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "5612.T": {
@@ -14302,7 +14302,7 @@
     "561A.T": {
       "name": "マークスライフ",
       "price": 5000.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "5621.T": {
@@ -14314,7 +14314,7 @@
     "562A.T": {
       "name": "寶結",
       "price": 1000.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "5631.T": {
@@ -14362,7 +14362,7 @@
     "565A.T": {
       "name": "ＦＦＦホールディングス",
       "price": 961.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "566A.T": {
@@ -14374,7 +14374,7 @@
     "567A.T": {
       "name": "ディープラス",
       "price": 3000.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "568A.T": {
@@ -14385,8 +14385,8 @@
     },
     "5695.T": {
       "name": "パウダーテック",
-      "price": 2550.0,
-      "price_date": "2026-10-30",
+      "price": 2505.0,
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "5697.T": {
@@ -14505,8 +14505,8 @@
     },
     "572A.T": {
       "name": "ｉシェアーズ　日本国債３－７年　ＥＴＦ",
-      "price": 497.6,
-      "price_date": "2026-10-30",
+      "price": 499.3,
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "573A.T": {
@@ -14530,7 +14530,7 @@
     "574A.T": {
       "name": "ＬＡＳＳＩＣ",
       "price": 887.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "5753.T": {
@@ -14674,13 +14674,13 @@
     "583A.T": {
       "name": "不動産流通システム",
       "price": 2000.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "5840.T": {
       "name": "日本総険",
       "price": 505.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "5842.T": {
@@ -14746,7 +14746,7 @@
     "5866.T": {
       "name": "ＷｉｚＢｉｚ",
       "price": 300.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "5867.T": {
@@ -14902,7 +14902,7 @@
     "591A.T": {
       "name": "西條",
       "price": 255.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "5921.T": {
@@ -15028,7 +15028,7 @@
     "594A.T": {
       "name": "ＰＲＯ　ＨＯＬＤＩＮＧＳ",
       "price": 430.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "5950.T": {
@@ -15070,7 +15070,7 @@
     "5958.T": {
       "name": "三洋工業",
       "price": 4360.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "5959.T": {
@@ -15082,7 +15082,7 @@
     "595A.T": {
       "name": "不二興産",
       "price": 452.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "5962.T": {
@@ -15112,7 +15112,7 @@
     "5969.T": {
       "name": "ロブテックス",
       "price": 1200.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "5970.T": {
@@ -15124,7 +15124,7 @@
     "5971.T": {
       "name": "共和工業所",
       "price": 8490.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "5973.T": {
@@ -15154,7 +15154,7 @@
     "597A.T": {
       "name": "ａｎｄ　ＵＳ",
       "price": 1000.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "5981.T": {
@@ -15196,7 +15196,7 @@
     "5987.T": {
       "name": "オーネックス",
       "price": 1649.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "5988.T": {
@@ -15256,7 +15256,7 @@
     "599A.T": {
       "name": "元気な介護",
       "price": 300.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "6005.T": {
@@ -15292,7 +15292,7 @@
     "601A.T": {
       "name": "ラックス建設",
       "price": 378.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "6022.T": {
@@ -15322,7 +15322,7 @@
     "602A.T": {
       "name": "レックスアドバイザーズ",
       "price": 560.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "6030.T": {
@@ -15393,8 +15393,8 @@
     },
     "6042.T": {
       "name": "ニッキ",
-      "price": 3855.0,
-      "price_date": "2026-10-30",
+      "price": 3910.0,
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "6044.T": {
@@ -15694,7 +15694,7 @@
     "612A.T": {
       "name": "Ｏｎｅ　ＥＴＦ　日本国債先物逆連動指数",
       "price": 9976.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "6134.T": {
@@ -16978,7 +16978,7 @@
     "6497.T": {
       "name": "ハマイ",
       "price": 1426.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "6498.T": {
@@ -17152,7 +17152,7 @@
     "6546.T": {
       "name": "フルテック",
       "price": 1170.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "6547.T": {
@@ -17344,7 +17344,7 @@
     "6596.T": {
       "name": "筑波精工",
       "price": 930.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "6597.T": {
@@ -18592,7 +18592,7 @@
     "7031.T": {
       "name": "インバウンドテック",
       "price": 668.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "7033.T": {
@@ -18658,7 +18658,7 @@
     "7043.T": {
       "name": "アルー",
       "price": 941.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "7044.T": {
@@ -18699,8 +18699,8 @@
     },
     "7057.T": {
       "name": "エヌ・シー・エヌ",
-      "price": 902.0,
-      "price_date": "2026-10-30",
+      "price": 904.0,
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "7058.T": {
@@ -18730,7 +18730,7 @@
     "7062.T": {
       "name": "フレアス",
       "price": 681.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "7063.T": {
@@ -19018,7 +19018,7 @@
     "7137.T": {
       "name": "グラントマト",
       "price": 1200.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "7138.T": {
@@ -19030,7 +19030,7 @@
     "7139.T": {
       "name": "東京高圧山崎",
       "price": 4700.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "7140.T": {
@@ -19084,7 +19084,7 @@
     "7170.T": {
       "name": "中央インターナショナルグループ",
       "price": 330.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "7172.T": {
@@ -19108,7 +19108,7 @@
     "7176.T": {
       "name": "シンプレクス・ファイナンシャル・ホールディングス",
       "price": 757.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "7177.T": {
@@ -19606,7 +19606,7 @@
     "7345.T": {
       "name": "アイ・パートナーズフィナンシャル",
       "price": 934.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "7347.T": {
@@ -19924,7 +19924,7 @@
     "7446.T": {
       "name": "東北化学薬品",
       "price": 4400.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "7447.T": {
@@ -20103,8 +20103,8 @@
     },
     "7509.T": {
       "name": "アイエーグループ",
-      "price": 4660.0,
-      "price_date": "2026-10-30",
+      "price": 4595.0,
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "7510.T": {
@@ -20188,7 +20188,7 @@
     "7531.T": {
       "name": "清和中央ホールディングス",
       "price": 1222.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "7532.T": {
@@ -20284,7 +20284,7 @@
     "7565.T": {
       "name": "萬世電機",
       "price": 6740.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "7567.T": {
@@ -20554,7 +20554,7 @@
     "7677.T": {
       "name": "ヤシマキザイ",
       "price": 2513.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "7678.T": {
@@ -20572,7 +20572,7 @@
     "7680.T": {
       "name": "軽自動車館",
       "price": 3190.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "7681.T": {
@@ -20620,7 +20620,7 @@
     "7691.T": {
       "name": "Ｃ　Ｃｈａｎｎｅｌ",
       "price": 30.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "7692.T": {
@@ -20980,7 +20980,7 @@
     "7808.T": {
       "name": "シー・エス・ランバー",
       "price": 2632.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "7809.T": {
@@ -21141,8 +21141,8 @@
     },
     "7849.T": {
       "name": "スターツ出版",
-      "price": 2931.0,
-      "price_date": "2026-10-30",
+      "price": 2944.0,
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "7850.T": {
@@ -21160,7 +21160,7 @@
     "7857.T": {
       "name": "セキ",
       "price": 1300.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "7859.T": {
@@ -21177,8 +21177,8 @@
     },
     "7863.T": {
       "name": "平賀",
-      "price": 941.0,
-      "price_date": "2026-10-30",
+      "price": 939.0,
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "7864.T": {
@@ -22138,7 +22138,7 @@
     "8139.T": {
       "name": "ナガホリ",
       "price": 2298.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "8141.T": {
@@ -23632,7 +23632,7 @@
     "9012.T": {
       "name": "秩父鉄道",
       "price": 2073.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "9017.T": {
@@ -23878,7 +23878,7 @@
     "9087.T": {
       "name": "タカセ",
       "price": 2100.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "9090.T": {
@@ -24045,8 +24045,8 @@
     },
     "92025.T": {
       "name": "ＡＮＡホールディングス第１回社債型種類株式",
-      "price": 4721.0,
-      "price_date": "2026-10-30",
+      "price": 4730.0,
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "9204.T": {
@@ -24082,7 +24082,7 @@
     "9214.T": {
       "name": "Ｒｅｃｏｖｅｒｙ　Ｉｎｔｅｒｎａｔｉｏｎａｌ",
       "price": 1284.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "9215.T": {
@@ -24124,13 +24124,13 @@
     "9222.T": {
       "name": "ｍａｎａｂｙ",
       "price": 50.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "9223.T": {
       "name": "ＡＳＮＯＶＡ",
-      "price": 380.0,
-      "price_date": "2026-10-30",
+      "price": 372.0,
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "9225.T": {
@@ -24202,7 +24202,7 @@
     "9243.T": {
       "name": "富士テクノホールディングス",
       "price": 520.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "9244.T": {
@@ -24520,7 +24520,7 @@
     "9335.T": {
       "name": "テクノクリエイティブ",
       "price": 1406.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "9336.T": {
@@ -24723,8 +24723,8 @@
     },
     "9408.T": {
       "name": "ＢＳＮメディアホールディングス",
-      "price": 2662.0,
-      "price_date": "2026-10-30",
+      "price": 2674.0,
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "9409.T": {
@@ -24987,8 +24987,8 @@
     },
     "9508.T": {
       "name": "九州電力",
-      "price": 1972.0,
-      "price_date": "2026-10-30",
+      "price": 2019.5,
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "9509.T": {
@@ -26302,25 +26302,25 @@
     "614A.T": {
       "name": "山八商事",
       "price": 1468.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "615A.T": {
       "name": "インターパーク",
       "price": 305.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "616A.T": {
       "name": "数理技研",
       "price": 568.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "617A.T": {
       "name": "レイシャス",
       "price": 2679.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "618A.T": {
@@ -26338,7 +26338,7 @@
     "620A.T": {
       "name": "応研",
       "price": 3500.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "621A.T": {
@@ -26380,7 +26380,7 @@
     "628A.T": {
       "name": "カドー",
       "price": 2680.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "630A.T": {
@@ -26422,7 +26422,7 @@
     "637A.T": {
       "name": "オーリーズ",
       "price": 145.0,
-      "price_date": "2026-10-30",
+      "price_date": "2026-11-02",
       "price_source": "Yahoo"
     },
     "639A.T": {
