@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T17:26:37.684548-05:00",
+  "updated_at": "2026-11-11T17:36:53.998281-05:00",
   "prices": {
     "A": {
       "name": "Agilent Technologies Inc.",
@@ -21,7 +21,7 @@
     },
     "AAAA": {
       "name": "EA Series Trust Amplius Aggressive Asset Allocation ETF",
-      "price": 30.245,
+      "price": 30.2196,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
@@ -159,7 +159,7 @@
     },
     "AAPR": {
       "name": "Innovator Equity Defined Protection ETF - 2 Yr to April 2028",
-      "price": 29.9103,
+      "price": 29.9405,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
@@ -171,7 +171,7 @@
     },
     "AAPW": {
       "name": "Roundhill ETF Trust Roundhill AAPL WeeklyPay ETF",
-      "price": 42.5,
+      "price": 42.5047,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
@@ -183,7 +183,7 @@
     },
     "AAPY": {
       "name": "Kurv Yield Premium Strategy Apple (AAPL) ETF",
-      "price": 29.23,
+      "price": 29.3316,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
@@ -195,7 +195,7 @@
     },
     "AAUA": {
       "name": "EA Series Trust Alpha Architect US Equity 3 ETF",
-      "price": 57.67,
+      "price": 57.9868,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
@@ -303,13 +303,13 @@
     },
     "ABLG": {
       "name": "Abacus FCF International Leaders ETF",
-      "price": 27.97,
+      "price": 27.9843,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
     "ABLS": {
       "name": "Abacus FCF ETF Trust Abacus FCF Small Cap Leaders ETF",
-      "price": 22.49,
+      "price": 22.4845,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
@@ -369,7 +369,7 @@
     },
     "ABUF": {
       "name": "ETF Series Solutions Aptus Laddered Buffer ETF",
-      "price": 27.89,
+      "price": 27.8838,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
@@ -453,7 +453,7 @@
     },
     "ACEI": {
       "name": "Innovator ETFs Trust Innovator Equity Autocallable Income Stra",
-      "price": 23.07,
+      "price": 23.11,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
@@ -471,7 +471,7 @@
     },
     "ACES": {
       "name": "ALPS Clean Energy ETF",
-      "price": 27.38,
+      "price": 27.4171,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
@@ -501,7 +501,7 @@
     },
     "ACGR": {
       "name": "American Century Large Cap Growth ETF",
-      "price": 65.56,
+      "price": 65.402,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
@@ -531,7 +531,7 @@
     },
     "ACHX": {
       "name": "Corgi ETF Trust I Corgi ACHR 2x Daily ETF",
-      "price": 20.85,
+      "price": 20.5794,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
@@ -573,13 +573,13 @@
     },
     "ACKY": {
       "name": "Tidal Trust III VistaShares Target 15 ACKtivist Distribution E",
-      "price": 17.7899,
+      "price": 17.7824,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
     "ACLC": {
       "name": "American Century Large Cap Equity ETF",
-      "price": 84.84,
+      "price": 84.6409,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
@@ -663,7 +663,7 @@
     },
     "ACSG": {
       "name": "American Century ETF Trust American Century Small Cap Growth I",
-      "price": 47.17,
+      "price": 46.9437,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
@@ -693,7 +693,7 @@
     },
     "ACTS": {
       "name": "FIS Trust FIS Tactical Equity ETF",
-      "price": 25.47,
+      "price": 25.3945,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
@@ -715,7 +715,7 @@
     },
     "ACVF": {
       "name": "American Conservative Values ETF",
-      "price": 54.97,
+      "price": 54.9423,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
@@ -793,7 +793,7 @@
     },
     "ADBU": {
       "name": "Direxion Shares ETF Trust Direxion Daily ADBE Bull 2X ETF",
-      "price": 20.1249,
+      "price": 19.973,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
@@ -835,13 +835,13 @@
     },
     "ADIU": {
       "name": "Themes ETF Trust Leverage Shares 2X Long ADI Daily ETF",
-      "price": 11.88,
+      "price": 11.9424,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
     "ADIV": {
       "name": "Guinness Atkinson Asia Pacific Dividend Builder ETF",
-      "price": 19.4892,
+      "price": 19.4651,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
@@ -859,7 +859,7 @@
     },
     "ADME": {
       "name": "APTUS Drawdown Managed Equity ETF",
-      "price": 55.8,
+      "price": 55.7911,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
@@ -883,7 +883,7 @@
     },
     "ADPV": {
       "name": "Series Portfolios Trust Adaptiv Select ETF",
-      "price": 43.71,
+      "price": 43.6911,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
@@ -1165,7 +1165,7 @@
     },
     "AFK": {
       "name": "VanEck Africa Index ETF",
-      "price": 26.65,
+      "price": 26.6575,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
@@ -1315,7 +1315,7 @@
     },
     "AGIQ": {
       "name": "Tidal Trust I SoFi Agentic AI ETF",
-      "price": 24.6404,
+      "price": 24.4134,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
@@ -1381,7 +1381,7 @@
     },
     "AGOX": {
       "name": "Adaptive Alpha Opportunities ETF",
-      "price": 34.18,
+      "price": 34.221,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
@@ -1435,7 +1435,7 @@
     },
     "AGZ": {
       "name": "iShares  Agency Bond ETF",
-      "price": 107.07,
+      "price": 107.02,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
@@ -1465,7 +1465,7 @@
     },
     "AHLT": {
       "name": "American Beacon Select Funds AHL Trend ETF",
-      "price": 29.67,
+      "price": 29.685,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
@@ -1483,7 +1483,7 @@
     },
     "AHYB": {
       "name": "American Century Select High Yield ETF",
-      "price": 44.825,
+      "price": 44.8451,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
@@ -1513,7 +1513,7 @@
     },
     "AIBD": {
       "name": "Direxion Daily AI and Big Data Bear 2X ETF",
-      "price": 50.435,
+      "price": 50.6114,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
@@ -63951,7 +63951,7 @@
     },
     "ACGO": {
       "name": "Hartford Funds Exchange-Traded Trust Hartford Alpha Capture Gr",
-      "price": 36.29,
+      "price": 36.1959,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
@@ -64083,13 +64083,13 @@
     },
     "AGGM": {
       "name": "iShares 1-10 Year U.S. Aggregate Bond ETF",
-      "price": 100.46,
+      "price": 100.489,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
     "AHBM": {
       "name": "Amplify ETF Trust Amplify Top 10 Asia Memory ETF",
-      "price": 19.5,
+      "price": 19.2908,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
