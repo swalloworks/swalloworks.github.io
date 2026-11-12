@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T17:11:50.533186-05:00",
+  "updated_at": "2026-11-11T21:21:22.861976-05:00",
   "prices": {
     "AAA-P.V": {
       "name": "First Tidal Acquisition Corp.",
@@ -16,7 +16,7 @@
     "AAB.TO": {
       "name": "Aberdeen International Inc.",
       "price": 0.02,
-      "price_date": "2026-10-23",
+      "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
     "AAG.V": {
@@ -758,7 +758,7 @@
       "price_source": "Yahoo"
     },
     "AMX.V": {
-      "name": "Amex Gold Mining Inc.",
+      "name": "Amex Exploration Inc.",
       "price": 3.78,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
@@ -1712,7 +1712,7 @@
       "price_source": "Yahoo"
     },
     "BGD.V": {
-      "name": "Bullion Gold Discoveries Corp.",
+      "name": "Bullion Gold Resources Corp.",
       "price": 0.065,
       "price_date": "2026-11-10",
       "price_source": "Yahoo"
@@ -2173,8 +2173,8 @@
     },
     "BRM.V": {
       "name": "Biorem Inc.",
-      "price": 3.75,
-      "price_date": "2026-10-26",
+      "price": 4.5,
+      "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
     "BRO.V": {
@@ -3358,7 +3358,7 @@
       "price_source": "Yahoo"
     },
     "CH.V": {
-      "name": "Charbone Corporation",
+      "name": "Charbone Hydrogen Corporation",
       "price": 0.11,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
@@ -3574,7 +3574,7 @@
       "price_source": "Yahoo"
     },
     "CLML.TO": {
-      "name": "CI Munro Global Energy Transition Fund",
+      "name": "CI Global Climate Leaders Fund",
       "price": 46.89,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
@@ -3647,8 +3647,8 @@
     },
     "CMCG.V": {
       "name": "Chilean Metals Inc.",
-      "price": 0.245,
-      "price_date": "2026-10-26",
+      "price": 0.24,
+      "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
     "CMCL.TO": {
@@ -3898,7 +3898,7 @@
       "price_source": "Yahoo"
     },
     "COIU.TO": {
-      "name": "SavvyLong (2X) COIN ETF",
+      "name": "LFG Daily (2X) COIN Long ETF",
       "price": 12.09,
       "price_date": "2026-11-10",
       "price_source": "Yahoo"
@@ -4145,8 +4145,8 @@
     },
     "CRHI.TO": {
       "name": "Ninepoint CNR HighShares ETF",
-      "price": 12.43,
-      "price_date": "2026-10-23",
+      "price": 13.05,
+      "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
     "CRI.V": {
@@ -4157,8 +4157,8 @@
     },
     "CRM.TO": {
       "name": "Salesforce CDR (CAD Hedged)",
-      "price": 18.78,
-      "price_date": "2026-10-26",
+      "price": 16.5,
+      "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
     "CROC.TO": {
@@ -5260,7 +5260,7 @@
       "price_source": "Yahoo"
     },
     "DSV.TO": {
-      "name": "Discovery Mining Ltd.",
+      "name": "Discovery Silver Corp.",
       "price": 10.63,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
@@ -5357,8 +5357,8 @@
     },
     "DXCP.TO": {
       "name": "Dynamic Short Term Credit PLUS Fund",
-      "price": 19.68,
-      "price_date": "2026-10-26",
+      "price": 19.72,
+      "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
     "DXDB.TO": {
@@ -5500,7 +5500,7 @@
       "price_source": "Yahoo"
     },
     "E.TO": {
-      "name": "Evolution PowerX Corp.",
+      "name": "Enterprise Group, Inc.",
       "price": 1.7,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
@@ -6034,7 +6034,7 @@
       "price_source": "Yahoo"
     },
     "EQL.TO": {
-      "name": "CI Invesco S&P 500 Equal Weight Index ETF",
+      "name": "Invesco S&P 500 Equal Weight Index ETF",
       "price": 48.11,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
@@ -6046,7 +6046,7 @@
       "price_source": "Yahoo"
     },
     "EQLT.TO": {
-      "name": "CI S&P/TSX 60 Equal Weight Index ETF",
+      "name": "Invesco S&P/TSX 60 Equal Weight Index ETF",
       "price": 27.45,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
@@ -6106,7 +6106,7 @@
       "price_source": "Yahoo"
     },
     "ESG.TO": {
-      "name": "CI S&P 500 ESG Index ETF",
+      "name": "Invesco S&P 500 ESG Index ETF",
       "price": 56.13,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
@@ -6124,7 +6124,7 @@
       "price_source": "Yahoo"
     },
     "ESGC.TO": {
-      "name": "CI S&P/TSX Composite ESG Index ETF",
+      "name": "Invesco S&P/TSX Composite ESG Index ETF",
       "price": 42.99,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
@@ -7157,8 +7157,8 @@
     },
     "FSB.TO": {
       "name": "CI Enhanced Short Duration Bond Fund",
-      "price": 9.38,
-      "price_date": "2026-10-26",
+      "price": 9.44,
+      "price_date": "2026-11-10",
       "price_source": "Yahoo"
     },
     "FSF.TO": {
@@ -7312,7 +7312,7 @@
       "price_source": "Yahoo"
     },
     "FVL.TO": {
-      "name": "Freegold Limited",
+      "name": "Freegold Ventures Limited",
       "price": 0.82,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
@@ -8062,7 +8062,7 @@
       "price_source": "Yahoo"
     },
     "GRG.V": {
-      "name": "GRG Resources Corp.",
+      "name": "Golden Arrow Resources Corporation",
       "price": 0.09,
       "price_date": "2026-11-10",
       "price_source": "Yahoo"
@@ -8908,7 +8908,7 @@
       "price_source": "Yahoo"
     },
     "HON.TO": {
-      "name": "Honeywell Technologies CDR (CAD Hedged)",
+      "name": "Honeywell CDR (CAD Hedged)",
       "price": 12.78,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
@@ -9286,7 +9286,7 @@
       "price_source": "Yahoo"
     },
     "ICAE.TO": {
-      "name": "CI S&P/TSX Canadian Dividend Aristocrats ESG Index ETF",
+      "name": "Invesco S&P/TSX Canadian Dividend Aristocrats ESG Index ETF",
       "price": 32.19,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
@@ -9448,7 +9448,7 @@
       "price_source": "Yahoo"
     },
     "IGET.TO": {
-      "name": "CI Morningstar Global Energy Transition Index ETF",
+      "name": "Invesco Morningstar Global Energy Transition Index ETF",
       "price": 21.47,
       "price_date": "2026-11-10",
       "price_source": "Yahoo"
@@ -9466,13 +9466,13 @@
       "price_source": "Yahoo"
     },
     "IIAE.TO": {
-      "name": "CI S&P International Developed Dividend Aristocrats ESG Index ETF",
+      "name": "Invesco S&P International Developed Dividend Aristocrats ESG Index ETF",
       "price": 32.41,
       "price_date": "2026-11-10",
       "price_source": "Yahoo"
     },
     "IICE.TO": {
-      "name": "CI S&P International Developed ESG Index ETF",
+      "name": "Invesco S&P International Developed ESG Index ETF",
       "price": 27.77,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
@@ -9484,7 +9484,7 @@
       "price_source": "Yahoo"
     },
     "IIMF.TO": {
-      "name": "CI Invesco International Developed Multifactor Index ETF",
+      "name": "Invesco International Developed Dynamic-Multifactor Index ETF",
       "price": 29.8,
       "price_date": "2026-11-10",
       "price_source": "Yahoo"
@@ -9574,7 +9574,7 @@
       "price_source": "Yahoo"
     },
     "INAI.TO": {
-      "name": "CI Morningstar Global Next Gen AI Index ETF",
+      "name": "Invesco Morningstar Global Next Gen AI Index ETF",
       "price": 49.12,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
@@ -9671,8 +9671,8 @@
     },
     "INX.V": {
       "name": "Intouch Insight Ltd.",
-      "price": 0.31,
-      "price_date": "2026-10-26",
+      "price": 0.4,
+      "price_date": "2026-11-10",
       "price_source": "Yahoo"
     },
     "INXS.V": {
@@ -9731,8 +9731,8 @@
     },
     "IRO.V": {
       "name": "Inter-Rock Minerals Inc.",
-      "price": 1.05,
-      "price_date": "2026-10-26",
+      "price": 1.13,
+      "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
     "IRR.V": {
@@ -9796,19 +9796,19 @@
       "price_source": "Yahoo"
     },
     "IUAE.TO": {
-      "name": "CI S&P US Dividend Aristocrats ESG Index ETF",
+      "name": "Invesco S&P US Dividend Aristocrats ESG Index ETF",
       "price": 29.18,
       "price_date": "2026-11-10",
       "price_source": "Yahoo"
     },
     "IUFR-U.TO": {
-      "name": "CI US Treasury Floating Rate Note Index ETF (USD)",
+      "name": "Invesco US Treasury Floating Rate Note Index ETF (USD)",
       "price": 20.21,
       "price_date": "2026-11-10",
       "price_source": "Yahoo"
     },
     "IUMF.TO": {
-      "name": "CI Invesco Russell 1000 Multifactor Index ETF",
+      "name": "Invesco Russell 1000 Dynamic-Multifactor Index ETF",
       "price": 30.44,
       "price_date": "2026-11-10",
       "price_source": "Yahoo"
@@ -9893,8 +9893,8 @@
     },
     "JBND.TO": {
       "name": "JPMorgan US Bond Active ETF",
-      "price": 23.6,
-      "price_date": "2026-10-26",
+      "price": 23.62,
+      "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
     "JCOR.TO": {
@@ -11448,7 +11448,7 @@
       "price_source": "Yahoo"
     },
     "MFA-P.V": {
-      "name": "Mayfair Acquisition Corp.",
+      "name": "Mayfair Acquisition Corporation",
       "price": 0.05,
       "price_date": "2026-11-10",
       "price_source": "Yahoo"
@@ -11658,7 +11658,7 @@
       "price_source": "Yahoo"
     },
     "MIVO.V": {
-      "name": "Miivo AI Inc",
+      "name": "Miivo Holdings Corp.",
       "price": 0.32,
       "price_date": "2026-11-10",
       "price_source": "Yahoo"
@@ -11676,7 +11676,7 @@
       "price_source": "Yahoo"
     },
     "MKA.V": {
-      "name": "Mkango Magnetic Materials Limited",
+      "name": "Mkango Resources Ltd.",
       "price": 0.65,
       "price_date": "2026-11-10",
       "price_source": "Yahoo"
@@ -11803,8 +11803,8 @@
     },
     "MNLX.V": {
       "name": "Miniluxe Holding Corp.",
-      "price": 0.39,
-      "price_date": "2026-10-23",
+      "price": 0.44,
+      "price_date": "2026-11-10",
       "price_source": "Yahoo"
     },
     "MNO.TO": {
@@ -11888,7 +11888,7 @@
     "MONY-P.V": {
       "name": "Harmony Acquisitions Corp.",
       "price": 0.08,
-      "price_date": "2026-10-23",
+      "price_date": "2026-11-10",
       "price_source": "Yahoo"
     },
     "MOO.V": {
@@ -11899,8 +11899,8 @@
     },
     "MOON.V": {
       "name": "Blue Moon Metals Inc.",
-      "price": 5.55,
-      "price_date": "2026-10-26",
+      "price": 4.88,
+      "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
     "MORE.TO": {
@@ -11912,7 +11912,7 @@
     "MOX.V": {
       "name": "Morien Resources Corp.",
       "price": 0.22,
-      "price_date": "2026-10-26",
+      "price_date": "2026-11-10",
       "price_source": "Yahoo"
     },
     "MPAY.TO": {
@@ -11929,8 +11929,8 @@
     },
     "MPH.V": {
       "name": "Medicure Inc.",
-      "price": 4.4,
-      "price_date": "2026-10-26",
+      "price": 3.8,
+      "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
     "MPV-P.V": {
@@ -11971,8 +11971,8 @@
     },
     "MREL.TO": {
       "name": "Middlefield Real Estate Dividend ETF",
-      "price": 12.64,
-      "price_date": "2026-10-26",
+      "price": 12.91,
+      "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
     "MRK.TO": {
@@ -12001,14 +12001,14 @@
     },
     "MRVL.V": {
       "name": "Marvel Biosciences Corp.",
-      "price": 0.125,
-      "price_date": "2026-10-26",
+      "price": 0.115,
+      "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
     "MRZ.V": {
       "name": "Mirasol Resources Ltd.",
-      "price": 0.3,
-      "price_date": "2026-10-23",
+      "price": 0.28,
+      "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
     "MRZL.V": {
@@ -12031,8 +12031,8 @@
     },
     "MSBP.TO": {
       "name": "Middlefield Short Duration Bond Plus ETF",
-      "price": 9.91,
-      "price_date": "2026-10-23",
+      "price": 9.89,
+      "price_date": "2026-11-10",
       "price_source": "Yahoo"
     },
     "MSC.V": {
@@ -12096,7 +12096,7 @@
       "price_source": "Yahoo"
     },
     "MSTU.TO": {
-      "name": "SavvyLong (2X) MSTR ETF",
+      "name": "LFG Daily (2X) MSTR Long ETF",
       "price": 23.09,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
@@ -12109,8 +12109,8 @@
     },
     "MSTZ.TO": {
       "name": "SavvyShort (-2X) MSTR ETF",
-      "price": 2.08,
-      "price_date": "2026-10-26",
+      "price": 2.58,
+      "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
     "MSV.TO": {
@@ -13248,7 +13248,7 @@
       "price_source": "Yahoo"
     },
     "NVRO.V": {
-      "name": "NVRO Metals Limited",
+      "name": "EnviroGold Global Limited",
       "price": 0.12,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
@@ -13788,13 +13788,13 @@
       "price_source": "Yahoo"
     },
     "PDC.TO": {
-      "name": "CI Canadian Dividend Index ETF",
+      "name": "Invesco Canadian Dividend Index ETF",
       "price": 50.36,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
     "PDI.TO": {
-      "name": "PDI Gold Limited",
+      "name": "Predictive Discovery Limited",
       "price": 4.73,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
@@ -13920,7 +13920,7 @@
       "price_source": "Yahoo"
     },
     "PFL.TO": {
-      "name": "CI Canadian Government Floating Rate Index ETF",
+      "name": "Invesco Canadian Government Floating Rate Index ETF",
       "price": 19.485,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
@@ -14298,9 +14298,9 @@
       "price_source": "Yahoo"
     },
     "QQC.TO": {
-      "name": "CI Invesco NASDAQ 100 Index ETF",
-      "price": 48.76,
-      "price_date": "2026-10-26",
+      "name": "Invesco NASDAQ 100 Index ETF",
+      "price": 48.03,
+      "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
     "QQI.TO": {
@@ -14310,7 +14310,7 @@
       "price_source": "Yahoo"
     },
     "QQJR.TO": {
-      "name": "CI Invesco NASDAQ Next Gen 100 Index ETF",
+      "name": "Invesco NASDAQ Next Gen 100 Index ETF",
       "price": 31.98,
       "price_date": "2026-11-10",
       "price_source": "Yahoo"
@@ -14635,8 +14635,8 @@
     },
     "REG.V": {
       "name": "Regulus Resources Inc.",
-      "price": 4.76,
-      "price_date": "2026-10-26",
+      "price": 4.66,
+      "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
     "REH.V": {
@@ -14659,8 +14659,8 @@
     },
     "REKO.V": {
       "name": "Reko International Group Inc.",
-      "price": 5.13,
-      "price_date": "2026-10-26",
+      "price": 5.8,
+      "price_date": "2026-11-10",
       "price_source": "Yahoo"
     },
     "RES.V": {
@@ -14677,8 +14677,8 @@
     },
     "REVX.V": {
       "name": "Rev Exploration Corp.",
-      "price": 1.54,
-      "price_date": "2026-10-26",
+      "price": 1.41,
+      "price_date": "2026-11-10",
       "price_source": "Yahoo"
     },
     "REX.V": {
@@ -14885,8 +14885,8 @@
     },
     "RMB.V": {
       "name": "Rumbu Holdings Ltd.",
-      "price": 0.5,
-      "price_date": "2026-10-26",
+      "price": 0.45,
+      "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
     "RMD.V": {
@@ -14993,8 +14993,8 @@
     },
     "ROS.V": {
       "name": "Roscan Gold Corporation",
-      "price": 0.16,
-      "price_date": "2026-10-26",
+      "price": 0.125,
+      "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
     "ROX.V": {
@@ -16467,8 +16467,8 @@
     },
     "SVR.TO": {
       "name": "iShares Silver Bullion ETF",
-      "price": 24.59,
-      "price_date": "2026-10-26",
+      "price": 23.58,
+      "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
     "SVRS.V": {
@@ -16503,8 +16503,8 @@
     },
     "SWP.TO": {
       "name": "Swiss Water Decaffeinated Coffee Inc.",
-      "price": 8.64,
-      "price_date": "2026-10-26",
+      "price": 10.12,
+      "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
     "SXGC.TO": {
@@ -16521,8 +16521,8 @@
     },
     "SXL.V": {
       "name": "SLAM Exploration Ltd.",
-      "price": 0.055,
-      "price_date": "2026-10-26",
+      "price": 0.05,
+      "price_date": "2026-11-10",
       "price_source": "Yahoo"
     },
     "SXP.TO": {
@@ -16844,7 +16844,7 @@
       "price_source": "Yahoo"
     },
     "TDHI.TO": {
-      "name": "Ninepoint TD-Linked HighShares ETF",
+      "name": "Ninepoint TD HighShares ETF",
       "price": 16.17,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
@@ -17013,8 +17013,8 @@
     },
     "TGOL.V": {
       "name": "Thunder Gold Corp.",
-      "price": 0.13,
-      "price_date": "2026-10-26",
+      "price": 0.12,
+      "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
     "TGRE.TO": {
@@ -17150,7 +17150,7 @@
       "price_source": "Yahoo"
     },
     "TKO.TO": {
-      "name": "Trekor Metals Limited",
+      "name": "Taseko Mines Limited",
       "price": 10.29,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
@@ -17198,7 +17198,7 @@
       "price_source": "Yahoo"
     },
     "TLV.TO": {
-      "name": "CI S&P/TSX Composite Low Volatility Index ETF",
+      "name": "Invesco S&P/TSX Composite Low Volatility Index ETF",
       "price": 44.31,
       "price_date": "2026-11-10",
       "price_source": "Yahoo"
@@ -17781,8 +17781,8 @@
     },
     "UBIL-U.TO": {
       "name": "Global X 0-3 Month U.S. T-Bill ETF",
-      "price": 50.15,
-      "price_date": "2026-10-26",
+      "price": 50.08,
+      "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
     "UBNK.TO": {
@@ -17840,7 +17840,7 @@
       "price_source": "Yahoo"
     },
     "ULV-C.TO": {
-      "name": "CI Invesco S&P 500 Low Volatility Index ETF",
+      "name": "Invesco S&P 500 Low Volatility Index ETF",
       "price": 40.56,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
@@ -18524,13 +18524,13 @@
       "price_source": "Yahoo"
     },
     "VUN.TO": {
-      "name": "Vanguard Morningstar U.S. Total Market Index ETF",
+      "name": "Vanguard U.S. Total Market Index ETF",
       "price": 144.86,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
     "VUS.TO": {
-      "name": "Vanguard Morningstar U.S. Total Market Index ETF (CAD-hedged)",
+      "name": "Vanguard U.S. Total Market Index ETF (CAD-hedged)",
       "price": 127.75,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
@@ -19117,8 +19117,8 @@
     },
     "XDIV.TO": {
       "name": "iShares Core MSCI Canadian Quality Dividend Index ETF",
-      "price": 48.18,
-      "price_date": "2026-10-26",
+      "price": 47.045,
+      "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
     "XDRV.TO": {
@@ -19165,8 +19165,8 @@
     },
     "XEF.TO": {
       "name": "iShares Core MSCI EAFE IMI Index ETF",
-      "price": 50.7,
-      "price_date": "2026-10-26",
+      "price": 52.24,
+      "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
     "XEG.TO": {
@@ -19327,8 +19327,8 @@
     },
     "XIC.TO": {
       "name": "iShares Core S&P/TSX Capped Composite Index ETF",
-      "price": 57.42,
-      "price_date": "2026-10-26",
+      "price": 58.19,
+      "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
     "XID.TO": {
@@ -19375,8 +19375,8 @@
     },
     "XIT.TO": {
       "name": "iShares S&P/TSX Capped Information Technology Index ETF",
-      "price": 82.65,
-      "price_date": "2026-10-26",
+      "price": 81.27,
+      "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
     "XIU.TO": {
@@ -19405,8 +19405,8 @@
     },
     "XMA.TO": {
       "name": "iShares S&P/TSX Capped Materials Index ETF",
-      "price": 41.42,
-      "price_date": "2026-10-26",
+      "price": 43.84,
+      "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
     "XMC.TO": {
@@ -19435,8 +19435,8 @@
     },
     "XMI.TO": {
       "name": "iShares MSCI Min Vol EAFE Index ETF",
-      "price": 51.25,
-      "price_date": "2026-10-26",
+      "price": 52.0,
+      "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
     "XML.TO": {
@@ -19501,8 +19501,8 @@
     },
     "XOX-P.V": {
       "name": "Planet X Capital Corp.",
-      "price": 0.25,
-      "price_date": "2026-10-23",
+      "price": 0.2,
+      "price_date": "2026-11-10",
       "price_source": "Yahoo"
     },
     "XPF.TO": {
@@ -19669,8 +19669,8 @@
     },
     "XSTB.TO": {
       "name": "iShares ESG Aware Canadian Short Term Bond Index ETF",
-      "price": 19.59,
-      "price_date": "2026-10-26",
+      "price": 19.635,
+      "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
     "XSTH.TO": {
@@ -19687,8 +19687,8 @@
     },
     "XSU.TO": {
       "name": "iShares U.S. Small Cap Index ETF (CAD-Hedged)",
-      "price": 51.74,
-      "price_date": "2026-10-26",
+      "price": 52.82,
+      "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
     "XSUS.TO": {
@@ -19729,8 +19729,8 @@
     },
     "XTLT.TO": {
       "name": "iShares 20+ Year U.S. Treasury Bond Index ETF",
-      "price": 32.26,
-      "price_date": "2026-10-26",
+      "price": 32.49,
+      "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
     "XTM.V": {
@@ -19819,8 +19819,8 @@
     },
     "XX.V": {
       "name": "Avante Corp.",
-      "price": 1.62,
-      "price_date": "2026-10-26",
+      "price": 1.65,
+      "price_date": "2026-11-10",
       "price_source": "Yahoo"
     },
     "XXIX.V": {
@@ -19849,8 +19849,8 @@
     },
     "YEG.V": {
       "name": "Yorkton Equity Group Inc.",
-      "price": 0.1,
-      "price_date": "2026-10-23",
+      "price": 0.095,
+      "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
     "YES.V": {
@@ -20017,8 +20017,8 @@
     },
     "ZDI.TO": {
       "name": "BMO International Dividend ETF",
-      "price": 31.88,
-      "price_date": "2026-10-26",
+      "price": 32.71,
+      "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
     "ZDJ.TO": {
@@ -20958,7 +20958,7 @@
       "price_source": "Yahoo"
     },
     "PSB.TO": {
-      "name": "CI 1-5 Year Laddered Investment Grade Corporate Bond Index ETF",
+      "name": "Invesco 1-5 Year Laddered Investment Grade Corporate Bond Index ETF",
       "price": 17.9,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
@@ -21078,7 +21078,7 @@
       "price_source": "Yahoo"
     },
     "PXC.TO": {
-      "name": "CI RAFI Canadian Index ETF",
+      "name": "Invesco RAFI Canadian Index ETF",
       "price": 65.71,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
@@ -21090,7 +21090,7 @@
       "price_source": "Yahoo"
     },
     "PXU-F.TO": {
-      "name": "CI Invesco RAFI U.S. Index ETF",
+      "name": "Invesco RAFI U.S. Index ETF",
       "price": 85.28,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
@@ -21198,7 +21198,7 @@
       "price_source": "Yahoo"
     },
     "QQCE.TO": {
-      "name": "CI ESG NASDAQ 100 Index ETF",
+      "name": "Invesco ESG NASDAQ 100 Index ETF",
       "price": 41.29,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
@@ -21509,8 +21509,8 @@
     },
     "ZGLH.TO": {
       "name": "BMO Gold Bullion Hedged to CAD ETF",
-      "price": 54.46,
-      "price_date": "2026-10-26",
+      "price": 54.14,
+      "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
     "ZGQ.TO": {
@@ -21616,7 +21616,7 @@
       "price_source": "Yahoo"
     },
     "PXS.TO": {
-      "name": "CI Invesco RAFI U.S. Index ETF II",
+      "name": "Invesco RAFI U.S. Index ETF II",
       "price": 70.26,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
@@ -21634,7 +21634,7 @@
       "price_source": "Yahoo"
     },
     "PZW.TO": {
-      "name": "CI Invesco RAFI Global Small-Mid ETF",
+      "name": "Invesco RAFI Global Small-Mid ETF",
       "price": 47.98,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
@@ -21676,7 +21676,7 @@
       "price_source": "Yahoo"
     },
     "QQEQ.TO": {
-      "name": "CI NASDAQ 100 Equal Weight Index ETF",
+      "name": "Invesco NASDAQ 100 Equal Weight Index ETF",
       "price": 35.34,
       "price_date": "2026-11-10",
       "price_source": "Yahoo"
@@ -21784,7 +21784,7 @@
       "price_source": "Yahoo"
     },
     "TOM.V": {
-      "name": "Trinity Silver Corp.",
+      "name": "Trinity One Metals Ltd.",
       "price": 0.13,
       "price_date": "2026-11-11",
       "price_source": "Yahoo"
@@ -21821,8 +21821,8 @@
     },
     "ZBAL.TO": {
       "name": "BMO Balanced ETF",
-      "price": 16.0,
-      "price_date": "2026-10-26",
+      "price": 16.13,
+      "price_date": "2026-11-11",
       "price_source": "Yahoo"
     },
     "ZDIV.TO": {
