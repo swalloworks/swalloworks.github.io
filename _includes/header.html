@@ -53,12 +53,13 @@
                         </h3>
 
                         <hr class="intro-divider">
-                        <a href="https://itunes.apple.com/app/id954944283">
-                            <img alt="Apple Store からダウンロード"width="180" src="../img/appstore-apple-jp.svg">
+                        {% assign campaign = page.campaign | default: site.app_store.campaign %}
+                        <a href="https://apps.apple.com/app/apple-store/id{{ site.app_store.id }}?pt={{ site.app_store.provider_token }}&amp;ct={{ campaign }}&amp;mt=8">
+                            <img alt="App Store からダウンロード" width="180" src="../img/appstore-apple-jp.svg">
                         </a>
                         <br>
                         <br>
-                        <a href="https://play.google.com/store/apps/details?id=com.swalloworkstudio.rakurakukakeibo">
+                        <a href="https://play.google.com/store/apps/details?id={{ site.google_play.id }}&amp;referrer=utm_source%3Dkakeibo-site%26utm_medium%3Dweb%26utm_campaign%3D{{ campaign }}">
                         <img alt="毎日家計簿アンドロイド" width="180" src="../img/appstore-android-jp.svg">
                         </a>
                         <br>

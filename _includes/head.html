@@ -3,7 +3,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="日々の家計簿から、生涯に渡る家計の見直しまで。毎日家計簿は皆様の家計の管理や改善を支援します。シンプル、多機能、そして完全無料。毎日家計簿続けられる家計簿！みなさん応援よろしくお願いします！">
+    {% assign seo_title = page.seo_title | default: site.seo_title %}{% assign seo_description = page.seo_description | default: site.seo_description %}{% assign canonical_path = page.canonical_path | default: "/" %}{% assign campaign = page.campaign | default: site.app_store.campaign %}
+    <meta name="description" content="{{ seo_description }}">
     <meta name="author" content="{{ site.author }}">
     <meta name="keywords" content="家計簿,家計簿アプリ,家計簿アプリ 無料,家計簿 無料,家計簿 おすすめ,家計簿アプリ おすすめ,家計簿アプリ 無料 おすすめ,家計簿 無料 おすすめ,家計簿 おすすめ,お金管理アプリ,資産管理アプリ,小遣い帳,毎日家計簿,iphone,ios,android,アンドロイド,app,アプリ,appstore,かんたん,収支,レシート,支出,簡単,シンプル,便利,フリー,マネー,お金,管理,節約,kakeibo,プロー,free,money,expense,spend,tracker,track,tracking,记账,账本">
     <link rel="shortcut icon" href="fabicon/apple-icon-114x114.png">
@@ -28,7 +29,70 @@
     <meta name="google-site-verification" content="8_RKoCRg3njT6VkR51vYFeU20vSowKEAXBIAthl9NU8" />
 
 
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <title>{{ seo_title }}</title>
+    <link rel="canonical" href="{{ site.url }}{{ canonical_path }}">
+
+    <!-- iOS Safari のスマートアプリバナー（キャンペーン計測付き） -->
+    <meta name="apple-itunes-app" content="app-id={{ site.app_store.id }}, affiliate-data=pt={{ site.app_store.provider_token }}&amp;ct={{ campaign }}&amp;mt=8">
+
+    <!-- Open Graph / SNS・LINE の共有プレビュー -->
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="毎日家計簿">
+    <meta property="og:locale" content="ja_JP">
+    <meta property="og:title" content="{{ seo_title }}">
+    <meta property="og:description" content="{{ seo_description }}">
+    <meta property="og:url" content="{{ site.url }}{{ canonical_path }}">
+    <meta property="og:image" content="{{ site.url }}{{ site.og_image }}">
+    <meta property="og:image:width" content="1024">
+    <meta property="og:image:height" content="1024">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@swalloworks">
+
+    <!-- 構造化データ（検索エンジン・AI アシスタント向け） -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "MobileApplication",
+      "name": "毎日家計簿",
+      "description": {{ seo_description | jsonify }},
+      "url": "{{ site.url }}/",
+      "image": "{{ site.url }}/fabicon/ms-icon-310x310.png",
+      "screenshot": "{{ site.url }}{{ site.og_image }}",
+      "applicationCategory": "FinanceApplication",
+      "operatingSystem": "iOS, Android",
+      "inLanguage": "ja",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "JPY"
+      },
+      "installUrl": [
+        "https://apps.apple.com/jp/app/id{{ site.app_store.id }}",
+        "https://play.google.com/store/apps/details?id={{ site.google_play.id }}"
+      ],
+      "featureList": [
+        "会員登録不要ですぐに使える",
+        "銀行口座と連携しない手入力の家計簿",
+        "収入・支出・振替の記録とカレンダー表示",
+        "トータル予算・カテゴリ別予算の管理",
+        "現金・銀行口座・クレジットカード・電子マネーの残高管理",
+        "130種類以上の通貨に対応",
+        "収支・資産のグラフとレポート",
+        "用途別に複数の家計簿を作成",
+        "レシート・領収書の写真を添付",
+        "CSVエクスポート"
+      ],
+      "author": {
+        "@type": "Organization",
+        "name": "Swalloworks Studio",
+        "url": "{{ site.url }}/",
+        "sameAs": [
+          "https://twitter.com/swalloworks",
+          "https://www.facebook.com/kakeibomainichi/"
+        ]
+      }
+    }
+    </script>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -38,7 +102,7 @@
 
     <!-- Custom Fonts -->
     <link href="font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href="http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->

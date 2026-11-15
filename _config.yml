@@ -2,11 +2,32 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://kakeibo.swalloworkstudio.com
+url: https://kakeibo.swalloworkstudio.com
 title: 毎日家計簿 - おすすめ無料家計簿アプリ
 email: swalloworks@gmail.com
 author: Jack
 description: > # "家計簿 家計簿アプリ 家計簿無料 家計簿おすすめ 家計簿無料おすすめ 家計簿　おすすめ 小遣い帳 お金管理アプリ かんたん 収支 レシート 支出 簡単 シンプル 便利 フリー マネー お金 管理 節約 kakeibo プロー free money expense spend 记账 账本"
+
+# ----------------------- #
+#   SEO / Store Links     #
+# ----------------------- #
+
+# <title> / meta description / OGP のサイト既定値。
+# ページ側の front matter (seo_title, seo_description, canonical_path, campaign) で上書きできる。
+seo_title: "毎日家計簿｜登録不要・口座連携なしで続けられる無料の家計簿アプリ"
+seo_description: "毎日家計簿は、会員登録不要・口座連携なしですぐ始められる手入力の家計簿アプリです。日々の家計簿から、生涯に渡る家計の見直しまで、皆様の家計の管理や改善を支援します。シンプル、多機能、そして完全無料。iPhone・Androidに対応。"
+og_image: /img/services/calendar.png
+
+# App Store Connect のキャンペーンリンク用。
+# provider_token (pt) は App Store Connect > 分析 > Campaigns で発行された値。
+# campaign (ct) は 30 文字以内。ページごとに front matter の campaign で変える。
+app_store:
+  id: 954944283
+  provider_token: 109075804
+  campaign: jp-site-home
+
+google_play:
+  id: com.swalloworkstudio.rakurakukakeibo
 
 # ----------------------- #
 #    Jekyll & Plugins     #
